@@ -1,0 +1,27 @@
+frontend/e2e/anchoredpanels.spec.ts
+  s_4a05df3abdbe26::t_66301284e84e27 43-49
+  s_4a05df3abdbe26::t_662a6bd1f1d242 79-84
+frontend/src/design-system/anchored.test.ts
+  s_4a05df3abdbe26::t_5891d4e3c22112 53-64,67-71
+  s_4a05df3abdbe26::t_9dc35ca4553222 121-125
+frontend/src/design-system/anchored.ts
+  s_4a05df3abdbe26::t_9a86fd4ae592a7 23-24
+  s_4a05df3abdbe26::t_87d32c4b8f067d 118-127,133-140,143-148,150-152,154-159
+  s_4a05df3abdbe26::t_fd791a4975b462 141-142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4c81c0e3e6cef281a1ee06e4d91e74393e39b81d",
+  "prompts": {},
+  "sessions": {
+    "s_4a05df3abdbe26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a6ef38c-8e04-4525-907e-7ef482241322",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
