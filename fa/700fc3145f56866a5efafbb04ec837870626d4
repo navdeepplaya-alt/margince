@@ -1,0 +1,21 @@
+frontend/src/api/schema.d.ts
+  s_2bc9cdc3c89343::t_ba2711f38fad26 97
+backend/api/crm.yaml
+  s_2bc9cdc3c89343::t_1587f21ec1cf82 265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fa700fc3145f56866a5efafbb04ec837870626d4",
+  "prompts": {},
+  "sessions": {
+    "s_2bc9cdc3c89343": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "03cd3e2b-cf2c-4604-8995-61ad23461f8c",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
