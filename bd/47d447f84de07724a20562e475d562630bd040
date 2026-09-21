@@ -1,0 +1,37 @@
+frontend/src/design-system/popover.tsx
+  s_4a05df3abdbe26::t_8e3da0761bba6f 25,223
+frontend/src/design-system/anchored.test.ts
+  s_4a05df3abdbe26::t_83833e10d24ec8 1-14,17-36,38-39,41-101,104-107,112,119
+  s_4a05df3abdbe26::t_e468cd0a9d2ee0 102-103,118
+  s_4a05df3abdbe26::t_c8e58d86dc3d4b 108-111,113-117
+  s_4a05df3abdbe26::t_d65a408b9f4713 37,40
+  s_4a05df3abdbe26::t_744a4efb0c7525 15-16
+frontend/src/design-system/atoms.tsx
+  s_4a05df3abdbe26::t_8e3da0761bba6f 27,1606
+frontend/src/design-system/anchored.ts
+  s_4a05df3abdbe26::t_8e3da0761bba6f 6-9,11-47,54-56,62-65,77-83,92-94,99,114-126,128-131,134-144,147-151,159-164
+frontend/e2e/anchoredpanels.spec.ts
+  s_4a05df3abdbe26::t_4db884fa12c1c4 26
+  s_4a05df3abdbe26::t_c85be8209de484 115
+  s_4a05df3abdbe26::t_9f5652a56dd903 1-25,27-114,116-119
+frontend/src/design-system/evidencemark.tsx
+  s_4a05df3abdbe26::t_8e3da0761bba6f 4,190
+frontend/src/design-system/popover.stories.tsx
+  s_4a05df3abdbe26::t_78c6c9a3e18de3 120-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bd47d447f84de07724a20562e475d562630bd040",
+  "prompts": {},
+  "sessions": {
+    "s_4a05df3abdbe26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a6ef38c-8e04-4525-907e-7ef482241322",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
