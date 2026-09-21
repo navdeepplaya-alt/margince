@@ -1,0 +1,166 @@
+backend/gates/ratelimitnames_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-203
+backend/internal/modules/activities/requestsettlement.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 129,133,138-159,162,182
+docs/reference/platform-toolkit.md
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 88-101
+backend/internal/modules/contacts/companynamecjk_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 214-223,225-226,231-234
+backend/internal/modules/comms/policy.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 42-47
+backend/internal/compose/mcpedge.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 212-220
+scripts/publish-released-tag.test.sh
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 59,64,69,78,100
+frontend/src/screens/contactdealrooms.stories.tsx
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 62-63,67
+backend/internal/compose/waitingemailseam_integration_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 18,163-237
+frontend/src/design-system/filedropzone.tsx
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 184
+backend/internal/platform/ratelimit/outage_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-114
+scripts/release-patch-base.sh
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 42,64
+backend/internal/compose/publicconfirm.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 44-45
+backend/internal/modules/activities/hiddenbacklog.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 292-293
+scripts/release-patch-base.test.sh
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 29,87,94
+backend/cmd/worker/main.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 131
+backend/internal/compose/handlers_setup.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 46-48
+backend/internal/modules/identity/passwordlink.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 77-78,83-93
+backend/internal/modules/identity/oidcroutes.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 72
+backend/internal/platform/ratelimit/registry.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-129
+backend/internal/compose/publicbooking.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 45-46
+frontend/src/format/replysubject.ts
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-2,4-9,11-15
+config/margince.example.yaml
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 166-187
+backend/internal/compose/publicpreferences.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 42-43
+backend/internal/modules/identity/ssologin_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 366,404,427,452
+frontend/src/screens/users-password-link.test.tsx
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 17,21-25,179,183-187
+frontend/src/design-system/filedropzone.test.tsx
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 231-244
+backend/internal/platform/ratelimit/ratelimit_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 22,38,53,82,107-111,114-116,118-120,125,131-132,137,157
+backend/internal/modules/activities/waitingrecordscope.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 113-114
+scripts/probe-runner-pressure.sh
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 34,53
+docs/reference/configuration.md
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 437,449,564-583
+  s_2bc9cdc3c89343::t_80264761166519 584
+frontend/src/format/servertrim.ts
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-58
+backend/internal/modules/activities/waiting.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 217-233,235-245,334-335
+backend/gates/mergegateclockbounds_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-306
+backend/internal/compose/webhook.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 124
+backend/internal/modules/activities/owedverdict.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 127-135,140,145-148
+backend/internal/compose/publicdealroom.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 59-60,65-67
+frontend/src/design-system/calendar.tsx
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 144
+frontend/src/design-system/tokens-testing.ts
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 39-52,71-74
+backend/internal/platform/ratelimit/ratelimit.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 4-5,20-36,40-41,45-76,105-106,111-115,117-120,130-134,145-150,159-161,163,172-174,177-184,186-187,189-205,207-208,210-214
+frontend/src/design-system/calendar.css
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 57-65
+backend/internal/modules/activities/ourownoutbound.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-46
+backend/internal/modules/identity/handlers_users.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 307-308,310-318
+backend/internal/compose/extinbound.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 135
+backend/internal/modules/activities/waitingpage.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-38
+backend/internal/modules/consent/retention.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 20-41
+backend/internal/modules/identity/userpasswordlink_handler_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 80-91,94-95,97-98,177-180,182-184,191-198,201,205
+frontend/src/screens/buyerroomboard.stories.tsx
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 109-112,116
+scripts/check-closing-declaration.sh
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 51
+backend/internal/compose/siteboilerplate_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 190-206
+frontend/src/design-system/calendar.test.tsx
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 82-108
+scripts/publish-released-tag.sh
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 32,50,66
+backend/internal/compose/attentionwaitingseam.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 79,122-175
+  s_2bc9cdc3c89343::t_2c149a3f61fa1d 176-177
+backend/internal/platform/ratelimit/shared_integration_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-159
+docs/reference/gate-inventory.md
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 265,288,359,399
+  s_2bc9cdc3c89343::t_a082c82b7a4c85 138
+frontend/src/format/servertrim.test.ts
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-50
+frontend/src/screens/deal360/dealactions.stories.tsx
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 64-68,71
+backend/internal/modules/activities/ourownoutbound_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-78
+backend/internal/modules/identity/handlers.go
+  s_2bc9cdc3c89343::t_b9c1b679d0a33c 201-202
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 185-191,196-200,203-206
+frontend/src/screens/projecthealthmodal.tsx
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 10,89
+frontend/src/api/schema.d.ts
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 11713-11723,54355
+backend/cmd/worker/boot.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 33,88-103
+  s_2bc9cdc3c89343::t_47be265a0a27a1 104-105
+backend/cmd/api/main.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 42,119-124
+  s_2bc9cdc3c89343::t_69e6b6b0625fbe 125
+frontend/src/design-system/filedropzone.css
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 55-58,66-69
+  s_2bc9cdc3c89343::t_8d46f03d867d24 70-71
+sonar-project.properties
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 302,568-570,578-579,581-591,593-599,605-607,609,625-633,635-636,642-643
+backend/gates/sonarwaivers_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-281
+backend/internal/platform/ratelimit/sharedstore.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-94
+backend/api/crm.yaml
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 16858-16868
+backend/internal/modules/activities/waitingsql.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 323-330
+backend/internal/platform/ratelimit/localstore.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 1-82
+backend/internal/modules/contacts/renamerecheck_test.go
+  s_2bc9cdc3c89343::t_7965d6ee3e8b07 58-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d7669fb6e43421e7d971627885b8fb813e9e4901",
+  "prompts": {},
+  "sessions": {
+    "s_2bc9cdc3c89343": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "03cd3e2b-cf2c-4604-8995-61ad23461f8c",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
