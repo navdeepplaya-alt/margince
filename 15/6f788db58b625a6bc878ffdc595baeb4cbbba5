@@ -1,0 +1,31 @@
+backend/gates/maskedamountroots_test.go
+  s_9d8005b9c30b06::t_6029bedc12fd5e 50-53
+  s_9d8005b9c30b06::t_4f06bbfed71b49 80
+backend/gates/maskedamountreaders_test.go
+  s_9d8005b9c30b06::t_d2bd63d3cf2825 475
+  s_9d8005b9c30b06::t_e637310659b38a 9,17,24-27,30-31,48,52-64,67-69,71-73,76-80,82-88,90-93,95-99
+  s_9d8005b9c30b06::t_7c458059e8df40 430,488
+  s_9d8005b9c30b06::t_958470a899b410 33-38,40-45
+  s_9d8005b9c30b06::t_14849d8a65be29 101-102,104,106-111,114-115,121,129-131,133-136,141-142,155
+  s_9d8005b9c30b06::t_d0a79984f87ef5 46,49-50,65,74-75,81,89,94
+  s_9d8005b9c30b06::t_32f82fdf007aec 105,112-113,116-120,122-128,132,137-140,143-154,156-165
+  s_9d8005b9c30b06::t_dc70ee61115671 202-203,205
+  s_9d8005b9c30b06::t_b2b53b08569039 28-29
+  s_9d8005b9c30b06::t_e3c484adb0552f 32,39,66,70,100,266,270,290,295,331,345,364,379,387-388,489-490,498
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "156f788db58b625a6bc878ffdc595baeb4cbbba5",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
