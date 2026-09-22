@@ -1,0 +1,61 @@
+frontend/src/screens/oauth-app.test.tsx
+  s_84769c9dd18ae3::t_04707f791a8a3e 163
+  s_84769c9dd18ae3::t_d58cde46faa866 173-181,183,185-193
+  s_9d8005b9c30b06::t_f3e0a37cad0190 171-172,182,184
+frontend/src/screens/users-password-link.test.tsx
+  s_84769c9dd18ae3::t_04707f791a8a3e 288
+frontend/src/screens/oauth-app.tsx
+  s_84769c9dd18ae3::t_f50e0472ec7c74 168-178,181-189,195-201,227-228,243-248
+frontend/src/design-system/clipboardcopy.tsx
+  s_84769c9dd18ae3::t_f50e0472ec7c74 29-34,45,64-67,75
+  s_9d8005b9c30b06::t_465cd6141693cc 12-15
+frontend/scripts/clipboardrestore.test.ts
+  s_84769c9dd18ae3::t_e1e7461c00b1ff 1-32
+frontend/src/design-system/clipboardcopy.test.tsx
+  s_84769c9dd18ae3::t_1ce78aed373066 10,19,56,70,86,101,113,118-119
+frontend/src/screens/aiexport.test.tsx
+  s_84769c9dd18ae3::t_04707f791a8a3e 42,65-66,73
+frontend/src/design-system/clipboard-spelling.test.ts
+  s_84769c9dd18ae3::t_097e009276ac14 40,150-158,160,162-164
+  s_84769c9dd18ae3::t_3697d1740efa96 36,54-58,69-128,135-136,175-190,192-211,217-220,222-224,229-232
+  s_9d8005b9c30b06::t_ddc0df9412a5a3 19-20,134,137-138
+frontend/vitest.setup.ts
+  s_84769c9dd18ae3::t_3399cf4169c077 212
+  s_84769c9dd18ae3::t_60a27be8ec070b 2,202-211
+  s_84769c9dd18ae3::t_399dca5899421f 213
+frontend/src/design-system/clipboard-testing.ts
+  s_84769c9dd18ae3::t_333358d54e757e 22-26,33-40,58-73,75-85
+  s_9d8005b9c30b06::t_8536509b059443 11-14
+frontend/src/screens/companycontacts/introrequest.test.tsx
+  s_84769c9dd18ae3::t_04707f791a8a3e 152
+frontend/src/screens/analytics.share.test.tsx
+  s_84769c9dd18ae3::t_04707f791a8a3e 116
+frontend/src/design-system/README.md
+  s_9d8005b9c30b06::t_916a2f9c4e80ca 376
+frontend/src/screens/brief.teamweeklyagenda.test.tsx
+  s_9d8005b9c30b06::t_1fcd2fbd372495 4,151,175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4bc094a600cfa076f4adaaef840d294e6100f709",
+  "prompts": {},
+  "sessions": {
+    "s_84769c9dd18ae3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "be43a99a-6068-4332-afb7-c68b789d88c5",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
