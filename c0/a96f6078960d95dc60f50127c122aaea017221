@@ -1,0 +1,51 @@
+backend/internal/modules/dealrooms/preview.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 164-167,169,175
+backend/internal/platform/auth/fieldmaskgroups_test.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 7,62-66,74,83-146
+  s_9d8005b9c30b06::t_7b3dbc51776c7f 31,45,56,69-72,153,166,180
+  s_9d8005b9c30b06::t_f3f9d0f622d587 147
+backend/internal/modules/search/queryschema_test.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 102-114
+backend/internal/modules/deals/partner_attribution_test.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 295
+backend/internal/modules/deals/fieldmask.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 47-51,89-91,93,98,103,107-109,112-119,127,146,150,152,154,156,159,162,164-165,185
+backend/internal/platform/auth/fieldmaskapply.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 1-137
+backend/internal/platform/auth/fieldmaskgroups.go
+  s_9d8005b9c30b06::t_7b3dbc51776c7f 47-50
+  s_9d8005b9c30b06::t_6f58bd00bdd499 38-43
+backend/internal/modules/search/queryschema.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 151-155,217-219,231-238
+  s_9d8005b9c30b06::t_0818b29af0e4df 239-240
+backend/internal/modules/search/queryvocab.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 94-97,274-276,328-364
+  s_9d8005b9c30b06::t_0106b84c8c83c0 365
+backend/internal/platform/auth/fieldmask.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 44-50,53,152-156,171-176,180-181,309-317,320,323-325,328,330,336,338,340
+backend/internal/modules/search/queryrefusal.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 47-57
+backend/internal/modules/search/queryvalidate.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 26,283-287,294-300
+  s_9d8005b9c30b06::t_17d60af44511ac 301-302
+backend/internal/platform/auth/fieldmaskapply_test.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 1-300
+backend/internal/modules/search/querymask_test.go
+  s_9d8005b9c30b06::t_6f58bd00bdd499 1-240
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c0a96f6078960d95dc60f50127c122aaea017221",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
