@@ -1,0 +1,35 @@
+backend/internal/modules/privacy/fieldhistorydiff.go
+  s_9d8005b9c30b06::t_4ff16687d2d018 22-26
+backend/internal/modules/privacy/fieldhistory.go
+  s_9d8005b9c30b06::t_a7534da70a2dc6 199-205
+backend/internal/modules/privacy/historyfieldmask.go
+  s_9d8005b9c30b06::t_64cff93d9644fa 1-84
+backend/internal/modules/privacy/restoreentry.go
+  s_9d8005b9c30b06::t_7c97e02063d69b 54-60
+backend/internal/modules/privacy/recordhistory.go
+  s_9d8005b9c30b06::t_cf8cc943885c07 241-244
+backend/internal/compose/integration/historyfieldmask_integration_test.go
+  s_9d8005b9c30b06::t_bed8b1dddf7139 36,39-42,56-58,61-64
+  s_9d8005b9c30b06::t_de3a274b0b8401 94
+  s_9d8005b9c30b06::t_b2d8c60ee701ae 1-35,37-38,43-55,59-60,65-93,95-163
+backend/internal/compose/integration/recordhistory_http_integration_test.go
+  s_9d8005b9c30b06::t_986de143bd1e48 159-160
+backend/internal/modules/privacy/recordhistory_test.go
+  s_9d8005b9c30b06::t_2ccf80ad327fcc 284-285,287,306
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1e3607a27694df4020a093bd5fe1ab6ed6bb3714",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
