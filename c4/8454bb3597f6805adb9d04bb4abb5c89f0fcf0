@@ -1,0 +1,24 @@
+backend/internal/compose/reportmask_test.go
+  s_9d8005b9c30b06::t_f6fa96624b334f 1-81
+backend/internal/platform/auth/fieldmask.go
+  s_9d8005b9c30b06::t_d495072b062e8f 283,293-351
+  s_9d8005b9c30b06::t_ce975b853fe00b 352
+backend/internal/compose/reportmask.go
+  s_9d8005b9c30b06::t_e39878816da634 25-33,35-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c48454bb3597f6805adb9d04bb4abb5c89f0fcf0",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
