@@ -1,0 +1,43 @@
+backend/internal/modules/contacts/partnerlist.go
+  s_9d8005b9c30b06::t_dca912f1f94f3c 73,80-82,84,87-92
+  s_9d8005b9c30b06::t_96af8054e8c955 23
+backend/internal/compose/integration/partnersort_integration_test.go
+  s_9d8005b9c30b06::t_8aa33d92b67c61 58
+backend/internal/modules/contacts/partnerfieldmask.go
+  s_9d8005b9c30b06::t_057eaed618fa4f 50-60
+  s_9d8005b9c30b06::t_966929115b5cdf 1-49,61-83
+backend/internal/modules/deals/fieldmask.go
+  s_9d8005b9c30b06::t_6404ff9d8a8a92 166-168,170-173
+backend/internal/modules/contacts/provider.go
+  s_9d8005b9c30b06::t_96af8054e8c955 99,103,166
+backend/internal/platform/auth/fieldmasksort.go
+  s_9d8005b9c30b06::t_6a812f18b81070 1-44
+backend/internal/modules/contacts/handlers_relationship.go
+  s_9d8005b9c30b06::t_96af8054e8c955 169,178,199
+backend/internal/compose/integration/partnermargintier_integration_test.go
+  s_9d8005b9c30b06::t_d0131f0958b813 10-12
+  s_9d8005b9c30b06::t_2cacdd15efa27e 1-9,13-89
+backend/internal/modules/contacts/partner.go
+  s_9d8005b9c30b06::t_27c7c8f6e26c83 153,155,161,165,167,194-195,213,218,220,222-227,291,293,297,299,304,310-313
+  s_9d8005b9c30b06::t_dca912f1f94f3c 383-387
+backend/internal/modules/contacts/partnerfieldmask_test.go
+  s_9d8005b9c30b06::t_f97edb9e46072f 1-7,9-14,16-17,19-89
+  s_9d8005b9c30b06::t_02c44c2b101126 8,15,18
+  s_9d8005b9c30b06::t_8db4404c8dedff 90-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f5d1f6491259ba79b022b1585a00f76598516e61",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
