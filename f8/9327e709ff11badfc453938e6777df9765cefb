@@ -1,0 +1,23 @@
+backend/internal/platform/auth/fieldmaskgroups.go
+  s_9d8005b9c30b06::t_488a0b89999184 24-28,30-32
+  s_9d8005b9c30b06::t_ee2b7caae56fe0 29,54-62
+  s_9d8005b9c30b06::t_c9a747353bef6b 47-49,53
+backend/internal/platform/auth/fieldmaskgroups_test.go
+  s_9d8005b9c30b06::t_ee2b7caae56fe0 30-31,45-46,57-58,67-74,91-92,105-106,120-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f89327e709ff11badfc453938e6777df9765cefb",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
