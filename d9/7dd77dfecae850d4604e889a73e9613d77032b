@@ -1,0 +1,22 @@
+frontend/scripts/clipboardrestore.test.ts
+  s_84769c9dd18ae3::t_088b918a9220a6 20-23,36-46,48
+  s_84769c9dd18ae3::t_b25aaeb1b35cb9 47
+frontend/src/design-system/clipboard-testing.ts
+  s_84769c9dd18ae3::t_4793c0e86090f1 41-49,70-88,120-128,130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d97dd77dfecae850d4604e889a73e9613d77032b",
+  "prompts": {},
+  "sessions": {
+    "s_84769c9dd18ae3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "be43a99a-6068-4332-afb7-c68b789d88c5",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
