@@ -1,0 +1,23 @@
+backend/gates/frontendmaskedfields_test.go
+  s_0eaa39903b81c6::t_bc713a9f59b106 89,96,98-99,102-105,111-127,190,414
+  s_0eaa39903b81c6::t_d09da9726a6789 198,384,389-413
+  s_0eaa39903b81c6::t_80d5543cb08769 49-63
+  s_0eaa39903b81c6::t_5f422804751656 130,133,137-140,149-150,159-163,174-175,180-189
+  s_0eaa39903b81c6::t_72c069086b1d16 128-129,191-197,415-422
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8ccaba8e5196b6e6afc4b795fe9e662f361a172d",
+  "prompts": {},
+  "sessions": {
+    "s_0eaa39903b81c6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cac7bea1-d9ae-4cd3-82c0-07d21710859a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
