@@ -1,0 +1,27 @@
+backend/internal/platform/auth/fieldmaskgroups_test.go
+  s_9d8005b9c30b06::t_aa7587a7716ac7 1-118
+backend/internal/platform/auth/fieldmaskgroups.go
+  s_9d8005b9c30b06::t_cbdf506871226a 1-93
+backend/internal/platform/auth/maskedcolumn_test.go
+  s_9d8005b9c30b06::t_80eebfb22c7ce5 168-193
+backend/internal/platform/auth/fieldmask.go
+  s_9d8005b9c30b06::t_e16d841dcad3ff 261,270,277-281
+  s_9d8005b9c30b06::t_7b50c689f4d9ec 16,24-39,49-53,58-59,67
+  s_9d8005b9c30b06::t_5e9d8acf95ba58 282-283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "598f73fd49f04a93d3a39d6743efb5d96692121c",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
