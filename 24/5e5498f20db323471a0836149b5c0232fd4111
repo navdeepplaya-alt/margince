@@ -4,6 +4,10 @@ backend/api/crm.yaml
   s_9d8005b9c30b06::t_896d08dffe040e 33051-33059,42094-42102
 backend/internal/contracts/api_gen.go
   s_9d8005b9c30b06::t_6bd77406543ad8 22466-22468,33053-33056
+backend/internal/platform/auth/fieldmaskgroups.go
+  s_9d8005b9c30b06::t_812510da593002 52
+backend/internal/platform/auth/fieldmaskapply_test.go
+  s_9d8005b9c30b06::t_fbed11a1d6c7fe 84-85
 ---
 {
   "schema_version": "authorship/3.0.0",
