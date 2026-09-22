@@ -1,0 +1,27 @@
+backend/gates/maskedamountreaders_test.go
+  s_9d8005b9c30b06::t_8158eb158277e7 87-92,104-116,118-120,122-124
+  s_9d8005b9c30b06::t_5b0cbabbcfd80b 186-187
+  s_9d8005b9c30b06::t_94997fb30494c9 130-136
+  s_9d8005b9c30b06::t_5cd5fa5ba8aecf 117,121
+  s_9d8005b9c30b06::t_d801aa4338e395 169-172,174-176
+  s_9d8005b9c30b06::t_cd200548bb3dbc 158-160
+  s_9d8005b9c30b06::t_50b9c705ea59dd 161-162,173,177
+  s_9d8005b9c30b06::t_c9710c115957d9 77-80
+  s_9d8005b9c30b06::t_33363bb42c50d1 125-126,178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8931ccfa8d3b45944d2ceaf286d3836f57cc88a7",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
