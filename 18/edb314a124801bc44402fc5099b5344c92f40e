@@ -1,0 +1,23 @@
+docs/reference/gate-inventory.md
+  s_9d8005b9c30b06::t_1cdba664a52778 233
+backend/internal/modules/contacts/partnerfieldmask.go
+  s_9d8005b9c30b06::t_3bc8b06b6e5b43 61-62
+backend/internal/compose/integration/commissionmargintier_integration_test.go
+  s_9d8005b9c30b06::t_0d8db59a5cc9f2 23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "18edb314a124801bc44402fc5099b5344c92f40e",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
