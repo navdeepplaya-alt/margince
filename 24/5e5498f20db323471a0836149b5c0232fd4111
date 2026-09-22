@@ -1,0 +1,23 @@
+frontend/src/api/schema.d.ts
+  s_9d8005b9c30b06::t_e56cf6c9f52b4d 23641-23642,31006-31007
+backend/api/crm.yaml
+  s_9d8005b9c30b06::t_896d08dffe040e 33051-33059,42094-42102
+backend/internal/contracts/api_gen.go
+  s_9d8005b9c30b06::t_6bd77406543ad8 22466-22468,33053-33056
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "245e5498f20db323471a0836149b5c0232fd4111",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
