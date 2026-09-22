@@ -29,6 +29,7 @@ frontend/src/screens/oauth-app.test.tsx
   s_84769c9dd18ae3::t_c0dba9d27976d2 172-173
 frontend/src/i18n/de.ts
   s_84769c9dd18ae3::t_1d453354c5965a 537-538
+  s_84769c9dd18ae3::t_b027ed9c5557af 1250,1959,7953-7954
 frontend/src/design-system/clipboardcopy.stories.tsx
   s_84769c9dd18ae3::t_5d13258ce44b3f 1-91
 frontend/src/screens/download.ts
