@@ -1,0 +1,39 @@
+backend/internal/modules/commissions/decide.go
+  s_9d8005b9c30b06::t_0f306d494bf81c 73-74
+backend/internal/modules/commissions/list.go
+  s_9d8005b9c30b06::t_0f306d494bf81c 40-41,103-110
+  s_9d8005b9c30b06::t_8fe3889da3aa4e 111,163-171
+backend/internal/compose/integration/partnermargintier_integration_test.go
+  s_9d8005b9c30b06::t_b4917820015742 90-179
+backend/api/crm.yaml
+  s_9d8005b9c30b06::t_1a6b0addf219fe 33046-33051
+frontend/src/api/schema.d.ts
+  s_9d8005b9c30b06::t_55c93030355519 23637-23642
+backend/internal/compose/integration/commissionmargintier_integration_test.go
+  s_9d8005b9c30b06::t_b81b72a030192c 8-13,16,20,24-26,30,32,36-38,40-45,47-51,53-93,95-98,102-103,105-108,110-111,113
+backend/internal/modules/commissions/store.go
+  s_9d8005b9c30b06::t_9c33f506893db4 149-159
+  s_9d8005b9c30b06::t_04b147cb0f0dc9 106-107
+backend/internal/modules/commissions/entryfieldmask.go
+  s_9d8005b9c30b06::t_453a9417e6028e 6-10,12-21,25,30-36,38
+backend/internal/modules/commissions/accrue.go
+  s_9d8005b9c30b06::t_0f306d494bf81c 81-82
+backend/internal/contracts/api_gen.go
+  s_9d8005b9c30b06::t_960113bd1ecda2 22441-22446
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3c82632f195ee402d687eb4aaae1b73abbcf18a2",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

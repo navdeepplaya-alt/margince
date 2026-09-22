@@ -1,0 +1,19 @@
+backend/internal/platform/auth/fieldmaskgroups.go
+  s_9d8005b9c30b06::t_961ad1c9f34411 52-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "17c67560313d1585d0cfacf11968a76538ae59b5",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
