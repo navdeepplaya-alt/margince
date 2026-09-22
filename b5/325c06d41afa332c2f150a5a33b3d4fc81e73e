@@ -1,0 +1,28 @@
+docs/reference/gate-inventory.md
+  s_9d8005b9c30b06::t_5f8e342d456ce3 75
+backend/gates/frontendmaskedfields_test.go
+  s_9d8005b9c30b06::t_764b2c6e1f6e30 103
+  s_9d8005b9c30b06::t_0ef6c4c16f658b 87-89
+  s_9d8005b9c30b06::t_d4f31c61910738 113-120,122,126,131,136,139-140,145
+  s_9d8005b9c30b06::t_5318d26c064a65 306-308,310,312-314,316-321,323-336
+  s_9d8005b9c30b06::t_fbf711f20d11a3 167,169,201
+  s_9d8005b9c30b06::t_74522fbab615b3 1-30,32-41,48-86,90-102,104-112,121,123-125,127-130,132-135,137-138,141-144,146-166,168,170-200,202-305,309,311,315,322,337
+  s_9d8005b9c30b06::t_adb8f617c5e1b8 42-47
+  s_9d8005b9c30b06::t_980c3287cf2596 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b5325c06d41afa332c2f150a5a33b3d4fc81e73e",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
