@@ -1,0 +1,23 @@
+backend/internal/modules/privacy/historyfieldmask_test.go
+  s_9d8005b9c30b06::t_b133faa481bd32 10
+  s_9d8005b9c30b06::t_64a44c722b05ed 126-129
+  s_9d8005b9c30b06::t_800e652e8793e3 1-9,11-125,130-131
+backend/internal/modules/privacy/historyfieldmask.go
+  s_9d8005b9c30b06::t_33a307da0c5f69 38-41,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7add72771cdc284d986c0811b476a65cb328567b",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
