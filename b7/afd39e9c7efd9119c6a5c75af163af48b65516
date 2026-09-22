@@ -1,0 +1,91 @@
+frontend/src/i18n/en.ts
+  s_84769c9dd18ae3::t_1d453354c5965a 551-554
+  s_84769c9dd18ae3::t_a2f74a921b79fc 1328,2047,8138
+frontend/src/i18n/de.ts
+  s_84769c9dd18ae3::t_1d453354c5965a 537-538
+  s_84769c9dd18ae3::t_b027ed9c5557af 1250,1959,7953-7954
+frontend/src/screens/oauth-app.test.tsx
+  s_84769c9dd18ae3::t_28175b4824ef83 14,155-164,166-171
+  s_84769c9dd18ae3::t_27ca3174372558 165
+  s_84769c9dd18ae3::t_c0dba9d27976d2 172-173
+frontend/src/design-system/clipboardcopy.test.tsx
+  s_84769c9dd18ae3::t_27ca3174372558 129-131
+  s_84769c9dd18ae3::t_8828b4ef7ab9aa 1-61,63-75,77-91,93-106,108-118,120-128,132-133
+  s_84769c9dd18ae3::t_05346262064ef0 62,76,92,107,119
+frontend/src/screens/users-password-link.tsx
+  s_84769c9dd18ae3::t_bf01120c6aa61f 5,179-183,196-202
+frontend/src/design-system/README.md
+  s_84769c9dd18ae3::t_9ed0304b646a25 376
+frontend/src/design-system/clipboard-testing.ts
+  s_84769c9dd18ae3::t_020d155d07e7e1 1-17,22-58
+  s_84769c9dd18ae3::t_05346262064ef0 18-21
+frontend/src/screens/download.test.ts
+  s_84769c9dd18ae3::t_b4e132064f46ce 6-10,81-122
+  s_84769c9dd18ae3::t_1403499f9fc3c0 123
+frontend/src/screens/brief.teamweeklyagenda.stories.tsx
+  s_84769c9dd18ae3::t_fa08e753351013 6,65,72
+frontend/src/design-system/clipboardcopy.tsx
+  s_84769c9dd18ae3::t_dfe495fd0a4117 1-86
+frontend/src/design-system/clipboardcopy.stories.tsx
+  s_84769c9dd18ae3::t_5d13258ce44b3f 1-91
+frontend/src/screens/companycontacts/introrequest.tsx
+  s_84769c9dd18ae3::t_8af85eaffe0832 95-101
+  s_84769c9dd18ae3::t_00ba02a53ab52b 6,178,184
+  s_84769c9dd18ae3::t_2bac9c5464c15f 150-152,162-164
+frontend/src/screens/analytics.share.test.tsx
+  s_84769c9dd18ae3::t_bb50cf3d4a6e46 7,116,130-134
+frontend/src/screens/dealroomaccess.stories.tsx
+  s_84769c9dd18ae3::t_e8168c297e75a9 5,7,58-62,67,214-237,242,244-245,247-253,255,258-261
+  s_84769c9dd18ae3::t_fa08e753351013 238-240,246,254,256-257
+  s_84769c9dd18ae3::t_1403499f9fc3c0 262
+  s_84769c9dd18ae3::t_5d13258ce44b3f 241,243
+frontend/src/screens/oauth-app.tsx
+  s_84769c9dd18ae3::t_27ca3174372558 7
+  s_84769c9dd18ae3::t_5f3cf9d9d61031 159-187,203,220-222
+frontend/src/screens/analytics.share.tsx
+  s_84769c9dd18ae3::t_27ca3174372558 6
+  s_84769c9dd18ae3::t_0b115d41f6486b 155-159,166-167,176-177
+frontend/src/design-system/filepreview.tsx
+  s_84769c9dd18ae3::t_6ee2e7a46180fc 16,265,268-270
+frontend/src/screens/download.ts
+  s_84769c9dd18ae3::t_6ee2e7a46180fc 14-30,40,44-54
+  s_84769c9dd18ae3::t_63cc7915ab3004 55
+frontend/src/screens/dealroomaccess.tsx
+  s_84769c9dd18ae3::t_00ba02a53ab52b 15,286-290,298,300,303-306
+frontend/src/screens/webhooks.tsx
+  s_84769c9dd18ae3::t_0b115d41f6486b 23,350-354,368,375,382-383
+frontend/src/screens/aiexport.test.tsx
+  s_84769c9dd18ae3::t_bb50cf3d4a6e46 5,76,84-86,88
+frontend/src/screens/companycontacts/introrequest.test.tsx
+  s_84769c9dd18ae3::t_931255698673d5 10,152,154-158
+frontend/src/screens/aiexport.tsx
+  s_84769c9dd18ae3::t_0b115d41f6486b 10,103-109,163,167-168
+frontend/src/i18n/vi.ts
+  s_84769c9dd18ae3::t_27ca3174372558 7863
+  s_84769c9dd18ae3::t_a2f74a921b79fc 1242,1954
+  s_84769c9dd18ae3::t_1d453354c5965a 543-544
+frontend/src/screens/brief.teamweeklyagenda.tsx
+  s_84769c9dd18ae3::t_9c9c489d8d5e7e 6,116-125,129-130
+frontend/src/design-system/clipboard-spelling.test.ts
+  s_84769c9dd18ae3::t_27ca3174372558 78-80
+  s_84769c9dd18ae3::t_f6d01e7f9eaabe 49-66,96-98,125-140
+  s_84769c9dd18ae3::t_f989822eb119c6 1-48,67-77,81-95,99-124,141-155
+frontend/src/screens/users-password-link.test.tsx
+  s_84769c9dd18ae3::t_b64fb5b8c97fe9 13,286-288,298,301
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b7afd39e9c7efd9119c6a5c75af163af48b65516",
+  "prompts": {},
+  "sessions": {
+    "s_84769c9dd18ae3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "be43a99a-6068-4332-afb7-c68b789d88c5",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
