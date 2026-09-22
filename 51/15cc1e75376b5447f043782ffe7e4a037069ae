@@ -1,0 +1,44 @@
+backend/internal/modules/deals/maskablefields_test.go
+  s_9d8005b9c30b06::t_44d56c58ed642e 6-7,9,18-21
+  s_9d8005b9c30b06::t_9275468ddc5b8d 74,87
+  s_9d8005b9c30b06::t_129255c7738bc8 88-89
+  s_9d8005b9c30b06::t_382aacd38cc8da 49-52
+  s_9d8005b9c30b06::t_48c00ce839cfd1 22
+backend/migrations/core/1790062759_the_catalog_offers_the_partner_margin_tier.up.sql
+  s_9d8005b9c30b06::t_764afecf4bc065 1-16
+backend/migrations/testdata/maskable_fields.txt
+  s_9d8005b9c30b06::t_5c2fe40df658a8 3-6,11-14,21
+backend/gates/maskablefieldobjects_test.go
+  s_9d8005b9c30b06::t_df401b810e4e9d 75-78,81,84,131
+  s_9d8005b9c30b06::t_a6b659ceb43181 73-74
+  s_9d8005b9c30b06::t_011a85556446f8 1-68,70-72,79-80,82-83,85-130,132-161,163
+  s_9d8005b9c30b06::t_63cad2b658434d 69,162
+backend/internal/modules/contacts/partnerfieldmask.go
+  s_9d8005b9c30b06::t_92116a33f144be 26-30,38
+backend/internal/compose/integration/commissionmargintier_integration_test.go
+  s_9d8005b9c30b06::t_ff65b7f87db982 23-24
+backend/internal/modules/contacts/partner.go
+  s_9d8005b9c30b06::t_0b58bc39b80f8f 153-155
+backend/internal/modules/contacts/partnermaskablefields_test.go
+  s_9d8005b9c30b06::t_175c3acc7e76d7 1-90
+docs/reference/gate-inventory.md
+  s_9d8005b9c30b06::t_0fa6a3ce085cfb 233-234
+backend/migrations/core/1790062759_the_catalog_offers_the_partner_margin_tier.down.sql
+  s_9d8005b9c30b06::t_5f9cb71110a2f9 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5115cc1e75376b5447f043782ffe7e4a037069ae",
+  "prompts": {},
+  "sessions": {
+    "s_9d8005b9c30b06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa6814c4-5d2e-4360-bd5f-d60cd3bfd80f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
