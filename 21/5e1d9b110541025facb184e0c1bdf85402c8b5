@@ -1,0 +1,21 @@
+backend/internal/modules/deals/dealfigures_test.go
+  s_0eaa39903b81c6::t_2a31f8b7a4c28c 1-76
+backend/internal/modules/deals/dealfigures.go
+  s_0eaa39903b81c6::t_14894036fdf2a2 44-48,50-53,61,73-75,83-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "215e1d9b110541025facb184e0c1bdf85402c8b5",
+  "prompts": {},
+  "sessions": {
+    "s_0eaa39903b81c6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cac7bea1-d9ae-4cd3-82c0-07d21710859a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
