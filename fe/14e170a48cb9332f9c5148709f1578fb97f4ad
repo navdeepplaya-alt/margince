@@ -1,0 +1,47 @@
+frontend/src/screens/evidenceverdict.tsx
+  s_eb67c81b9efd70::t_7a075c2d2a0725 138-143,151-154
+  s_eb67c81b9efd70::t_5dfa69beab9063 10,255,257,269,281,283
+  s_eb67c81b9efd70::t_263136a1df6dbd 191-193,195,199-200,207-214
+  s_31dde0d107525c::t_27b2d162598350 246
+frontend/src/screens/evidenceverdict.stories.tsx
+  s_eb67c81b9efd70::t_bb87f2d28d66d0 128-131,137-139
+  s_eb67c81b9efd70::t_6b8aff55254720 150,152,155-177
+  s_eb67c81b9efd70::t_7726aa4c673317 151
+  s_eb67c81b9efd70::t_d5af8804f140c1 153-154
+frontend/src/screens/evidenceverdict.test.tsx
+  s_eb67c81b9efd70::t_4a2d77fa5714a4 251-255,260,263
+  s_eb67c81b9efd70::t_20776e67876b02 181-185,187-195,197-202,204-212,214,218-225,230,232-240,242,248-250
+  s_eb67c81b9efd70::t_bed7e81390eab3 276-277
+  s_eb67c81b9efd70::t_45feaf66c559ce 243-247
+  s_eb67c81b9efd70::t_c25169ce44b5e2 226-229
+  s_eb67c81b9efd70::t_a05a2df2a01fde 40-41,51
+  s_eb67c81b9efd70::t_d9a63177f1ed02 256,258-259,261-262,264-272,274-275,278-286,288-289,291-301,303-305,307-309
+  s_eb67c81b9efd70::t_b6d21f12052322 290
+  s_eb67c81b9efd70::t_0f4b268741dc6f 84-97
+  s_eb67c81b9efd70::t_df5a9ff5c502aa 306
+  s_eb67c81b9efd70::t_063f061f440d8e 111,121,138,148,150-152,162,172,186,196,203,213,215-217,231,241,257,273,287,302
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fe14e170a48cb9332f9c5148709f1578fb97f4ad",
+  "prompts": {},
+  "sessions": {
+    "s_31dde0d107525c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd145b92-3a56-4eb5-b48d-619af6f560ce",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_eb67c81b9efd70": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "88612b50-5f82-4203-b90f-883264af96c2",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
