@@ -1,0 +1,25 @@
+backend/gates/dealreaders_test.go
+  s_0eaa39903b81c6::t_7ea6cb130bbf34 72
+backend/gates/maskedamountreaders_test.go
+  s_0eaa39903b81c6::t_4670ad9d3402d5 285-286,321,326-331
+backend/internal/compose/integration/commissiondealamount_integration_test.go
+  s_0eaa39903b81c6::t_bd77e6cdaf305e 1-115
+backend/internal/modules/commissions/entryfieldmask.go
+  s_0eaa39903b81c6::t_33eea17392aec9 22-29,38-41,50-56,59-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b728d1e09614f4eac8164ac7a5cb527480dc20a1",
+  "prompts": {},
+  "sessions": {
+    "s_0eaa39903b81c6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cac7bea1-d9ae-4cd3-82c0-07d21710859a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
