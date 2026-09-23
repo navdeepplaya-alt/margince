@@ -1,0 +1,22 @@
+backend/internal/compose/telegramingest.go
+  s_31dde0d107525c::t_275e016480b4fa 168,173,175-182
+backend/internal/compose/integration/channels/telegram_ingress_integration_test.go
+  s_31dde0d107525c::t_ac7f01e254d02e 88-106
+  s_31dde0d107525c::t_c959750df7609a 478-524
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "de94d9177b57557dbb1951427668f9c08c616d32",
+  "prompts": {},
+  "sessions": {
+    "s_31dde0d107525c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd145b92-3a56-4eb5-b48d-619af6f560ce",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
