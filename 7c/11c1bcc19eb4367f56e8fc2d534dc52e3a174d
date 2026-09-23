@@ -1,0 +1,39 @@
+backend/gates/frontendmaskedfields_test.go
+  s_21367af13b36f6::t_69979e49721363 222-227,230-238,243,245,247,249-252,256-268,272,276-277,288-301,309-319,322-324,523,627
+  s_21367af13b36f6::t_742746a075939b 302-306
+  s_21367af13b36f6::t_c5e9ae5ba8f5d5 536,539,554-559,569-586,589,600-601,603,628
+  s_21367af13b36f6::t_9a244c0e0dc114 161-163
+  s_21367af13b36f6::t_b3de6802545b2f 307,441-445,610,614,619,625
+  s_21367af13b36f6::t_fbd69f00babb4c 248
+  s_21367af13b36f6::t_0194d2ba554436 103-106
+  s_21367af13b36f6::t_209c2ca39d5a8b 269-271,273-275,278-287
+  s_21367af13b36f6::t_989b9afd9c7018 112-115,118-120
+  s_21367af13b36f6::t_41d72ee02534d5 351-357,366,370,373-374,377
+  s_21367af13b36f6::t_6519a330844938 55-59
+  s_21367af13b36f6::t_138ddba3ad2635 320-321
+  s_7920b0edf782a6::t_803100282cc434 308,518-522,524-535,537-538,540-553,560-568,587-588,590-599,602,604-609,611-613,615-618,620-624,626
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7c11c1bcc19eb4367f56e8fc2d534dc52e3a174d",
+  "prompts": {},
+  "sessions": {
+    "s_21367af13b36f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d825d947-82b9-4a3e-b760-68b9738a4508",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_7920b0edf782a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "29b07968-9c39-41ff-b007-a515d791010b",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
