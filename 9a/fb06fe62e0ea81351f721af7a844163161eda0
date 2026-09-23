@@ -1,0 +1,21 @@
+backend/internal/modules/identity/rbacmatrix_test.go
+  s_0eaa39903b81c6::t_7da6741cf9dfa8 227-244
+docs/reference/rbac-matrix.md
+  s_0eaa39903b81c6::t_f49e7ea99a2fb7 169-175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9afb06fe62e0ea81351f721af7a844163161eda0",
+  "prompts": {},
+  "sessions": {
+    "s_0eaa39903b81c6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cac7bea1-d9ae-4cd3-82c0-07d21710859a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
