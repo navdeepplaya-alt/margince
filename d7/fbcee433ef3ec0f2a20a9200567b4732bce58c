@@ -1,0 +1,20 @@
+backend/gates/recordsourcespelling_test.go
+  s_02cfbb9cee728a::t_678dcec6c1d135 406-418,423-427,436-451,468-469,482-506
+  s_02cfbb9cee728a::t_dbfba18bb43979 507
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d7fbcee433ef3ec0f2a20a9200567b4732bce58c",
+  "prompts": {},
+  "sessions": {
+    "s_02cfbb9cee728a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47f8c143-15cf-4259-b05a-6a4a5a81cae0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
