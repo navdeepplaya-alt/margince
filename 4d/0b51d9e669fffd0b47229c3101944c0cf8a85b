@@ -1,0 +1,21 @@
+backend/gates/gatecensus_test.go
+  s_21367af13b36f6::t_a9e9caa799a74a 55
+backend/internal/modules/deals/fieldmask_test.go
+  s_21367af13b36f6::t_e18577984a9c83 83-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4d0b51d9e669fffd0b47229c3101944c0cf8a85b",
+  "prompts": {},
+  "sessions": {
+    "s_21367af13b36f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d825d947-82b9-4a3e-b760-68b9738a4508",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
