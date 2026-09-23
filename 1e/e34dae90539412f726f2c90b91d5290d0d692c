@@ -1,0 +1,34 @@
+backend/internal/compose/integration/harnessseed.go
+  s_0eaa39903b81c6::t_abc58a286498df 92
+backend/internal/modules/privacy/historyfieldmask_test.go
+  s_0eaa39903b81c6::t_de75af201d2600 80-89
+backend/internal/modules/privacy/historyfieldmask.go
+  s_0eaa39903b81c6::t_8a2f47e11a3a8b 37-38
+  s_0eaa39903b81c6::t_bdf535a254b491 27-28
+backend/internal/platform/auth/fieldmaskfacets.go
+  s_0eaa39903b81c6::t_d4807809d2b780 1-45
+  s_0eaa39903b81c6::t_cf7891cbf31792 46-56
+  s_0eaa39903b81c6::t_c58e0641669489 57-58
+backend/gates/maskfacetcoverage_test.go
+  s_0eaa39903b81c6::t_0f831fad041a54 1-125
+backend/internal/compose/integration/harness.go
+  s_0eaa39903b81c6::t_9997bf8c11483d 245-260
+backend/internal/compose/integration/historyfieldmask_integration_test.go
+  s_0eaa39903b81c6::t_7959b3a6fe1d97 21,165-259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1ee34dae90539412f726f2c90b91d5290d0d692c",
+  "prompts": {},
+  "sessions": {
+    "s_0eaa39903b81c6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cac7bea1-d9ae-4cd3-82c0-07d21710859a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
