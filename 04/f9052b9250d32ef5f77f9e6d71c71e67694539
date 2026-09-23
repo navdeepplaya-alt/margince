@@ -1,0 +1,48 @@
+frontend/src/screens/deal360/dealactions.stories.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 49
+frontend/src/screens/deal360/dealcockpit.stories.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 55
+frontend/src/screens/onboarding-conversation/voice-scenes.test.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 49
+backend/gates/recordsourcespelling_test.go
+  s_02cfbb9cee728a::t_d162ca6a266921 41,43-44
+  s_02cfbb9cee728a::t_6895ec0cc3a744 404-465
+frontend/src/screens/dealstatus.stories.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 28
+frontend/src/screens/dealroomconversation.stories.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 51
+frontend/src/screens/dealroomconversation.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 83,100
+frontend/src/screens/deal360/dealroomtab.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 230
+frontend/src/screens/deal360/dealcockpit.test.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 28
+frontend/src/screens/contactresearch.test.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 22
+frontend/src/screens/dealroomdocuments.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 166
+frontend/src/screens/companytasks.test.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 109
+frontend/src/screens/dealroomaccess.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 335
+frontend/src/screens/contactresearch.stories.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 28
+frontend/src/screens/company360.stories.tsx
+  s_02cfbb9cee728a::t_645319ef2ea1c7 406
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "04f9052b9250d32ef5f77f9e6d71c71e67694539",
+  "prompts": {},
+  "sessions": {
+    "s_02cfbb9cee728a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47f8c143-15cf-4259-b05a-6a4a5a81cae0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
