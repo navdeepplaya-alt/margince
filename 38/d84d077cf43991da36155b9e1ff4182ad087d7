@@ -1,0 +1,21 @@
+backend/internal/modules/deals/fieldmask.go
+  s_21367af13b36f6::t_1e2631027e4326 46
+backend/internal/platform/auth/fieldmaskgroups.go
+  s_21367af13b36f6::t_3bfc9e0820e6c1 26-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "38d84d077cf43991da36155b9e1ff4182ad087d7",
+  "prompts": {},
+  "sessions": {
+    "s_21367af13b36f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d825d947-82b9-4a3e-b760-68b9738a4508",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
