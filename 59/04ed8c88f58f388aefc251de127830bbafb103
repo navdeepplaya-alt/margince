@@ -1,0 +1,19 @@
+backend/internal/platform/auth/fieldmaskapply_test.go
+  s_21367af13b36f6::t_abca0946f39da9 15,337-338
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5904ed8c88f58f388aefc251de127830bbafb103",
+  "prompts": {},
+  "sessions": {
+    "s_21367af13b36f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d825d947-82b9-4a3e-b760-68b9738a4508",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
