@@ -1,0 +1,230 @@
+backend/internal/compose/integration/customfields_values_lead_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 26,29,73,103,106
+backend/internal/compose/integration/approval_bundle_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 107,187
+backend/internal/compose/integration/recordhistory_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 78
+backend/internal/compose/integration/e2e_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 30,44
+backend/internal/modules/activities/requestvalidation_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 19
+backend/internal/compose/integration/agentaccess/queryvocabulary_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 150
+backend/internal/compose/integration/archivedanchorretraction_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 61,68,83
+backend/internal/compose/integration/companyrollup_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 79,135
+backend/internal/compose/integration/customfields/customfields_lifecycle_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 70,124,160,166,210
+backend/internal/compose/integration/transcriptread_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 91,205
+backend/internal/compose/integration/extractionaccept_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 115,159
+backend/internal/compose/integration/collections/recordtags_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 58
+backend/internal/compose/integration/agent_versionpin_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 90
+backend/gates/recordsourcespelling_test.go
+  s_02cfbb9cee728a::t_3274c99ced3447 29-33
+  s_02cfbb9cee728a::t_b79613668644f7 186-188,190-193,195-196,216,218-219,224,226,233-234,239-240
+  s_02cfbb9cee728a::t_1110ea7bdee7b8 8
+  s_02cfbb9cee728a::t_943532a7b75baf 61-65,78,83-90,92-100,105-116,119-122,131-132,135-137
+  s_02cfbb9cee728a::t_6906b70010a9d7 1-7,9-18,25-28,34-39,42,44-45,47-54,60,72-75,77,79-81,91,101-104,117-118,123-130,133,138-140,169-170,172-173,175-183,229-231,238,243-268,277-283,285-290
+  s_02cfbb9cee728a::t_3135bdd6fd068b 134,174
+  s_02cfbb9cee728a::t_1c5a2dcefd0c01 171
+  s_02cfbb9cee728a::t_7fdf190d001650 189
+  s_02cfbb9cee728a::t_ec88f759864ab7 269-276
+  s_02cfbb9cee728a::t_0f10a479a4287b 155-164,166
+  s_02cfbb9cee728a::t_6472146750f284 46
+  s_02cfbb9cee728a::t_f7bbf045f030e6 19-24,40-41,43,55-59,66-71,76,82,141-154,165,167-168,184-185,194,197-215,217,220-223,225,227-228,232,235-237,241-242,284
+backend/internal/compose/integration/companyscan_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 34
+backend/internal/compose/integration/customfields_values_deal_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 97,100,148,152
+backend/internal/compose/integration/idempotency_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 242,251
+backend/internal/compose/integration/relationship_seam_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 112,251,317,353,359,404,443,486
+backend/internal/compose/integration/customfields/customfields_http_assertions_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 28,47,64,106,129,158-163,191,206,217,242,268,305,323,356,362,430
+backend/internal/compose/integration/customfields/customfields_vocab_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 110,149,156-158
+backend/internal/compose/integration/perfrecord_bench_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 232,250,261
+backend/internal/modules/customfields/engine_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 14,21,28,35,40,51,55,67,77
+  s_02cfbb9cee728a::t_6fb0ebf0ccd146 45
+backend/internal/compose/integration/dealstatus_facts_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 78
+backend/internal/compose/integration/e2e_agent_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 87,134
+backend/internal/modules/deals/partner_attribution_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 267
+backend/internal/compose/integration/nextstepagreement_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 40,129,145
+docs/reference/gate-inventory.md
+  s_02cfbb9cee728a::t_d0ebd81c4665c9 274
+backend/internal/modules/projects/project_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 130
+backend/internal/compose/outcomereview.go
+  s_02cfbb9cee728a::t_5552c57d9bb6f5 31
+  s_02cfbb9cee728a::t_e7fd5528f65dd8 89
+backend/internal/compose/integration/customfields/customfields_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 64,179,185,223,253
+backend/internal/modules/activities/transcript_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 35,83,118
+backend/internal/modules/agents/tools.go
+  s_02cfbb9cee728a::t_bc15fd0842c999 10-11
+backend/internal/compose/integration/collections/filterpreview_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 37,52
+backend/internal/modules/contacts/vcardsourceliveness_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 194
+backend/internal/compose/transcriptpropose_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 107,349,477
+backend/internal/compose/integration/customfields/customfields_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 213,251
+backend/internal/compose/integration/collections/tagvocab_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 50,266
+backend/internal/compose/integration/privacy_customfields_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 38-43,123,145,223,226,229
+backend/internal/compose/dealstatus/move.go
+  s_02cfbb9cee728a::t_e68c0ee4b9586c 90-92
+  s_02cfbb9cee728a::t_15bc96953b699a 94
+  s_02cfbb9cee728a::t_7ff0b4b41f0806 156
+  s_02cfbb9cee728a::t_5f91ee051abc79 197
+  s_02cfbb9cee728a::t_7179afd8784a0e 30
+backend/internal/compose/company360/nextstep.go
+  s_02cfbb9cee728a::t_da23ea9d5edcfd 29
+  s_02cfbb9cee728a::t_ad8b5dea407193 134
+backend/internal/compose/integration/customfields/multiselect_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 19,25
+backend/internal/compose/integration/dealroomschema_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 39,85,107,128,208
+backend/internal/compose/vcardproposal_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 47,220,310
+backend/internal/compose/integration/txseam_gates_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 115,134,150,169,184,202,216,236,260
+backend/internal/modules/customfields/candidates_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 125,129
+backend/internal/compose/integration/customfields_vocab_coverage_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 41,45,76,107,144-146,169,173,206,210
+backend/internal/compose/integration/customfields/customfields_values_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 55,86,105,139,173-178,207,234,265,271,277,283
+backend/internal/compose/integration/dynamicsegment_singleconn_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 74,84,136
+backend/internal/compose/attention/dealmoves_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 187
+backend/internal/compose/integration/customfields/customfields_fieldcatalog_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 62,68,98,158,164
+backend/internal/compose/integration/network_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 101,308,322,353,369
+backend/internal/modules/contacts/mapping_customfields_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 31,57,80
+backend/internal/compose/integration/dealroom_buyer_edge_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 50,58,235,364,411,417,487,497,505,570-571,606
+backend/internal/compose/integration/billingcontact_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 119
+  s_21367af13b36f6::t_9042916a9b3f97 27
+backend/internal/modules/activities/requestlifecycle_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 96,168,228
+backend/internal/modules/customfields/service_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 38
+backend/internal/compose/integration/relationship_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 62,76,118,125,152,211,297
+backend/internal/compose/integration/dealroom_files_area_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 106,169
+backend/internal/modules/activities/requestreview_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 46,137,196
+backend/internal/modules/contacts/mapping_contactemails_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 73
+backend/internal/compose/integration/pipeline_config_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 121
+backend/internal/compose/integration/offers_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 441
+backend/internal/compose/integration/renewal_reminder_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 56,117,205
+backend/internal/compose/integration/requiredbodyids_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 296
+backend/internal/modules/contacts/mapping_contactphones_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 73
+backend/gates/dealmoveargument_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 54
+backend/internal/compose/integration/collections/filtervocabulary_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 41,52,63,115,261
+backend/internal/compose/integration/partnerattributiontarget_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 46,78
+backend/internal/compose/integration/dealstatus_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 64,85
+backend/internal/compose/integration/strength_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 45,56,128
+backend/internal/compose/integration/apptest/pipeline.go
+  s_02cfbb9cee728a::t_0ea7dc9a6c2761 11-12
+  s_02cfbb9cee728a::t_75b5f7f0fdba13 101-105
+  s_21367af13b36f6::t_939fd3ab344296 122
+backend/internal/compose/integration/txseam_singleconn_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 137,168,202,237,282,294,312,324,344,357,377,389
+backend/internal/modules/activities/activityaudit_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 59,129,169,287
+backend/internal/compose/integration/growthfit_e2e_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 208
+backend/internal/compose/integration/agentcommandtarget_createpatch_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 158
+backend/internal/compose/integration/aiactivity_transcript_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 58
+backend/internal/compose/integration/dealmovecontact_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 121
+backend/internal/compose/integration/dsr_erasure_dealroom_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 63,73,80
+backend/internal/compose/dealstatus/move_test.go
+  s_02cfbb9cee728a::t_b566d5eeb08b10 147-148
+backend/internal/shared/kernel/provenance/recordsource.go
+  s_02cfbb9cee728a::t_065db21a45f6f3 22
+  s_02cfbb9cee728a::t_5a05d84af4447d 8,10
+  s_02cfbb9cee728a::t_7f7fa7d4d60b21 12-13
+backend/internal/compose/integration/dealroom_preview_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 147,240
+backend/internal/compose/integration/dealmoveaudience_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 165,218
+backend/internal/compose/integration/dealroomsteward_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 69,104
+backend/internal/compose/integration/customfields_values_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 106,109,151,154,206-211,214,246,249,282-284,298,318,321,330,339,355,358,371,387,394,438,441
+backend/internal/compose/integration/agentscope_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 55,128
+backend/internal/compose/integration/fieldhistory_http_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 192
+backend/internal/compose/integration/createtask_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 29,45
+backend/internal/compose/integration/collections/segmentvocabulary_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 106,137,317
+backend/internal/compose/integration/customfields_vocab_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 33,74,98,131-133,161,243,247,326,341,364
+backend/internal/compose/integration/dealforecastcategory_integration_test.go
+  s_02cfbb9cee728a::t_8b689034adfdca 63,77
+backend/internal/compose/integration/employment_dedupe_integration_test.go
+  s_21367af13b36f6::t_e3ffb583ce5b5c 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5094038fc1fb44369f08005a438791aa6a2b6a39",
+  "prompts": {},
+  "sessions": {
+    "s_02cfbb9cee728a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47f8c143-15cf-4259-b05a-6a4a5a81cae0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_21367af13b36f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d825d947-82b9-4a3e-b760-68b9738a4508",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
