@@ -1,0 +1,31 @@
+backend/internal/compose/rawcapturelinkbackfill.go
+  s_7920b0edf782a6::t_e3daae9ae4ccfe 29-39
+  s_7920b0edf782a6::t_5eb3fb7aec8235 118-122
+  s_7920b0edf782a6::t_612a868e0e1ea7 133,137-140
+backend/internal/compose/integration/channels/telegram_sarreference_integration_test.go
+  s_7920b0edf782a6::t_fa34877baa5aef 8-12
+backend/internal/modules/capture/purgerawcapture_test.go
+  s_7920b0edf782a6::t_ba12bfe3d3a212 118
+  s_7920b0edf782a6::t_6f2df4cb337d86 1-23,25-41,43-51,53,61,63-89,91-117,121-130
+  s_7920b0edf782a6::t_5552055222abc3 24,42,52,54-60,62,90,119-120
+backend/internal/compose/rawcapturelinkbackfill_integration_test.go
+  s_7920b0edf782a6::t_3ae823a533e1a7 77-126
+backend/internal/modules/capture/pendingsweeps.go
+  s_7920b0edf782a6::t_12fa37a0376704 315-318,320-323,326,338
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f63fa0caed919c1e514b81e1cc2bdf52285e22d4",
+  "prompts": {},
+  "sessions": {
+    "s_7920b0edf782a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "29b07968-9c39-41ff-b007-a515d791010b",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
