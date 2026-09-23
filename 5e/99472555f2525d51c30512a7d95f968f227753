@@ -1,0 +1,36 @@
+backend/internal/compose/confidentialityverdict.go
+  s_16b9547340a603::t_387dfc0d602cc2 148-156,158,161,164-177,179
+  s_16b9547340a603::t_bb5708de2f2623 126,133-134
+  s_16b9547340a603::t_ab6da0f3d22d70 344-353
+  s_16b9547340a603::t_ac8eae8cd23a2e 101
+backend/internal/compose/budgetwindow.go
+  s_16b9547340a603::t_95b561f305d2f8 1-32
+backend/internal/compose/voicebuild.go
+  s_16b9547340a603::t_379572da9ca92e 243,245
+backend/internal/compose/captureverdict.go
+  s_16b9547340a603::t_2bd98378ff3076 207-211,214,216,218-219,222-237,239
+  s_16b9547340a603::t_34b16f19ab2af0 173,182-183
+  s_16b9547340a603::t_49137c35e25ee1 353-354,363-366
+  s_16b9547340a603::t_d9e978a3d740be 367
+  s_16b9547340a603::t_e5f7a7068f6743 206
+  s_16b9547340a603::t_f458a1a79e7380 153-154
+backend/internal/compose/verdictbudgetstop_integration_test.go
+  s_16b9547340a603::t_7ab2d960d3385a 1-27,29-155
+  s_16b9547340a603::t_a3bf12abefe2a4 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5e99472555f2525d51c30512a7d95f968f227753",
+  "prompts": {},
+  "sessions": {
+    "s_16b9547340a603": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d1566fa-c4a3-4e93-84a9-a8cebb561b69",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
