@@ -1,0 +1,19 @@
+backend/internal/compose/integration/csvimport_integration_test.go
+  s_07f65ba8b08673::t_ecf8ea881584c7 28,463-468,472-474,476-485,488-503,505-506,509-512,514-518,537
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6da6dec2b65c089d696cbf9e0fe854d8bc399221",
+  "prompts": {},
+  "sessions": {
+    "s_07f65ba8b08673": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19f52f38-faa8-4a05-a81c-e6b2d230e988",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
