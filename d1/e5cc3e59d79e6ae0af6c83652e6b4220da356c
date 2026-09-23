@@ -1,0 +1,42 @@
+backend/internal/compose/integration/apptest/pipeline.go
+  s_02cfbb9cee728a::t_04ba28bce8b8f9 101-102
+backend/gates/recordsourcespelling_test.go
+  s_02cfbb9cee728a::t_02180b2e2ddc9c 381-386
+  s_02cfbb9cee728a::t_fd8f25e076321d 260-319,348
+  s_02cfbb9cee728a::t_d6910688f3c831 74-76
+  s_02cfbb9cee728a::t_1437213aa58d1b 57-60,63-73,77
+  s_02cfbb9cee728a::t_551133ed60576a 121-129
+  s_02cfbb9cee728a::t_8a091cf93f3452 322-326,341-347
+  s_02cfbb9cee728a::t_64536157eabb70 80-85
+  s_02cfbb9cee728a::t_243d3de050990d 194-195
+  s_02cfbb9cee728a::t_971d1e368688fa 42
+  s_7920b0edf782a6::t_a4240cdfdabc40 78
+backend/internal/shared/kernel/provenance/provenance.go
+  s_02cfbb9cee728a::t_e3dc4725fed790 15-17
+backend/internal/modules/agents/tools.go
+  s_02cfbb9cee728a::t_2859313b8e4f11 11-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d1e5cc3e59d79e6ae0af6c83652e6b4220da356c",
+  "prompts": {},
+  "sessions": {
+    "s_02cfbb9cee728a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47f8c143-15cf-4259-b05a-6a4a5a81cae0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_7920b0edf782a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "29b07968-9c39-41ff-b007-a515d791010b",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
