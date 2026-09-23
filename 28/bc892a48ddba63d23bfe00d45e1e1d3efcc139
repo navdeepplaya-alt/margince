@@ -1,0 +1,21 @@
+backend/internal/shared/kernel/provenance/recordsource.go
+  s_02cfbb9cee728a::t_8c58aa43bcae25 1-28
+backend/internal/shared/kernel/provenance/recordsource_test.go
+  s_02cfbb9cee728a::t_3a48853b15c089 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "28bc892a48ddba63d23bfe00d45e1e1d3efcc139",
+  "prompts": {},
+  "sessions": {
+    "s_02cfbb9cee728a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47f8c143-15cf-4259-b05a-6a4a5a81cae0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
