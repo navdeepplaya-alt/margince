@@ -1,0 +1,23 @@
+backend/migrations/core/1790135685_an_original_names_the_record_it_became.down.sql
+  s_31dde0d107525c::t_b4f0fb20eea088 1-3
+backend/migrations/testdata/head_catalog.txt
+  s_31dde0d107525c::t_7d9f6f1fad37e4 24,70,261
+backend/migrations/core/1790135685_an_original_names_the_record_it_became.up.sql
+  s_31dde0d107525c::t_a0430c31d6477e 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7fe1a81433bba80868713916ca02f858ef4d600e",
+  "prompts": {},
+  "sessions": {
+    "s_31dde0d107525c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd145b92-3a56-4eb5-b48d-619af6f560ce",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
