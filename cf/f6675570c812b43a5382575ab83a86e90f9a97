@@ -1,0 +1,25 @@
+backend/gates/recordsourcespelling_test.go
+  s_ff5fc4fff67894::t_f1eeffe1c0b3f4 378-381,383-386,389,391,393,395,397,399,402,405,407,410,412,414,416-429,437-438
+  s_ff5fc4fff67894::t_898eb02e8802c7 78,126-129,148-170,219-220,439
+  s_ff5fc4fff67894::t_fc1a47fe0c0875 79-81
+backend/internal/shared/kernel/provenance/recordsource.go
+  s_ff5fc4fff67894::t_9c4dc8d4477be0 16-19
+backend/internal/shared/kernel/provenance/provenance.go
+  s_ff5fc4fff67894::t_9c4dc8d4477be0 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cff6675570c812b43a5382575ab83a86e90f9a97",
+  "prompts": {},
+  "sessions": {
+    "s_ff5fc4fff67894": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "caf38058-67c1-4296-a1da-0b930202072d",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
