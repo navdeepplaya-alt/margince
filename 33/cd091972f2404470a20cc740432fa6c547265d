@@ -1,0 +1,21 @@
+backend/migrations/core/1790162340_the_deal_room_and_the_review_say_manual.up.sql
+  s_02cfbb9cee728a::t_e15267406d9a0f 1-37
+backend/migrations/core/1790162340_the_deal_room_and_the_review_say_manual.down.sql
+  s_02cfbb9cee728a::t_56b3f032f8a7c4 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "33cd091972f2404470a20cc740432fa6c547265d",
+  "prompts": {},
+  "sessions": {
+    "s_02cfbb9cee728a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47f8c143-15cf-4259-b05a-6a4a5a81cae0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
