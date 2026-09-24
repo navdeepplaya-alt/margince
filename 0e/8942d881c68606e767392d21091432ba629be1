@@ -1,0 +1,59 @@
+backend/migrations/core/1790219369_the_deal_room_and_the_review_say_manual.up.sql
+  s_02cfbb9cee728a::t_421524d2455084 45-51,57
+  s_02cfbb9cee728a::t_21c2b3436b57eb 52-56
+backend/internal/compose/integration/signalextract_integration_test.go
+  s_02cfbb9cee728a::t_7f55e5b8861948 864
+backend/internal/modules/ai/voice_sendoutcome_integration_test.go
+  s_02cfbb9cee728a::t_d5fe52c4022615 137
+backend/internal/compose/integration/voice_sendoutcome_integration_test.go
+  s_02cfbb9cee728a::t_e7c1c62c634f58 138
+frontend/src/api/schema.d.ts
+  s_02cfbb9cee728a::t_b76ec669327921 18838
+backend/internal/modules/customfields/candidates_integration_test.go
+  s_02cfbb9cee728a::t_85012c425d12e2 146
+backend/internal/shared/kernel/provenance/recordsource.go
+  s_02cfbb9cee728a::t_3de202b1b3f340 26-27
+backend/internal/modules/activities/lastactivitylockorder_integration_test.go
+  s_02cfbb9cee728a::t_35c624f8b7b1c1 192
+backend/gates/recordsourcespelling_test.go
+  s_02cfbb9cee728a::t_e0c279607d7f30 32-37
+backend/internal/modules/activities/meetingduration_integration_test.go
+  s_02cfbb9cee728a::t_98274886fa36ca 41
+backend/internal/compose/sendvoiceoutcome_integration_test.go
+  s_02cfbb9cee728a::t_12070e72ba551d 112
+backend/internal/modules/capture/projectretry_integration_test.go
+  s_02cfbb9cee728a::t_8a648999bd7b1c 119
+backend/internal/modules/agents/tools.go
+  s_02cfbb9cee728a::t_b10f7208974de7 22
+  s_02cfbb9cee728a::t_5a4a244fadade5 44
+backend/api/crm.yaml
+  s_02cfbb9cee728a::t_53ebc637803255 26892
+backend/internal/compose/integration/retention_integration_test.go
+  s_02cfbb9cee728a::t_30439ea5a3dda2 167
+backend/internal/compose/integration/audiencederived_integration_test.go
+  s_02cfbb9cee728a::t_f0a2c695be45c7 551
+backend/internal/compose/company360/nextstep.go
+  s_02cfbb9cee728a::t_6ceeeb3faef71c 119-124
+backend/internal/modules/ai/voice_concurrent_ingest_integration_test.go
+  s_02cfbb9cee728a::t_3b593d96f6be6d 101
+backend/internal/compose/integration/voice_lifecycle_http_integration_test.go
+  s_02cfbb9cee728a::t_cbb4a5f9303c1e 96
+backend/internal/compose/integration/listsortcoverage_integration_test.go
+  s_02cfbb9cee728a::t_0b0955dfc53fe8 63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e8942d881c68606e767392d21091432ba629be1",
+  "prompts": {},
+  "sessions": {
+    "s_02cfbb9cee728a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47f8c143-15cf-4259-b05a-6a4a5a81cae0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
