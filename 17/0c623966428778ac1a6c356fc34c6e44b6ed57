@@ -1,0 +1,24 @@
+docs/explanation/search-and-retrieval.md
+  s_02cfbb9cee728a::t_5011840f59dad4 309-318
+backend/migrations/core/1790162340_the_deal_room_and_the_review_say_manual.up.sql
+  s_02cfbb9cee728a::t_3e398af636c901 44-50
+  s_02cfbb9cee728a::t_dd899bc15013b6 4-8
+  s_02cfbb9cee728a::t_c5671b6fea541a 14-18
+  s_02cfbb9cee728a::t_79e5ebd9a31f84 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "170c623966428778ac1a6c356fc34c6e44b6ed57",
+  "prompts": {},
+  "sessions": {
+    "s_02cfbb9cee728a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47f8c143-15cf-4259-b05a-6a4a5a81cae0",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
