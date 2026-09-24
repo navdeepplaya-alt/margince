@@ -1,0 +1,16 @@
+backend/internal/modules/activities/lastactivitylockorder_integration_test.go
+  h_f49f4ba3fceed3 192
+backend/internal/modules/activities/meetingduration_integration_test.go
+  h_f49f4ba3fceed3 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "77b136ad179e1ece3bece23ee5aa4ca7ee1b9046",
+  "prompts": {},
+  "humans": {
+    "h_f49f4ba3fceed3": {
+      "author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
