@@ -1,0 +1,61 @@
+backend/internal/compose/magic/needsyou_test.go
+  s_15002c6670ddc9::t_27bf4a95b2d96e 158-160,169,189-224
+  s_15002c6670ddc9::t_9421f9fea51381 225
+frontend/src/screens/magic.test.tsx
+  s_15002c6670ddc9::t_c83c527578512f 281-286
+  s_15002c6670ddc9::t_a328ff57fc228a 259-280,287-308
+  s_15002c6670ddc9::t_254de3d734c637 4-5
+backend/internal/compose/magicneedsyou_integration_test.go
+  s_15002c6670ddc9::t_0d2cd1b82e91c9 1-86
+backend/internal/compose/magic/watching.go
+  s_15002c6670ddc9::t_cf8779f2078a6f 28-31
+  s_15002c6670ddc9::t_a6d88389e523c9 137-141,143,146-151
+backend/internal/compose/magic/service.go
+  s_15002c6670ddc9::t_33075b248efa81 134-160
+  s_15002c6670ddc9::t_9de05af20b1e33 161,165-199
+  s_15002c6670ddc9::t_67ee7be75d161b 164
+backend/internal/compose/magic/needsyou.go
+  s_15002c6670ddc9::t_c9aa4eeeec780a 154,157-161,163-176,178-179,181-188,190
+  s_15002c6670ddc9::t_c2841b5fa7812a 98-121
+  s_15002c6670ddc9::t_583792f122193f 60-64
+  s_15002c6670ddc9::t_fca894d03594a8 138
+backend/internal/compose/magic/watching_test.go
+  s_15002c6670ddc9::t_eb6546a225139f 137-141
+  s_15002c6670ddc9::t_46dc69d173668c 116,122-125
+backend/api/crm.yaml
+  s_15002c6670ddc9::t_04cb5f0e5462a2 47553-47561
+frontend/src/screens/magic.tsx
+  s_15002c6670ddc9::t_6dede3705646e9 294-310,312
+  s_15002c6670ddc9::t_875b09f1f56cc6 250
+  s_15002c6670ddc9::t_8e193312b0312d 311
+backend/internal/compose/integration/magic_scope_integration_test.go
+  s_15002c6670ddc9::t_8a11fa17a1ca42 450-451
+  s_15002c6670ddc9::t_db70220c731420 482-484
+  s_15002c6670ddc9::t_49273aa0834cdc 661-667,669,671,673-675
+backend/internal/contracts/api_gen.go
+  s_15002c6670ddc9::t_390cee8bc4c094 31594-31597
+frontend/src/api/schema.d.ts
+  s_15002c6670ddc9::t_f41959f7a00a13 36086-36089
+frontend/src/i18n/de.ts
+  s_15002c6670ddc9::t_890879f91564aa 10132
+frontend/src/i18n/en.ts
+  s_15002c6670ddc9::t_9f7b8055d10f65 10364
+frontend/src/i18n/vi.ts
+  s_15002c6670ddc9::t_09202949a14b45 10000
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "32454692ce7f30c4d4ca19f3de2cd4bd052f6e08",
+  "prompts": {},
+  "sessions": {
+    "s_15002c6670ddc9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a13639d2-dae4-4f62-8caf-c894ee4c2a86",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
