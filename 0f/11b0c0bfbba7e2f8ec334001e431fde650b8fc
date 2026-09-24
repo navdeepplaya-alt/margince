@@ -1,0 +1,37 @@
+backend/internal/compose/magic/service.go
+  s_15002c6670ddc9::t_76236944565eac 48-50
+  s_15002c6670ddc9::t_ff3df34535b99b 36-39
+  s_15002c6670ddc9::t_1c67ca4c5113e0 134-152
+  s_15002c6670ddc9::t_571974c5836fb6 169-171
+  s_15002c6670ddc9::t_e6389faca45200 44-47
+  s_15002c6670ddc9::t_ce28a8c247692e 51
+backend/internal/compose/magic/doc.go
+  s_15002c6670ddc9::t_575625a7ce13b2 13-17
+backend/internal/compose/magic/couldnot.go
+  s_15002c6670ddc9::t_055be08fbb980c 11,13-17
+backend/internal/compose/magic/watching_test.go
+  s_15002c6670ddc9::t_2a4b4c287eb169 1-202
+backend/internal/compose/magic/watching.go
+  s_15002c6670ddc9::t_d3268c88162fdb 1-162
+backend/internal/compose/magic/needsyou_test.go
+  s_15002c6670ddc9::t_767cdb026dced6 1-289
+  s_15002c6670ddc9::t_9cd41c8d0be0a2 290-291
+backend/internal/compose/magic/needsyou.go
+  s_15002c6670ddc9::t_8cfdc348271976 1-154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0f11b0c0bfbba7e2f8ec334001e431fde650b8fc",
+  "prompts": {},
+  "sessions": {
+    "s_15002c6670ddc9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a13639d2-dae4-4f62-8caf-c894ee4c2a86",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
