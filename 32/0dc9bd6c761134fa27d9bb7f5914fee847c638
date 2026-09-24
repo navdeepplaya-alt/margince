@@ -1,0 +1,25 @@
+frontend/src/api/schema.d.ts
+  s_02cfbb9cee728a::t_5826a3f142d176 32875
+backend/api/crm.yaml
+  s_02cfbb9cee728a::t_9b041d84d824b1 44096
+backend/migrations/core/1790219369_the_deal_room_and_the_review_say_manual.up.sql
+  s_02cfbb9cee728a::t_677f9bb94e2cec 1
+backend/internal/contracts/api_gen.go
+  s_02cfbb9cee728a::t_af5120c0fa70c1 32984
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "320dc9bd6c761134fa27d9bb7f5914fee847c638",
+  "prompts": {},
+  "sessions": {
+    "s_02cfbb9cee728a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47f8c143-15cf-4259-b05a-6a4a5a81cae0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
