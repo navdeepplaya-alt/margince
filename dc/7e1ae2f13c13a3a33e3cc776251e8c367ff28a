@@ -1,0 +1,111 @@
+frontend/src/screens/search.test.tsx
+  s_b77c1079a9f7f5::t_263f8bd199392a 519-544
+  s_b77c1079a9f7f5::t_e8b115cfe44bf0 453-518
+backend/internal/modules/search/partnermarker_test.go
+  s_b77c1079a9f7f5::t_ccad124f949a1b 1-68,70-88,90-100
+  s_b77c1079a9f7f5::t_078810cac70eee 69,89
+backend/internal/contracts/api_gen.go
+  s_b77c1079a9f7f5::t_d629858403490f 35765-35767
+backend/internal/modules/contacts/partnermarker.go
+  s_b77c1079a9f7f5::t_245e35f1d39f7d 24-27,30
+  s_b77c1079a9f7f5::t_4aea68c12688a0 59
+  s_b77c1079a9f7f5::t_47c31fc42f6a30 18-20,22-23,29,35-37,41-50,52-58,60
+  s_b77c1079a9f7f5::t_e12becbd369ba3 1-17,21,28,31-34,38-40,51,61-76
+frontend/src/app/palettesearch.ts
+  s_9cfbff6c14d0fa::t_1a08cb8014a7e7 83-90,92-106
+  s_b77c1079a9f7f5::t_263f8bd199392a 91
+backend/internal/modules/contacts/partner.go
+  s_b77c1079a9f7f5::t_e7697baaa4baa6 29-38
+  s_b77c1079a9f7f5::t_336e20363ae74a 39
+  s_b77c1079a9f7f5::t_a88e455d06c046 311,392
+backend/internal/compose/server.go
+  s_b77c1079a9f7f5::t_f61219d3038f3f 155
+backend/internal/modules/contacts/company_relationship_types.go
+  s_b77c1079a9f7f5::t_9a880e96135d49 145-148,151
+backend/internal/modules/search/handlers.go
+  s_b77c1079a9f7f5::t_44aa7eecba253a 47
+  s_b77c1079a9f7f5::t_ef6c9837c59756 117-119
+  s_b77c1079a9f7f5::t_529985c84fd01b 29-35
+backend/internal/modules/search/wirehits_test.go
+  s_b77c1079a9f7f5::t_5973df01f01047 74-98
+backend/internal/compose/integration/search_integration_test.go
+  s_b77c1079a9f7f5::t_361aa10859a3b0 193,198-199
+  s_b77c1079a9f7f5::t_37b2d387400e13 161-162
+  s_b77c1079a9f7f5::t_f5cb2b8522d958 27
+  s_b77c1079a9f7f5::t_6cb930d47717a8 218-251
+  s_b77c1079a9f7f5::t_6ac19c478869ba 24-25
+  s_b77c1079a9f7f5::t_96a6b556187496 153-160,163-192,194-197,200-216,252-284,290,309-311,314-316
+  s_b77c1079a9f7f5::t_4a82da068e312f 515
+  s_b77c1079a9f7f5::t_1dac0254f76bee 285-289,291-308,312-313
+  s_334cd28fdaef4c::t_75b1771510f4f2 217
+backend/internal/modules/search/store.go
+  s_b77c1079a9f7f5::t_3d7418b4719ed2 227-230
+  s_b77c1079a9f7f5::t_966364cbdf8fee 72-77
+  s_b77c1079a9f7f5::t_451c0d700ab0a0 87-90
+  s_b77c1079a9f7f5::t_71e21e4be13dcd 50
+  s_b77c1079a9f7f5::t_d8c989f5cfedbd 43-49,51
+  s_b77c1079a9f7f5::t_611bc87d0a36bf 120,122
+  s_b77c1079a9f7f5::t_12bf06acd49451 121
+frontend/src/i18n/vi.ts
+  s_9cfbff6c14d0fa::t_6c9c4c3b6f7eb8 515-516
+  s_b77c1079a9f7f5::t_263f8bd199392a 501
+backend/internal/modules/search/partnermarker.go
+  s_b77c1079a9f7f5::t_bc9ceac7b9a84d 1-16,20-25,27-74
+  s_b77c1079a9f7f5::t_c9eda017de106f 17-19
+  s_b77c1079a9f7f5::t_84384aba32237e 26
+frontend/src/api/schema.d.ts
+  s_b77c1079a9f7f5::t_d4a254ea6d9b7b 29717-29718
+frontend/src/screens/search.tsx
+  s_9cfbff6c14d0fa::t_a84e8761e72b3c 25,269-272,278-288
+  s_b77c1079a9f7f5::t_263f8bd199392a 273-277
+frontend/src/screens/search.stories.tsx
+  s_b77c1079a9f7f5::t_adc0fdea77311a 105-113,226-232
+frontend/src/i18n/en.ts
+  s_9cfbff6c14d0fa::t_1fba7873fc2285 507,521-522
+frontend/src/app/palette.stories.tsx
+  s_b77c1079a9f7f5::t_adc0fdea77311a 94
+backend/internal/modules/contacts/partnerlist.go
+  s_b77c1079a9f7f5::t_a88e455d06c046 171
+frontend/src/i18n/de.ts
+  s_9cfbff6c14d0fa::t_35f3f4cbb1e80a 497,511-512
+backend/internal/modules/contacts/partner_attribution_target.go
+  s_b77c1079a9f7f5::t_a88e455d06c046 46
+frontend/src/app/palette.test.tsx
+  s_b77c1079a9f7f5::t_263f8bd199392a 381-388,395-405
+  s_b77c1079a9f7f5::t_012019d8cb7615 355-380
+  s_b77c1079a9f7f5::t_a67155490ad77b 389-394
+backend/api/crm.yaml
+  s_b77c1079a9f7f5::t_1ba4f9f0ad5959 40626-40635
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dc7e1ae2f13c13a3a33e3cc776251e8c367ff28a",
+  "prompts": {},
+  "sessions": {
+    "s_334cd28fdaef4c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "29b65122-d6d3-487b-8bbd-67f425d0afa1",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_9cfbff6c14d0fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-acaaa255b14bb012f",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_b77c1079a9f7f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b22ecbc3-a9de-4a70-b3cf-a553e5a3f5dd",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": null
+    }
+  }
+}
