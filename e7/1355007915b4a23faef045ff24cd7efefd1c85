@@ -1,0 +1,85 @@
+backend/internal/modules/search/partnermarker.go
+  s_b77c1079a9f7f5::t_bc9ceac7b9a84d 1-16,21-79
+  s_b77c1079a9f7f5::t_59e387a461fb08 17-20
+backend/internal/modules/search/handlers.go
+  s_b77c1079a9f7f5::t_ef6c9837c59756 117-119
+  s_b77c1079a9f7f5::t_44aa7eecba253a 47
+  s_b77c1079a9f7f5::t_529985c84fd01b 29-35
+backend/api/crm.yaml
+  s_b77c1079a9f7f5::t_1ba4f9f0ad5959 40626-40635
+frontend/src/screens/search.stories.tsx
+  s_b77c1079a9f7f5::t_adc0fdea77311a 105-113,226-232
+backend/internal/compose/integration/search_integration_test.go
+  s_b77c1079a9f7f5::t_77641aedcba77c 249-253,255
+  s_b77c1079a9f7f5::t_634c5e5b829c66 160
+  s_b77c1079a9f7f5::t_4a82da068e312f 461
+  s_b77c1079a9f7f5::t_f5cb2b8522d958 25
+  s_b77c1079a9f7f5::t_96a6b556187496 151-159,161-248,254,256-262
+backend/internal/modules/contacts/partnerlist.go
+  s_b77c1079a9f7f5::t_da71420e5633bb 171
+backend/internal/modules/contacts/partnermarker.go
+  s_b77c1079a9f7f5::t_e12becbd369ba3 1-57
+backend/internal/modules/search/store.go
+  s_b77c1079a9f7f5::t_966364cbdf8fee 73-78
+  s_b77c1079a9f7f5::t_d8c989f5cfedbd 43-52
+  s_b77c1079a9f7f5::t_451c0d700ab0a0 88-91
+  s_b77c1079a9f7f5::t_611bc87d0a36bf 121-124
+  s_b77c1079a9f7f5::t_3d7418b4719ed2 229-232
+backend/internal/compose/server.go
+  s_b77c1079a9f7f5::t_f61219d3038f3f 155
+backend/internal/modules/contacts/partner_attribution_target.go
+  s_b77c1079a9f7f5::t_cd941eb3f50fc9 46
+frontend/src/app/palette.stories.tsx
+  s_b77c1079a9f7f5::t_adc0fdea77311a 94
+frontend/src/api/schema.d.ts
+  s_b77c1079a9f7f5::t_d4a254ea6d9b7b 29717-29718
+backend/internal/modules/search/partnermarker_test.go
+  s_b77c1079a9f7f5::t_ccad124f949a1b 1-103
+backend/internal/modules/contacts/partner.go
+  s_b77c1079a9f7f5::t_532d06d681fcbe 306
+  s_b77c1079a9f7f5::t_08f9aa6f2f23c1 387
+  s_b77c1079a9f7f5::t_3babb69728108d 30-32
+  s_b77c1079a9f7f5::t_336e20363ae74a 29,33-34
+backend/internal/modules/search/wirehits_test.go
+  s_b77c1079a9f7f5::t_5973df01f01047 74-98
+backend/internal/contracts/api_gen.go
+  s_b77c1079a9f7f5::t_d629858403490f 35765-35767
+frontend/src/app/palette.test.tsx
+  s_b77c1079a9f7f5::t_012019d8cb7615 355-380
+frontend/src/screens/search.test.tsx
+  s_b77c1079a9f7f5::t_e8b115cfe44bf0 453-518
+frontend/src/app/palettesearch.ts
+  s_9cfbff6c14d0fa::t_1a08cb8014a7e7 83-106
+frontend/src/i18n/de.ts
+  s_9cfbff6c14d0fa::t_35f3f4cbb1e80a 497,511-512
+frontend/src/i18n/en.ts
+  s_9cfbff6c14d0fa::t_1fba7873fc2285 507,521-522
+frontend/src/i18n/vi.ts
+  s_9cfbff6c14d0fa::t_6c9c4c3b6f7eb8 501,515-516
+frontend/src/screens/search.tsx
+  s_9cfbff6c14d0fa::t_a84e8761e72b3c 25,269-286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e71355007915b4a23faef045ff24cd7efefd1c85",
+  "prompts": {},
+  "sessions": {
+    "s_9cfbff6c14d0fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-acaaa255b14bb012f",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_b77c1079a9f7f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b22ecbc3-a9de-4a70-b3cf-a553e5a3f5dd",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
