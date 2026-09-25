@@ -1,0 +1,56 @@
+backend/internal/compose/magic/names_test.go
+  s_958dac5e67d3b2::t_a1ee19999a67bc 1-138
+backend/internal/compose/magic/names.go
+  s_958dac5e67d3b2::t_e87814442bfde7 1-74
+backend/gates/frontendmagiclanesources_test.go
+  s_958dac5e67d3b2::t_3a9b55aa999297 1-198
+  s_958dac5e67d3b2::t_96ca97fe54fa88 199-201
+backend/internal/compose/attentioncountexpiry_integration_test.go
+  s_958dac5e67d3b2::t_2e5304b199a198 1-79
+backend/gates/gatecensus_test.go
+  s_958dac5e67d3b2::t_3897658aa22329 55
+backend/internal/compose/attentionseam.go
+  s_958dac5e67d3b2::t_8fe07e64d17996 70-81
+backend/internal/compose/magic/needsyou.go
+  s_958dac5e67d3b2::t_2c7a1e67cac996 122-125,190-193
+backend/internal/compose/magic/needsyou_test.go
+  s_958dac5e67d3b2::t_160d9af1bdb7a3 86-90,163-166,173-175
+backend/internal/compose/magic/service.go
+  s_958dac5e67d3b2::t_913c5250b719c7 51-54,69-74,153-158
+backend/internal/compose/magicseam.go
+  s_958dac5e67d3b2::t_d8552a4da60a75 51-52
+backend/internal/modules/approvals/service.go
+  s_958dac5e67d3b2::t_ef9a60d259bf8d 206-217
+docs/reference/gate-inventory.md
+  s_958dac5e67d3b2::t_8e44bd80b6251f 76
+frontend/src/i18n/de.ts
+  s_958dac5e67d3b2::t_3494787785e11a 10101,10142
+frontend/src/i18n/en.ts
+  s_958dac5e67d3b2::t_6875a9ea493fe9 10306,10345
+frontend/src/i18n/vi.ts
+  s_958dac5e67d3b2::t_33dbcfee6b1561 10008,10048
+frontend/src/screens/channelproviders.ts
+  s_958dac5e67d3b2::t_66ce19ba78ece4 49-50
+frontend/src/screens/magic.test.tsx
+  s_958dac5e67d3b2::t_05d553f99e6916 13,111,131-167
+frontend/src/screens/magic.testkit.tsx
+  s_958dac5e67d3b2::t_b127655eff8abd 46-70
+frontend/src/screens/magic.tsx
+  s_958dac5e67d3b2::t_563e9e7baff289 35,68-81,131-132,134-136,294-298,303-310,313,338-350
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eba478888b5b4318181df629bad0b2ee1357b556",
+  "prompts": {},
+  "sessions": {
+    "s_958dac5e67d3b2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14950db8-af57-4d0b-935f-4aa526c8af4d",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
