@@ -1,0 +1,21 @@
+frontend/src/i18n/en.ts
+  s_15002c6670ddc9::t_662b57b0cbe625 10315
+frontend/src/screens/magic.test.tsx
+  s_15002c6670ddc9::t_66147e7f622aba 234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e767d8522d000e53de4cb93463ad476c77bd8b3",
+  "prompts": {},
+  "sessions": {
+    "s_15002c6670ddc9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a13639d2-dae4-4f62-8caf-c894ee4c2a86",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

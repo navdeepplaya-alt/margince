@@ -1,0 +1,28 @@
+backend/internal/compose/integration/magic_scope_integration_test.go
+  s_15002c6670ddc9::t_0f088b3cea4507 27,37-38,40-41
+  s_394cff51c14f5f::t_33513021f6448c 449-743
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "670b5294fd292253ea52f6f959a58dad709733df",
+  "prompts": {},
+  "sessions": {
+    "s_15002c6670ddc9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a13639d2-dae4-4f62-8caf-c894ee4c2a86",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_394cff51c14f5f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bf183b2d-e87f-4ad6-baf5-3b47f1d60bb5",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

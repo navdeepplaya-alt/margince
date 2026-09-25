@@ -1,0 +1,49 @@
+frontend/src/screens/magic.tsx
+  s_15002c6670ddc9::t_490d14250f644b 1-32,34-48,50-298,300-301,303-354
+  s_15002c6670ddc9::t_89b353cf061f10 33
+  s_15002c6670ddc9::t_7de64cf26ce35e 299,302
+  s_15002c6670ddc9::t_cbc1b2d0fa95b7 49
+frontend/src/i18n/vi.ts
+  s_15002c6670ddc9::t_cfa79585750f65 9996-10069
+frontend/src/i18n/de.ts
+  s_15002c6670ddc9::t_067915604b2c19 10090-10092,10094-10119,10121-10132,10134-10148,10150,10152-10154,10156-10167
+frontend/src/i18n/en.ts
+  s_15002c6670ddc9::t_47d2b0c82955b8 10291-10367
+frontend/src/screens/magic.queries.ts
+  s_15002c6670ddc9::t_de449c5b09e79b 1-40
+frontend/src/screens/brief.testkit.tsx
+  s_15002c6670ddc9::t_edab0f70386b07 88-103
+frontend/src/screens/brief.css
+  s_15002c6670ddc9::t_eb9af8a8418d8f 468-505
+frontend/src/screens/brief.tsx
+  s_15002c6670ddc9::t_2768a65fdcc959 34
+  s_15002c6670ddc9::t_0788acb4f2adb5 248-253
+frontend/src/screens/magic.testkit.tsx
+  s_15002c6670ddc9::t_8b06075487e934 1-108
+frontend/src/screens/magic.test.tsx
+  s_15002c6670ddc9::t_a25b741e8d9199 3-13,15-253
+  s_15002c6670ddc9::t_c450b5d9543465 1-2
+  s_15002c6670ddc9::t_3a6873d8d747d6 14
+  s_15002c6670ddc9::t_8a4b65d543ccbb 254-257
+frontend/src/screens/magic.keys.ts
+  s_15002c6670ddc9::t_4ea4efb2029d8f 1-16,18-99
+  s_15002c6670ddc9::t_e54450a9f535bc 17
+frontend/src/screens/magic.stories.tsx
+  s_15002c6670ddc9::t_70215c58fc3e3f 1-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a8a7da821d973939b4391413d0f57bf525b1b975",
+  "prompts": {},
+  "sessions": {
+    "s_15002c6670ddc9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a13639d2-dae4-4f62-8caf-c894ee4c2a86",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

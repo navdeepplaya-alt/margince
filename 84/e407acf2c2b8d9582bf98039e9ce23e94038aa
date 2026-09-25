@@ -1,0 +1,27 @@
+backend/internal/compose/attentionopsseam.go
+  s_15002c6670ddc9::t_9d30482a87f287 24,84-91
+backend/internal/compose/attentionseam.go
+  s_15002c6670ddc9::t_b22ad4156089da 210-213
+backend/internal/compose/magicseam.go
+  s_15002c6670ddc9::t_04a079ac7e1650 51,59-61,76-78
+backend/internal/compose/serverassembly.go
+  s_15002c6670ddc9::t_2d9c786cf2c045 171-181
+backend/internal/modules/capture/health.go
+  s_15002c6670ddc9::t_d1bfde458f9d51 70-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "84e407acf2c2b8d9582bf98039e9ce23e94038aa",
+  "prompts": {},
+  "sessions": {
+    "s_15002c6670ddc9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a13639d2-dae4-4f62-8caf-c894ee4c2a86",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

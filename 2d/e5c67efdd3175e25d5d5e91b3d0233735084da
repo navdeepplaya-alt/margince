@@ -1,0 +1,27 @@
+backend/internal/compose/attentionseam.go
+  s_15002c6670ddc9::t_54586c15c8904a 62
+backend/internal/compose/magicseam.go
+  s_15002c6670ddc9::t_490f65431be476 64-67,71
+frontend/e2e/seed.ts
+  s_15002c6670ddc9::t_3d7acfbdf437bb 1101-1150,2051-2057
+frontend/src/screens/magic.test.tsx
+  s_15002c6670ddc9::t_23b66ad9d1d45e 124,307-323
+frontend/src/screens/magic.tsx
+  s_15002c6670ddc9::t_f32bb1cb6bced8 100,202-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2de5c67efdd3175e25d5d5e91b3d0233735084da",
+  "prompts": {},
+  "sessions": {
+    "s_15002c6670ddc9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a13639d2-dae4-4f62-8caf-c894ee4c2a86",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+backend/gates/magiccaptureconcerns_test.go
+  s_15002c6670ddc9::t_a5d1fc0504b5a7 1-27,34-139,141-240
+  s_15002c6670ddc9::t_db77f04bf21e17 140
+  s_15002c6670ddc9::t_3ca9b431ae8e9e 28-33
+backend/gates/frontendmagickeys_test.go
+  s_15002c6670ddc9::t_26ba422afd09d1 18-19
+backend/internal/compose/attentionopsseam.go
+  s_15002c6670ddc9::t_f3813416e756e6 84-85
+backend/internal/compose/integration/magic_scope_integration_test.go
+  s_15002c6670ddc9::t_0367035ecd0e84 499-500
+backend/internal/compose/magic/needsyou.go
+  s_15002c6670ddc9::t_97ec51cf2f43b4 164-169
+docs/reference/gate-inventory.md
+  s_15002c6670ddc9::t_b432edb39009ed 75,98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a37ff290d144d382fb65987bdc3dfe204460f126",
+  "prompts": {},
+  "sessions": {
+    "s_15002c6670ddc9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a13639d2-dae4-4f62-8caf-c894ee4c2a86",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
