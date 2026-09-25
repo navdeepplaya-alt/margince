@@ -1,0 +1,33 @@
+backend/internal/compose/jobs_assurance.go
+  s_becedc37f7639d::t_0aaaa08adf6d76 27,29,139-147
+backend/internal/modules/assurance/scan.go
+  s_becedc37f7639d::t_baaa3dc415fb62 12,115-128
+frontend/src/i18n/de.ts
+  s_becedc37f7639d::t_aafa3e418188b1 4014,4016,4018-4019,4023-4026
+frontend/src/i18n/en.ts
+  s_becedc37f7639d::t_b941ea30bc43eb 4139,4141,4143-4144,4148-4151
+frontend/src/i18n/vi.ts
+  s_becedc37f7639d::t_de0072829212e8 3981,3983,3985-3987,3990-3993
+frontend/src/screens/analytics.forecast.firstcheck.test.tsx
+  s_becedc37f7639d::t_7e2ed382c785fd 36-44,53-62,75,161-197
+frontend/src/screens/analytics.forecast.firstcheck.tsx
+  s_becedc37f7639d::t_681df9235a5110 2,10,23-33,42,49-51,54,57-89,124,126-131,140,152,157-169,173,183-187,189-190,192-198,202-214
+frontend/src/screens/analytics.forecast.review.tsx
+  s_becedc37f7639d::t_53c699a810b3cc 107,111,157-159,161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "26fde57836dabbd737c35bc209738804cc24b5cf",
+  "prompts": {},
+  "sessions": {
+    "s_becedc37f7639d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c071de21-b16a-4b26-831e-682a73601e3e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
