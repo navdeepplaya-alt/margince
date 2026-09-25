@@ -1,0 +1,33 @@
+frontend/src/screens/brief.factors.ts
+  s_ccc2283a8c560b::t_f6bd4e954d4a6d 4-5,12-14,20-28,30-32,37,42,49,53,55-59
+frontend/src/screens/brief.factors.test.ts
+  s_ccc2283a8c560b::t_95a1b6a9306158 9
+  s_ccc2283a8c560b::t_290356cfbf8b01 12,15-26,30,36,40-46,54,60-61,64-71
+  s_ccc2283a8c560b::t_6a57dac98b1fce 5
+frontend/src/i18n/de.ts
+  s_ccc2283a8c560b::t_431874a09d42aa 2960-2962
+frontend/src/i18n/vi.ts
+  s_ccc2283a8c560b::t_4d198dc3666e06 2943,2945
+frontend/src/i18n/en.ts
+  s_ccc2283a8c560b::t_f49921903f91d1 3043-3046,3048
+frontend/src/screens/briefcoverage.test.tsx
+  s_ccc2283a8c560b::t_18e427c962e058 54-58
+frontend/src/screens/briefcoverage.tsx
+  s_ccc2283a8c560b::t_cf5c407d820443 5,15-23,34,37-41,44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6461a0c93417095883f778028b6dca103e3bdf01",
+  "prompts": {},
+  "sessions": {
+    "s_ccc2283a8c560b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "095c67e4-643b-489f-afb2-f314e79637f1",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
