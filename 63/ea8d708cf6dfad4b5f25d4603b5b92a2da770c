@@ -1,0 +1,24 @@
+frontend/src/screens/brief.tsx
+  s_ccc2283a8c560b::t_64cb73b1777324 212-216
+frontend/src/screens/briefcoverage.test.tsx
+  s_ccc2283a8c560b::t_55f23e12af368c 6
+  s_ccc2283a8c560b::t_65180fd82c9b3b 38-83
+frontend/src/screens/briefcoverage.tsx
+  s_ccc2283a8c560b::t_21ac4e5684eccd 6-7,11-17,20,22-26,31-32,39,41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "63ea8d708cf6dfad4b5f25d4603b5b92a2da770c",
+  "prompts": {},
+  "sessions": {
+    "s_ccc2283a8c560b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "095c67e4-643b-489f-afb2-f314e79637f1",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
