@@ -1,0 +1,59 @@
+frontend/src/screens/contactrail.stories.tsx
+  s_334cd28fdaef4c::t_da8c90ce8b73fc 254
+  s_334cd28fdaef4c::t_61a9ed241bdedb 244
+  s_334cd28fdaef4c::t_dc4f24dacd24cd 284-302
+frontend/src/screens/contactreadings.ts
+  s_334cd28fdaef4c::t_69250e6ea15e4b 1,3,5-10,12-21,24,27-29
+frontend/src/screens/contactrail.test.tsx
+  s_334cd28fdaef4c::t_07c57950dc4438 174-177
+  s_334cd28fdaef4c::t_9c79813a7a7624 269
+  s_334cd28fdaef4c::t_3982cb8f2986e9 792-857
+frontend/src/screens/contactconsentpanel.tsx
+  s_334cd28fdaef4c::t_5417e353244c8f 43,45-48
+  s_334cd28fdaef4c::t_8a151e645d4a66 191
+  s_334cd28fdaef4c::t_6df6d2d118526b 222-228
+  s_334cd28fdaef4c::t_0f916644e5c5a1 49-51
+  s_b77c1079a9f7f5::t_c93893c761d45d 16,44
+  s_334cd28fdaef4c::t_5f4c1677ff1c0b 92-97
+  s_334cd28fdaef4c::t_4eeedbff2e1048 218-221,229-230
+frontend/src/screens/contactpage.test.tsx
+  s_334cd28fdaef4c::t_503d397f0cd538 68-71
+backend/gates/frontendconsentchannels_test.go
+  s_334cd28fdaef4c::t_07e46786a31e01 1-92
+docs/reference/gate-inventory.md
+  s_334cd28fdaef4c::t_3d0a99444aa8ed 70
+backend/gates/enumsync_test.go
+  s_958dac5e67d3b2::t_cfbab758f429b3 53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c37e5087d29f738a41d13719be4ce3ee91981b2a",
+  "prompts": {},
+  "sessions": {
+    "s_334cd28fdaef4c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "29b65122-d6d3-487b-8bbd-67f425d0afa1",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    },
+    "s_958dac5e67d3b2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14950db8-af57-4d0b-935f-4aa526c8af4d",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_b77c1079a9f7f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b22ecbc3-a9de-4a70-b3cf-a553e5a3f5dd",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": null
+    }
+  }
+}
