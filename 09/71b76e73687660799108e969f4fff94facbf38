@@ -1,0 +1,19 @@
+backend/internal/modules/assignments/responsibility_integration_test.go
+  s_3a731245e5991f::t_d53efed1180188 1-260
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0971b76e73687660799108e969f4fff94facbf38",
+  "prompts": {},
+  "sessions": {
+    "s_3a731245e5991f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4b21e2f-4ce6-4430-9c36-44f89534e29d",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
