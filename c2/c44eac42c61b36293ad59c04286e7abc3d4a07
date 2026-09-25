@@ -1,0 +1,21 @@
+frontend/src/screens/briefcoverage.stories.tsx
+  s_ccc2283a8c560b::t_c28af1ba349bab 5
+  s_ccc2283a8c560b::t_3f246f6959a5a3 48-65,67-68
+  s_ccc2283a8c560b::t_f1d061ae10567d 66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c2c44eac42c61b36293ad59c04286e7abc3d4a07",
+  "prompts": {},
+  "sessions": {
+    "s_ccc2283a8c560b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "095c67e4-643b-489f-afb2-f314e79637f1",
+        "model": "unknown"
+      },
+      "human_author": null
+    }
+  }
+}
