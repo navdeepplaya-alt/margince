@@ -1,0 +1,23 @@
+frontend/src/screens/contactconsentpanel.tsx
+  s_6ca52c78ec851c::t_137855586c1132 75-85
+  s_6ca52c78ec851c::t_575a85cc44507e 17
+  s_6ca52c78ec851c::t_927c22e852f2df 8
+  s_6ca52c78ec851c::t_7702a7a2d36079 176,185-194
+  s_6ca52c78ec851c::t_fb4d7723d35fa8 216-245
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bc0ee2374b24206c75d3505d7534138de53588f5",
+  "prompts": {},
+  "sessions": {
+    "s_6ca52c78ec851c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07d9cbdc-daeb-4d22-947c-e6c5b9461480",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
