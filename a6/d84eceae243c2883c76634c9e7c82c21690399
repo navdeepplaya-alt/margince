@@ -1,0 +1,25 @@
+backend/internal/compose/integration/providerclaims_integration_test.go
+  s_bb74e406ccccf2::t_1d0af7c045a0e3 409-410
+  s_bb74e406ccccf2::t_7a9d2bd2c59d2e 517-549
+backend/gates/skipreasonmirror_test.go
+  s_bb74e406ccccf2::t_0287adf24186cb 1-39,44-70,72-92,94-98,100-124,126-132,134-143,145-151,153-156,158-167,169,171-174,176-180,182-207,209-218
+  s_bb74e406ccccf2::t_25595f23260fe5 71
+  s_bb74e406ccccf2::t_ec19734b25575a 93,99,125,133,144,152,157,168,170,175,181,208
+  s_bb74e406ccccf2::t_9d387c177588f8 40-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a6d84eceae243c2883c76634c9e7c82c21690399",
+  "prompts": {},
+  "sessions": {
+    "s_bb74e406ccccf2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1190fbb5-2850-4cb1-9d0b-d55666d8380f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
