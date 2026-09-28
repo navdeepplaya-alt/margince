@@ -1,0 +1,19 @@
+backend/internal/modules/identity/userrole.go
+  s_359eb1bc8922ef::t_170e141f685a68 34,45,48,55,58,75-151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "75ec64c083fc8418d5f6e48be92689f55731445f",
+  "prompts": {},
+  "sessions": {
+    "s_359eb1bc8922ef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "958e3cda-39e0-4864-8d94-a8e23ebf0000",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
