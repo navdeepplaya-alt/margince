@@ -1,0 +1,203 @@
+backend/internal/compose/aicert/decisionleg_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 209-213,229-230,233,236-237
+backend/internal/compose/server.go
+  s_8973185a8ae4a8::t_c8c668717b9477 158
+backend/internal/compose/importernamespace_integration_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 19,139-149
+backend/internal/modules/deals/mapping_sourceauthor_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-46
+backend/internal/modules/contacts/lead.go
+  s_8973185a8ae4a8::t_c8c668717b9477 37-38,208-211,215,218-219
+backend/internal/modules/projects/sourceauthorread.go
+  s_8973185a8ae4a8::t_c8c668717b9477 8
+frontend/src/i18n/en.ts
+  s_8973185a8ae4a8::t_c8c668717b9477 703,718-720
+backend/internal/modules/deals/deal_create.go
+  s_8973185a8ae4a8::t_c8c668717b9477 61-62,273-275,300,307,313,315
+backend/internal/modules/contacts/partner.go
+  s_8973185a8ae4a8::t_c8c668717b9477 29-52,332,425
+backend/internal/compose/recordsourcesystem_integration_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 11
+backend/internal/modules/projects/project.go
+  s_8973185a8ae4a8::t_c8c668717b9477 58-59,109
+  s_8973185a8ae4a8::t_386c3298e92b03 110-111
+backend/internal/modules/search/wirehits_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 74-98
+docs/how-to/import-a-company-spreadsheet.md
+  s_8973185a8ae4a8::t_c8c668717b9477 55-63
+scripts/scheduled-report.sh
+  s_8973185a8ae4a8::t_c8c668717b9477 599-606
+backend/pkg/extension/crm/crm_gen.go
+  s_8973185a8ae4a8::t_c8c668717b9477 430,603-611
+backend/gates/rowscopetables_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 452-463
+frontend/src/screens/search.stories.tsx
+  s_8973185a8ae4a8::t_c8c668717b9477 105-113,226-232
+backend/internal/compose/csvfields.go
+  s_8973185a8ae4a8::t_c8c668717b9477 65,71,76-77,211-213,308,379-381
+backend/internal/modules/contacts/partnermarker.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-71
+backend/internal/compose/importerrecords_integration_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 61-70,93-95,101-103,110,114,124,145
+backend/internal/compose/csvwriters.go
+  s_8973185a8ae4a8::t_c8c668717b9477 62-63,103,406-408,438-440
+backend/gates/tableownershipwaivers_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 176-185
+backend/internal/modules/privacy/suppressionreapply.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-179
+backend/internal/compose/csvimport.go
+  s_8973185a8ae4a8::t_c8c668717b9477 212-214,322-324
+backend/internal/compose/csvcontactwriter.go
+  s_8973185a8ae4a8::t_c8c668717b9477 50-52
+backend/internal/modules/ai/router_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 245-259
+backend/internal/modules/projects/project_errors_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 72-77
+backend/internal/modules/search/graphtrust.go
+  s_8973185a8ae4a8::t_c8c668717b9477 65-66
+backend/internal/shared/kernel/provenance/sourceauthor_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-96
+backend/internal/modules/activities/mapping.go
+  s_8973185a8ae4a8::t_c8c668717b9477 15,287-292,303
+backend/internal/compose/participantbackfill_integration_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 234-235,239-241,246-248,252,255-256,258,265,271-272,278,282
+backend/internal/modules/contacts/company.go
+  s_8973185a8ae4a8::t_c8c668717b9477 38-39,182
+frontend/src/app/palettesearch.ts
+  s_8973185a8ae4a8::t_c8c668717b9477 83-106
+backend/internal/modules/activities/participantbackfill.go
+  s_8973185a8ae4a8::t_c8c668717b9477 34-36
+frontend/src/screens/search.test.tsx
+  s_8973185a8ae4a8::t_c8c668717b9477 477-570
+backend/internal/modules/activities/activity.go
+  s_8973185a8ae4a8::t_c8c668717b9477 88-89,332-335,341-350
+frontend/src/screens/search.tsx
+  s_8973185a8ae4a8::t_c8c668717b9477 9,25,270-286
+  s_8973185a8ae4a8::t_6d6a55b5f06bdc 287
+scripts/contract-breaking-allowlist.txt
+  s_8973185a8ae4a8::t_c8c668717b9477 47
+frontend/src/i18n/vi.ts
+  s_8973185a8ae4a8::t_c8c668717b9477 695,710-712
+backend/internal/modules/contacts/company_relationship_types.go
+  s_8973185a8ae4a8::t_c8c668717b9477 145-148,151
+backend/internal/modules/ai/decisionstamp_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 20-25,35,44
+backend/internal/modules/privacy/suppressionjournal.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-131
+backend/internal/shared/kernel/provenance/sourceauthor.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-75
+frontend/src/i18n/de.ts
+  s_8973185a8ae4a8::t_c8c668717b9477 700,715-717
+backend/internal/modules/contacts/mapping.go
+  s_8973185a8ae4a8::t_c8c668717b9477 18,74-77,85,229-232,240,347-350,360
+backend/internal/modules/ai/decisionstamp.go
+  s_8973185a8ae4a8::t_c8c668717b9477 13,15-17,22
+backend/internal/compose/csvauthor.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-97
+backend/internal/modules/search/store.go
+  s_8973185a8ae4a8::t_c8c668717b9477 43-46,67-72,82-85,115-117,222-225
+backend/internal/modules/agents/recordshapes_gen.go
+  s_8973185a8ae4a8::t_c8c668717b9477 10-15
+backend/internal/modules/contacts/partnerlist.go
+  s_8973185a8ae4a8::t_c8c668717b9477 179,196-199,203-204
+backend/internal/modules/contacts/sourceauthorread.go
+  s_8973185a8ae4a8::t_c8c668717b9477 8
+backend/gates/contactreaders_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 181
+backend/internal/compose/integration/importedtrust_integration_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 31-32
+backend/internal/compose/integration/search_integration_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 24-25,27,153-316,515
+frontend/src/app/palette.stories.tsx
+  s_8973185a8ae4a8::t_c8c668717b9477 94
+frontend/src/app/palette.test.tsx
+  s_8973185a8ae4a8::t_c8c668717b9477 360-410
+backend/gates/piicoverage_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 24-25,467-539
+backend/internal/modules/contacts/partner_attribution_target.go
+  s_8973185a8ae4a8::t_c8c668717b9477 46
+backend/internal/modules/search/handlers.go
+  s_8973185a8ae4a8::t_c8c668717b9477 29-35,47,117-118
+  s_8973185a8ae4a8::t_2ed7fbd124951e 119
+docs/explanation/ai-runtime.md
+  s_8973185a8ae4a8::t_c8c668717b9477 342-345,347-348,350-352,359
+backend/internal/modules/activities/mapping_sourceauthor_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-38
+docs/reference/mcp-info.json
+  s_8973185a8ae4a8::t_c8c668717b9477 14956
+backend/internal/modules/contacts/mapping_sourceauthor_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-83
+scripts/test-scheduled-report.sh
+  s_8973185a8ae4a8::t_c8c668717b9477 156-186
+backend/internal/compose/csvcontactfields.go
+  s_8973185a8ae4a8::t_c8c668717b9477 43-45
+backend/internal/compose/csvimportundo.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-52
+backend/internal/modules/projects/keymint.go
+  s_8973185a8ae4a8::t_c8c668717b9477 257,262,265-266
+backend/internal/compose/suppressionreapply_integration_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-416
+backend/internal/modules/contacts/contact.go
+  s_8973185a8ae4a8::t_c8c668717b9477 80-81,190
+backend/internal/compose/csvcompanyfields.go
+  s_8973185a8ae4a8::t_c8c668717b9477 61,63-66
+backend/internal/modules/projects/mapping_sourceauthor_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-46
+backend/internal/platform/database/storekit/sourceauthor.go
+  s_8973185a8ae4a8::t_c8c668717b9477 6-8,17,20-21,25,29-47,50-57,60-61,63-65,67,72,75-78,80
+backend/internal/compose/csvimport_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 34,44,64,100,146-149,552-571
+  s_8973185a8ae4a8::t_6c3374eba41ae4 572
+backend/internal/modules/search/partnermarker_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-100
+backend/internal/modules/deals/sourceauthorread.go
+  s_8973185a8ae4a8::t_c8c668717b9477 8
+backend/migrations/core/1790575686_the_author_arrives_with_the_record.up.sql
+  s_8973185a8ae4a8::t_c8c668717b9477 1-9
+backend/internal/compose/csvauthor_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-40
+backend/internal/modules/ai/router.go
+  s_8973185a8ae4a8::t_c8c668717b9477 308-314,317-329
+backend/internal/modules/ai/localonly.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-18
+backend/api/crm.yaml
+  s_8973185a8ae4a8::t_c8c668717b9477 28960,29041-29042,29437,29505-29506,34174,34260-34261,34774,35065-35066,36178,36426-36427,37929,37970-37971,42265-42274
+backend/internal/modules/deals/mapping.go
+  s_8973185a8ae4a8::t_c8c668717b9477 15,132-135,156
+backend/internal/platform/database/storekit/sourceauthor_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 12-15,18-47
+backend/migrations/core/1790575686_the_author_arrives_with_the_record.down.sql
+  s_8973185a8ae4a8::t_c8c668717b9477 1-18
+backend/internal/compose/importerauthor_integration_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-176
+backend/internal/modules/ai/decideroute_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 398-401,406,409-410
+backend/internal/modules/search/partnermarker.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-72
+backend/internal/compose/integration/csvimportauthor_integration_test.go
+  s_8973185a8ae4a8::t_c8c668717b9477 1-131
+backend/internal/modules/projects/handlers.go
+  s_8973185a8ae4a8::t_c8c668717b9477 220-223,231
+backend/internal/modules/contacts/resolvecreate.go
+  s_8973185a8ae4a8::t_c8c668717b9477 122,144-147,153,155,158,248,286-289,295,297,300
+backend/internal/contracts/api_gen.go
+  s_8973185a8ae4a8::t_275f2cd959679a 19214,23886,26692,28104-28112,28199-28204,28248-28253,28353-28358,28526-28537,28676-28681,29056,32469,35099,37412-37414,50977-50992,51086-51099,51213-51228,51323-51336,51802-51817,51959-51972,52220-52235,52341-52354,52836-52851,52924-52937
+frontend/src/api/schema.d.ts
+  s_8973185a8ae4a8::t_eac12ff9c74d3f 20338,20393-20399,20688,20735-20741,24385,24457-24463,24953,25187-25193,26171,26374-26380,27723,27760-27766,30973-30974
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "03c3cde943db07a567a00b684d1668f56b9c0d12",
+  "prompts": {},
+  "sessions": {
+    "s_8973185a8ae4a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fcf146bd-c271-40dc-b691-aab37a013c29",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
