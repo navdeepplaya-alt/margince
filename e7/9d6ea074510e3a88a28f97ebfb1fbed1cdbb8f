@@ -1,0 +1,23 @@
+frontend/src/i18n/en.ts
+  s_ccc2283a8c560b::t_9a8032488834b4 3238-3247
+frontend/src/i18n/vi.ts
+  s_ccc2283a8c560b::t_d23b3b668ffca3 3135-3138
+frontend/src/i18n/de.ts
+  s_ccc2283a8c560b::t_ab46736de6d753 3159-3162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e79d6ea074510e3a88a28f97ebfb1fbed1cdbb8f",
+  "prompts": {},
+  "sessions": {
+    "s_ccc2283a8c560b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "095c67e4-643b-489f-afb2-f314e79637f1",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
