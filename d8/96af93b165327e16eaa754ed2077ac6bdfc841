@@ -1,0 +1,50 @@
+backend/migrations/core/1790565400_a_run_can_be_skipped_for_a_category_in_flight.up.sql
+  s_bb74e406ccccf2::t_86b3145b3b3cd0 1-21
+backend/internal/compose/contact360/providerskipstate_test.go
+  s_bb74e406ccccf2::t_2d116311aa7858 1-52
+backend/internal/shared/ports/provider/runvocabulary.go
+  s_bb74e406ccccf2::t_dd0c769af23f60 90-98
+backend/migrations/core/1790565400_a_run_can_be_skipped_for_a_category_in_flight.down.sql
+  s_bb74e406ccccf2::t_86b3145b3b3cd0 1-17
+backend/internal/modules/integrations/runs_integration_test.go
+  s_bb74e406ccccf2::t_011863555775bb 139,141,250-254,283-290,559-682
+backend/api/crm.yaml
+  s_bb74e406ccccf2::t_f6fafbb8cdc628 28520,28533-28536
+backend/internal/modules/integrations/runduplicates.go
+  s_bb74e406ccccf2::t_b54cb13fc94a7d 42-43
+  s_bb74e406ccccf2::t_3a0820aec11c18 44-51
+  s_bb74e406ccccf2::t_e1daba2c4ef294 1-41,52-97
+backend/migrations/core/1790565500_a_run_category_delete_finds_its_children.down.sql
+  s_bb74e406ccccf2::t_9374cf4992669a 1-5
+backend/migrations/core/1790565500_a_run_category_delete_finds_its_children.up.sql
+  s_bb74e406ccccf2::t_9374cf4992669a 1-12
+backend/migrations/testdata/head_catalog.txt
+  s_bb74e406ccccf2::t_d25073103c7194 5324
+  s_bb74e406ccccf2::t_cfe33d93b3c60b 5349
+backend/internal/compose/contact360/providerstate.go
+  s_bb74e406ccccf2::t_706697eef3c99a 166-170
+  s_bb74e406ccccf2::t_350603cb8dfcfd 104-105
+  s_bb74e406ccccf2::t_4c9e3071339ce6 100-103,106-109,144-147
+backend/internal/modules/integrations/runs.go
+  s_bb74e406ccccf2::t_9ea6221b43774e 342-355
+frontend/src/api/schema.d.ts
+  s_bb74e406ccccf2::t_13f9f4573a245a 20063-20066,20069
+backend/internal/contracts/api_gen.go
+  s_bb74e406ccccf2::t_196c9876c197cf 11606,11622-11623,35558-35561,35590-35593
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d896af93b165327e16eaa754ed2077ac6bdfc841",
+  "prompts": {},
+  "sessions": {
+    "s_bb74e406ccccf2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1190fbb5-2850-4cb1-9d0b-d55666d8380f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
