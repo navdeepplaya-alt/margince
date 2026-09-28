@@ -1,0 +1,97 @@
+backend/internal/modules/privacy/historyfieldmask_test.go
+  s_8973185a8ae4a8::t_e4f458f8763a39 39-41,92,110-111
+backend/internal/platform/auth/fieldmaskgroups.go
+  s_8973185a8ae4a8::t_48484d3b314e22 6-10,15,24,26,31-32,34-37,47,54-63,65,68,86,109-110,117-118,120
+backend/internal/modules/deals/dealfigures_test.go
+  s_8973185a8ae4a8::t_6e697ed686aec5 47
+backend/api/crm.yaml
+  s_8973185a8ae4a8::t_97c9413953c927 34262-34268
+backend/internal/compose/jobschedule_test.go
+  s_8973185a8ae4a8::t_97c9413953c927 9,11,128-183,185-186,188
+backend/internal/modules/privacy/recordhistory.go
+  s_8973185a8ae4a8::t_97c9413953c927 227-230,233
+backend/internal/modules/privacy/fieldhistory.go
+  s_8973185a8ae4a8::t_97c9413953c927 182-185,188
+backend/internal/modules/search/queryschema.go
+  s_8973185a8ae4a8::t_e9668d1f69c8b1 212
+backend/internal/shared/kernel/fieldmask/fieldmask.go
+  s_8973185a8ae4a8::t_97c9413953c927 1-102
+backend/internal/modules/finance/formulas_test.go
+  s_8973185a8ae4a8::t_97c9413953c927 432-466
+backend/internal/modules/privacy/recordhistory_test.go
+  s_8973185a8ae4a8::t_97c9413953c927 7,15,17,287,352-423
+backend/internal/modules/search/queryvocab.go
+  s_8973185a8ae4a8::t_97c9413953c927 269-270,273,335-361
+  s_8973185a8ae4a8::t_e18e7517d6afd9 362-363
+backend/internal/modules/search/queryschema_test.go
+  s_8973185a8ae4a8::t_e9668d1f69c8b1 102
+backend/internal/modules/search/queryvalidate.go
+  s_8973185a8ae4a8::t_e9668d1f69c8b1 282-285
+backend/internal/platform/auth/fieldmaskapply.go
+  s_8973185a8ae4a8::t_ed21cf40d24391 101
+  s_8973185a8ae4a8::t_fcd6a89642ffc1 17
+backend/gates/maskedamountreaders_test.go
+  s_8973185a8ae4a8::t_6e697ed686aec5 240
+backend/internal/modules/finance/formulas.go
+  s_8973185a8ae4a8::t_97c9413953c927 226-235
+backend/internal/shared/kernel/fieldmask/fieldmask_test.go
+  s_8973185a8ae4a8::t_97c9413953c927 1-69
+backend/internal/modules/deals/partner_attribution_test.go
+  s_8973185a8ae4a8::t_6e697ed686aec5 306
+backend/internal/modules/search/queryrefusal.go
+  s_8973185a8ae4a8::t_e9668d1f69c8b1 47-48
+backend/internal/modules/deals/riskverdict.go
+  s_8973185a8ae4a8::t_97c9413953c927 185-188,190
+backend/internal/compose/integration/historyfieldmask_integration_test.go
+  s_8973185a8ae4a8::t_f840b4175d500c 123-125,128-133
+backend/internal/platform/auth/maskedcolumn_test.go
+  s_8973185a8ae4a8::t_f40b5d423ecacc 196
+  s_8973185a8ae4a8::t_97c9413953c927 8,13,197-323
+backend/internal/modules/deals/maskablefields_test.go
+  s_8973185a8ae4a8::t_97c9413953c927 9-11,33-34,46-47,59,68-70,77-98
+backend/internal/modules/deals/fieldmask.go
+  s_8973185a8ae4a8::t_c1d53342b14796 101,167
+  s_8973185a8ae4a8::t_97c9413953c927 19,32,34-37,39-41,44,52-55
+backend/internal/platform/auth/fieldmask.go
+  s_8973185a8ae4a8::t_97c9413953c927 20,31-34,36-40,46-53,87
+  s_8973185a8ae4a8::t_ed21cf40d24391 41-44,69-71,88-89,297-299,364
+backend/gates/maskablefieldobjects_test.go
+  s_8973185a8ae4a8::t_0e86259777e75f 30,34,88,130,140-142,150-218
+  s_8973185a8ae4a8::t_129d761b99a016 219
+backend/internal/modules/privacy/historyfieldmask.go
+  s_8973185a8ae4a8::t_75d7ead2b65bf8 6-8
+backend/internal/modules/privacy/fieldhistorydiff.go
+  s_8973185a8ae4a8::t_97c9413953c927 7,15-16,25-28,31-45,50-56
+  s_8973185a8ae4a8::t_d25e1ea8461b2b 46-49
+backend/internal/modules/privacy/restoreentry.go
+  s_8973185a8ae4a8::t_97c9413953c927 54
+backend/gates/maskfacetcoverage_test.go
+  s_8973185a8ae4a8::t_992c6513956e5d 26
+  s_8973185a8ae4a8::t_4d15cf22f7dc58 103
+backend/internal/modules/deals/fieldmask_test.go
+  s_8973185a8ae4a8::t_8634043c1f2f3f 19
+  s_8973185a8ae4a8::t_fe68ed44ce14dc 52,147
+  s_8973185a8ae4a8::t_6e697ed686aec5 58,74,122,137,153
+backend/internal/modules/search/queryvocab_test.go
+  s_8973185a8ae4a8::t_97c9413953c927 14,450-577
+backend/internal/contracts/api_gen.go
+  s_8973185a8ae4a8::t_a13c2d8e052d5f 29123
+frontend/src/api/schema.d.ts
+  s_8973185a8ae4a8::t_e48e3c8f45c596 24427
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "749c0eb4e0cd2c74d675c623d2035d5b976f81cb",
+  "prompts": {},
+  "sessions": {
+    "s_8973185a8ae4a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fcf146bd-c271-40dc-b691-aab37a013c29",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
