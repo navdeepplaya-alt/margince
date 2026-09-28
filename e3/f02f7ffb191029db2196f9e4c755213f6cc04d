@@ -1,0 +1,23 @@
+backend/internal/modules/notices/digestclaim.go
+  s_6cff74fbe3bf35::t_31ed06753b8de6 433-434,436-437
+frontend/src/app/topbar.css
+  s_6cff74fbe3bf35::t_036d7e5444fadb 253-259
+backend/internal/modules/notices/preference.go
+  s_6cff74fbe3bf35::t_31ed06753b8de6 95-106,108,111,113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e3f02f7ffb191029db2196f9e4c755213f6cc04d",
+  "prompts": {},
+  "sessions": {
+    "s_6cff74fbe3bf35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb2c7df2-0b7e-425e-be71-5c53c9ae89d6",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
