@@ -1,0 +1,25 @@
+backend/internal/compose/importerrecords_integration_test.go
+  s_174c872b9aaf68::t_774efbfc9645dd 102
+backend/internal/compose/owedanswer_integration_test.go
+  s_174c872b9aaf68::t_774efbfc9645dd 367
+backend/internal/modules/projects/mapping_reservedsource_test.go
+  s_174c872b9aaf68::t_774efbfc9645dd 29,53,70
+backend/internal/compose/proposalsfollowdeal_integration_test.go
+  s_174c872b9aaf68::t_774efbfc9645dd 298
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "61063a8c7f6bdb42a61c02224ead0e5ef02d3761",
+  "prompts": {},
+  "sessions": {
+    "s_174c872b9aaf68": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "67d6fcc7-d5c6-4498-9c1a-641f083df6d8",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
