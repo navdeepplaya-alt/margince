@@ -1,0 +1,44 @@
+backend/internal/compose/integration/providerclaims_integration_test.go
+  s_bb74e406ccccf2::t_3aabc4584b5263 403-515
+docs/reference/modules.md
+  s_bb74e406ccccf2::t_6eee48e3e2cbda 61
+backend/migrations/runcategoryclaim_integration_test.go
+  s_bb74e406ccccf2::t_4dd80d319523bf 182-186,194,196
+  s_bb74e406ccccf2::t_8de2c91dc6abf6 90
+  s_bb74e406ccccf2::t_e5c9d2c0cae67d 31-32,60,129
+  s_bb74e406ccccf2::t_824134c290f235 1-30,33-59,61-89,91-98,100-128,130-181,187-193,195,197-200
+  s_bb74e406ccccf2::t_5d2f99c346399c 99
+backend/migrations/core/1790564604_a_priced_category_is_bought_once.up.sql
+  s_bb74e406ccccf2::t_23c106ee02ea8c 1-6
+  s_bb74e406ccccf2::t_535afe2e766512 7-81
+backend/gates/tableownerregistry_test.go
+  s_bb74e406ccccf2::t_686183e46fb25a 349
+backend/gates/tableownershipwaivers_test.go
+  s_bb74e406ccccf2::t_7305d3d6df39c4 292,294
+  s_bb74e406ccccf2::t_099bf0d8b890c2 291,293
+backend/internal/modules/integrations/doc.go
+  s_bb74e406ccccf2::t_b7d5908d0ae6ba 9
+backend/internal/modules/contacts/mergerelink.go
+  s_bb74e406ccccf2::t_0bef1fd1c1b5ad 345-373
+backend/migrations/core/1790564604_a_priced_category_is_bought_once.down.sql
+  s_bb74e406ccccf2::t_23c106ee02ea8c 1-2
+  s_bb74e406ccccf2::t_fb9a343fd6655b 3-5
+backend/migrations/testdata/head_catalog.txt
+  s_bb74e406ccccf2::t_4d28f202c709d7 5322,5340-5348,5354-5359
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2934b53b0b63235df86214f6cd39dcb07f9c189c",
+  "prompts": {},
+  "sessions": {
+    "s_bb74e406ccccf2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1190fbb5-2850-4cb1-9d0b-d55666d8380f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
