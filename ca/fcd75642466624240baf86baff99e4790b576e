@@ -1,0 +1,29 @@
+backend/api/crm.yaml
+  s_6cff74fbe3bf35::t_cd04a355b19b81 28733-28736
+backend/internal/contracts/api_gen.go
+  s_6cff74fbe3bf35::t_2cf70cd7491b04 34680-34683
+frontend/src/api/schema.d.ts
+  s_6cff74fbe3bf35::t_7c6de1b7dc2c37 20250-20253
+backend/internal/platform/mailcopy/catalog.go
+  s_6cff74fbe3bf35::t_e45677ea7a14b8 299-302
+backend/migrations/core/1790647337_the_stored_mail_cause_is_bounded.down.sql
+  s_6cff74fbe3bf35::t_f8c053bcc6c02f 1
+frontend/src/screens/settingscatalog.ts
+  s_6cff74fbe3bf35::t_8b8b4ea2ed5791 282-283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cafcd75642466624240baf86baff99e4790b576e",
+  "prompts": {},
+  "sessions": {
+    "s_6cff74fbe3bf35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb2c7df2-0b7e-425e-be71-5c53c9ae89d6",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
