@@ -1,0 +1,35 @@
+backend/gates/calendarverbseat_test.go
+  s_8b432821e72439::t_d7f4bb6e696c2e 97-144
+  s_8b432821e72439::t_9a7a3ad661a9c1 15-17
+  s_8b432821e72439::t_52a6ea983578df 30
+backend/internal/modules/activities/meetingmove.go
+  s_8b432821e72439::t_6fa303f5a779c9 35-38,44-48,58,62,81-86
+backend/internal/modules/capture/seatstanding.go
+  s_8b432821e72439::t_403530c41bce91 40-43
+  s_8b432821e72439::t_bcc8078e547f31 39
+backend/internal/compose/meetingseat_integration_test.go
+  s_8b432821e72439::t_420f3dbddf98a2 14-16
+  s_8b432821e72439::t_170a5f6181126e 30
+  s_8b432821e72439::t_3799f814f5a455 115-117
+  s_8b432821e72439::t_f3849de379e5da 262-318
+backend/internal/compose/capture.go
+  s_8b432821e72439::t_b9d064e69951f6 321-324
+backend/internal/modules/capture/sinkmovemeeting.go
+  s_8b432821e72439::t_448f1ac394f9ef 104-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "daf7745aac9216f71f1221f904f2bcd7782aa8b4",
+  "prompts": {},
+  "sessions": {
+    "s_8b432821e72439": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "41b8d3c5-4b54-414b-82c8-d39158a74aeb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
