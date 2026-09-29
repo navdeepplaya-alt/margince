@@ -1,0 +1,190 @@
+backend/api/internal-events.yaml
+  s_6cff74fbe3bf35::t_ca7639dc847421 242-284
+backend/internal/compose/replayscope.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 112-117,207-214
+backend/internal/compose/attention/reach.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 177
+frontend/src/screens/dealsuggestion.test.tsx
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-509
+frontend/src/screens/worklist.copy.ts
+  s_6cff74fbe3bf35::t_ca7639dc847421 741,762
+backend/internal/modules/deals/deal_create.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 57-60,308,316,318
+frontend/src/i18n/en.ts
+  s_6cff74fbe3bf35::t_ca7639dc847421 320-352
+backend/internal/compose/dealscoutsql_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-46
+backend/migrations/schema_fitness_integration_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 539-541
+backend/internal/compose/dealsuggestionstore_integration_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-162
+backend/migrations/companymergecoverage_integration_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 60
+backend/internal/compose/agentpolicy_gen.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 262,563-564
+backend/internal/platform/jobs/specs_gen.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 14,340-348
+  s_6cff74fbe3bf35::t_61794e47dbdbfe 349
+frontend/src/screens/deals.tsx
+  s_6cff74fbe3bf35::t_ca7639dc847421 137,1613,1645
+backend/internal/compose/attention/suggestionlane_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-128
+frontend/src/screens/worklist.testkit.tsx
+  s_6cff74fbe3bf35::t_ca7639dc847421 70-76,90-93,96
+backend/internal/compose/dealscoutdocument.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-91
+frontend/src/screens/worklist.suggestion.tsx
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-61
+frontend/src/i18n/de.ts
+  s_6cff74fbe3bf35::t_ca7639dc847421 336-369
+backend/internal/compose/jobs.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 436
+docs/reference/modules.md
+  s_6cff74fbe3bf35::t_ca7639dc847421 36
+backend/internal/compose/stubs_gen.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1330-1341
+backend/internal/compose/dealscout_integration_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-431
+backend/migrations/testdata/head_catalog.txt
+  s_6cff74fbe3bf35::t_ca7639dc847421 3480-3535,4164-4173,6446-6447
+backend/internal/compose/jobs_dealscout.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-69
+backend/migrations/core/1790627226_deal_scout_suggests_a_deal_from_evidence.up.sql
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-121
+frontend/src/screens/dealsuggestion.stories.tsx
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-211
+frontend/src/screens/dealsuggestions.queries.ts
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-103
+backend/gates/tableownerregistry_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 144-148
+frontend/src/screens/dealsuggestion.css
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-29
+backend/internal/compose/attentionsuggestionseam.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-32
+backend/api/jobs.yaml
+  s_6cff74fbe3bf35::t_ca7639dc847421 1415-1430
+backend/internal/modules/capture/replyevidence.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 44
+backend/internal/compose/integration/dealsuggestion_http_integration_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-112
+backend/internal/compose/attention/feed.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 88-92,344,389-390,393-395,397-398,461-467,469
+backend/internal/shared/kernel/events/events_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 77-79
+backend/internal/compose/integration/dealsuggestion_errors_http_integration_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-125
+backend/internal/compose/jobkinds_gen.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 16,59,154
+frontend/src/i18n/vi.ts
+  s_6cff74fbe3bf35::t_ca7639dc847421 334-365
+frontend/src/screens/companies.tsx
+  s_6cff74fbe3bf35::t_ca7639dc847421 122,1983-1985
+backend/gates/replayscope_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 62-68
+frontend/src/screens/dealsuggestion.tsx
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-438
+backend/gates/composerowscope_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 109-116
+backend/gates/contactreaders_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 119-121
+backend/migrations/core/1790627226_deal_scout_suggests_a_deal_from_evidence.down.sql
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-4
+frontend/src/screens/worklist.suggestion.test.tsx
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-105
+backend/gates/edgereaders_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 129-131
+frontend/src/screens/worklist.suggestion.stories.tsx
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-106
+backend/internal/compose/dealscoutsql.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-114
+backend/gates/rowscopetables_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 463-471
+backend/internal/compose/attention/sourceactioncensus_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 66-70,337-338
+backend/internal/modules/deals/doc.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 26-28
+backend/internal/shared/kernel/events/catalog.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 285-291
+backend/internal/compose/dealsuggestiontotals_integration_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-146
+backend/internal/modules/deals/suggestion.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-314
+backend/api/crm.yaml
+  s_6cff74fbe3bf35::t_ca7639dc847421 4449-4546,27713-27782,48663,48801,49268,50163
+backend/internal/compose/dealscout.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-145
+backend/internal/modules/deals/suggestionread.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-342
+backend/internal/modules/deals/suggestiondecide.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-379
+backend/internal/compose/attention/owner_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 214-223
+backend/internal/contracts/internalevents_gen.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 95-109,137-151
+  s_6cff74fbe3bf35::t_50930d3adfb4c2 152
+backend/internal/modules/capture/threadverdictread.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 68,76-80
+backend/internal/compose/attention/suggestionlane.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-106
+backend/internal/modules/deals/store.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 65-67
+backend/internal/modules/activities/meetingcounterparty.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-33
+backend/internal/compose/routes.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 32,84,125-126,154-158
+  s_6cff74fbe3bf35::t_1cea7ed98bbe33 159
+backend/internal/compose/dealscoutdraft.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-64
+backend/internal/modules/deals/handlers_suggestions.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-116
+backend/internal/compose/attention/destination.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 90
+frontend/src/screens/worklist.row.tsx
+  s_6cff74fbe3bf35::t_ca7639dc847421 65,556-558
+backend/internal/compose/attention/unseen.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 114-119,132-133,136
+backend/internal/compose/dealsuggestion_integration_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-302
+backend/internal/modules/signals/derived.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 234-239,243-248,255,277,279,347
+frontend/src/screens/worklist.sources.ts
+  s_6cff74fbe3bf35::t_ca7639dc847421 14
+backend/gates/dealreaders_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 110-113
+backend/internal/compose/bulkundoauthority_integration_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 179
+backend/internal/compose/server.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 58-60
+backend/internal/compose/attentionseam.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 283
+backend/internal/compose/dealsuggestionseam.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-33
+backend/internal/compose/replayscope_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 117
+backend/internal/compose/dealscoutreview_integration_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 1-215
+backend/internal/shared/kernel/events/entityless.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 47-52
+backend/gates/companyreaders_test.go
+  s_6cff74fbe3bf35::t_ca7639dc847421 95-98
+backend/internal/contracts/api_gen.go
+  s_6cff74fbe3bf35::t_de886100623ba0 1839,1876-1877,8020-8106,16843,16883-16884,16981,17021-17022,19320-19338,21661-21663,30118-30189,45716-45764,49331-49333,60841-60849,63946-63963,79685-79887,97195-97203
+frontend/src/api/schema.d.ts
+  s_6cff74fbe3bf35::t_4293a77e65d100 3033-3116,19271-19365,36799-36800,36867,37319,38176,43555-43679
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e8f051f1a228c05811a6d1025e0b936fa06d226b",
+  "prompts": {},
+  "sessions": {
+    "s_6cff74fbe3bf35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb2c7df2-0b7e-425e-be71-5c53c9ae89d6",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
