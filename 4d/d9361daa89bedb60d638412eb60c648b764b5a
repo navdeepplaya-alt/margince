@@ -1,0 +1,26 @@
+backend/gates/gatecensus_test.go
+  s_8b432821e72439::t_970fd597de449c 55
+docs/reference/gate-inventory.md
+  s_8b432821e72439::t_2a96e9e79bac4e 400
+backend/gates/calendarverbseat_test.go
+  s_8b432821e72439::t_a0f8ffe5446595 70
+  s_8b432821e72439::t_032bb363000195 88-89,91
+  s_8b432821e72439::t_78a75cd48d95e0 22-24
+  s_8b432821e72439::t_f175cbb8689c7b 34-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4dd9361daa89bedb60d638412eb60c648b764b5a",
+  "prompts": {},
+  "sessions": {
+    "s_8b432821e72439": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "41b8d3c5-4b54-414b-82c8-d39158a74aeb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
