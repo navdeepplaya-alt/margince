@@ -1,0 +1,23 @@
+frontend/src/screens/membernames.ts
+  s_219e4a7e70a9ae::t_d9c530c7de0e3e 8-9
+  s_219e4a7e70a9ae::t_5a1c5431ce9e8a 34
+  s_219e4a7e70a9ae::t_f7baa063c6a82b 31-33
+frontend/src/screens/membernames.test.ts
+  s_219e4a7e70a9ae::t_40074bb3013e9f 113-138,141-142,144-147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b08ec639cfcd3561dbd701bda908a059e366bdea",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
