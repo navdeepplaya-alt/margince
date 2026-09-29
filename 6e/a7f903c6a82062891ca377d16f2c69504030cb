@@ -1,0 +1,30 @@
+backend/internal/modules/activities/meetingcancel.go
+  s_8b432821e72439::t_03c29385e3834b 115-127
+  s_8b432821e72439::t_fddc8aac2003f0 55-57,60,62-73,75-77,79
+  s_8b432821e72439::t_7a0419b56b34ad 61,74,78
+backend/internal/compose/meetingseat_integration_test.go
+  s_8b432821e72439::t_b65a1f25ec3c27 112-190
+  s_8b432821e72439::t_5755d9c12f7a3f 25
+backend/internal/modules/activities/meetingseat.go
+  s_8b432821e72439::t_f5f2e079f15b06 1-29
+backend/internal/compose/capture.go
+  s_8b432821e72439::t_69dcba585a8a85 320-327
+backend/internal/compose/meetingcancel_integration_test.go
+  s_8b432821e72439::t_beed6126a3613a 55-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6ea7f903c6a82062891ca377d16f2c69504030cb",
+  "prompts": {},
+  "sessions": {
+    "s_8b432821e72439": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "41b8d3c5-4b54-414b-82c8-d39158a74aeb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
