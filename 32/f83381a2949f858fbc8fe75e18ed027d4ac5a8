@@ -1,0 +1,756 @@
+backend/internal/modules/identity/escalation.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 146-154,303-304,307,313-330
+  s_6cff74fbe3bf35::t_7c29e5b3a4b4ed 331
+backend/internal/compose/agentcommandsingle_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 70
+backend/internal/modules/contacts/anchorbrand.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-73
+.github/workflows/ci.yml
+  s_6cff74fbe3bf35::t_ca37fc058880ab 972
+backend/migrations/core/1790619945_a_bulk_change_can_be_undone.up.sql
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-16
+frontend/src/design-system/visibility.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 5,40-43,86-94,98-100,103
+frontend/src/screens/analytics.performance.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-116
+frontend/src/screens/recordaccess.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 5,7-9,11-16,21-23,32-36,45-46,49-72,75-76,78,85-104,107-118,120-127,129,132-134,136,138,141-142,153-198,209-210,213-231
+backend/internal/modules/deals/reorder_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-196
+backend/internal/modules/privacy/suppressionreapply.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-179
+frontend/src/design-system/margince-workbench.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 95-96,193-195
+frontend/src/design-system/participants.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 29-35,39-43,48-49,55-56,59-90
+docs/handbook/the-pipeline.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 57-62,66
+backend/internal/modules/deals/laddershape.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-137
+backend/internal/modules/identity/memberactions.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-170
+backend/internal/compose/bulkchange.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 6-7,63-67,81-95,114-117,143-144,154-158,167-186,221-224,273,275-277,284-287,290,298,301,303,306,308,311,314,317,329,331-334,340,343,353,363-375,377-380,391-394
+frontend/src/screens/bulkchangeapi.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-71
+frontend/src/screens/analytics.forecast.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 15-16,35-38,56-62,69-91,96,101,106-136,140,208-214,236-273,350,355-357,406,417,432
+frontend/src/screens/buyerroomframe.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 215-218
+backend/internal/modules/ai/decisionstamp_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 20-25,35,44
+backend/internal/modules/deals/reorder.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-382
+frontend/src/screens/roles-settings.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-233
+docs/reference/mcp-tool-coverage.json
+  s_6cff74fbe3bf35::t_ca37fc058880ab 9,1274-1285
+frontend/src/screens/contactactions.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 171-187
+frontend/src/screens/analytics.performance.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-256
+frontend/src/design-system/avatarmesh.test.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-222
+backend/internal/modules/deals/stageconfigpatch.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 61,91-116,118-121,124-125,139
+backend/internal/modules/contacts/contactarchive.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 117-122,126-127,129,135-136,139-140,144
+docs/tutorials/getting-started.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 114-118
+frontend/src/screens/companyrail.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 316
+frontend/src/screens/contactactions.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 133-137
+backend/internal/compose/recordrestoreseam.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 83,93-103
+  s_6cff74fbe3bf35::t_84efa0a5b99949 104-105
+backend/internal/compose/captureanswered.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 47-51
+backend/internal/modules/contacts/ensure.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 199-201,205-223
+  s_6cff74fbe3bf35::t_c6ca6446b1cee6 224-225
+backend/gates/writeliveness_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 131-133
+frontend/src/design-system/composed.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 28,51-52,55,118-120,122,525-529,531,968-971,975-976,979,994-995,1083-1085,1087
+frontend/src/screens/company-context.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 46,171,363,498
+frontend/src/screens/users-password-link.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 46,54,109-110,112-121
+backend/internal/modules/contacts/companyarchive.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 139-155,162-166,169,174-175,177-178,181-183,185-187,189
+backend/internal/modules/ai/decisionstamp.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 13,15-17,22
+frontend/src/app/shell.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 31,98-99,115-125
+backend/internal/modules/identity/installationbrand.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-40
+frontend/src/screens/contactnetwork/relay.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 72,106-121
+docs/explanation/company-record-page.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 432,502
+frontend/src/screens/record360/today.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 286-288,303
+frontend/src/screens/contactbrief.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 344
+frontend/src/screens/analytics.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-3,9-10,14-23,33-48,58-91
+docs/reference/agent-tool-budget.json
+  s_6cff74fbe3bf35::t_ca37fc058880ab 34,36,141-144
+backend/internal/compose/bulkundotypes_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-209
+backend/internal/compose/bulkundoauthority_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-205
+frontend/src/screens/contacttabs.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 103
+frontend/src/screens/coverageexplorer.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 12,127
+frontend/src/design-system/margince-workbench.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 227,250,273
+backend/internal/shared/kernel/events/catalog.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 92
+frontend/src/design-system/activitytimeline.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 14-22,92-103,123-124,144-149
+scripts/comment-density-baseline.txt
+  s_6cff74fbe3bf35::t_ca37fc058880ab 6
+backend/gates/rowscopetables_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 452-463
+frontend/src/screens/companymark.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 14,51,53
+frontend/src/design-system/surfacestate.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 309-317
+backend/gates/dealreaders_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 62
+backend/gates/tableownershipwaivers_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 109-123,165-167
+backend/migrations/core/1790624910_a_bulk_change_names_who_it_was_for.up.sql
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-8
+backend/internal/compose/server.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 66,69-70
+backend/internal/modules/contacts/leadowedqueue_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 44-49,52
+scripts/fe-file-length-waivers.txt
+  s_6cff74fbe3bf35::t_ca37fc058880ab 45-46,52,116
+frontend/src/design-system/choicelist.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 56-60
+backend/internal/compose/attentionlanesseam.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 355
+frontend/src/design-system/recordcard.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 40-41,47,75
+frontend/src/design-system/surfacestate.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 54,66,82-86
+  s_6cff74fbe3bf35::t_c18a1922ff9e6b 87
+frontend/src/design-system/visibility.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 37-39,51-67
+  s_6cff74fbe3bf35::t_43e530bf867b5d 68
+frontend/src/screens/contactemployersummary.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-83
+frontend/src/screens/settings.stages.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 5,7-8,11-14,16,21-28,30-34,37-74,84-86,92,94,98,100,102,104-109,111-115,119,121-131,134,137
+backend/internal/modules/identity/memberactions_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-224
+frontend/src/screens/settings.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 174-175
+frontend/src/design-system/avatarmesh.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-151
+frontend/src/design-system/pagezones.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 118-130
+frontend/src/screens/recordchronology.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 9,164,199-201,232
+backend/internal/platform/dbmigrate/equivalence.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 49-56
+docs/how-to/set-up-outbound-mail.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-101
+frontend/src/screens/auth.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 375,406
+docs/explanation/ai-runtime.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 342-345,347-348,350-352,359
+frontend/src/design-system/surfacestate.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 4-7,69-70,74-76,84-87,96-97
+frontend/src/screens/contactnetwork/index.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 132
+backend/internal/compose/suppressionreapply_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-416
+backend/gates/bulktoolschema_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-72
+backend/migrations/core/1790587992_a_review_response_touches_only_updated_at.up.sql
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-6
+frontend/scripts/fe-uat.test.mjs
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-2,5,7-12,14-15,47-267
+frontend/src/screens/contactmemory.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 124-135,261-305
+  s_6cff74fbe3bf35::t_2f1dbbb1e0bc75 306
+backend/internal/compose/installationbrand_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-101
+frontend/src/app/topbar.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 13,117,119-123,139-143
+frontend/src/design-system/atoms.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 338,346-349,354,357-362,370-374,379,393,404,418-423,426
+frontend/src/screens/roles-detail.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-358
+frontend/src/screens/users-admin.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 156-191,435-439
+backend/internal/modules/deals/dealunarchive.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-59
+backend/internal/modules/deals/pipeline.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 56-58,136-146,151-161,163-173,175,177
+frontend/src/app/rail.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 20,25,27,640
+backend/gates/leadcontactlockorder_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 78-81,83,86-87
+backend/internal/compose/bulkconfirm.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 65-66,70-73,80-81
+backend/internal/compose/integration/bulkundo_doors_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-182
+frontend/src/screens/boarddeal.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 38,45,48,53,72,87-90
+frontend/src/screens/recordaccess.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 6-9,11-15,18,21-22,24-26,28,30-38,47-48,53-54,60-63,68-70,73-75,80-82,85-87,89,91-93,96,112-121,124,134-135,146-147,149-150,152-163,167,174,178-179,181-211,215-288,290-297,299,301-302,304,308-317,320-371
+backend/internal/modules/identity/seatceiling.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 15,77-101
+frontend/src/screens/extension-access.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 4,15,30-41,59-62,442-444,459,471-498,502-503,505-512
+backend/internal/modules/privacy/suppressionjournal.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-131
+frontend/src/screens/companymarks.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-80
+frontend/src/screens/onboarding-conversation/profile-digest.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 119,121-125,131-132,141-142,146
+backend/migrations/core/1790587992_a_review_response_touches_only_updated_at.down.sql
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-3
+frontend/src/app/brandblock.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-216
+frontend/src/screens/onboarding-conversation/confirm-card.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 81-82,779-781,822-824,1431
+docs/handbook/seats-roles-and-access.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 213,231-232,237-239,241-243,252-253
+backend/internal/compose/captureensurer.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 16,23,25,54-60
+frontend/src/app/pageaside.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 62,89
+backend/gates/piicoverage_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 24-25,467-539
+frontend/src/screens/contactpage.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 450,772-773
+frontend/src/screens/settings-grants.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 213-214,216
+frontend/src/screens/dealroomthread.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 77-79
+backend/internal/modules/identity/userrole.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 38-39,69-70
+frontend/src/screens/extension-access.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 17,681,708
+frontend/src/screens/capture-purge-dialog.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1,30-41,169-178
+  s_6cff74fbe3bf35::t_82aff35b4c3193 179-180
+backend/internal/compose/attention/classifyrisk.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 101-104
+backend/internal/compose/stubs_gen.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 470-481,1986-1989,2006-2008
+  s_6cff74fbe3bf35::t_053afa3218874d 2009
+backend/internal/modules/ai/router.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 308-314,317-329
+DESIGN.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 239-244,966-967
+docs/reference/configuration.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 411-417
+backend/internal/compose/bulktargets.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 19,36-38,50-56,72-78,94-100,115-121
+frontend/src/design-system/datatable.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 8,108-207
+frontend/src/design-system/tokens.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 176-188,808-809,832-840,971-978,1069-1083
+  s_6cff74fbe3bf35::t_4bd2dee8b66379 1084
+backend/internal/modules/contacts/promote.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 135-136
+frontend/src/design-system/visibility.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 5,8,13-14,42-45,47-56,61-71
+  s_6cff74fbe3bf35::t_a84112cb0d2ae9 72-73
+frontend/src/screens/companyheader.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 393-395
+backend/internal/modules/capture/purgeselectremoved.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 52
+frontend/src/screens/recordaccess.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-7,10-11
+frontend/src/design-system/README.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 353,356,386,420,422,426,453-454,457,468
+frontend/src/design-system/sortablelist.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-303
+backend/gates/frontendrolekeys_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 289-332
+frontend/src/design-system/portalfocus.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 35-36,38
+docs/reference/make-targets.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 223
+backend/internal/modules/contacts/unarchive.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-118
+frontend/src/screens/leads.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1412
+docs/explanation/rbac-roles-and-teams.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 40,49,68-70
+docs/deployment.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 356-359,369-373
+backend/internal/modules/identity/handlers_roster.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 23,29-34,46-51,153-165
+  s_6cff74fbe3bf35::t_b04be417b78f89 166
+frontend/src/design-system/sortablelist.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-100
+backend/internal/modules/capture/purgepersonal.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 179
+backend/internal/compose/aicert/decisionleg_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 209-213,229-230,233,236-237
+frontend/src/app/account.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 72,541-543
+frontend/src/screens/bulkchange.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 16,22-26,51-57,62,66,72-73,76,83-92,120,157-193,405-489
+  s_6cff74fbe3bf35::t_29b444dc59bc63 490
+backend/internal/compose/replayscope.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 107-111,215-220,314-320
+frontend/src/screens/grantmatrix.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-149
+backend/internal/modules/identity/grantreachability_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 95-100
+backend/internal/platform/database/storekit/archivecascade.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-243
+frontend/src/design-system/composed.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 47-50,53,56,63,78,115,136,179,218,239,261-263
+backend/internal/modules/agents/toolcopy_records.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 134-135,138-140,142-143
+backend/internal/modules/capture/purgefloor.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-58
+backend/migrations/testdata/head_catalog.txt
+  s_6cff74fbe3bf35::t_ca37fc058880ab 551,1351-1352,1354-1355,6347
+backend/internal/modules/ai/decideroute_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 398-401,406,409-410
+frontend/scripts/lib/story-outcome.mjs
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-68
+frontend/src/design-system/iconaction.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 44,93-99,130-131
+frontend/src/screens/companyheaderactions.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-69
+backend/internal/compose/agentcommand.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 104-105
+backend/internal/compose/aicert/run.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 62-87,121
+docs/handbook/leads-deals-and-projects.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 72-81
+frontend/src/screens/users-admin.testkit.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 11,28-37,46,55,66,75,89,263-280,286-288
+frontend/src/app/account.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 88-92,94-95,98
+backend/migrations/core/1790568769_the_deal_room_and_the_review_say_manual.up.sql
+  s_6cff74fbe3bf35::t_ca37fc058880ab 35-38,40
+frontend/src/design-system/avatar.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 13-15,20-22,27,33,35,45,66,72,74-78,80-83,86-95,98-99,102,104,107,109,112-113,115,117,119-137,146-148,154
+frontend/src/screens/contacttoday.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 272,277-279,286
+backend/internal/compose/agentgate_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 96
+frontend/src/api/public-events.ts
+  s_6cff74fbe3bf35::t_f142c50debe848 14,1684
+  s_6cff74fbe3bf35::t_ca37fc058880ab 413,535,633,675-676
+frontend/src/screens/settings.pipelineorder.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-237
+backend/internal/compose/bulkwithhold.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-127
+frontend/src/screens/contactnetwork/leadpanel.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 62
+frontend/src/screens/record360/today.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 94,103
+frontend/src/screens/settingsstories.test.ts
+  s_6cff74fbe3bf35::t_64cb55e23c7294 125,128
+  s_6cff74fbe3bf35::t_ca37fc058880ab 124
+frontend/src/design-system/recordcard.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 51,119-122
+frontend/e2e/ac.spec.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 7,3029-3084
+  s_6cff74fbe3bf35::t_be9590e7db6f60 3085
+backend/internal/compose/attention/lanes.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 414-421
+backend/internal/compose/bulkundo_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-489
+frontend/src/design-system/stagestrip.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-92
+backend/internal/compose/agentpolicy_gen.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 469-470,712-713
+backend/internal/modules/ai/localonly.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-18
+backend/internal/compose/integration/stage_reorder_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-300
+backend/api/crm.yaml
+  s_6cff74fbe3bf35::t_ca37fc058880ab 4912-5015,5409-5413,5532-5613,5639-5644,5682-5687,27111,27114-27116,27127-27134,35672-35678,35748-35791,36281-36303,36312-36331,40007-40022,40345-40346,41770-41794,48870,50889-50891
+frontend/src/design-system/readings.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 5,109-212
+  s_6cff74fbe3bf35::t_c7d9978d0b841a 213
+frontend/src/screens/settingscatalog.test.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 107-108,217-219
+frontend/src/main.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 13,89-94
+backend/internal/modules/agents/tools_bulk.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 33,38-39,57-58,60-63,91-111,126,139-141,147-151,167-176,181-201,203
+frontend/src/screens/recordaccess.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 3-9,11,15-16,18,20-26,32,42,46-55,59-63,71-76,78-90,92,104-109,111,130-133,137,144-184,190,193-194,196-203,206,208-216,219,221-226,228-230,233,235-237,239,241-266,269-270,272,276,278-280,282-283,286-305,308-310,314,316-317,319-324,327-397,406-407,414-416,420-423,425,427,429-436,439,441-475,477-508,521,528,542-545,548-551,558,560-668,670-681,685-732,736,748-749,751,753-755,758,765-769,778,786-788,790-791,793,796-797,803,805,807-809,814-868,871-881
+backend/internal/modules/agents/testdata/outputshapes.json
+  s_6cff74fbe3bf35::t_ca37fc058880ab 817-840,920-923
+frontend/src/screens/story-utils.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 4-10,14,221-242
+frontend/src/screens/settings.stages.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 4-6,9-10,13-14,18-24,26-29,36,38,40,42,44,49-50,62-63,72,90-92,95-109,111,114,116,120,124,130,142,148-151,161,163,170-171,176-178,205,214-245,247-248,253-254,258,260-265,267-269,271-280,282-294,306-432
+backend/gates/companyreaders_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 65,131
+frontend/src/screens/settings.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 133,248-249,651,655-656,658
+frontend/src/screens/contactnetwork/leadpanel.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 43,50-51,96
+backend/internal/modules/contacts/promoteheld_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-238
+backend/internal/compose/csvwriters.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 11,18,20,93-97
+frontend/src/screens/recordmark.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-207
+frontend/src/screens/deals.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 2991
+frontend/src/screens/onboarding-conversation/confirm-card.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 124-126,128,154-160,162,294
+.github/workflows/main-health.yml
+  s_6cff74fbe3bf35::t_ca37fc058880ab 298
+backend/gates/triggertargetcolumns_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-50
+backend/internal/compose/aicert/retry_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 183-229
+backend/internal/modules/capture/purgekeptreason_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 50,66,74-127
+backend/internal/modules/capture/purgeselect.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 55-61,127,436
+docs/README.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 99
+frontend/src/design-system/choicelist.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 78-91
+backend/internal/modules/activities/scheduling_invitation_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 15,17,129-179
+  s_6cff74fbe3bf35::t_c1559130fa0960 180-181
+frontend/src/design-system/iconaction.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 76-105
+frontend/src/design-system/stagestrip.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-117
+frontend/src/app/shell.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 17,118-122,200,202
+backend/internal/compose/integration/agentaccess/mcp_deadline_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 90-105
+frontend/src/design-system/readings.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 8,218-296
+backend/migrations/core/1790624910_a_bulk_change_names_who_it_was_for.down.sql
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-3
+frontend/scripts/fe-uat.mjs
+  s_6cff74fbe3bf35::t_ca37fc058880ab 10,20,23-27,35-40,47-57,226,236,243-248,252-256,306-324,329-426,429-430,433,439-445,452,454-455,469-478,481-484,486-498,500-501,503-505,513,515,535,540
+frontend/src/design-system/sortablelist.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-149
+frontend/src/screens/companies.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 105,1280,1289-1290,1315-1319
+backend/internal/platform/database/storekit/archivecascade_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-66
+frontend/src/design-system/activitytimeline.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-135
+backend/api/public-events.yaml
+  s_6cff74fbe3bf35::t_ca37fc058880ab 81,917-919,1145-1148,1366-1369,1472-1481
+  s_6cff74fbe3bf35::t_ee3efa20e374e2 1482-1483
+backend/internal/modules/contacts/promotetx.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-82
+frontend/src/design-system/composed.thread.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 133-136,143
+backend/internal/modules/identity/handlers.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 116-118,305-309,312,343-347,349
+backend/gates/replayscope_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 98-103
+frontend/src/design-system/stagestrip.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-110
+backend/internal/compose/integration/companyprofileadmin_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 101-134
+frontend/src/screens/bulkchange.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 10-16,28,54-55,58,65,74,81,88,100-104,116-124,126-140,143-154,281-304,329,347-375,377,379,381-396,411,425,436,443,447
+frontend/src/screens/company360.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 540-542,1172-1176
+  s_6cff74fbe3bf35::t_99fd305130a7ab 1177
+frontend/src/screens/contactcards.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 167-171
+frontend/src/screens/roles-settings.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-501
+frontend/src/design-system/datatable.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 8-27
+backend/internal/modules/knowledge/handbook/sending-mail.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 327-344
+frontend/src/screens/settings.pipelines.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-199
+backend/internal/modules/deals/stageremoval.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 146-148,153,174,255-256,259-262,264,266,268-270,272-273,297
+frontend/src/design-system/readings.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 157-253
+backend/internal/compose/bulkhandlers.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 86-126
+backend/internal/modules/identity/roster.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 51-54,63,103,168,244-252,270-272
+backend/internal/modules/knowledge/handbook/leads-deals-and-projects.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 72-81
+backend/internal/compose/routes.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 34,83,123-125,147-150
+  s_6cff74fbe3bf35::t_d42f7a56e124c3 151
+backend/internal/contracts/publicevents_gen.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 450,590-591,1069-1071,1159,1242,1910,2427-2430,2871
+backend/internal/modules/ai/router_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 245-259
+frontend/src/screens/companyheaderactions.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 85-87
+frontend/src/screens/roles-settings.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-122
+frontend/src/design-system/dealcard.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 72-76,115-117,127,316
+backend/internal/modules/contacts/anchorcompany.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 218-220
+backend/gates/triggerwrittencolumns_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 288
+backend/internal/modules/deals/dealarchive.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 95-99,103-104,107-108,112
+frontend/src/design-system/avatar.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-170
+frontend/src/screens/roles.queries.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 4-9,12,16-21,29-31,55-68,72-75,80-82,98-322
+backend/internal/compose/capturepurgereceipt.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 29,37-42,67-70,109-110
+backend/internal/modules/contacts/companylogo.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 275-284,293
+backend/internal/compose/analyticsshare_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 78-79,94-112
+frontend/src/screens/settings-pipelines.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 6,10-12,16,25-46,48,51-99,102-105,108-119,121-128,133-135,141-144,147-160,173-180,183-204,206-207,210-214,216-217,219,222-228,232-234,237,240-244,247,249,251-252,254-291,293-318,321,323-341,343-355,357-360,363,365-375,377-409,411-414,416,418-425,427-438,441-449,451-453,457-478,480,482-484,486-487,489,495-500,502-505,508-510,512,515,517-529,533,535-538,540-548,553-555,560-565
+backend/internal/modules/knowledge/handbook/seats-roles-and-access.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 213,231-232,237-239,241-243,252-253
+backend/internal/compose/installationbrandseam.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-29
+backend/internal/modules/deals/stages.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 41-45,122-123,125,128-132,146-148,158-162,255-259,291-295,308,312,315,317,321,333,335,340,343
+frontend/src/design-system/iconaction.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 10,118-139
+  s_6cff74fbe3bf35::t_b93083607f809b 140
+docs/reference/agent-tool-budget.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 58,132,154
+frontend/src/screens/analytics.delivery.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-73
+backend/internal/compose/attention/winprobability_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-76
+backend/internal/modules/identity/userpasswordlink.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 191-192,213-235
+  s_6cff74fbe3bf35::t_1dd97f27c00fc8 236
+config/margince.example.yaml
+  s_6cff74fbe3bf35::t_ca37fc058880ab 67-82
+frontend/src/design-system/tokens-testing.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 365,379
+frontend/src/screens/company360.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 9,697,702,1874-1876,1881-1883
+docs/reference/mcp-info.json
+  s_6cff74fbe3bf35::t_ca37fc058880ab 13,15,19-22,1161,1164-1178,1180-1184,1186,1217,1220-1222,1248,1250-1256,1309-1332,1412-1414
+  s_6cff74fbe3bf35::t_dcda0cebabba00 1415
+frontend/src/screens/record360/reading.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 68
+frontend/src/screens/settings.pipelines.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 4-5,7-11,13-14,18-19,22-25,29-32,35,37-40,56-71,74-76,78-85,87-113,115,119-125,127-130,132-142,144-192,194,197-199,203-213,215,218-219,225,229-232,235-253,260,270-355,360-391
+backend/internal/modules/agents/tools_bulk_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-82
+frontend/src/screens/onboarding-conversation/voice-act.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 48-57,432-434,468-470,535-537,575-581
+backend/migrations/core/1790619945_a_bulk_change_can_be_undone.down.sql
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-7
+frontend/src/screens/users-admin.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 91-92,127-137,212,463-470
+frontend/src/app/testing/shellharness.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 10,47-69
+  s_6cff74fbe3bf35::t_8fa48bd0cd9f28 70
+frontend/src/screens/onboarding-conversation/entries.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 298-299,303
+backend/internal/compose/attention/dealfacts.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 105
+backend/internal/modules/contacts/contact.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 110,135,151,209-210
+  s_6cff74fbe3bf35::t_ad9f488c6c3aa2 211-212
+frontend/src/app/account.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 38-41
+backend/internal/modules/agents/idargs_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 230-237
+docs/reference/mcp-info.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 16,18,32-34,36,73,1525,1532-1546,1548-1552,1554,1585,1588-1590,1616,1618-1624,1683-1706,1786-1788
+  s_6cff74fbe3bf35::t_a51c986a37429e 1789
+frontend/src/design-system/choicelist.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 57-61,139
+frontend/src/design-system/atoms.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 27,452-455,457,488-495,497-501,506
+docs/handbook/sending-mail.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 327-344
+frontend/src/i18n/en.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 2115-2117,2126,3080-3081,3105-3110,3125-3134,3997-4002,4005-4007,4011-4016,4020-4032,4356,4513-4514,4699-4700,5617-5638,5652-5667,7697-7698,7755,8295-8360,9113-9114,9135-9136,9138,9140,9142-9146
+frontend/src/screens/analytics.delivery.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-253
+frontend/src/design-system/avatarstack.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 9,13,16-17,21-24,31-37
+frontend/src/screens/project360.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 197
+frontend/src/design-system/composed.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 40,121,398,422,443,480,503,524,589,621,657,680-687,701-708,723-730,739,756,772,794-799,810,824
+docs/reference/gate-inventory.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 357,458
+frontend/src/screens/companytoday.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 616-618,623-625,659-662
+backend/internal/compose/bulkrecord.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-198
+backend/internal/compose/bulkhandlers_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-130
+backend/internal/modules/identity/users.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 115-116,244
+frontend/src/screens/settings.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 389-406,413-457,459-461,499-504,511-515
+backend/gates/updateguard_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 122-124,164-165
+frontend/src/design-system/recordview.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 53,76,96,158,204-206,310
+frontend/src/design-system/datatable.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 21,34-36,48-50,59-81
+  s_6cff74fbe3bf35::t_d10aafa2173a9f 82
+frontend/src/i18n/de.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 2052,3018-3019,3046-3051,3067-3076,3883-3888,3892-3894,3898-3903,3908-3918,4247,4407-4408,4596-4597,5457-5479,5493-5508,7513-7514,7575,8140-8207,8974-8975,8997,8999,9001,9003-9007
+backend/internal/compose/integration/dealfigures_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 228-296
+backend/internal/compose/integration/pipeline_config_integration_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 142-196
+backend/internal/modules/deals/handlers_pipeline.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 53-55,60,74-117
+  s_6cff74fbe3bf35::t_55e112fe3357a4 118
+frontend/src/design-system/composed.rail.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 19
+frontend/src/design-system/dealcard.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 26
+frontend/src/i18n/record-noun.test.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 230-234,465
+frontend/src/design-system/avatarstack.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 19-20,29-30
+frontend/src/screens/analytics.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 17-18,153-180,223-235,274,277-279,435
+frontend/src/screens/companymarks.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-35
+frontend/src/design-system/choicelist.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 140-171
+frontend/src/screens/settingscatalog.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 418-428
+frontend/src/screens/settings.pipelineverbs.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-139
+backend/internal/platform/database/storekit/sqlstate.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 220-226
+frontend/src/screens/analytics.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 2,7-8,10-11,30-39,45-49,59,371-374,385-411,449-464,471-474,505,528-542,614,631,651-656,663-673,680-682,725,929,1060-1072,1074-1094,1099,1101,1182-1193,1200-1209
+frontend/src/screens/record360/spine.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 26,683,692
+frontend/src/screens/roles-settings.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-24
+frontend/src/screens/settingsnavicons.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 22,50
+frontend/src/design-system/visibility.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 11-14,77-122
+frontend/src/design-system/recordtimeline.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 3-9,14,481-513
+  s_6cff74fbe3bf35::t_92a2caec81fcba 514-515
+frontend/src/screens/roles.queries.test.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-55
+backend/internal/modules/contacts/promoteheld.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-145
+frontend/src/i18n/vi.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 2041,2997-2998,3022-3027,3043-3052,3848-3853,3856-3858,3862-3867,3871-3880,4194,4536-4537,5396-5418,5432-5447,7451,7517,8068-8135,8892,8896-8901,8924-8927
+Makefile
+  s_6cff74fbe3bf35::t_ca37fc058880ab 841-842
+docs/reference/mcp-tool-coverage.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 34,419
+frontend/src/screens/analytics.cells.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-97
+backend/internal/compose/bulkseam.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 6,20,41-56,71-74,81-84
+backend/internal/modules/knowledge/handbook/the-pipeline.md
+  s_6cff74fbe3bf35::t_ca37fc058880ab 57-62,66
+frontend/src/design-system/sortablelist.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-78
+backend/internal/platform/database/storekit/unarchive.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-229
+backend/gates/contactreaders_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 68,182-183
+backend/internal/modules/capture/purgekeptreason.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 24-29,45-46,58-60,63
+backend/internal/modules/identity/lastadmin.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 35-41
+frontend/src/design-system/atoms.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 271-272,291-315,318-319,1612
+frontend/src/design-system/panel.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 164-165,170
+frontend/src/screens/analytics.cells.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-95
+frontend/src/screens/companyheader.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 8,11,43,134-135,226-231
+frontend/src/screens/contactmemory.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 12-14,94,154,162,238-240,310-312,314-320,329,336,383
+  s_6cff74fbe3bf35::t_37ea779a68e7d1 11
+backend/gates/contactvocabulary_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 225
+frontend/src/design-system/readings.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 22-43,52-58,65-69,74-118,128,134,137-139,332-415
+frontend/src/screens/settingssearch.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 78
+frontend/src/screens/installationcompany.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 4,17-18,38-45
+  s_6cff74fbe3bf35::t_7fcbbe2513237d 46-47
+frontend/src/screens/companyapprovals.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 4,7,103-136
+backend/internal/modules/agents/conformance_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 290-297
+frontend/src/screens/compose.stories.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 476
+frontend/src/screens/contactemployersummary.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 112
+frontend/src/screens/grantmatrix.css
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-67
+frontend/src/screens/extensions.queries.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-31
+frontend/scripts/lib/uat-workers.mjs
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-49
+frontend/src/app/capability.ts
+  s_6cff74fbe3bf35::t_ca37fc058880ab 231-234
+backend/internal/compose/bulkundo.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 1-240
+frontend/src/design-system/portalfocus.test.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 223-242
+frontend/src/screens/contactdeals.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 136-140
+backend/internal/compose/replayscope_test.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 117
+frontend/src/screens/onboarding-conversation/company-act.tsx
+  s_6cff74fbe3bf35::t_ca37fc058880ab 23,386,916-918,922,928-931,935,1038
+sbom-schemas/spdx-tools-requirements.txt
+  s_6cff74fbe3bf35::t_ca37fc058880ab 33-35
+backend/internal/modules/activities/scheduling_invitation.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 195-196,203
+backend/internal/modules/deals/dealfigures.go
+  s_6cff74fbe3bf35::t_ca37fc058880ab 93-109,121-163,209,211,222
+backend/internal/contracts/api_gen.go
+  s_6cff74fbe3bf35::t_61acbaaecb412d 2740-2778,2803,2805-2806,2808,2813,2821-2822,2825-2828,2831-2832,2841-2842,7186-7206,15286-15309,21616-21618,22693-22695,22698-22700,22711-22749,22791-22795,22805-22809,22812-22817,23245,23248-23249,23272-23278,23386,23389-23390,28832,28835-28854,32052-32063,33501-33503,35149-35154,39116-39121,40679-40685,40709-40711,42081-42083,42341-42343,43888-43906,46739-46757,46787-46812,48837-48839,49278-49280,49284-49286,59954-59962,61091-61093,61106-61108,62405-62422,64679-64684,64709-64714,70216-70341,86030-86076,86255-86329,96078-96086,97215-97217,97230-97232
+frontend/src/api/schema.d.ts
+  s_6cff74fbe3bf35::t_67334a6ec43b50 3235-3330,3626-3629,3712-3778,3791-3796,3840-3847,18697,18700-18701,18710-18717,25699-25703,25706,25768-25821,26266-26289,26296-26305,29619-29620,29809,30722-30730,36915-36916,38746-38748,43957-44065,44873-44976
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "32f83381a2949f858fbc8fe75e18ed027d4ac5a8",
+  "prompts": {},
+  "sessions": {
+    "s_6cff74fbe3bf35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb2c7df2-0b7e-425e-be71-5c53c9ae89d6",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
