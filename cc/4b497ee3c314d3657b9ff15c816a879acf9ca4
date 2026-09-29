@@ -1,0 +1,28 @@
+backend/internal/shared/clockskew/clockskew.go
+  s_c1f694bf45a5d6::t_8454a40d2ee513 45-49
+scripts/scheduled-report.sh
+  s_c1f694bf45a5d6::t_bd58a7101f13b1 385
+docs/reference/make-targets.md
+  s_c1f694bf45a5d6::t_b64622f207af2f 210
+backend/internal/shared/clocktest/clocktest_test.go
+  s_c1f694bf45a5d6::t_a21d0c912f8ae1 26,35-37,41-59
+  s_c1f694bf45a5d6::t_e370167992d3ac 60-61
+docs/reference/gate-inventory.md
+  s_c1f694bf45a5d6::t_2aecf430cca3ff 503
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cc4b497ee3c314d3657b9ff15c816a879acf9ca4",
+  "prompts": {},
+  "sessions": {
+    "s_c1f694bf45a5d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5681e148-9ed0-4d05-b3ea-8a569b236cf6",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

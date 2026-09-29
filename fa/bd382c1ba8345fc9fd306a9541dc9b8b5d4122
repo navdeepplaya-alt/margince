@@ -1,0 +1,36 @@
+docs/reference/ci-workflows.md
+  s_c1f694bf45a5d6::t_98fb0c75e65f8f 195-206
+scripts/clock-drift-host.sh
+  s_c1f694bf45a5d6::t_a358c369f0b4ac 34
+  s_c1f694bf45a5d6::t_a3e222ab1bda22 78-83,85-87,95
+  s_c1f694bf45a5d6::t_914aed9bd3d7b2 1-33,35-77,84,88-94,96-97
+scripts/backend-clock-drift.sh
+  s_c1f694bf45a5d6::t_41126cafcf8e16 1-47
+.github/workflows/scheduled.yml
+  s_c1f694bf45a5d6::t_4b93a6fd7d4618 269-283,285-342
+  s_c1f694bf45a5d6::t_5e8b050c2ed760 284
+  s_c1f694bf45a5d6::t_1d9a1ccd5d7cbe 755,799
+docs/reference/make-targets.md
+  s_c1f694bf45a5d6::t_225a64db214275 211
+scripts/scheduled-report.sh
+  s_c1f694bf45a5d6::t_891ebefb5a9b99 366-394
+Makefile
+  s_c1f694bf45a5d6::t_c2296af75c3ed3 618-634
+  s_c1f694bf45a5d6::t_52d9c15272c6f6 69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fabd382c1ba8345fc9fd306a9541dc9b8b5d4122",
+  "prompts": {},
+  "sessions": {
+    "s_c1f694bf45a5d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5681e148-9ed0-4d05-b3ea-8a569b236cf6",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
