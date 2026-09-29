@@ -1,0 +1,24 @@
+frontend/src/screens/membernames.ts
+  s_219e4a7e70a9ae::t_8725b61ddcffaf 80
+frontend/src/screens/companyheader.tsx
+  s_219e4a7e70a9ae::t_4e7d822a73ff88 270-273
+frontend/src/screens/membernames.test.ts
+  s_219e4a7e70a9ae::t_d1b65e329446e1 18-32,159,209,232-252
+  s_219e4a7e70a9ae::t_e2827fad42fc0f 8,33-39,42-44,49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "89ce40f52d750b872e79b8d66271a63405e68010",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
