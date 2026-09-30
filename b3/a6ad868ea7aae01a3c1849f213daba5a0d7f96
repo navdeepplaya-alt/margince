@@ -1,0 +1,21 @@
+docs/reference/entity-model/README.md
+  s_95efa20d48fb7e::t_ec55eb29f5fd8c 33-35,44,112,159,312-313,381
+docs/reference/entity-model/identity.md
+  s_95efa20d48fb7e::t_5b54da9f9267c6 5,9,167-208,645-666
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b3a6ad868ea7aae01a3c1849f213daba5a0d7f96",
+  "prompts": {},
+  "sessions": {
+    "s_95efa20d48fb7e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "80d23357-4878-4933-b00f-00954a52b33e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
