@@ -1,0 +1,19 @@
+backend/internal/compose/noticeovertake.go
+  s_b4feabd86766cd::t_79ce5ffd72ae3f 128-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d7d2b8746b6cdc29ecb951739e9dfd1683e4a464",
+  "prompts": {},
+  "sessions": {
+    "s_b4feabd86766cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2e16365-0fcf-4af8-9a47-cd8dec132cdb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
