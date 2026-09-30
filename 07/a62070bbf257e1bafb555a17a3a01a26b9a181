@@ -1,0 +1,23 @@
+backend/internal/shared/kernel/langcopy/langcopytest/census.go
+  s_a6cadcba380c6c::t_74c31deabc0c4d 16,19,32,35-41,43-47,49,55-98,103,105-123,126-130
+backend/internal/compose/companydossier/copy_test.go
+  s_a6cadcba380c6c::t_1a68bbfe7b1dde 16,21-22
+backend/internal/compose/companybrief/copy_test.go
+  s_a6cadcba380c6c::t_330062f7c7d4cc 14,18-21,25-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "07a62070bbf257e1bafb555a17a3a01a26b9a181",
+  "prompts": {},
+  "sessions": {
+    "s_a6cadcba380c6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8728776e-2ff7-43a3-962a-9807854879ce",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
