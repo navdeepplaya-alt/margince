@@ -1,0 +1,31 @@
+backend/internal/compose/network/risk.go
+  s_de2773e942ab1b::t_7e45ee0b86a76a 250,258-261
+backend/internal/compose/network/risk_test.go
+  s_b4feabd86766cd::t_4be557d09de5cb 51,59,75,85,103,115,128,148,159,181,195,210-216,218,221-225,227,232-235,253,269,275,289,318,339,354,377,413,427
+backend/internal/compose/network/riskcopy_test.go
+  s_de2773e942ab1b::t_1d0e3d032c86ad 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "06b2270beb59893482e63b57bcdc94ec29aa8a35",
+  "prompts": {},
+  "sessions": {
+    "s_b4feabd86766cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2e16365-0fcf-4af8-9a47-cd8dec132cdb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_de2773e942ab1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e98456c2-4c34-4ba4-be10-ca69fa789d2b",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
