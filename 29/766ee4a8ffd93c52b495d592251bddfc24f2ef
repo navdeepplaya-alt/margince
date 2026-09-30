@@ -1,0 +1,49 @@
+frontend/src/screens/companies.tsx
+  s_219e4a7e70a9ae::t_f8ae33b2b38efc 1821
+  s_219e4a7e70a9ae::t_470885a79dfd93 1819-1820
+  s_219e4a7e70a9ae::t_d6bbd19b637b80 1822
+  s_219e4a7e70a9ae::t_5376ebb5a694af 917-920
+frontend/src/screens/membernames.ts
+  s_219e4a7e70a9ae::t_73f15c1d240b79 4,14-31,41-43,54-67,69-87
+  s_219e4a7e70a9ae::t_07061f63bdb634 48-53,68
+  s_219e4a7e70a9ae::t_209d1798d139e8 88
+frontend/src/screens/entityref.tsx
+  s_219e4a7e70a9ae::t_cccb5be21cc289 329
+  s_219e4a7e70a9ae::t_c186e9044ad959 16
+  s_219e4a7e70a9ae::t_4b037fe52a27c1 318-324,331
+frontend/src/screens/worklist.tsx
+  s_219e4a7e70a9ae::t_e3bf90a3a90e6f 269-271
+  s_219e4a7e70a9ae::t_4aad6c2b21d695 12-13
+  s_219e4a7e70a9ae::t_efc9ad5fed2075 266-268
+frontend/src/screens/membernames.test.ts
+  s_219e4a7e70a9ae::t_855082259a1311 156-233
+  s_219e4a7e70a9ae::t_9b7517a4a98f62 9
+frontend/src/screens/contacttoday.tsx
+  s_219e4a7e70a9ae::t_be6d1b7b0be136 12
+  s_219e4a7e70a9ae::t_5011e0f1084fa0 265-268,274-275
+frontend/src/screens/companyheaderfacts.tsx
+  s_219e4a7e70a9ae::t_882ccb439f7574 130-131
+  s_219e4a7e70a9ae::t_fdf247ef170551 18-19
+  s_219e4a7e70a9ae::t_020efbb71deab9 75-79
+  s_219e4a7e70a9ae::t_5570cd3051ff78 80-84
+frontend/src/screens/deals.tsx
+  s_219e4a7e70a9ae::t_b4a023149b95ae 1638
+  s_219e4a7e70a9ae::t_b95c9f2b9c3663 158
+  s_219e4a7e70a9ae::t_ade2e8135ad918 1595-1598
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "29766ee4a8ffd93c52b495d592251bddfc24f2ef",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
