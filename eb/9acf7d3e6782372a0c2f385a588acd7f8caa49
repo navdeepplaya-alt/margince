@@ -1,0 +1,201 @@
+backend/api/crm.yaml
+  s_77ab1bb293e825::t_c272d98a3f85fe 42719-42721,42763-42764,42801-42803,42837-42841
+backend/internal/compose/metriccharts.go
+  s_77ab1bb293e825::t_55ac9f28fb44cc 20-21,37,75-76,90,116-120,123-124,142
+backend/internal/compose/metricprojection_test.go
+  s_77ab1bb293e825::t_b9e26b4f6887e4 73-74,167-202
+backend/internal/compose/reporting_review_integration_test.go
+  s_77ab1bb293e825::t_09bbaef959a4a2 40
+backend/internal/compose/reporting_targets_integration_test.go
+  s_77ab1bb293e825::t_883ff45d4e7942 18,67-182
+backend/internal/contracts/api_gen.go
+  s_77ab1bb293e825::t_344bfec711b170 38961-38963,39196-39198,39201-39213,39306-39313,39323-39327
+backend/internal/modules/reporting/calendar.go
+  s_77ab1bb293e825::t_00754c312e8552 37
+backend/internal/modules/reporting/comparison.go
+  s_77ab1bb293e825::t_e12e0d8c1b3841 30
+backend/internal/modules/reporting/comparison_test.go
+  s_77ab1bb293e825::t_01b51b61eea110 47-62
+backend/internal/modules/reporting/evaluation.go
+  s_77ab1bb293e825::t_1427ecd027c4e0 30-40
+backend/internal/modules/reporting/evaluationtargets.go
+  s_77ab1bb293e825::t_177c71db119193 30,105-109,137,169-191
+backend/internal/modules/reporting/evaluationtargets_test.go
+  s_77ab1bb293e825::t_bd155595de72f4 1-39
+backend/internal/modules/reporting/handlersquery.go
+  s_77ab1bb293e825::t_6862817cca6b71 96
+backend/internal/modules/reporting/reportingconstants.go
+  s_77ab1bb293e825::t_080edc4bfc789f 7
+backend/internal/modules/reporting/reports.go
+  s_77ab1bb293e825::t_5f636c7fa0dc16 101
+backend/internal/modules/reporting/reportsummary.go
+  s_77ab1bb293e825::t_d80af18565134d 103,105-109
+backend/internal/modules/reporting/schedules.go
+  s_77ab1bb293e825::t_2229251b9f7abf 72-73,239-244
+backend/internal/modules/reporting/targetallocation.go
+  s_77ab1bb293e825::t_4afe314922021b 15,23,36-53
+backend/internal/modules/reporting/targets.go
+  s_77ab1bb293e825::t_e7b4aaf10c425f 23,60-62
+frontend/e2e/analytics.spec.ts
+  s_77ab1bb293e825::t_645870b9e4a170 81-88
+frontend/e2e/reporting.spec.ts
+  s_77ab1bb293e825::t_c92b58d3bc0521 78
+frontend/src/api/schema.d.ts
+  s_77ab1bb293e825::t_7dc161cdfc9557 31230-31231,31248,31250,31274-31275,31289-31290
+frontend/src/design-system/README.md
+  s_77ab1bb293e825::t_8250d26a18aae5 390,426,802-803
+frontend/src/design-system/inlinetext.stories.tsx
+  s_77ab1bb293e825::t_f4e323e8e89eb9 42-62
+frontend/src/design-system/inlinetext.tsx
+  s_77ab1bb293e825::t_0321a33531b1c9 4,11,51,56,68,73-98,102-103,118-124,199-220,225,240-242
+frontend/src/design-system/onboarding-stage.css
+  s_77ab1bb293e825::t_4da29de48d724a 212-218,624-650
+frontend/src/design-system/onboarding-stage.stories.tsx
+  s_77ab1bb293e825::t_5de5f818533322 52-58
+frontend/src/design-system/onboarding-stage.tsx
+  s_77ab1bb293e825::t_d4d25584e95e3a 149-152
+frontend/src/design-system/report-charts.model.ts
+  s_77ab1bb293e825::t_f22e75331acfcb 1-20
+frontend/src/design-system/report-charts.stories.tsx
+  s_77ab1bb293e825::t_f9c9c8bafc5e31 207-223
+frontend/src/design-system/report-charts.test.tsx
+  s_77ab1bb293e825::t_abb37a6f1d256f 66-69
+frontend/src/design-system/report-charts.tsx
+  s_77ab1bb293e825::t_eb98793b14a772 8,10,118,150-154,271,277-281,294-298,314-316,327,415,422-426,447-463
+frontend/src/i18n/de.ts
+  s_77ab1bb293e825::t_c76acd2c0e0a80 8-61,63,96,98,111,113-117,143,153-155,162,170,179,181,205,995-996
+frontend/src/i18n/en.ts
+  s_77ab1bb293e825::t_82df61d7c99e3c 6-59,61,91,94,96,109,111-115,141,151-153,160,168,177,179,203,1003-1004
+frontend/src/i18n/vi.ts
+  s_77ab1bb293e825::t_726068abc4c96e 17-69,71,105,107,122,152,162,164,167,171,188,190,213,987-988
+frontend/src/screens/analytics.address.ts
+  s_77ab1bb293e825::t_a08f6092bc7840 13,85
+frontend/src/screens/analytics.context.ts
+  s_77ab1bb293e825::t_11b36fa49c987b 2,5,53-56,66-68
+frontend/src/screens/analytics.explain.test.tsx
+  s_77ab1bb293e825::t_69b8e32ca956d4 74,97,111,125,186,215,273,281,291,321,358,383
+frontend/src/screens/analytics.forecast.landing.tsx
+  s_77ab1bb293e825::t_ec7c89fea806a9 140-144
+frontend/src/screens/analytics.forecast.tsx
+  s_77ab1bb293e825::t_e2ac29f06bbf76 37,45-50,94-96
+frontend/src/screens/analytics.outcomes.tsx
+  s_77ab1bb293e825::t_ef182c42e86b72 174-181
+frontend/src/screens/analytics.stories.tsx
+  s_77ab1bb293e825::t_376930f99a5f5a 263-265,384,399
+frontend/src/screens/analytics.test.tsx
+  s_77ab1bb293e825::t_c522e15259c97a 64-66,104-106,145-147,163-165
+frontend/src/screens/analytics.tsx
+  s_77ab1bb293e825::t_48cbf9a3168749 8,12,713-721,1011-1025,1029-1038,1056-1104,1193-1197,1227,1241-1249
+frontend/src/screens/customfields.card.stories.tsx
+  s_77ab1bb293e825::t_493cbcb86d4255 64
+frontend/src/screens/customfields.card.tsx
+  s_77ab1bb293e825::t_b06779173fe73f 1-2,6,9,20,25
+frontend/src/screens/customfields.form.render.test.tsx
+  s_77ab1bb293e825::t_d1627581c98d51 79,129
+frontend/src/screens/customfields.form.test.ts
+  s_77ab1bb293e825::t_79f75843d7096b 14,43,54-55,63,74-78,90,98-115,372
+frontend/src/screens/customfields.form.ts
+  s_77ab1bb293e825::t_521a9676c96f72 16,33,46-52,160-162,226-227,256-265,336-338
+frontend/src/screens/onboarding-conversation/workbench.stories.tsx
+  s_77ab1bb293e825::t_e9e702e5f6d02b 75-82
+frontend/src/screens/recordcustomfields.stories.tsx
+  s_77ab1bb293e825::t_6b7a6cd4ed0c39 2,37-61,69,84-99,104
+frontend/src/screens/recordcustomfields.test.tsx
+  s_77ab1bb293e825::t_674b9a51b65f51 2-8,11,22-204,301-303,305-376
+frontend/src/screens/recordcustomfields.tsx
+  s_77ab1bb293e825::t_1509abfb16b994 1-2,5,8-13,27,45,48-49,73-93
+frontend/src/screens/recordfields.test.tsx
+  s_77ab1bb293e825::t_58ab088b3c4568 252-285
+frontend/src/screens/recordfields.tsx
+  s_77ab1bb293e825::t_99c5818c0024fb 20,76-77,79-81,198-200,249,263-264,268,281,288,295-308,310,317,319,328-329,333,344-345,349,367-371,380-406
+frontend/src/screens/recordfieldvalues.ts
+  s_77ab1bb293e825::t_c21fad17528ea4 58
+frontend/src/screens/reporting.actions.test.tsx
+  s_77ab1bb293e825::t_e899b6799e850d 53,113,200,203-204,237
+frontend/src/screens/reporting.administration.test.tsx
+  s_77ab1bb293e825::t_ceacaa7d5cbba9 4,48,54-55,57-58,96-97,100-101,178,246,291-365
+frontend/src/screens/reporting.chartcontext.stories.tsx
+  s_77ab1bb293e825::t_beac0f998a01ec 1-24
+frontend/src/screens/reporting.chartcontext.tsx
+  s_77ab1bb293e825::t_17a9a916d25eeb 1-108
+frontend/src/screens/reporting.charts.stories.tsx
+  s_77ab1bb293e825::t_788fd2b94b648a 26-47
+frontend/src/screens/reporting.charts.tsx
+  s_77ab1bb293e825::t_1b951a4cb085f6 3-4,12-18,29,50-51,54-58,68,87-97,107,141-151,170,180-183,185-188,206,222-226,249-268,273-292,327-331,343,345-349,436-440,457-478,480-482,486,488-493
+frontend/src/screens/reporting.comparison.stories.tsx
+  s_77ab1bb293e825::t_e7c6b599ba1d93 11-12,16-18,68-82
+frontend/src/screens/reporting.comparison.tsx
+  s_77ab1bb293e825::t_669e1bdb60cd6c 16,26-35,39-49,67,75-80,88-90,99-108,124-132,190-191,270-280
+frontend/src/screens/reporting.definitions.tsx
+  s_77ab1bb293e825::t_05812cab165b2a 64-77
+frontend/src/screens/reporting.evidence.tsx
+  s_77ab1bb293e825::t_3c4a70de3272d5 2,9-11,20,34,39,74-76,90-93,99-118,121-126,153-163,167-171,208-217,231-235,251-287
+frontend/src/screens/reporting.executions.tsx
+  s_77ab1bb293e825::t_452ac39bff06ee 2,4-5,9-10,12,17-22,24-25,27-30,39-52,59,93-94,99-104,110-125,137-141,157-164
+frontend/src/screens/reporting.filters.stories.tsx
+  s_77ab1bb293e825::t_ae842103622574 1-27
+frontend/src/screens/reporting.filters.tsx
+  s_77ab1bb293e825::t_e20062f9fb59ad 1-196
+frontend/src/screens/reporting.forecast.tsx
+  s_77ab1bb293e825::t_50783f49e30e9c 31-32,45-74,77-96,98-111
+frontend/src/screens/reporting.graphs.test.tsx
+  s_77ab1bb293e825::t_f69a016220c0b9 3,81,90,93,96-100,192,204,207-234
+frontend/src/screens/reporting.history.test.tsx
+  s_77ab1bb293e825::t_d70ebeb4f5d34d 11,110,155,157,169,192,247-252,273,291,298,303,355,386-388,391,395-488
+frontend/src/screens/reporting.interactions.test.tsx
+  s_77ab1bb293e825::t_3654a8aeef9057 79,112,162,165,179-183,185-187,211,225-256
+frontend/src/screens/reporting.library.tsx
+  s_77ab1bb293e825::t_c8347a3ff5c1de 4,11,13-14,19,22,26,52-63,164-177,190-192,204-208
+frontend/src/screens/reporting.model.ts
+  s_77ab1bb293e825::t_0f00de511b51ad 2-7,60-85
+frontend/src/screens/reporting.overview.stories.tsx
+  s_77ab1bb293e825::t_9264ff7d1771c8 108-112,114-116,118-160
+frontend/src/screens/reporting.overview.tsx
+  s_77ab1bb293e825::t_4098b243a3a99e 8-10,19,25,42,46-48,56-65,73-133,147-162,207,253-283,322-325
+frontend/src/screens/reporting.pagination.ts
+  s_77ab1bb293e825::t_911ea35ad77b9a 1-17
+frontend/src/screens/reporting.queries.ts
+  s_77ab1bb293e825::t_135a41c7d77ae5 1-16
+frontend/src/screens/reporting.report.stories.tsx
+  s_77ab1bb293e825::t_2f6ff7a0ac4151 73,80-90
+frontend/src/screens/reporting.report.tsx
+  s_77ab1bb293e825::t_c9bcbcaa348d82 1-6,9,12,27-28,36-39,44,58-60,102,104-109,136,163-164,173-179,181-190,215,225-230,236,245,250,252,277-279,309-310,323-325,327,332,334-335,342,356,367,384,387-388,390,396,449-458,460,481-484
+frontend/src/screens/reporting.save.tsx
+  s_77ab1bb293e825::t_67229315f3818e 7-13,20,29,40,140-150,196-211,213-241,249-256
+frontend/src/screens/reporting.schedule.stories.tsx
+  s_77ab1bb293e825::t_fc4a7038415413 7,11,54-86
+frontend/src/screens/reporting.schedule.tsx
+  s_77ab1bb293e825::t_d6fdc4141d618e 1,6-7,41,44-53,93,131-142,202,212-215
+frontend/src/screens/reporting.scorecard.tsx
+  s_77ab1bb293e825::t_30a5e50533f10c 76-77,131-132
+frontend/src/screens/reporting.sdroutcomes.stories.tsx
+  s_77ab1bb293e825::t_4de365d3c4d0e0 1-17
+frontend/src/screens/reporting.sdroutcomes.tsx
+  s_77ab1bb293e825::t_2df5c8c044ad56 1-80
+frontend/src/screens/reporting.story-fixtures.ts
+  s_77ab1bb293e825::t_3ade3925886aa7 48-49
+frontend/src/screens/reporting.targethistory.stories.tsx
+  s_77ab1bb293e825::t_e4c79b96c3a326 1-41
+frontend/src/screens/reporting.targethistory.tsx
+  s_77ab1bb293e825::t_795c3740a48b04 1-52
+frontend/src/screens/reporting.targets.stories.tsx
+  s_77ab1bb293e825::t_2f11f1ef229816 34-57
+frontend/src/screens/reporting.targets.tsx
+  s_77ab1bb293e825::t_751603bd936bf0 7-8,10,16,19-22,30-32,40-42,45,95-108,113,142-152,169-173,188-191,210,231,234,244,275-276,296,302,379-387,389,391,393-399,405-409,417,432-442,454-455,459,466-486
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eb9acf7d3e6782372a0c2f385a588acd7f8caa49",
+  "prompts": {},
+  "sessions": {
+    "s_77ab1bb293e825": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "81e631d5-225c-407d-a611-239858ebed0a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
