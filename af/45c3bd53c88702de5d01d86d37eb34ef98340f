@@ -1,0 +1,391 @@
+backend/internal/compose/agentpolicy_gen.go
+  s_77ab1bb293e825::t_bc3d4cfde87095 138-139,160,328,330,371,494,648-649
+backend/internal/compose/stubs_gen.go
+  s_77ab1bb293e825::t_ad6fbb07bcbad5 498-501,2038-2053,2062-2069,2846-2853
+backend/internal/contracts/api_gen.go
+  s_77ab1bb293e825::t_7be876190d7abc 23443-23463,35572-35604,35897-35919,38429-38434,41802-41816,42445-42473,42938-42957,51419-51421,51875-51880,62795-62797,63950-63961,63968-63973,64556-64561,65438-65443,67748-67771,67784-67795,68960-68971,74529-74542,90589-90668,90709-90760,99536-99608,102401-102403,103556-103567,103574-103579,104162-104167
+backend/internal/modules/knowledge/handbook/settings.md
+  s_77ab1bb293e825::t_ddb2dd61c23f0e 21,58,60,232,234-235,238,242-244,276
+backend/internal/modules/knowledge/handbook/what-the-ai-does.md
+  s_77ab1bb293e825::t_d34852dedbc8b5 160-161
+frontend/src/api/schema.d.ts
+  s_de2773e942ab1b::t_fcf8a9a562142f 92-97,106-131,13199-13255,13300-13302,16822-16953,18449-18482,18836-18926,18945-18970,41274-41283,41293-41346,41369-41377,41405-41413,61141-61191,66555-66718
+backend/api/crm.yaml
+  s_de2773e942ab1b::t_b02aa8edc6848c 270-275,291-299,301-303,308-354,385-389,424-428,19563-19613,19653-19655,24704-24857,27317-27351,27889-28042,28051,28064-28089
+backend/cmd/api/boot.go
+  s_de2773e942ab1b::t_726b361e9ba0be 265-274
+backend/gates/livemember_test.go
+  s_de2773e942ab1b::t_ea77cf588daa81 135
+backend/gates/rbacgate_test.go
+  s_de2773e942ab1b::t_2c5527047aece1 230-235,237-240
+backend/gates/tableownerregistry_test.go
+  s_de2773e942ab1b::t_a17369a5b133cb 31-44
+backend/gates/vaultwriters_test.go
+  s_de2773e942ab1b::t_969f35beabe6bd 71-77
+backend/internal/compose/googlesignin.go
+  s_de2773e942ab1b::t_53b0921fd411e3 123,126,128
+backend/internal/compose/googlesignin_test.go
+  s_de2773e942ab1b::t_bc0cbdac94396e 112-114,116,123-138,140
+backend/internal/compose/handlers_installation_settings.go
+  s_de2773e942ab1b::t_24742eb13bfb53 70,78-84,86-89,159-167
+backend/internal/compose/integration/authentication_policy_integration_test.go
+  s_de2773e942ab1b::t_eeb09e1bbddb29 121-161
+backend/internal/compose/integration/installation_settings_integration_test.go
+  s_de2773e942ab1b::t_bad0b9b91395a8 28-29,251-338
+backend/internal/compose/mfachallengesign.go
+  s_de2773e942ab1b::t_43c63991e3dadc 1-170
+backend/internal/compose/mfachallengesign_test.go
+  s_de2773e942ab1b::t_4392c725f15d07 1-119
+backend/internal/compose/microsoftsignin.go
+  s_de2773e942ab1b::t_b02ca5bc38c28b 324,327,341
+backend/internal/compose/microsoftsignin_test.go
+  s_de2773e942ab1b::t_1a0c931a48f608 179,186-204,212,225,345,359,373
+backend/internal/compose/oidcverify.go
+  s_de2773e942ab1b::t_0e8d963329a83a 182-186
+backend/internal/compose/server.go
+  s_de2773e942ab1b::t_e8a7ed5d079522 64-73
+backend/internal/compose/serverinventory.go
+  s_de2773e942ab1b::t_b9a4f238272a1a 39,299-308
+backend/internal/compose/serveroptions.go
+  s_de2773e942ab1b::t_66361bfdf3e468 207-210
+backend/internal/modules/identity/admission.go
+  s_de2773e942ab1b::t_14db2f689353de 69,88-95,144-152,157-160,164-177
+backend/internal/modules/identity/changepassword.go
+  s_de2773e942ab1b::t_34e54dbbf253bc 116,309-315
+backend/internal/modules/identity/doc.go
+  s_de2773e942ab1b::t_808a6b6dd871f2 8-10
+backend/internal/modules/identity/federatedidentity.go
+  s_de2773e942ab1b::t_5abe815f5f7134 140-144,151-160,169-180
+backend/internal/modules/identity/grouprolesync.go
+  s_de2773e942ab1b::t_d8ae8b490d8d77 1-160
+backend/internal/modules/identity/grouprolesync_integration_test.go
+  s_de2773e942ab1b::t_0fdf3ca06a4d5f 1-199
+backend/internal/modules/identity/handlers.go
+  s_de2773e942ab1b::t_145c01fd6e3f8f 83-93,159-165,210-211,230,316,323-330
+backend/internal/modules/identity/handlers_mfa.go
+  s_de2773e942ab1b::t_15dca8d2ba24ab 1-187
+backend/internal/modules/identity/handlers_mfachallenge.go
+  s_de2773e942ab1b::t_e39976f5f3120d 1-96
+backend/internal/modules/identity/handlers_sessions.go
+  s_de2773e942ab1b::t_a5d1cea2298d98 1-69
+backend/internal/modules/identity/handlers_usersessions.go
+  s_de2773e942ab1b::t_19927c3f78da14 1-62
+backend/internal/modules/identity/identity_context.go
+  s_de2773e942ab1b::t_e608c2e586c3d5 6-11,23-34
+backend/internal/modules/identity/installationpatch_test.go
+  s_de2773e942ab1b::t_8640cab49ed58a 45-46,61-73
+backend/internal/modules/identity/installationsettings.go
+  s_de2773e942ab1b::t_dd498242746879 74-84,264-276
+backend/internal/modules/identity/login.go
+  s_de2773e942ab1b::t_bd0ad0f943c2c9 1-162
+backend/internal/modules/identity/mfa.go
+  s_de2773e942ab1b::t_29019682630ae4 1-421
+backend/internal/modules/identity/mfa_integration_test.go
+  s_de2773e942ab1b::t_6293ff135914bc 1-258
+backend/internal/modules/identity/mfa_test.go
+  s_de2773e942ab1b::t_eef178ddd872a6 1-68
+backend/internal/modules/identity/mfachallenge.go
+  s_de2773e942ab1b::t_7c4937a54144f9 1-182
+backend/internal/modules/identity/mfachallenge_integration_test.go
+  s_de2773e942ab1b::t_c9b547fc4c9164 1-264
+backend/internal/modules/identity/mfahttp_integration_test.go
+  s_de2773e942ab1b::t_9779740dea878d 1-158
+backend/internal/modules/identity/mfarequire_integration_test.go
+  s_de2773e942ab1b::t_b7e988afc86d09 1-117
+backend/internal/modules/identity/reset.go
+  s_de2773e942ab1b::t_beb8538fab4c43 340,360,366
+backend/internal/modules/identity/service.go
+  s_de2773e942ab1b::t_c0101e76361330 22,68-88,132-139,311-316,371-384
+backend/internal/modules/identity/sessions.go
+  s_de2773e942ab1b::t_f3291083bedd9b 1-165
+backend/internal/modules/identity/sessions_integration_test.go
+  s_de2773e942ab1b::t_9b140b940ae42d 1-311
+backend/internal/modules/identity/sessions_test.go
+  s_de2773e942ab1b::t_a7c6199cdbb0af 1-36
+backend/internal/modules/identity/sessiontoken.go
+  s_de2773e942ab1b::t_aef31c45168d48 21-23,25-27
+backend/internal/modules/identity/settingsentry.go
+  s_de2773e942ab1b::t_027136c9f02bbb 245-247
+backend/internal/modules/identity/signinpolicy.go
+  s_de2773e942ab1b::t_ce508d9ec56515 1-136
+backend/internal/modules/identity/signinsettings.go
+  s_de2773e942ab1b::t_a505fb91500165 1-209
+backend/internal/modules/identity/signinsettings_test.go
+  s_de2773e942ab1b::t_5af0007d34592f 1-54
+backend/internal/modules/identity/ssoenforcement.go
+  s_de2773e942ab1b::t_02fc56985b8820 1-36
+backend/internal/modules/identity/ssoenforcement_integration_test.go
+  s_de2773e942ab1b::t_10054b160f67cc 1-89
+backend/internal/modules/identity/ssologin.go
+  s_de2773e942ab1b::t_b99eb087263bfa 81-85,87,365,371,384-385,388,390,392,395,401-402,404,406
+backend/internal/modules/identity/ssologin_integration_test.go
+  s_de2773e942ab1b::t_eec9c99b18a2cd 230,259
+backend/internal/modules/identity/ssologin_test.go
+  s_de2773e942ab1b::t_1b65e77befb920 37-39,42-43,70-71
+backend/internal/modules/identity/totp.go
+  s_de2773e942ab1b::t_15f7670b152915 1-99
+backend/internal/modules/identity/totp_test.go
+  s_de2773e942ab1b::t_fc7875b7e5cf0e 1-82
+backend/internal/modules/identity/userrole.go
+  s_de2773e942ab1b::t_78e96ba998695a 107
+backend/internal/modules/identity/usersessions.go
+  s_de2773e942ab1b::t_d2b5c0bdffa254 1-135
+backend/internal/modules/identity/usersessions_integration_test.go
+  s_de2773e942ab1b::t_467a7adeae0cba 1-77
+backend/migrations/core/1790739571_mfa_totp_enrolment_and_recovery_codes.down.sql
+  s_de2773e942ab1b::t_4e4c83e874f508 1-15
+backend/migrations/core/1790739571_mfa_totp_enrolment_and_recovery_codes.up.sql
+  s_de2773e942ab1b::t_b2731e5c35df45 1-67
+backend/migrations/testdata/head_catalog.txt
+  s_de2773e942ab1b::t_00ee863abc4cb9 4277-4278,4908-4923,6818-6826
+docs/explanation/frontend-architecture.md
+  s_de2773e942ab1b::t_23973ae19d4f35 293-294,383
+docs/handbook/settings.md
+  s_de2773e942ab1b::t_df3cbcb9c5223c 21,58,60,232,234-235,238,242-244,276
+docs/handbook/what-the-ai-does.md
+  s_de2773e942ab1b::t_7afe172c241ab2 160-161
+docs/reference/entity-model/README.md
+  s_de2773e942ab1b::t_ac6e912d50a99f 33-35,44,113,161,315-316,395
+docs/reference/entity-model/identity.md
+  s_de2773e942ab1b::t_7ff0f0cc911e08 5,9,173-214,656-677
+docs/reference/modules.md
+  s_de2773e942ab1b::t_3ed33f6dcad882 34
+frontend/.storybook/preview.tsx
+  s_de2773e942ab1b::t_e7791d284c9906 106
+frontend/scripts/check-ds-spacing-roles.sh
+  s_de2773e942ab1b::t_168fd939c19bd5 115-118
+frontend/scripts/lib/spacing-roles.awk
+  s_de2773e942ab1b::t_bf361ae18040d2 16-19
+frontend/src/App.tsx
+  s_de2773e942ab1b::t_ce6e47d938649e 471-472
+frontend/src/app.css
+  s_de2773e942ab1b::t_860c80931f51fc 134-135
+frontend/src/design-system/README.md
+  s_de2773e942ab1b::t_8a825b43b2b683 264,352,355,368,370-371,399,426,428-429,432-439,446,502,515,517-518,522,540,546-547,558,736,738-741,743,745,747,749-752,799
+frontend/src/design-system/airuntimechip.css
+  s_de2773e942ab1b::t_301aa3f73ba52a 2,13,15,130-131,134-138
+frontend/src/design-system/airuntimechip.stories.tsx
+  s_de2773e942ab1b::t_47790b3723e01b 5,7,11-26,73-78,80-82,84-108,111-115,118-120
+frontend/src/design-system/airuntimechip.test.tsx
+  s_de2773e942ab1b::t_8643b11a04f616 10,14-15,17,35,37,43-46,49-50,52-53,55,58,61,65,75-78,81,84,91,101-104,110,114-117,121,123,125-126
+frontend/src/design-system/airuntimechip.tsx
+  s_de2773e942ab1b::t_9cc453f8e239ce 1-3,9,14,30-31,40,46-47,53-54,76-77,116-117,120-121,218-219
+frontend/src/design-system/atoms.css
+  s_de2773e942ab1b::t_53805b6b085121 1930-1931
+frontend/src/design-system/avatar.stories.tsx
+  s_de2773e942ab1b::t_c15dd5cdc1d8bf 51-53,174-183
+frontend/src/design-system/avatarstack.stories.tsx
+  s_de2773e942ab1b::t_e6f733bc4876f1 5,43-62
+frontend/src/design-system/badge.stories.tsx
+  s_de2773e942ab1b::t_234e9cffc14f4c 1-125
+frontend/src/design-system/busymark.stories.tsx
+  s_de2773e942ab1b::t_9104b8648aa4bb 1-69
+frontend/src/design-system/button.stories.tsx
+  s_de2773e942ab1b::t_57288739315772 1-3,5-7,10-12,17,31-33,106,129-130,168-169
+frontend/src/design-system/card.stories.tsx
+  s_de2773e942ab1b::t_a25fe310e4ee1a 1-47
+frontend/src/design-system/catalog.test.ts
+  s_de2773e942ab1b::t_cb167478ae48ea 176-228,294-300,393-439
+frontend/src/design-system/checkbox.stories.tsx
+  s_de2773e942ab1b::t_bdcf5c1ffbacbd 1-31
+frontend/src/design-system/dealcard.stories.tsx
+  s_de2773e942ab1b::t_5082abdbd8ca58 10-12
+frontend/src/design-system/disclosure.stories.tsx
+  s_de2773e942ab1b::t_a8c81e40eb2f28 1-53
+frontend/src/design-system/emptystate.stories.tsx
+  s_de2773e942ab1b::t_8d3fa2b71bfdfd 1-45
+frontend/src/design-system/factlist.tsx
+  s_de2773e942ab1b::t_0f717e5222c4f3 38-40
+frontend/src/design-system/field.stories.tsx
+  s_de2773e942ab1b::t_1e867eace21ac6 1-139
+frontend/src/design-system/kbd.stories.tsx
+  s_de2773e942ab1b::t_145cc45104b17f 1-24
+frontend/src/design-system/margince-core.stories.tsx
+  s_de2773e942ab1b::t_4042de7bf16a18 193-195
+frontend/src/design-system/onboarding-stage.tsx
+  s_de2773e942ab1b::t_e1c575b3d0c833 15
+frontend/src/design-system/overflowmenu.stories.tsx
+  s_de2773e942ab1b::t_53f436afdc0de2 1-82
+frontend/src/design-system/pendingbody.stories.tsx
+  s_de2773e942ab1b::t_d39107bbd539a7 1-37
+frontend/src/design-system/pipelineboard.stories.tsx
+  s_de2773e942ab1b::t_8211349ce02c5e 15-17,21,39,44-45,62,117-119,172-173,207-208,234,244-245,265,275-276,301,311-312,333,346,357-358,387-388,395,422,426-429
+frontend/src/design-system/provenance.stories.tsx
+  s_de2773e942ab1b::t_5a0a6f219354ee 1-79
+frontend/src/design-system/recordpicker.stories.tsx
+  s_de2773e942ab1b::t_43b0ee49cfd553 7-10
+frontend/src/design-system/recordview.stories.tsx
+  s_de2773e942ab1b::t_0600de91b7c4d1 1-173
+frontend/src/design-system/resolvesheet.stories.tsx
+  s_de2773e942ab1b::t_e760fdcff2c88b 64
+frontend/src/design-system/searchfield.stories.tsx
+  s_de2773e942ab1b::t_9cfbf25b231dfd 1-28
+frontend/src/design-system/sectionheader.stories.tsx
+  s_de2773e942ab1b::t_b84d6f06e609d1 1-44
+frontend/src/design-system/segmentedcontrol.stories.tsx
+  s_de2773e942ab1b::t_66f2a72e1a7e1d 1-123
+frontend/src/design-system/sidebar.test.ts
+  s_de2773e942ab1b::t_f5b84fc4e7fe1f 13,253
+frontend/src/design-system/skeleton.stories.tsx
+  s_de2773e942ab1b::t_994fe9ee17874b 1-27
+frontend/src/design-system/sourceevidence.stories.tsx
+  s_de2773e942ab1b::t_f0c5980f5af617 1-116
+frontend/src/design-system/statcard.stories.tsx
+  s_de2773e942ab1b::t_4e2328407df87c 13-14
+frontend/src/design-system/tablescroll.stories.tsx
+  s_de2773e942ab1b::t_c4edadbe5ee892 1-79
+frontend/src/design-system/textarea.stories.tsx
+  s_de2773e942ab1b::t_9644dedcae8210 1-47
+frontend/src/design-system/textinput.stories.tsx
+  s_de2773e942ab1b::t_906b798b2d6969 1-35
+frontend/src/design-system/timelinelist.stories.tsx
+  s_de2773e942ab1b::t_30005e449cad16 1-152
+frontend/src/format/zone-by-purpose.test.ts
+  s_de2773e942ab1b::t_5ab4ab8e99d65b 289-298
+frontend/src/i18n/de.ts
+  s_de2773e942ab1b::t_cdc20e32c5fd72 7591,7669,7672,8756-8777,8999,9001,10059,10069,10074-10079,10082,10114,10183
+frontend/src/i18n/en.ts
+  s_de2773e942ab1b::t_b3fcd5ec96d3e5 7783,7857,7860,8905-8926,9141,9143,10212,10222,10227-10232,10235,10265,10331
+frontend/src/i18n/record-noun.test.ts
+  s_de2773e942ab1b::t_3a6c6d54ddbbc5 172-173,468-469
+frontend/src/i18n/vi.ts
+  s_de2773e942ab1b::t_507a8458de1ab8 7532,7614,7617,8679-8700,8919,8921,9953-9954,9964,9969-9977,9981-9982,10015,10095
+frontend/src/screens/ai-admin.test.tsx
+  s_de2773e942ab1b::t_533254be58424c 18,20
+frontend/src/screens/ai-admin.tsx
+  s_de2773e942ab1b::t_d842d4fe3854a3 5,24-25,74-77,103,149,209,216-232
+frontend/src/screens/ai-binding-editor.stories.tsx
+  s_de2773e942ab1b::t_b3f5b3c29a84cc 124
+frontend/src/screens/ai-feature-table.tsx
+  s_de2773e942ab1b::t_d080ba219a7342 1-155
+frontend/src/screens/ai-lane-state.stories.tsx
+  s_de2773e942ab1b::t_51dfeb36eaaa4b 46
+frontend/src/screens/ai-provider-keys.stories.tsx
+  s_de2773e942ab1b::t_f29047c998d463 71
+frontend/src/screens/ai-provider-sheet.stories.tsx
+  s_de2773e942ab1b::t_726a5e205e0969 108
+frontend/src/screens/ai-routing.stories.tsx
+  s_de2773e942ab1b::t_a8127a244d3d6e 154
+frontend/src/screens/ai-settings.stories.tsx
+  s_de2773e942ab1b::t_fc86bed7863985 6,12,158
+frontend/src/screens/ai-settings.test.tsx
+  s_de2773e942ab1b::t_2161aac73dae1f 15,191,221-223,286,312,314-316
+frontend/src/screens/ai-settings.tsx
+  s_de2773e942ab1b::t_84ef980397c3b3 11,45-46,52-54,58-60,62-64,68,72,74-76,79-82,84-90
+frontend/src/screens/ai-tasks.stories.tsx
+  s_de2773e942ab1b::t_e49d00e89d0c2b 65
+frontend/src/screens/ai-tasks.test.tsx
+  s_de2773e942ab1b::t_05ecfacb5a947a 71-84
+frontend/src/screens/ai-tasks.tsx
+  s_de2773e942ab1b::t_363c7ee19b4c9a 7-8,39-43
+frontend/src/screens/ai-terms.stories.tsx
+  s_de2773e942ab1b::t_91fb78f663e650 45
+frontend/src/screens/aicalls.stories.tsx
+  s_de2773e942ab1b::t_ca030222259440 124
+frontend/src/screens/aicalls.test.tsx
+  s_de2773e942ab1b::t_e1253ec271a511 335-358
+frontend/src/screens/aicalls.tsx
+  s_de2773e942ab1b::t_ac037758becc72 7,108-110,120-126,134-137
+frontend/src/screens/aiexport.stories.tsx
+  s_de2773e942ab1b::t_88fa32457f5dac 17
+frontend/src/screens/filterlist.tsx
+  s_de2773e942ab1b::t_c17fc15aef7ab4 9,11-12,17-21,27-28,37-39,43-50,52-72,74-98
+frontend/src/screens/filters.stories.tsx
+  s_de2773e942ab1b::t_5a6301c4c1d0de 119-120,123,207,254-256
+frontend/src/screens/filters.test.tsx
+  s_de2773e942ab1b::t_2c35e5fb26ecde 13,15,55,125,142,274-337
+frontend/src/screens/filters.tsx
+  s_de2773e942ab1b::t_f970bc07e6e64a 39,42,109,123-124,134,161,166-169,180,256-260,285-316
+frontend/src/screens/listactions.test.tsx
+  s_de2773e942ab1b::t_3c0cf70ded2b89 23-24,26,85-162,276-278,280-281,292-297,301-307,316,323,326-377,406-421
+frontend/src/screens/listlibrary.stories.tsx
+  s_de2773e942ab1b::t_809bba23e5a8b0 6-12,15-16,22-23,26-27,30-39
+frontend/src/screens/listlibrary.test.tsx
+  s_de2773e942ab1b::t_da33513ad9fe77 12,14-21,38-60,86-121,152-182
+frontend/src/screens/listlibrary.tsx
+  s_de2773e942ab1b::t_af3ce1ed54bc6b 4-6,34-39,96,185,207,226-227,269-273
+frontend/src/screens/listpage.tsx
+  s_de2773e942ab1b::t_87c757ff3347d9 38,91,108
+frontend/src/screens/lists.fixtures.ts
+  s_de2773e942ab1b::t_3726e458a13e62 14-23,38-39,120-124,126-127,134-135
+frontend/src/screens/lists.queries.ts
+  s_de2773e942ab1b::t_4cd424f1e4702e 124-125,140,158-159,174
+frontend/src/screens/listsettings.tsx
+  s_de2773e942ab1b::t_67e1d64eeecf17 12,14,21-27,29-39,42,55,58-59,83-87,92-95
+frontend/src/screens/listsharing.stories.tsx
+  s_de2773e942ab1b::t_429dd066c349b3 1-77
+frontend/src/screens/listsharing.tsx
+  s_de2773e942ab1b::t_67456314dd55aa 1-158
+frontend/src/screens/myviews.stories.tsx
+  s_de2773e942ab1b::t_3db3c3707ee062 1-56
+frontend/src/screens/myviews.tsx
+  s_de2773e942ab1b::t_528357d90e6922 68-72
+frontend/src/screens/onboarding-conversation/company-act.test.tsx
+  s_de2773e942ab1b::t_368f8b4f4a5ff0 150
+frontend/src/screens/onboarding-conversation/conversation.css
+  s_de2773e942ab1b::t_601b2a46f47db3 198
+frontend/src/screens/onboarding-conversation/index.tsx
+  s_de2773e942ab1b::t_43bba734259fa0 38,156,344
+frontend/src/screens/onboarding-conversation/onboarding-conversation.test.tsx
+  s_de2773e942ab1b::t_1371dd4d46efaf 851
+frontend/src/screens/onboarding-conversation/read-conclusion.test.tsx
+  s_de2773e942ab1b::t_b5ecd59314c045 296
+frontend/src/screens/onboarding-conversation/voice-scenes.tsx
+  s_de2773e942ab1b::t_eab1aca6a9f3f1 121-123
+frontend/src/screens/onboarding-conversation/workbench.tsx
+  s_de2773e942ab1b::t_dcb6ca57411a6e 7,23-24,244
+frontend/src/screens/onboarding-first-run.css
+  s_de2773e942ab1b::t_ed463749f33fc9 5-6
+frontend/src/screens/onboarding-gate.css
+  s_de2773e942ab1b::t_78a0a36199a7e2 33-34
+frontend/src/screens/onboarding.css
+  s_de2773e942ab1b::t_a5160126bd3a1a 350-351,356-357
+frontend/src/screens/onboarding.test.tsx
+  s_de2773e942ab1b::t_d3bbfba0a59b8f 642
+frontend/src/screens/rate-catalogue-refresh.stories.tsx
+  s_de2773e942ab1b::t_e00d9daaa2c2da 69
+frontend/src/screens/rate-remove.stories.tsx
+  s_de2773e942ab1b::t_18fc25ba9fcf48 52
+frontend/src/screens/savedviews.tsx
+  s_de2773e942ab1b::t_5cea36228e1371 158-163,176
+frontend/src/screens/settings-nav.test.tsx
+  s_de2773e942ab1b::t_b5ef1712395141 282
+frontend/src/screens/settings.tsx
+  s_de2773e942ab1b::t_2efa3038223bb2 146,342-343
+frontend/src/screens/settingscatalog.test.ts
+  s_de2773e942ab1b::t_bc0ca3b6612623 212
+frontend/src/screens/settingscatalog.ts
+  s_de2773e942ab1b::t_03c8dde16579a3 357-363,366,614-632,649-656
+frontend/src/screens/sign-in-methods.css
+  s_de2773e942ab1b::t_6e41192e9bfa15 1-26
+frontend/src/screens/sign-in-methods.stories.tsx
+  s_de2773e942ab1b::t_942947bea14312 8,25-28,31,35,39,42-44,49-52,54-55,94-107
+frontend/src/screens/sign-in-methods.test.tsx
+  s_de2773e942ab1b::t_bee8e55c4f6f53 7,9,27-40,44,50-56,59-61,132-239
+frontend/src/screens/sign-in-methods.tsx
+  s_de2773e942ab1b::t_9e7f5af36ea98f 2-3,7,10,15-21,97-312,316-321,400-406
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "af45c3bd53c88702de5d01d86d37eb34ef98340f",
+  "prompts": {},
+  "sessions": {
+    "s_77ab1bb293e825": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "81e631d5-225c-407d-a611-239858ebed0a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_de2773e942ab1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e98456c2-4c34-4ba4-be10-ca69fa789d2b",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
