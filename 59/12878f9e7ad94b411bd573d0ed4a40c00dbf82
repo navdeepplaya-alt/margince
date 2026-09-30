@@ -1,0 +1,66 @@
+frontend/src/screens/roster.tsx
+  s_219e4a7e70a9ae::t_d6d7b8df58c208 30-36
+  s_219e4a7e70a9ae::t_5c2cbb46e47377 123,125-129
+frontend/src/screens/recordaccess.tsx
+  s_219e4a7e70a9ae::t_bc82ab1db97d96 358-360,370-372
+  s_219e4a7e70a9ae::t_2c2d0c9f5e28bc 37
+frontend/src/screens/recordaccess.test.tsx
+  s_219e4a7e70a9ae::t_577cbd3b8cda8b 59
+  s_219e4a7e70a9ae::t_9524edd80fed1b 285,287
+  s_219e4a7e70a9ae::t_1be430231ce88b 80-82
+  s_219e4a7e70a9ae::t_23b90e18cbd819 104
+frontend/src/screens/entityref.test.tsx
+  s_219e4a7e70a9ae::t_702154bc291bbb 669-671,673-674,684-688
+  s_219e4a7e70a9ae::t_f30b21cd89a7b1 470
+  s_219e4a7e70a9ae::t_5c367396600cee 242,260
+  s_219e4a7e70a9ae::t_c593ae12152f4a 582-586,588,593
+  s_219e4a7e70a9ae::t_73d3f47ca333c4 457-463
+  s_219e4a7e70a9ae::t_fd09af9a02f876 627,632,635,639
+  s_219e4a7e70a9ae::t_d4f2763a4fc684 413-418,420-421
+  s_219e4a7e70a9ae::t_0a7c1cdbf81c3f 656-657,664
+  s_219e4a7e70a9ae::t_6c2fb2b7d82b32 429-430
+  s_219e4a7e70a9ae::t_7628a183f24fd9 528-580
+  s_219e4a7e70a9ae::t_0aa82622e56507 315,319
+  s_219e4a7e70a9ae::t_309a4762e941af 411-412,419,422-428,431-453
+  s_219e4a7e70a9ae::t_c870604508aa08 275,279
+frontend/src/screens/entityref.tsx
+  s_219e4a7e70a9ae::t_d07648f222ce20 322-325,331-336,356,362-363,366,369
+  s_219e4a7e70a9ae::t_01e43c7f69a1d0 351,364
+  s_219e4a7e70a9ae::t_3688a58322f8ae 345-348
+  s_219e4a7e70a9ae::t_fdb3ac9edc5f82 12-13
+  s_219e4a7e70a9ae::t_38b0a5ffcb0c55 26-30
+  s_219e4a7e70a9ae::t_efc8855caaf2ce 512-513,515
+  s_219e4a7e70a9ae::t_22afe92a313da6 495-500
+  s_219e4a7e70a9ae::t_76a306e438c67b 501,507,511
+  s_219e4a7e70a9ae::t_996cc13f84545d 337-344,349-350,353-354,357-361,370-374
+  s_219e4a7e70a9ae::t_4cfad62b5ebd5c 451
+  s_219e4a7e70a9ae::t_725917b7be05fe 365
+frontend/src/screens/companyheader.tsx
+  s_219e4a7e70a9ae::t_a9ec567e7ea284 25
+  s_219e4a7e70a9ae::t_fcdcc275d00c7e 226,243
+frontend/src/screens/membernames.test.ts
+  s_219e4a7e70a9ae::t_f11d701c0de39f 138-139
+  s_219e4a7e70a9ae::t_95d28099be192b 118-119
+  s_219e4a7e70a9ae::t_2678ad1d6e2f1f 69-73
+frontend/src/screens/deal360/dealheaderfacts.tsx
+  s_219e4a7e70a9ae::t_85ea980c9d61aa 120-121
+  s_219e4a7e70a9ae::t_ffeacfef0e6413 164
+  s_219e4a7e70a9ae::t_7bfd04e4da9a90 229-250
+  s_219e4a7e70a9ae::t_261ac2772cde95 29-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5912878f9e7ad94b411bd573d0ed4a40c00dbf82",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

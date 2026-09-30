@@ -1,0 +1,46 @@
+frontend/src/screens/compose.tsx
+  s_219e4a7e70a9ae::t_bfafa1fcb2975c 1643-1645
+backend/internal/modules/identity/seatnameshandler_integration_test.go
+  s_219e4a7e70a9ae::t_4e82e4e631e4c7 8-9,11
+  s_219e4a7e70a9ae::t_e16f8600561d7a 93,96-115
+  s_219e4a7e70a9ae::t_7715e1f8b833e0 94-95
+frontend/src/screens/contacttoday.tsx
+  s_219e4a7e70a9ae::t_688baf85c68fb2 274
+frontend/src/screens/worklist.tsx
+  s_219e4a7e70a9ae::t_0c921cc5725528 269-271
+frontend/src/screens/membernames.test.ts
+  s_219e4a7e70a9ae::t_c0d8be32bcd371 39-42
+  s_219e4a7e70a9ae::t_eefd99b58eac9b 193,196-197,200
+  s_219e4a7e70a9ae::t_ac59fe3d544f63 202-209,211-214
+  s_219e4a7e70a9ae::t_b38794dc9d1364 270
+  s_219e4a7e70a9ae::t_d97fee7f9d4b92 252
+  s_219e4a7e70a9ae::t_eac9ca93577294 239
+  s_219e4a7e70a9ae::t_1040a12791928d 192
+  s_219e4a7e70a9ae::t_81cc3ac0b7b036 113,116,126-128
+frontend/src/screens/deals.tsx
+  s_219e4a7e70a9ae::t_5db1c043f215e2 1638
+frontend/src/screens/companyheaderfacts.tsx
+  s_219e4a7e70a9ae::t_25b02fcefccbc8 80-81
+frontend/src/screens/membernames.ts
+  s_219e4a7e70a9ae::t_45cec89c8b345d 104-105
+  s_219e4a7e70a9ae::t_f75848990c0a17 53-54,56-58,66,70
+  s_219e4a7e70a9ae::t_9af81aca5e77ec 12
+frontend/src/screens/entityref.tsx
+  s_219e4a7e70a9ae::t_1728a70b189a7f 312-314
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "76ff57a0e41c04d1a8cfeeac7717b7460136c8b3",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

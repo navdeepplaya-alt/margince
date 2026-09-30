@@ -1,0 +1,23 @@
+frontend/src/screens/compose.tsx
+  s_219e4a7e70a9ae::t_4a68291cd06c24 1589,1591-1594
+  s_219e4a7e70a9ae::t_aee463106cda20 1640-1642
+frontend/src/screens/companies.tsx
+  s_219e4a7e70a9ae::t_c82bb692cb50d7 918-919
+  s_219e4a7e70a9ae::t_3b661aa151fe29 1817-1820
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "829c3a99f766459919e1a8d9f41652f152a63a9f",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

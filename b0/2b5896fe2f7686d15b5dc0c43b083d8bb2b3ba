@@ -1,0 +1,26 @@
+frontend/src/screens/privacy.assignee.test.tsx
+  s_219e4a7e70a9ae::t_e3caa6c79f77f0 201
+  s_219e4a7e70a9ae::t_367f1bc34da8a0 232-233,237-249
+  s_219e4a7e70a9ae::t_cc01cc09a77305 114-117
+  s_219e4a7e70a9ae::t_c97f49cc14f50c 234-236
+  s_219e4a7e70a9ae::t_1ac8438eb6bf8f 192-193
+  s_219e4a7e70a9ae::t_7f04469c9f86a5 101-106
+frontend/src/screens/roster.tsx
+  s_219e4a7e70a9ae::t_dde06f1ea7bb50 134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b02b5896fe2f7686d15b5dc0c43b083d8bb2b3ba",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+backend/internal/compose/stubs_gen.go
+  s_219e4a7e70a9ae::t_80a1048836dff0 2822-2825
+backend/api/crm.yaml
+  s_219e4a7e70a9ae::t_c883ab960de757 19326-19368
+  s_219e4a7e70a9ae::t_7f8f4057f9e5be 43259-43275
+backend/internal/modules/identity/seatnameshandler_integration_test.go
+  s_219e4a7e70a9ae::t_0d6b50367367f7 1-106
+backend/internal/modules/identity/seatnameshandler.go
+  s_219e4a7e70a9ae::t_530ce54eb756ab 1-59,61-72
+  s_219e4a7e70a9ae::t_37ed1dd2f9e32b 60
+backend/internal/contracts/api_gen.go
+  s_219e4a7e70a9ae::t_0c349f94267067 39986-39996,50782-50787,64582-64584,68968-68973,99394-99434,104203-104205
+frontend/src/api/schema.d.ts
+  s_219e4a7e70a9ae::t_6477f8d6d8e97d 13078-13113,31553-31561,60984-61008
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b08d4dafa6b83203f197f1904ded61a2ffe74888",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
