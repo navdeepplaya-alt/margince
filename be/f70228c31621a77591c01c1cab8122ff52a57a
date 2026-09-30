@@ -1,0 +1,45 @@
+backend/internal/compose/network/risk.go
+  s_a6cadcba380c6c::t_19493aa73eac2a 264
+  s_a6cadcba380c6c::t_15ea55cecf9409 388,398
+  s_a6cadcba380c6c::t_f773953f1b9dd9 247-250,252-253
+  s_a6cadcba380c6c::t_0e9aa5e7dea099 251
+  s_a6cadcba380c6c::t_90539357b3bea2 30,37
+  s_a6cadcba380c6c::t_faaa10b79f20a9 299,304
+  s_a6cadcba380c6c::t_afad542ac7eb95 340,363,369
+  s_a6cadcba380c6c::t_032bd631413afb 320,326-327
+  s_a6cadcba380c6c::t_118455a7aeaca4 412,426
+backend/internal/compose/network/riskcopy_test.go
+  s_a6cadcba380c6c::t_edf4ad1fcfeb83 14
+  s_a6cadcba380c6c::t_d7d2a668e57f47 1-13,15-63
+backend/internal/compose/network/riskcopy.go
+  s_a6cadcba380c6c::t_4f3ee27c20e798 15-19
+  s_a6cadcba380c6c::t_237fac6d27439d 1-14,20-69
+backend/internal/compose/network/risk_test.go
+  s_a6cadcba380c6c::t_250548b5a1ba89 17-18,25-27
+  s_a6cadcba380c6c::t_c49ca0768d83df 28
+  s_6825e4c08eb46d::t_52a93b299fe7e2 51,59,75,85,103,115,128,148,159,181,195,221,247,263,269,283,312,333,348,371,407,421
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bef70228c31621a77591c01c1cab8122ff52a57a",
+  "prompts": {},
+  "sessions": {
+    "s_6825e4c08eb46d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a9550fa5dafadb78d",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_a6cadcba380c6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8728776e-2ff7-43a3-962a-9807854879ce",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
