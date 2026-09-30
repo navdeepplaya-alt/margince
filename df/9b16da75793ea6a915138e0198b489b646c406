@@ -5,8 +5,11 @@ docs/reference/entity-model/notices.md
   s_b4feabd86766cd::t_ec95091513c94a 9,20-21,34,50
 docs/reference/entity-model/README.md
   s_b4feabd86766cd::t_ec95091513c94a 317
+  s_b4feabd86766cd::t_191fce2b9f2911 34-35,44,161
 backend/internal/modules/approvals/terminal.go
   s_b4feabd86766cd::t_b32fbdd672c736 31
+docs/reference/entity-model/identity.md
+  s_b4feabd86766cd::t_191fce2b9f2911 9
 ---
 {
   "schema_version": "authorship/3.0.0",
