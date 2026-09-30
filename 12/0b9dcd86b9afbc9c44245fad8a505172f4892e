@@ -1,0 +1,24 @@
+backend/gates/langcopyonecensus_test.go
+  s_de2773e942ab1b::t_e5aaacfa20495d 1-147,149-216
+  s_de2773e942ab1b::t_85b36935d647a5 148
+backend/internal/shared/kernel/langcopy/langcopytest/census.go
+  s_de2773e942ab1b::t_ab0a4dd1044643 58-62
+docs/reference/gate-inventory.md
+  s_de2773e942ab1b::t_8082a831943cd3 488
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "120b9dcd86b9afbc9c44245fad8a505172f4892e",
+  "prompts": {},
+  "sessions": {
+    "s_de2773e942ab1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e98456c2-4c34-4ba4-be10-ca69fa789d2b",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
