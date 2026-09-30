@@ -1,0 +1,30 @@
+backend/internal/platform/testdb/clockshadow_integration_test.go
+  s_c1f694bf45a5d6::t_819c4b92932202 67-72
+  s_9e7cc819af6ddf::t_b058d52c1e743e 12
+backend/gates/wallclockfixtures_test.go
+  s_c1f694bf45a5d6::t_8509acfd4dfde3 154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a075bc83bd1b0d4a7f5823556b9f1a8a250c67a5",
+  "prompts": {},
+  "sessions": {
+    "s_9e7cc819af6ddf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a358ba3901fdf6124",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_c1f694bf45a5d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5681e148-9ed0-4d05-b3ea-8a569b236cf6",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
