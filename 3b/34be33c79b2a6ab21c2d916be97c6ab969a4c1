@@ -1,0 +1,22 @@
+backend/internal/compose/approvalnotify_integration_test.go
+  s_b4feabd86766cd::t_4ec58aceaa49f4 433-574
+  s_b4feabd86766cd::t_7f4fcaa81da047 24,235-243,246-249,255,264-265
+backend/internal/compose/approvalnotify.go
+  s_b4feabd86766cd::t_149af2a65c8d92 99-101,103-106,109-113,115-119,124,132-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3b34be33c79b2a6ab21c2d916be97c6ab969a4c1",
+  "prompts": {},
+  "sessions": {
+    "s_b4feabd86766cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2e16365-0fcf-4af8-9a47-cd8dec132cdb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
