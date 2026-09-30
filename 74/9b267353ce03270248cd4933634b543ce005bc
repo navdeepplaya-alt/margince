@@ -1,0 +1,72 @@
+backend/internal/shared/kernel/langcopy/langcopytest/census.go
+  s_a6cadcba380c6c::t_5599c74c1f47ba 1-35,38-91
+  s_a6cadcba380c6c::t_355b6fc8f3d6e2 36-37
+backend/internal/compose/contactbrief/copy.go
+  s_a6cadcba380c6c::t_08357ecfd73c50 19-28
+  s_a6cadcba380c6c::t_c8021344fbefd6 75-77,80-82,85-87,90-92,96-98,101-103,106-108,111-113,116-118,121-123,126-128,131-133,138-140,143-145,149-151,154-156,159-161,165-167,171-173,176-178,181-183,186-188,191-193
+  s_a6cadcba380c6c::t_ebe21ab46a2d9c 135,196-198
+backend/internal/shared/kernel/langcopy/langcopy_test.go
+  s_a6cadcba380c6c::t_fb7d64e3a189ff 1-49
+backend/internal/shared/kernel/langcopy/langcopy.go
+  s_a6cadcba380c6c::t_877f92f1e00567 1-63
+backend/internal/compose/companybrief/copy.go
+  s_a6cadcba380c6c::t_f91b8acaefa010 231
+  s_a6cadcba380c6c::t_fb97fad93e1755 35-38,40,42-46,51
+  s_a6cadcba380c6c::t_28fe3ee2190bfb 20
+  s_a6cadcba380c6c::t_bcf5d98e6d7e22 112,115,118,121-122,125-126,129-130,133-134,137,141-146,149,151-153,156-158,161-162,164-165,168-169,172-174,178-179,182-183,186-187,190-191,194-195,197-198,202,205,208,211-212,215,218-219,222,224,226
+backend/internal/compose/companybrief/brief_test.go
+  s_a6cadcba380c6c::t_567bc2b662a3fe 406
+backend/internal/compose/companydossier/copy.go
+  s_a6cadcba380c6c::t_6a98388b51020d 21,25-28
+  s_a6cadcba380c6c::t_661e1d9176ad8c 36,39,42,45,48,51,54,57,60,63,66,69,72,75,78
+  s_a6cadcba380c6c::t_08a86be33cca4f 90
+  s_a6cadcba380c6c::t_3b0b121548e0f0 92
+backend/internal/compose/companybrief/deterministic.go
+  s_a6cadcba380c6c::t_5c17b8e1e46045 200
+  s_a6cadcba380c6c::t_7a7ac1fd20ad80 76
+  s_95efa20d48fb7e::t_4eb10c8956269c 53-54,100,108,110,117,122,129,188,211,213,215,217,251,296-297
+backend/internal/compose/contactbrief/deterministic.go
+  s_a6cadcba380c6c::t_c9e322ed0022b2 110,112,114,118,120,122,124,127,136,146,148,150,152,169,171,189,194,197,224,227,229,232,234,236,272,275,277
+backend/internal/compose/companydossier/copy_test.go
+  s_a6cadcba380c6c::t_0981bb977f1fd3 41
+  s_a6cadcba380c6c::t_1982bc12053279 26
+backend/internal/compose/companybrief/copy_test.go
+  s_a6cadcba380c6c::t_b1fe268f51b683 37,43
+  s_219e4a7e70a9ae::t_4fbf8581df860c 80,100,112,120
+backend/internal/compose/contactbrief/copy_test.go
+  s_a6cadcba380c6c::t_7ebea04063bfd6 19,24-25,31-35,42,53
+backend/internal/compose/companybrief/ask.go
+  s_a6cadcba380c6c::t_e39f2d974b7cf5 224,269,280,283,308,310,314,326
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "749b267353ce03270248cd4933634b543ce005bc",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_95efa20d48fb7e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "80d23357-4878-4933-b00f-00954a52b33e",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_a6cadcba380c6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8728776e-2ff7-43a3-962a-9807854879ce",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
