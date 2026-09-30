@@ -1,0 +1,26 @@
+backend/internal/modules/notices/overtake_integration_test.go
+  s_b4feabd86766cd::t_172144d0129556 230-261
+frontend/src/app/notificationbell.test.tsx
+  s_b4feabd86766cd::t_50a5993f166cd4 103-104,613-615,627-629,646-648,671-673
+  s_b4feabd86766cd::t_e96bf02a305c25 623-626
+backend/gates/rbacgate_test.go
+  s_b4feabd86766cd::t_cd9c91f2f09184 438
+frontend/src/app/notificationbell.stories.tsx
+  s_b4feabd86766cd::t_50a5993f166cd4 65-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d657caf14c40e971526a20bb26562000dd01692e",
+  "prompts": {},
+  "sessions": {
+    "s_b4feabd86766cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2e16365-0fcf-4af8-9a47-cd8dec132cdb",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
