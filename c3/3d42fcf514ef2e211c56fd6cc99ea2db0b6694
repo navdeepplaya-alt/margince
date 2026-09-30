@@ -1,0 +1,35 @@
+backend/internal/compose/noticeovertake_integration_test.go
+  s_b4feabd86766cd::t_81f7b2e9fdb5fc 101
+  s_b4feabd86766cd::t_651fbb269ee987 1-100,102-231
+backend/internal/compose/jobs.go
+  s_b4feabd86766cd::t_81f7b2e9fdb5fc 451
+backend/api/jobs.yaml
+  s_b4feabd86766cd::t_e4f2be3354763b 1115-1141
+  s_b4feabd86766cd::t_354bfd9339d0a1 1142
+backend/internal/compose/jobkinds_gen.go
+  s_b4feabd86766cd::t_a0e2bbf8a3434c 16,82
+backend/internal/platform/jobs/specs_gen.go
+  s_b4feabd86766cd::t_a0e2bbf8a3434c 14,586-594
+  s_b4feabd86766cd::t_05c98ce78eaa0d 595
+backend/internal/compose/noticeovertake.go
+  s_b4feabd86766cd::t_cebe6a60fa435a 1-140
+backend/internal/compose/jobs_databasesweeps.go
+  s_b4feabd86766cd::t_a0e2bbf8a3434c 30-32
+  s_b4feabd86766cd::t_81f7b2e9fdb5fc 67-68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c33d42fcf514ef2e211c56fd6cc99ea2db0b6694",
+  "prompts": {},
+  "sessions": {
+    "s_b4feabd86766cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2e16365-0fcf-4af8-9a47-cd8dec132cdb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
