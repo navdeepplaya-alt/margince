@@ -1,0 +1,28 @@
+backend/internal/shared/kernel/langcopy/langcopytest/census.go
+  s_a6cadcba380c6c::t_7ae651ded098ac 100
+  s_a6cadcba380c6c::t_c978aeeec16ed0 31-34
+  s_a6cadcba380c6c::t_2abc73362a132b 123
+  s_a6cadcba380c6c::t_90b48141cea287 149
+  s_a6cadcba380c6c::t_602a481a7ad2d7 35-41
+  s_a6cadcba380c6c::t_16f93da133cc08 61,77,83
+  s_a6cadcba380c6c::t_0ec8c6c7ca2c8a 42
+backend/internal/shared/kernel/langcopy/langcopytest/census_test.go
+  s_a6cadcba380c6c::t_01167427592333 4,14-16,21,50,61-63,74-75,84-85,94-95,106-107,117-118,125,133,146-147,155-156,173,178,183
+  s_a6cadcba380c6c::t_889c4588b6b98e 1-3,5-13,17-20,22-49,51-60,64-73,76-83,86-93,96-105,108-116,119-124,126-132,134-145,148-154,157-172,174-177,179-182,184-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2d6cb89bd46950a83f75da3f17733de8848718a6",
+  "prompts": {},
+  "sessions": {
+    "s_a6cadcba380c6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8728776e-2ff7-43a3-962a-9807854879ce",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
