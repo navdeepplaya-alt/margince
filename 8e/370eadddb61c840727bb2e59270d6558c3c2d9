@@ -1,0 +1,40 @@
+backend/gates/rbacgate_test.go
+  s_b4feabd86766cd::t_8489f668ab5848 438-439
+backend/internal/modules/notices/overtake.go
+  s_b4feabd86766cd::t_60d7a05b26130d 27-31
+  s_b4feabd86766cd::t_c0d4156fbb67f1 1-26,32-167
+backend/gates/writeshape_test.go
+  s_b4feabd86766cd::t_8489f668ab5848 287
+backend/internal/modules/notices/overtake_integration_test.go
+  s_b4feabd86766cd::t_dcdff5f5f202df 1-229
+backend/internal/modules/notices/overtake_test.go
+  s_b4feabd86766cd::t_d8002638ce2cd2 1-52
+backend/gates/auditbeforeimage_test.go
+  s_b4feabd86766cd::t_60d7a05b26130d 121-122
+backend/internal/compose/approvalnotify.go
+  s_77ab1bb293e825::t_38f988a949f16a 330
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8e370eadddb61c840727bb2e59270d6558c3c2d9",
+  "prompts": {},
+  "sessions": {
+    "s_77ab1bb293e825": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "81e631d5-225c-407d-a611-239858ebed0a",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_b4feabd86766cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2e16365-0fcf-4af8-9a47-cd8dec132cdb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

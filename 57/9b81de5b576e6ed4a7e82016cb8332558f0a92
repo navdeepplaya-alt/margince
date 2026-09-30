@@ -1,0 +1,21 @@
+frontend/src/app/notificationbell.stories.tsx
+  s_b4feabd86766cd::t_febf011f8f1a67 208
+frontend/src/app/notificationbell.tsx
+  s_b4feabd86766cd::t_febf011f8f1a67 315
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "579b81de5b576e6ed4a7e82016cb8332558f0a92",
+  "prompts": {},
+  "sessions": {
+    "s_b4feabd86766cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2e16365-0fcf-4af8-9a47-cd8dec132cdb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
