@@ -1,0 +1,37 @@
+backend/internal/compose/stageprogression.go
+  s_a6cadcba380c6c::t_cf982b740ddf76 171
+backend/internal/compose/signalscan_project.go
+  s_a6cadcba380c6c::t_5fda514b9e8eda 24
+  s_a6cadcba380c6c::t_3c8986aec2a0a5 100
+backend/internal/modules/identity/settingsentry.go
+  s_a6cadcba380c6c::t_66ffe4acc9735e 421-446
+backend/internal/compose/signalscan.go
+  s_a6cadcba380c6c::t_3719238546fd62 35
+  s_a6cadcba380c6c::t_cbe2ba843df98e 162
+backend/internal/compose/network/risk.go
+  s_a6cadcba380c6c::t_642d298c9191a6 249-253
+backend/internal/compose/signalsummarycopy.go
+  s_a6cadcba380c6c::t_8070e7f80069dd 21
+backend/internal/compose/approvalsummarycopy.go
+  s_a6cadcba380c6c::t_c38c3715e5fbcf 25
+  s_a6cadcba380c6c::t_8b407eae626eaf 228
+backend/internal/compose/technicalsignals.go
+  s_a6cadcba380c6c::t_e9f729ed79f49e 49
+  s_a6cadcba380c6c::t_44650b2029c43a 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0a3ee095f1a4a72a58d1af5bd9603a08ab150a6c",
+  "prompts": {},
+  "sessions": {
+    "s_a6cadcba380c6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8728776e-2ff7-43a3-962a-9807854879ce",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
