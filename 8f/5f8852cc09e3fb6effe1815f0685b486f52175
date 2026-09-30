@@ -1,0 +1,29 @@
+backend/internal/modules/contacts/overridecarry.go
+  s_77ab1bb293e825::t_bc75cc37321d1d 88
+backend/internal/modules/contacts/satellitecarry.go
+  s_77ab1bb293e825::t_2c5f013ae5bf2d 68
+backend/internal/modules/contacts/stopcarry.go
+  s_77ab1bb293e825::t_80ee2a2ed15391 96-98,109
+backend/migrations/core/1790746287_a_rep_may_vouch_for_a_send.up.sql
+  s_77ab1bb293e825::t_11446c5539ce12 47-53
+backend/migrations/testdata/head_catalog.txt
+  s_77ab1bb293e825::t_aa94aedb8fa824 2038-2039
+docs/reference/entity-model/consent.md
+  s_77ab1bb293e825::t_5d2ee034bed9f5 195-196
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8f5f8852cc09e3fb6effe1815f0685b486f52175",
+  "prompts": {},
+  "sessions": {
+    "s_77ab1bb293e825": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "81e631d5-225c-407d-a611-239858ebed0a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
