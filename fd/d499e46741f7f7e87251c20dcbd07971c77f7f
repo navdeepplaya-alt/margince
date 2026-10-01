@@ -1,0 +1,25 @@
+backend/gates/auditbeforeimage_test.go
+  s_5f12a3525b0732::t_9a9d8b790a04a3 102-110
+backend/internal/modules/consent/override.go
+  s_5f12a3525b0732::t_0a0dbfff44bf89 342-351
+backend/internal/modules/consent/overridechain.go
+  s_5f12a3525b0732::t_27d00e79b612c0 204-223,225-230,236-247,249
+backend/internal/modules/consent/overridechain_integration_test.go
+  s_5f12a3525b0732::t_cd5f87a9557a17 288-337
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fdd499e46741f7f7e87251c20dcbd07971c77f7f",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
