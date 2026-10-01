@@ -69,6 +69,7 @@ backend/gates/gatecensus_test.go
   s_24deed36989618::t_9dc1557f529e5d 57
 docs/reference/entity-model/README.md
   s_24deed36989618::t_3589364a232e71 386
+  s_24deed36989618::t_a8e9fe934c3341 34
 ---
 {
   "schema_version": "authorship/3.0.0",
