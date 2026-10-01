@@ -1,0 +1,19 @@
+backend/internal/shared/ports/commsauthz/override_test.go
+  s_5f12a3525b0732::t_b16f2a070dfb89 7-11,72-77,79-81,83-93,96-136,138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "74ca0766d94ff6d460780b5f73440a2310f5ae0b",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
