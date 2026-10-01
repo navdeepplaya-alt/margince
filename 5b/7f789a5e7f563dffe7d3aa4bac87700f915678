@@ -1,0 +1,31 @@
+backend/gates/contactreaders_test.go
+  s_5f12a3525b0732::t_026ceaaa9c642e 165,171
+backend/gates/tableownershipwaivers_test.go
+  s_5f12a3525b0732::t_0f3fb1ea1838b0 219,222
+backend/internal/modules/privacy/commoverride_integration_test.go
+  s_5f12a3525b0732::t_2318205de7699f 259-295
+backend/internal/modules/privacy/erasure_consent.go
+  s_5f12a3525b0732::t_a365ca44e53cf8 162
+backend/internal/modules/privacy/retentionactions.go
+  s_5f12a3525b0732::t_18f0f126f5945a 472-473
+backend/internal/shared/ports/commsauthz/category.go
+  s_5f12a3525b0732::t_d956eceb831811 127-132
+backend/internal/shared/ports/commsauthz/commsauthz_test.go
+  s_5f12a3525b0732::t_7531e82701cd6f 123-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5b7f789a5e7f563dffe7d3aa4bac87700f915678",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
