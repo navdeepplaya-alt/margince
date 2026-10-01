@@ -1,0 +1,24 @@
+frontend/scripts/fe-uat.mjs
+  s_0790adea54a2ff::t_1a6c5aca48b8e5 272-273,276-282
+  s_0790adea54a2ff::t_3c1cd8c38cade3 354
+frontend/src/design-system/onboarding-stage.stories.tsx
+  s_0790adea54a2ff::t_372f3de6050aad 64
+frontend/e2e/ac.spec.ts
+  s_0790adea54a2ff::t_081a150295f780 1770-1772
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7bb63c8cae74027196920e9897e7d791c45afed8",
+  "prompts": {},
+  "sessions": {
+    "s_0790adea54a2ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b8392d7-ce66-4bcc-b32a-015c9a64e613",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
