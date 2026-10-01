@@ -1,0 +1,88 @@
+backend/internal/compose/csvimport.go
+  s_24deed36989618::t_fd3a7ff27bbaed 228-232
+  s_24deed36989618::t_8cc54a1d4a377b 227
+backend/internal/compose/jobs_storedobject_test.go
+  s_24deed36989618::t_28c7463a86f2e8 23,29,34
+backend/gates/entitymodelcatalog_test.go
+  s_24deed36989618::t_fb3d8398165701 108-112,114
+backend/gates/blobputintent_test.go
+  s_24deed36989618::t_661605c21c2374 116-119,121-123,207-209,214,216-223,226,228-229
+  s_24deed36989618::t_8d7844b02c7d7d 272
+  s_24deed36989618::t_30c1e59a370435 13-15,57-59,61-66,77
+backend/internal/compose/logointent_integration_test.go
+  s_24deed36989618::t_e416a04fd1fbee 45,78,107,149,165,176
+backend/internal/compose/integration/csvimportintent_integration_test.go
+  s_24deed36989618::t_b2a979147d43ea 13,17-21,24-41,50,57-61
+  s_24deed36989618::t_7e8e7b3acbecc2 15,42,55-56
+  s_24deed36989618::t_bfe028a0011493 43-49,51-54
+  s_24deed36989618::t_6e44ba9ab6378b 62
+docs/reference/platform-toolkit.md
+  s_24deed36989618::t_7fa72f118c2e97 84-86,88-94
+backend/internal/platform/storedobject/ledger.go
+  s_24deed36989618::t_8c9c3b0f81952e 40-41
+  s_24deed36989618::t_e7cb2ef244863a 93-95,132,134-157,161-196,201,209,212,214-218,224-229
+backend/migrations/testdata/head_catalog.txt
+  s_24deed36989618::t_6d588494670b2d 6409
+docs/reference/gate-inventory.md
+  s_24deed36989618::t_3589364a232e71 334
+backend/gates/storedobjectcolumns_test.go
+  s_24deed36989618::t_9991a1e1d1958f 1-5,8-39,41-66,68-144
+  s_24deed36989618::t_a48aea2277831b 6-7
+  s_24deed36989618::t_3c582c22cb3d14 40,67
+backend/migrations/core/1790841528_a_reaped_key_is_stamped_before_its_bytes_go.up.sql
+  s_24deed36989618::t_5b2be1ae392904 1-10
+backend/internal/modules/contacts/companylogostore_test.go
+  s_24deed36989618::t_58fd2d33dfcdb6 22-23,26-30,35-36
+  s_24deed36989618::t_d470da9d8214c6 37
+backend/internal/compose/datareset.go
+  s_24deed36989618::t_016ec303b259db 359-360
+backend/internal/compose/datareset_runtime_test.go
+  s_24deed36989618::t_016ec303b259db 221-225
+backend/internal/compose/jobs_storedobject_integration_test.go
+  s_24deed36989618::t_ce03b8500f565f 21,31-32,37
+  s_24deed36989618::t_c408392e90f8db 45-47,113,116,126,130,133,137-188,192-203,205-233,237,257,299,318-319,323,373-376,378-398,401-402,405-424,426-431
+  s_24deed36989618::t_28c7463a86f2e8 260
+  s_24deed36989618::t_8cc54a1d4a377b 204
+backend/internal/modules/activities/storedobjectref.go
+  s_24deed36989618::t_5f6fcf9bbaf557 16,23,25-26,31
+backend/internal/platform/storedobject/storedobject.go
+  s_24deed36989618::t_968e797ec0ec49 69-73,75-111
+  s_24deed36989618::t_86b00137143c59 33
+  s_24deed36989618::t_8cc54a1d4a377b 74
+backend/internal/compose/jobs_storedobject.go
+  s_24deed36989618::t_79c85f02163e67 79-82,103-104,109-121,125
+  s_24deed36989618::t_28c7463a86f2e8 59,66,99
+  s_24deed36989618::t_17d058841f61b3 61-62,65
+backend/internal/modules/contacts/storedobjectref.go
+  s_24deed36989618::t_5f6fcf9bbaf557 17-19
+backend/migrations/core/1790841528_a_reaped_key_is_stamped_before_its_bytes_go.down.sql
+  s_24deed36989618::t_5f3305bc84ba4d 1-3
+backend/internal/compose/integration/offerrender_integration_test.go
+  s_24deed36989618::t_016ec303b259db 346-347
+docs/reference/entity-model/platform.md
+  s_24deed36989618::t_3589364a232e71 178,182
+backend/internal/platform/storedobject/ledger_test.go
+  s_24deed36989618::t_5b40d8b2b68f01 79-108
+backend/internal/modules/migration/storedobjectref.go
+  s_24deed36989618::t_016ec303b259db 13
+backend/gates/gatecensus_test.go
+  s_24deed36989618::t_9dc1557f529e5d 57
+docs/reference/entity-model/README.md
+  s_24deed36989618::t_3589364a232e71 34,386
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "67c101e31d667a0df4c935e9ef9e7d373aeb7ef6",
+  "prompts": {},
+  "sessions": {
+    "s_24deed36989618": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fb468652-947e-463e-94c7-a421cfc21408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
