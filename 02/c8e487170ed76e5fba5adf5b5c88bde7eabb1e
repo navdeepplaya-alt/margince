@@ -1,0 +1,33 @@
+backend/internal/modules/identity/roster.go
+  s_eb812f6a431de7::t_58645fde834068 47-50
+  s_eb812f6a431de7::t_1168de649452a6 45,129-131,139,236
+  s_eb812f6a431de7::t_14f2957f76e690 46
+backend/api/crm.yaml
+  s_eb812f6a431de7::t_1168de649452a6 19193,19196-19198
+frontend/src/screens/privacy.assignee.test.tsx
+  s_eb812f6a431de7::t_8cde911c2644f6 215,251-255
+backend/internal/contracts/api_gen.go
+  s_eb812f6a431de7::t_a215d02c848ae5 51214-51216
+backend/internal/compose/integration/users_admin_http_integration_test.go
+  s_eb812f6a431de7::t_13be7efa0a59d9 106-109,112-113
+frontend/src/screens/entityref.test.tsx
+  s_eb812f6a431de7::t_6c8138fd6d6082 427,671-672
+frontend/src/api/schema.d.ts
+  s_eb812f6a431de7::t_7092f51f835eb3 61139-61142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "02c8e487170ed76e5fba5adf5b5c88bde7eabb1e",
+  "prompts": {},
+  "sessions": {
+    "s_eb812f6a431de7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "db17f26f-1520-4560-b8e4-53d8f9a3b71f",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}

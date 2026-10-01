@@ -1,0 +1,20 @@
+frontend/e2e/seed.ts
+  s_219e4a7e70a9ae::t_5b364e59b379e6 1855-1865
+  s_219e4a7e70a9ae::t_771c0ea2319cb2 211-223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4028a0abb2d36433f6ca44970adebd73c1aeea55",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+backend/internal/modules/identity/seatnameshandler_integration_test.go
+  s_219e4a7e70a9ae::t_143e11ea740814 114-194
+  s_219e4a7e70a9ae::t_e8bee2a6b0d7cb 15-18,21-23
+  s_219e4a7e70a9ae::t_1a9c4918e6844f 195-232
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c4f579631e491c77198c68fc1a7f4f5fc27a467e",
+  "prompts": {},
+  "sessions": {
+    "s_219e4a7e70a9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d07d124e-1f53-4e1d-9087-de39d51d0d1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
