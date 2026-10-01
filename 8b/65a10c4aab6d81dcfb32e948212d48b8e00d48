@@ -1,0 +1,29 @@
+backend/api/crm.yaml
+  s_5f12a3525b0732::t_9bde397fd83d09 50941-50944
+backend/gates/piicoverage_test.go
+  s_5f12a3525b0732::t_6f1e19f692089f 425-433
+backend/gates/piisqlreader_test.go
+  s_5f12a3525b0732::t_122e5967b18544 223-225
+backend/internal/contracts/api_gen.go
+  s_5f12a3525b0732::t_5fe554ce807b77 38957
+backend/internal/modules/privacy/retentionauthorable.go
+  s_5f12a3525b0732::t_45726ba5db4568 24
+frontend/src/api/schema.d.ts
+  s_5f12a3525b0732::t_086b97e33a4916 37735
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8b65a10c4aab6d81dcfb32e948212d48b8e00d48",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
