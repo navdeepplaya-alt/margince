@@ -1,0 +1,21 @@
+backend/gates/overridecategory_test.go
+  s_5f12a3525b0732::t_d5febbc2b45d8a 44
+backend/internal/shared/ports/commsauthz/category.go
+  s_5f12a3525b0732::t_6c339c96032c44 138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b7d4ca41230a09af63a224a035711038827b9413",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
