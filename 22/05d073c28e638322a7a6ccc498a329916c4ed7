@@ -1,0 +1,195 @@
+backend/api/crm.yaml
+  s_5f12a3525b0732::t_b857190186d4fc 10338-10342,10346-10356,10437-10466,29880,29906,29909,42183,42186-42199,42264,42309-42315
+backend/gates/modulepoolsharing_test.go
+  s_5f12a3525b0732::t_b4daecee9d186e 94-96
+backend/internal/compose/backfilltransport.go
+  s_5f12a3525b0732::t_a2afcb0ddbec35 328-335,436,440,444-445
+backend/internal/compose/backfilltransport_integration_test.go
+  s_5f12a3525b0732::t_dc177654632da7 44,420,685-687,709-741
+backend/internal/compose/capturejobs.go
+  s_5f12a3525b0732::t_9d5fbbc62f2b26 278-280,298-311
+backend/internal/compose/company360/collections.go
+  s_5f12a3525b0732::t_443df66260620e 17,78
+backend/internal/compose/integration/capture/capture_backfill_integration_test.go
+  s_5f12a3525b0732::t_391391e6ae5b5f 278-280,282,315-332
+backend/internal/compose/integration/capture/capture_backfill_resume_integration_test.go
+  s_5f12a3525b0732::t_1a168cfb61530e 1-193
+backend/internal/compose/integration/listmembervalues_integration_test.go
+  s_5f12a3525b0732::t_634fa46da171a0 1-239
+backend/internal/compose/integration/noticecase_integration_test.go
+  s_5f12a3525b0732::t_279860ad3b576c 25,80-84
+backend/internal/compose/listseam.go
+  s_5f12a3525b0732::t_186be08aabda9b 53
+backend/internal/compose/stubs_gen.go
+  s_5f12a3525b0732::t_a8c83cc37d8b11 2498-2501
+backend/internal/compose/threadmerge_archived_integration_test.go
+  s_5f12a3525b0732::t_ad2e580b93b610 1-83
+backend/internal/contracts/api_gen.go
+  s_5f12a3525b0732::t_6dcc4ec23ac952 23978-23982,23996-24000,35193-35195,35228-35239,35285-35297,38845-38852,41877-41879,49521-49523,64888-64890,69043-69048,90566-90578,96152-96194,104711-104713
+backend/internal/modules/activities/responsehorizonplan_integration_test.go
+  s_5f12a3525b0732::t_4999cd438b2d09 37
+backend/internal/modules/activities/threadmerge.go
+  s_5f12a3525b0732::t_1050058422f420 19,91-94,104-106
+backend/internal/modules/activities/waitingownerplan_integration_test.go
+  s_5f12a3525b0732::t_8348b3d3ee5ea4 1-118
+backend/internal/modules/activities/waitingsql.go
+  s_5f12a3525b0732::t_c1c188859d4df3 158-168
+backend/internal/modules/capture/backfill.go
+  s_5f12a3525b0732::t_7dd04aea2df845 77-88,174-177,179-188,223-224,230-237,269-270,320-324,328-329,398-415
+backend/internal/modules/capture/backfillpager.go
+  s_5f12a3525b0732::t_9b6c9222f428e7 22,119-121,128-129,132-137,149,172-212,247,250-254,257-259,267-277,316,321
+backend/internal/modules/capture/backfillresume.go
+  s_5f12a3525b0732::t_d79868307c406c 1-116
+backend/internal/modules/capture/gmail/backfill.go
+  s_5f12a3525b0732::t_cd2baab6912ce7 17,22,60-65,75-83,87-125,128-143,146-192,194,196-199,201-232,292-295
+backend/internal/modules/capture/gmail/backfill_test.go
+  s_5f12a3525b0732::t_4abb3d5eb165e0 216,223-250,253
+backend/internal/modules/capture/gmail/backfillpool.go
+  s_5f12a3525b0732::t_2a14c39500c464 1-197
+backend/internal/modules/capture/gmail/backfillpool_test.go
+  s_5f12a3525b0732::t_277330e54b2748 1-293
+backend/internal/modules/capture/gmail/client.go
+  s_5f12a3525b0732::t_19bea1d531cae4 428-430
+backend/internal/modules/capture/gmail/headers.go
+  s_5f12a3525b0732::t_8a5b7aedc5ae1a 1-117
+backend/internal/modules/capture/sinkexclusion.go
+  s_5f12a3525b0732::t_cfa3cb21298a7b 71-101
+backend/internal/modules/capture/sinkprestore_integration_test.go
+  s_5f12a3525b0732::t_7dff9251cf94ec 1-45
+backend/internal/modules/capture/threadjoin.go
+  s_5f12a3525b0732::t_a5c7b1d0ed6d75 22,42-43,127,147,151-159,182-186,190-195,197
+backend/internal/modules/collections/handlers_lists.go
+  s_5f12a3525b0732::t_b91f167ce987b4 146-152,156-164
+backend/internal/modules/collections/listfielduse.go
+  s_5f12a3525b0732::t_1a57ce48793b57 65,126
+backend/internal/modules/collections/listwire.go
+  s_5f12a3525b0732::t_0f3e074519b636 105-115,121-125,291-297,302
+backend/internal/modules/collections/members.go
+  s_5f12a3525b0732::t_45df7372ea4dac 9-10,34-64,82-89,97,109,140,143,148-154,253-255,261-262,268,270,273-278,286-291,293-294,297-299,301
+backend/internal/modules/collections/recordlists.go
+  s_5f12a3525b0732::t_3fc3e548874063 1-206
+backend/internal/modules/knowledge/handbook/lists-filters-and-views.md
+  s_5f12a3525b0732::t_466821a3ce8d38 309,317-323
+backend/internal/platform/database/storekit/explain.go
+  s_5f12a3525b0732::t_cfa566c1ad5f8c 43-45,275,281,283,285-286,288,290
+backend/internal/platform/database/storekit/filtervalues.go
+  s_5f12a3525b0732::t_014ef90481377f 1-242
+backend/internal/shared/ports/connector/backfill.go
+  s_5f12a3525b0732::t_8a5ed43a837753 67-84
+backend/migrations/core/1790827805_a_backfill_counts_the_messages_it_could_not_capture.down.sql
+  s_5f12a3525b0732::t_cf234fa769faee 1-5
+backend/migrations/core/1790827805_a_backfill_counts_the_messages_it_could_not_capture.up.sql
+  s_5f12a3525b0732::t_54f71ba359312e 1-13
+backend/migrations/testdata/head_catalog.txt
+  s_5f12a3525b0732::t_b0a4f9a8ed494c 1413,1428
+docs/handbook/lists-filters-and-views.md
+  s_5f12a3525b0732::t_d82ae6922eca62 309,317-323
+docs/reference/entity-model/README.md
+  s_5f12a3525b0732::t_53886249f40e24 33-35,45,49,104,185,231,300
+docs/reference/entity-model/capture.md
+  s_5f12a3525b0732::t_45cb3528ed3ebd 79,93,105
+frontend/src/api/schema.d.ts
+  s_5f12a3525b0732::t_08f68430fc7a47 6825-6829,6889-6915,20417-20418,20438-20439,20443-20444,30900-30901,30905-30916,30994-30995,31048-31052,53117-53118,53232-53257
+frontend/src/design-system/README.md
+  s_5f12a3525b0732::t_ee723e6fe8a024 529
+frontend/src/design-system/listtable.tsx
+  s_5f12a3525b0732::t_02b32b11ca7333 86-87,484-485,630-632
+frontend/src/i18n/de.ts
+  s_5f12a3525b0732::t_47b86bedb60c7f 6076,6078-6079,6083,6085-6086,6092-6095,6097,6099-6100,6102,6105,6107-6108,6110-6116,6118-6120,6122-6125,6127,6129-6144,10342-10344,10350-10355,10377-10380
+frontend/src/i18n/en.ts
+  s_5f12a3525b0732::t_eafce083e266ef 6232,6234-6235,6239,6241-6242,6248-6251,6253,6255-6256,6258,6261,6263-6264,6266-6268,6271-6274,6276-6277,6282-6284,6287,6289,6291-6304,10493-10495,10500-10505,10524-10527
+frontend/src/i18n/vi.ts
+  s_5f12a3525b0732::t_64ca650d4ed378 6015,6017-6018,6022,6024-6025,6031-6034,6036,6038-6039,6041,6044,6046-6047,6049-6055,6057-6058,6063-6066,6068,6070-6081,10258-10260,10267-10274,10296-10299
+frontend/src/mail-history/window-picker.stories.tsx
+  s_5f12a3525b0732::t_d5e05d3b476b32 47
+frontend/src/mail-history/window-picker.test.tsx
+  s_5f12a3525b0732::t_4f1a05468364d3 23,29,43,45
+frontend/src/screens/activitykeys.test.ts
+  s_5f12a3525b0732::t_53d88ffd0c186f 89,94-103,107
+frontend/src/screens/activitykeys.ts
+  s_5f12a3525b0732::t_d5454e838819fc 99,102-107,116-120,123
+frontend/src/screens/backfill-run.ts
+  s_5f12a3525b0732::t_110b3dc63eb65d 70,74-76,133-135,158-162,167,197-199,220,223-232
+frontend/src/screens/backfill.css
+  s_5f12a3525b0732::t_dc674b2502d74d 47-49
+frontend/src/screens/backfill.stories.tsx
+  s_5f12a3525b0732::t_74be342874f7dc 139,163,165
+frontend/src/screens/backfill.test.tsx
+  s_5f12a3525b0732::t_7b20d6f2b3ea72 164,167,183,227,229,239-240,259,271,292,338-339,358,371,375,398,403,417-471,480,498,561,595
+frontend/src/screens/backfill.tsx
+  s_5f12a3525b0732::t_8c405fa68f61db 129,142-144,296-302
+frontend/src/screens/backfillrunview.tsx
+  s_5f12a3525b0732::t_74c72e634c2d63 12,110-112,122-126,132-134,138-141,186-225,228,232-291,344,358-360
+frontend/src/screens/companyrail.tsx
+  s_5f12a3525b0732::t_73abca3f8aa0aa 151
+frontend/src/screens/companyraillists.tsx
+  s_5f12a3525b0732::t_07b21da38a4a8e 8-9,12-14,16-17,20-25,30-33,37
+frontend/src/screens/contactresearch.tsx
+  s_5f12a3525b0732::t_c1bf5bcd667654 9,107-109
+frontend/src/screens/deals.tsx
+  s_5f12a3525b0732::t_81a78735f86763 167,3191
+frontend/src/screens/filtermoney.test.tsx
+  s_5f12a3525b0732::t_344f476cdfef3d 12
+frontend/src/screens/leadkeys.test.ts
+  s_5f12a3525b0732::t_6e0cde3fafb607 297,302
+frontend/src/screens/leadkeys.ts
+  s_5f12a3525b0732::t_1b8f38ba4f670f 5,91-96
+frontend/src/screens/leads.tsx
+  s_5f12a3525b0732::t_825e4920d2c5f4 98,767-769,1089
+frontend/src/screens/listactions.test.tsx
+  s_5f12a3525b0732::t_3d9a3c11197b46 7
+frontend/src/screens/listexplain.stories.tsx
+  s_5f12a3525b0732::t_4709111764a5a4 5-6,9-14,19-25,27,29,32,38,40,43
+frontend/src/screens/listexplain.tsx
+  s_5f12a3525b0732::t_eb9bf4c8c12ba2 4-7,10-14,18-26,28-29,31-33,35,46,70-71,75-76,89,96,101-103,108,117-118,125-196,233-234
+frontend/src/screens/listmembercolumns.tsx
+  s_5f12a3525b0732::t_1751a733a0cf00 1-106
+frontend/src/screens/listmembers.stories.tsx
+  s_5f12a3525b0732::t_6106329e3a1c28 5-18,22-23,32-35,38,41,52-70,74
+frontend/src/screens/listmembers.tsx
+  s_5f12a3525b0732::t_ccfac5054db6fc 22,42-43,75-95,134
+frontend/src/screens/listpage.stories.tsx
+  s_5f12a3525b0732::t_27e2432a93d698 7,10,14,34-35,45,55-56,66
+frontend/src/screens/listpage.test.tsx
+  s_5f12a3525b0732::t_f9bea773b25ee1 20,23,27,68,76,80-115,117-143,145-151,155,163,172-173,175,177-186
+frontend/src/screens/listpage.tsx
+  s_5f12a3525b0732::t_494ad698d47647 5-6,9,11,28-29,290,308
+frontend/src/screens/lists.css
+  s_5f12a3525b0732::t_a90af96c569374 98-103,106,114-126
+frontend/src/screens/lists.fixtures.ts
+  s_5f12a3525b0732::t_20abf2c261900e 8-13,109-153,155,159,163-167
+frontend/src/screens/lists.queries.ts
+  s_5f12a3525b0732::t_2980c879fd535e 11,20,127-135,137,141-182
+frontend/src/screens/onboarding-backread.stories.tsx
+  s_5f12a3525b0732::t_56b77f062c48c1 206
+frontend/src/screens/onboarding-backread.test.tsx
+  s_5f12a3525b0732::t_9e3193c214d70a 91,94,97,100,126,159,202,320,349,352,386,595
+frontend/src/screens/onboarding-backread.tsx
+  s_5f12a3525b0732::t_c9a088db9250e7 174
+frontend/src/screens/recordlists.stories.tsx
+  s_5f12a3525b0732::t_d8b2ea096a6b78 5,8-17,19-24,29-100
+frontend/src/screens/recordlists.test.tsx
+  s_5f12a3525b0732::t_1243542536beb3 1-214
+frontend/src/screens/recordlists.tsx
+  s_5f12a3525b0732::t_ad5c26699311b5 1-198
+frontend/src/screens/recordwritekeys.test.ts
+  s_5f12a3525b0732::t_a3fe86b59ac9d7 27
+frontend/src/screens/recordwritekeys.ts
+  s_5f12a3525b0732::t_02fb57a59d9afc 6,32,38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2205d073c28e638322a7a6ccc498a329916c4ed7",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
