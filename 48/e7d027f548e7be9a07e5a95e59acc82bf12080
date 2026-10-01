@@ -1,0 +1,21 @@
+backend/internal/modules/consent/handlers.go
+  s_5f12a3525b0732::t_a67a280fc1d76f 282,343
+backend/internal/modules/consent/override_integration_test.go
+  s_5f12a3525b0732::t_6fd7273e8427d6 19-21,748-764
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "48e7d027f548e7be9a07e5a95e59acc82bf12080",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
