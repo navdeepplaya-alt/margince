@@ -1,0 +1,29 @@
+backend/gates/auditbeforeimage_test.go
+  s_5f12a3525b0732::t_2d4e5468b3bb34 96
+backend/internal/modules/consent/override_integration_test.go
+  s_5f12a3525b0732::t_de45fea9de434d 666-667
+backend/internal/modules/consent/overridechain_integration_test.go
+  s_5f12a3525b0732::t_454e0c9fd5d82d 227-236
+backend/internal/modules/contacts/overridecarry.go
+  s_5f12a3525b0732::t_684570ae933ed2 34-37
+backend/internal/modules/contacts/stopcarry.go
+  s_5f12a3525b0732::t_f0adf49dcda313 75-78
+backend/migrations/schema_fitness_integration_test.go
+  s_5f12a3525b0732::t_236fa7abb2720e 252-255
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b4a504f7f7a86d478e952bb9bdb08f893926ee5a",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
