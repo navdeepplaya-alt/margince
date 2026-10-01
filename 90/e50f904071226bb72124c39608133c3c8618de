@@ -1,0 +1,19 @@
+backend/gates/contactreaders_test.go
+  s_5f12a3525b0732::t_5a205d0bf5b8c1 165,171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "90e50f904071226bb72124c39608133c3c8618de",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
