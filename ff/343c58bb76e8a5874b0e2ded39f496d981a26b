@@ -1,0 +1,19 @@
+frontend/src/design-system/onboarding-stage.css
+  s_b1f05fb4e9630a::t_d7e492c8bf9fa4 464-467,469-473
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ff343c58bb76e8a5874b0e2ded39f496d981a26b",
+  "prompts": {},
+  "sessions": {
+    "s_b1f05fb4e9630a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c457c38a-e716-4896-ba04-db6e4abb5656",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
