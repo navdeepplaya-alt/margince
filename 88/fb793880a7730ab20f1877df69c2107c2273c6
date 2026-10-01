@@ -1,0 +1,38 @@
+frontend/src/screens/onboarding-ignition.test.tsx
+  s_b1f05fb4e9630a::t_4672c23f712067 7,14-17,19-29,31,33-38
+  s_b1f05fb4e9630a::t_450dd49350ad4a 30,47
+frontend/src/design-system/onboarding-stage.css
+  s_b1f05fb4e9630a::t_620f8c71009e58 464-467
+  s_0790adea54a2ff::t_0b37e8b5d68129 463
+frontend/src/design-system/onboarding-stage.tsx
+  s_b1f05fb4e9630a::t_39fe7809a7b7c5 396
+  s_b1f05fb4e9630a::t_f86f259dab26f0 64
+  s_b1f05fb4e9630a::t_c0ee325a55da31 65-72
+frontend/src/screens/onboarding-ignition.tsx
+  s_b1f05fb4e9630a::t_9cf3f66543dc60 125-128
+  s_b1f05fb4e9630a::t_923b61c197b28d 7,111-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "88fb793880a7730ab20f1877df69c2107c2273c6",
+  "prompts": {},
+  "sessions": {
+    "s_0790adea54a2ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b8392d7-ce66-4bcc-b32a-015c9a64e613",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_b1f05fb4e9630a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c457c38a-e716-4896-ba04-db6e4abb5656",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
