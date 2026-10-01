@@ -1,0 +1,21 @@
+backend/gates/rowscopetables_test.go
+  s_5f12a3525b0732::t_f0174a68ead044 488-498
+backend/internal/modules/privacy/commoverride_integration_test.go
+  s_5f12a3525b0732::t_a558f06d031685 210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0c83b249ece0abd50a705ce8f5488b704b880742",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
