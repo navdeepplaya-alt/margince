@@ -1,0 +1,25 @@
+backend/internal/shared/ports/commsauthz/absolute.go
+  s_5f12a3525b0732::t_6b407ce9a126b4 240-241
+backend/internal/shared/ports/commsauthz/category.go
+  s_5f12a3525b0732::t_54c6ebf24acdb9 126-133
+backend/internal/shared/ports/commsauthz/commsauthz_test.go
+  s_5f12a3525b0732::t_24a2fce64e0cc1 123-127
+backend/internal/shared/ports/commsauthz/override_test.go
+  s_5f12a3525b0732::t_06bc281317aaa2 72-79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a427052100811db26c4b7dd71e34e5b304f48442",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
