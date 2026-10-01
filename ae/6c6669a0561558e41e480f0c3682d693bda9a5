@@ -8,6 +8,8 @@ frontend/src/design-system/onboarding-stage.stories.tsx
   s_a894280a9cddd8::t_28dde51bfde181 98-100
   s_a894280a9cddd8::t_269de6acc7a836 62-93,95-97,101-103
   s_a894280a9cddd8::t_45dbe159cd63fd 5-7,94
+frontend/src/design-system/README.md
+  s_a894280a9cddd8::t_d96ab0bf9be985 429
 ---
 {
   "schema_version": "authorship/3.0.0",
