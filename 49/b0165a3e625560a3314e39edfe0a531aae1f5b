@@ -1,0 +1,27 @@
+backend/internal/modules/identity/seatnameshandler_integration_test.go
+  s_eb812f6a431de7::t_9a18e772f4ee2e 234-256
+frontend/src/screens/recordreferences.ts
+  s_eb812f6a431de7::t_202fb2fb0037ff 18-19
+frontend/src/screens/privacy.assignee.test.tsx
+  s_eb812f6a431de7::t_202fb2fb0037ff 92-95
+backend/api/crm.yaml
+  s_eb812f6a431de7::t_9a18e772f4ee2e 19370
+frontend/src/api/schema.d.ts
+  s_eb812f6a431de7::t_112866078937a3 61008
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "49b0165a3e625560a3314e39edfe0a531aae1f5b",
+  "prompts": {},
+  "sessions": {
+    "s_eb812f6a431de7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "db17f26f-1520-4560-b8e4-53d8f9a3b71f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
