@@ -1,0 +1,23 @@
+backend/internal/compose/integration/embedding_txspan_integration_test.go
+  s_45cb8969a09636::t_5504300dab621c 25-29,32,36-40,46-52,54,62-65,70-71,76,85,91-106,108-114,116-136
+backend/internal/modules/search/embedding.go
+  s_45cb8969a09636::t_2db582f2519cd2 75,79-80
+  s_45cb8969a09636::t_5d48a345289bd8 174-175
+  s_45cb8969a09636::t_62c0f79fbf3df8 98,101-112,116,123,125,128-130,133-138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9868ceb12fd0222c8e4046dbbd2f36651fab328c",
+  "prompts": {},
+  "sessions": {
+    "s_45cb8969a09636": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2cd3216f-9f4f-4ae8-b072-5c0e1eb4c3f4",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
