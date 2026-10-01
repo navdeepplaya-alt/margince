@@ -1,0 +1,31 @@
+frontend/src/screens/installation-setup.tsx
+  s_b1f05fb4e9630a::t_3806c5a5efd707 939-946
+  s_b1f05fb4e9630a::t_d8057c46ed502a 825-826
+frontend/src/screens/onboarding-ignition.stories.tsx
+  s_b1f05fb4e9630a::t_41aeddff2bba4c 57-60
+frontend/src/screens/onboarding-ignition.css
+  s_b1f05fb4e9630a::t_d8057c46ed502a 117,119-121
+frontend/src/screens/onboarding-ignition.test.tsx
+  s_b1f05fb4e9630a::t_3806c5a5efd707 20
+frontend/src/screens/installation-setup.test.tsx
+  s_b1f05fb4e9630a::t_41aeddff2bba4c 172-204,453,455,459-461,467,475-501
+  s_b1f05fb4e9630a::t_010d0ee456974d 502
+frontend/src/screens/onboarding-ignition.tsx
+  s_b1f05fb4e9630a::t_3806c5a5efd707 6,105-108,113,115-123,150-151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "76f168a63cd22513bcf3f09d297c7e85d01bb162",
+  "prompts": {},
+  "sessions": {
+    "s_b1f05fb4e9630a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c457c38a-e716-4896-ba04-db6e4abb5656",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
