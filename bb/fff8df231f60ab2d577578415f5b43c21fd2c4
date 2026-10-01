@@ -1,0 +1,19 @@
+backend/gates/rowscopetables_test.go
+  s_5f12a3525b0732::t_f3382e16768a3a 491-493
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bbfff8df231f60ab2d577578415f5b43c21fd2c4",
+  "prompts": {},
+  "sessions": {
+    "s_5f12a3525b0732": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b945dda9-9a7a-4e2e-89e3-ba63ef9fcef4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
