@@ -1,0 +1,25 @@
+backend/internal/compose/integration/fxrate_integration_test.go
+  s_2afc54daeed62d::t_b6483a6deb77f4 52
+backend/gates/undoabledatecolumns_test.go
+  s_2afc54daeed62d::t_b6483a6deb77f4 38-40
+backend/internal/modules/deals/fxrate_handlers.go
+  s_2afc54daeed62d::t_b6483a6deb77f4 80
+backend/gates/datecolumncalendars_test.go
+  s_2afc54daeed62d::t_b6483a6deb77f4 207-209,214-215
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "728ab33957e8141d6d4308f082adbbb9139ab5f0",
+  "prompts": {},
+  "sessions": {
+    "s_2afc54daeed62d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "44668882-0350-4c33-af33-4f98ee43c304",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
