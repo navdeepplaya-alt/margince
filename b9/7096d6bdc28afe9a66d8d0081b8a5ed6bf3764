@@ -1,0 +1,19 @@
+frontend/src/screens/worklist.about.test.tsx
+  s_3546e9f631856b::t_da16f87f9c0e82 193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b97096d6bdc28afe9a66d8d0081b8a5ed6bf3764",
+  "prompts": {},
+  "sessions": {
+    "s_3546e9f631856b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "195fff3e-43d4-4856-91dc-b5c937084d20",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
