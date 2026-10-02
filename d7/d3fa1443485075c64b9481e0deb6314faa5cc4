@@ -1,0 +1,27 @@
+docs/reference/gate-inventory.md
+  s_2afc54daeed62d::t_d0e0abfa51e272 213
+backend/gates/datecolumncalendars_test.go
+  s_2afc54daeed62d::t_809759fd6a91aa 1-72,84-97,126-203,208-213
+  s_2afc54daeed62d::t_9ebfdbca40d49f 73-83,98-125
+  s_2afc54daeed62d::t_e74c03b5468c0f 204-207
+backend/api/crm.yaml
+  s_2afc54daeed62d::t_7d48071ed96d8b 26106-26109
+frontend/src/api/schema.d.ts
+  s_2afc54daeed62d::t_2a6e59c8f43c6a 17850-17853
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d7d3fa1443485075c64b9481e0deb6314faa5cc4",
+  "prompts": {},
+  "sessions": {
+    "s_2afc54daeed62d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "44668882-0350-4c33-af33-4f98ee43c304",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
