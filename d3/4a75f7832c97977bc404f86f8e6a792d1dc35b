@@ -1,0 +1,82 @@
+backend/internal/compose/attention/feed.go
+  s_3546e9f631856b::t_31013bc1c286d8 165-166
+frontend/src/screens/worklist.about.test.tsx
+  s_3546e9f631856b::t_11dccba445b24f 159-160
+  s_3546e9f631856b::t_08b266f484662c 173,184
+  s_3546e9f631856b::t_5a11d1cbddd34e 140-158,161-172,174-183,185-186
+  s_3546e9f631856b::t_5a991ef65e2b28 4-10
+backend/internal/compose/company360/lasttouch.go
+  s_3546e9f631856b::t_e81058a20d5473 1-98
+frontend/src/screens/brief.focus.tsx
+  s_3546e9f631856b::t_fb6b6f6048cae3 32,222
+  s_3546e9f631856b::t_003ca4ba2a3a0d 207-210
+backend/internal/compose/attention/companytouch.go
+  s_3546e9f631856b::t_f0b063a33867f6 21-22
+  s_3546e9f631856b::t_de40070f7b6fab 63
+  s_3546e9f631856b::t_11dd6ed2d6b5ee 1-20,23-62,64-81
+backend/internal/compose/attentiontouchseam.go
+  s_3546e9f631856b::t_6e759360d0585a 6-8,17,37-38,41-44,64
+  s_3546e9f631856b::t_73372bdd351e6f 30-36,40,45-63,65-67,69-71,76
+  s_3546e9f631856b::t_2cbd1519bdc46b 24
+  s_3546e9f631856b::t_d7f83019481d2a 39
+frontend/src/screens/worklist.row.captions.tsx
+  s_3546e9f631856b::t_fb6b6f6048cae3 4,13
+  s_3546e9f631856b::t_31d98bea719de2 80-92,97-98
+  s_3546e9f631856b::t_183acaf784bba2 14
+backend/internal/compose/attention/focus.go
+  s_3546e9f631856b::t_5d4e04c5fb0475 83-85
+backend/internal/modules/activities/companyscope.go
+  s_3546e9f631856b::t_7a789fc3ceaac8 54-55,62-75,127
+backend/internal/compose/attention/feedoptions.go
+  s_3546e9f631856b::t_f5c4387453cd76 85-94
+backend/api/crm.yaml
+  s_3546e9f631856b::t_91c2576a517766 54141-54142,54886-54904,54909-54912,54915-54916
+frontend/src/screens/worklist.row.captions.stories.tsx
+  s_3546e9f631856b::t_5752750d7e2ae5 21-22
+  s_3546e9f631856b::t_038a001e77ddb8 19
+  s_3546e9f631856b::t_a40c61a16f7ba1 28
+  s_3546e9f631856b::t_3c23f6e2c88a1d 112-113,115-142
+  s_3546e9f631856b::t_11dccba445b24f 114
+frontend/src/screens/brief.focus.stories.tsx
+  s_3546e9f631856b::t_4016e76766d74b 113-130
+frontend/src/screens/worklist.pane.tsx
+  s_3546e9f631856b::t_d14968bc2b3bd3 205-206
+backend/internal/compose/attention/companytouch_test.go
+  s_3546e9f631856b::t_c2359bd47ba970 1-100
+backend/internal/compose/attention/contacttouch.go
+  s_3546e9f631856b::t_45f0580d100236 47-48
+frontend/src/screens/brief.feed.test.tsx
+  s_3546e9f631856b::t_da0f4f362169dc 279-307
+backend/internal/compose/attentionseam.go
+  s_3546e9f631856b::t_6e759360d0585a 291-292
+backend/internal/modules/activities/companyscope_test.go
+  s_3546e9f631856b::t_8d10c05ea0b748 125-133
+backend/internal/compose/integration/company360/company360_lasttouchset_integration_test.go
+  s_3546e9f631856b::t_160d839604dd31 59-61,65,73-74,107
+  s_3546e9f631856b::t_75e9b5acc94243 78-80,82
+  s_3546e9f631856b::t_6e83b6e4fd36c4 1-28,30-42,46,48-58,62-63,66-72,75,77,81,83-106,108-122
+  s_3546e9f631856b::t_fb455ed4fa4859 29,43-45,47,64,76
+backend/internal/compose/company360/accountstate.go
+  s_3546e9f631856b::t_8353c481384f3f 30-31,33,37-42
+  s_3546e9f631856b::t_9ec9b89a2eed7e 26
+backend/internal/contracts/api_gen.go
+  s_3546e9f631856b::t_2fa0e261069dd6 44993-45017,45074-45077,45080-45081,45086-45089,45092-45093,45381-45392
+frontend/src/api/schema.d.ts
+  s_3546e9f631856b::t_b148c555e4d34d 40647,41257-41273,41276-41279,41282-41283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d34a75f7832c97977bc404f86f8e6a792d1dc35b",
+  "prompts": {},
+  "sessions": {
+    "s_3546e9f631856b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "195fff3e-43d4-4856-91dc-b5c937084d20",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
