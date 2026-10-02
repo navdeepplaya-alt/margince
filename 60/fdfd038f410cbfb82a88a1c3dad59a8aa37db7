@@ -1,0 +1,51 @@
+frontend/src/screens/voice-intake-core.ts
+  s_3292744877d273::t_1167eacd1212d0 154-157
+backend/internal/modules/ai/voicecorpus_test.go
+  s_3292744877d273::t_85cde882915eab 163,294,356,430,463,598
+backend/internal/modules/ai/voicesources.go
+  s_3292744877d273::t_60d04bfe552c22 13,113-133,183,186-187,192,219-221,238-239,244
+backend/internal/modules/ai/voice.go
+  s_3292744877d273::t_fb6cc1fd6b62c4 47-49
+backend/internal/compose/voicespeakerseam.go
+  s_3292744877d273::t_4da27498bb5415 1-40
+backend/internal/modules/contacts/contactnames.go
+  s_3292744877d273::t_7155d6632ef267 1-61
+  s_3292744877d273::t_d508fc4f055882 62-63
+backend/internal/compose/server.go
+  s_3292744877d273::t_11d69c152e23ec 233-234
+backend/internal/modules/identity/colleaguenames.go
+  s_3292744877d273::t_89a478c897fa2c 1-58
+  s_3292744877d273::t_9a2b497c60553c 59
+backend/internal/modules/ai/voicecorpusquotes_test.go
+  s_3292744877d273::t_35fa6529c1f8bd 1-114
+backend/internal/modules/ai/voicecorpuspreview.go
+  s_3292744877d273::t_536b4715ed4918 101-102
+backend/internal/modules/ai/voice_source_store.go
+  s_3292744877d273::t_dc9fb0767cdd19 26
+backend/internal/compose/integration/voicequotes_http_integration_test.go
+  s_3292744877d273::t_a9521098f324b6 1-69
+backend/internal/modules/ai/voicecorpussrt.go
+  s_3292744877d273::t_c5e2d504ac7762 1-61
+backend/internal/modules/ai/voicecorpusquotes.go
+  s_3292744877d273::t_46c52ab2217c36 23-45
+  s_3292744877d273::t_e66c72dfbd0f11 89-103
+  s_3292744877d273::t_f6552a90de47b5 1-22,46-88
+backend/internal/compose/voicespeakerseam_integration_test.go
+  s_3292744877d273::t_d83cab7879f347 1-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "60fdfd038f410cbfb82a88a1c3dad59a8aa37db7",
+  "prompts": {},
+  "sessions": {
+    "s_3292744877d273": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5624ba01-91da-4172-893a-12a52249630f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
