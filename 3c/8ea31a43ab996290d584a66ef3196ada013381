@@ -1,0 +1,30 @@
+frontend/e2e/contact-network.spec.ts
+  s_5dd0f95bdee1ec::t_407e0408c14ada 121,123-124
+  s_5dd0f95bdee1ec::t_85fdb3180c131c 72,191,194,210-211,220-223,229-232
+  s_5dd0f95bdee1ec::t_f498b418f527eb 195-198
+  s_5dd0f95bdee1ec::t_231fc97b363f66 38,40-42,45-49,53-54
+  s_5dd0f95bdee1ec::t_8efc88a541c9c2 154-155,158,163-165,170,173
+  s_5dd0f95bdee1ec::t_cc8635529c4dac 2
+  s_5dd0f95bdee1ec::t_fcc3a553be43d2 58-60,159-162,175-177
+  s_5dd0f95bdee1ec::t_de4ff293ec9b48 144-151,153,156-157,167-169,171-172,174,178-180
+  s_5dd0f95bdee1ec::t_539617b3b58e18 18-21
+  s_5dd0f95bdee1ec::t_1af75a979cd214 3-4
+  s_5dd0f95bdee1ec::t_67645d58fc1af6 24-26
+  s_5dd0f95bdee1ec::t_90729054b5111c 55-57,61-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3c8ea31a43ab996290d584a66ef3196ada013381",
+  "prompts": {},
+  "sessions": {
+    "s_5dd0f95bdee1ec": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9efd17b2-76d5-4279-b8c8-e074b23c8e26",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
