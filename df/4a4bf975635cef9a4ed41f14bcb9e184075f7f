@@ -1,0 +1,24 @@
+frontend/src/design-system/recordtabs.css
+  s_b76e7bbd676dff::t_0076230247efe8 195-204
+frontend/src/design-system/badge.css
+  s_b76e7bbd676dff::t_b9a772e5e53e64 32-34
+frontend/src/screens/worklist.row.css
+  s_b76e7bbd676dff::t_62f1ef2597f6ca 159,192-193
+  s_b76e7bbd676dff::t_075b590f3fdb39 190-191,194-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "df4a4bf975635cef9a4ed41f14bcb9e184075f7f",
+  "prompts": {},
+  "sessions": {
+    "s_b76e7bbd676dff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc3e6545-5d27-447f-9e21-95e00ca36f76",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
