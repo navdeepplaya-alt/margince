@@ -1,0 +1,61 @@
+frontend/src/design-system/tokeninput.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 81
+frontend/src/design-system/filechip.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 26
+frontend/src/design-system/readings.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 5,195
+frontend/scripts/lib/rendered-inside.ts
+  s_b76e7bbd676dff::t_99c7a21f1590ab 76-77,138-141
+  s_b76e7bbd676dff::t_b88d3a0c262532 74-75,78-87,91-94,96,102,107,109-137
+  s_b76e7bbd676dff::t_84ddb62ed22341 88-90,97-101,103-106,108,142-148
+  s_b76e7bbd676dff::t_6edcc5bfb8ce7a 95
+frontend/src/design-system/visibility.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 38
+frontend/src/design-system/chipfill.test.ts
+  s_b76e7bbd676dff::t_a0c2fc20583c83 44-48
+  s_b76e7bbd676dff::t_5328622ccbaf96 57,213-217,223,227-242,249-250,252-265,270-272,280,282,286-287,289
+  s_b76e7bbd676dff::t_51b5c05c28b479 212,218-222,224-226,243-248,251,266-269,290-291
+  s_b76e7bbd676dff::t_cba5f0422a9390 16
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 273-279,285,288
+  s_eae371035f0dc5::t_81377856735744 19,281,283-284
+frontend/src/mcp-apps/view.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 138
+frontend/src/screens/backfill.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 109
+frontend/src/design-system/trust.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 27
+frontend/src/screens/contactnetwork.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 298
+frontend/src/screens/customfields.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 123
+frontend/src/screens/reporting.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 72
+frontend/src/screens/confirm.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 90
+frontend/src/design-system/atoms.css
+  s_b76e7bbd676dff::t_30a6b8fe0c72bd 690,706,831
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ddc20c754576e026d32f12e424f5949b3ce4a0f4",
+  "prompts": {},
+  "sessions": {
+    "s_b76e7bbd676dff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc3e6545-5d27-447f-9e21-95e00ca36f76",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_eae371035f0dc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e39bfbad-a60c-42e8-991d-68c8b985143c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
