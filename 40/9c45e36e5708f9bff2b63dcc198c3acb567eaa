@@ -1,0 +1,34 @@
+backend/internal/compose/attention/teamplans_test.go
+  s_eae371035f0dc5::t_e115d3af817272 168-194
+frontend/src/i18n/de.ts
+  s_eae371035f0dc5::t_306204159d2b53 11152,11156
+frontend/src/screens/worklist.plancoverage.test.ts
+  s_eae371035f0dc5::t_306204159d2b53 73
+frontend/src/screens/worklist.unread.test.tsx
+  s_eae371035f0dc5::t_700f140acb185e 68
+backend/internal/compose/attention/worklist.go
+  s_eae371035f0dc5::t_4e283a081b8f5c 257-261
+backend/internal/compose/attention/planlane.go
+  s_eae371035f0dc5::t_3a84d0e1d09d7b 93
+  s_eae371035f0dc5::t_256f661ca634d5 76,79-82
+frontend/src/i18n/en.ts
+  s_eae371035f0dc5::t_700f140acb185e 11301,11305
+frontend/src/i18n/vi.ts
+  s_eae371035f0dc5::t_700f140acb185e 11069,11073
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "409c45e36e5708f9bff2b63dcc198c3acb567eaa",
+  "prompts": {},
+  "sessions": {
+    "s_eae371035f0dc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e39bfbad-a60c-42e8-991d-68c8b985143c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
