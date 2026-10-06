@@ -1,0 +1,19 @@
+backend/internal/compose/attention/scope.go
+  s_eae371035f0dc5::t_7f417b25f3f56d 381
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2fdcf447007c18c6fbcb3d934e80a1d91ff30459",
+  "prompts": {},
+  "sessions": {
+    "s_eae371035f0dc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e39bfbad-a60c-42e8-991d-68c8b985143c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
