@@ -1,0 +1,22 @@
+frontend/src/screens/worklist.unread.test.tsx
+  s_eae371035f0dc5::t_bb61fb8181276a 69
+frontend/src/i18n/en.ts
+  s_eae371035f0dc5::t_a4e559187dfd5d 11307-11308
+  s_eae371035f0dc5::t_bb61fb8181276a 11312
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0d4a8f864b0e74b7cede0f6c3eae9dce847a6aa9",
+  "prompts": {},
+  "sessions": {
+    "s_eae371035f0dc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e39bfbad-a60c-42e8-991d-68c8b985143c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
