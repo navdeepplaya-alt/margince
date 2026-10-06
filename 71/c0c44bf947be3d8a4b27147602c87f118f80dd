@@ -1,0 +1,23 @@
+frontend/src/design-system/recordtabs.stories.tsx
+  s_966469e33dc99b::t_6143224b9a758b 6,85-113
+  s_966469e33dc99b::t_7ca9c5349df807 114-115
+frontend/scripts/lib/rendered-inside.ts
+  s_966469e33dc99b::t_fbb5098588a2ef 112-113,118-122,126,128-129,167-168
+  s_966469e33dc99b::t_30ac21ada01063 169-171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "71c0c44bf947be3d8a4b27147602c87f118f80dd",
+  "prompts": {},
+  "sessions": {
+    "s_966469e33dc99b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e7bb39d1-6c82-4851-8bb6-d782b515dcc2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
