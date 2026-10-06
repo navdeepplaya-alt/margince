@@ -1,0 +1,21 @@
+docs/how-to/rename-key-named-deals.md
+  s_f7590022c802d2::t_bfbdccc0b28622 1-70
+docs/README.md
+  s_f7590022c802d2::t_bfbdccc0b28622 85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "609e68b8dc5b19cd9fb456a98bc5bb3f0035e1bf",
+  "prompts": {},
+  "sessions": {
+    "s_f7590022c802d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c8f334ed-a364-411e-9dfe-529692712a58",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
