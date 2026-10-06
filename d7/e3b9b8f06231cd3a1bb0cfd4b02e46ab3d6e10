@@ -1,0 +1,30 @@
+frontend/src/design-system/chipfill.test.ts
+  s_b76e7bbd676dff::t_8e0019d89cf4c9 19,226-229,231,233,238-240,244-246,260,262-263,268
+  s_b76e7bbd676dff::t_15bf39a7894b9e 296-300
+  s_b76e7bbd676dff::t_42ad2f5847eda7 301
+frontend/scripts/lib/rendered-inside.ts
+  s_b76e7bbd676dff::t_8e0019d89cf4c9 80-90,101,112-120,122-129
+frontend/src/design-system/atoms.css
+  s_b76e7bbd676dff::t_ab8df5c4883e61 678-679
+frontend/src/design-system/recordtabs.css
+  s_b76e7bbd676dff::t_ab8df5c4883e61 196-198,203,206-208
+  s_b76e7bbd676dff::t_bc259e9ffea336 209
+frontend/src/screens/worklist.row.css
+  s_b76e7bbd676dff::t_ab8df5c4883e61 159,192-194,197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d7e3b9b8f06231cd3a1bb0cfd4b02e46ab3d6e10",
+  "prompts": {},
+  "sessions": {
+    "s_b76e7bbd676dff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc3e6545-5d27-447f-9e21-95e00ca36f76",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
