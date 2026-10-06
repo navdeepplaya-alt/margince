@@ -1,0 +1,24 @@
+backend/internal/modules/deals/keynamedrepair_test.go
+  s_f7590022c802d2::t_233141f1dc133d 1-26
+backend/internal/compose/integration/keynameddeals_integration_test.go
+  s_f7590022c802d2::t_e48be8127a2a2a 1-240
+backend/internal/modules/deals/keynamedrepair.go
+  s_f7590022c802d2::t_9f31f1686a1e5c 59
+  s_f7590022c802d2::t_c6e28114ffc004 1-58,60-159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "676685a646711a12651067e071cf168670afed5a",
+  "prompts": {},
+  "sessions": {
+    "s_f7590022c802d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c8f334ed-a364-411e-9dfe-529692712a58",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
