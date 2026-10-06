@@ -1,0 +1,31 @@
+backend/internal/modules/deals/keynamedrepair.go
+  s_f7590022c802d2::t_2d5fbb1baa8fd0 97-98,107,110-111
+backend/cmd/worker/authzdisagreement.go
+  s_f7590022c802d2::t_c2763afc8b8ce3 105-107
+docs/how-to/rename-key-named-deals.md
+  s_f7590022c802d2::t_2bedc3f39d1987 72
+  s_f7590022c802d2::t_9aed8dcb49ed30 23-35,37-38,43-48
+  s_f7590022c802d2::t_a940ef47a87ab0 76-78
+backend/cmd/worker/dealkeynames.go
+  s_f7590022c802d2::t_f50169f0240e84 13-14,25,38-39,90-98,129-130,158-159,176-190
+backend/cmd/worker/dealkeynames_test.go
+  s_f7590022c802d2::t_41c937f9de77e7 32-36
+  s_f7590022c802d2::t_98efb6eaaec5bf 8,25,37-38,57-66,85-99
+  s_f7590022c802d2::t_1204df3ab6e6ae 100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6ab671875f3f49dc29800b996e2daa3e38bca40d",
+  "prompts": {},
+  "sessions": {
+    "s_f7590022c802d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c8f334ed-a364-411e-9dfe-529692712a58",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
