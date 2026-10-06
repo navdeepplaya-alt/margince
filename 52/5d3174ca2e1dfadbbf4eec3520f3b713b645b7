@@ -1,0 +1,63 @@
+frontend/src/screens/worklist.tsx
+  s_eae371035f0dc5::t_b5bc1058220d45 381
+  s_eae371035f0dc5::t_3047c368746505 46
+  s_eae371035f0dc5::t_80d5eecddbbb55 362-363
+frontend/src/screens/worklist.board.test.tsx
+  s_eae371035f0dc5::t_e5b72dc59b78d3 1-86,92-96,100-101
+  s_eae371035f0dc5::t_e39b008144b4ae 87-91
+  s_eae371035f0dc5::t_3047c368746505 97-99
+frontend/src/i18n/vi.ts
+  s_eae371035f0dc5::t_94eeff78d9d7cd 11067-11078
+frontend/src/screens/worklist.unread.test.tsx
+  s_eae371035f0dc5::t_74f6d7187b6e99 1-24,33-78
+  s_eae371035f0dc5::t_0082f690ee280c 25-32
+frontend/src/i18n/de.ts
+  s_eae371035f0dc5::t_3d524cf35dc5b5 11156,11158
+  s_eae371035f0dc5::t_5e5618281eb94f 11150-11155,11157,11159-11161
+frontend/src/screens/worklist.unread.stories.tsx
+  s_eae371035f0dc5::t_e2d56c8504d44d 1-25,34-87
+  s_eae371035f0dc5::t_c4b512ba23a60e 26-33
+frontend/src/screens/worklist.plancoverage.ts
+  s_eae371035f0dc5::t_ad07dae2ae3bd5 1-65
+frontend/src/screens/worklist.board.stories.tsx
+  s_eae371035f0dc5::t_36899f594033a2 95-116
+frontend/src/screens/worklist.coaching.stories.tsx
+  s_eae371035f0dc5::t_3a487ba043c4dc 80-98
+frontend/src/screens/worklist.plancoverage.test.ts
+  s_eae371035f0dc5::t_e66a2aeb9b0f02 1-10,15-33,39-59,63-67,72-75
+  s_eae371035f0dc5::t_3047c368746505 11-14,34-38,60-62,68-71
+frontend/src/i18n/en.ts
+  s_eae371035f0dc5::t_d00b33289424ca 11300-11310
+frontend/src/screens/worklist.stories.tsx
+  s_eae371035f0dc5::t_be2285508bb2f7 485-492
+  s_eae371035f0dc5::t_37d1f15682b350 468-484,493-511
+frontend/src/screens/worklist.board.tsx
+  s_eae371035f0dc5::t_504ecacb847142 140-143
+  s_eae371035f0dc5::t_3abd7d41c6bcb3 187-209
+  s_eae371035f0dc5::t_7d82bf5af84099 214,219,224,233
+  s_eae371035f0dc5::t_40e1f9cf932f86 12-13,33-35,55-57,84
+frontend/src/screens/worklist.unread.tsx
+  s_eae371035f0dc5::t_8cc05c96bac1b5 1-46
+frontend/src/screens/worklist.coaching.tsx
+  s_eae371035f0dc5::t_44043fe8841227 60-62,64
+  s_eae371035f0dc5::t_3047c368746505 63
+frontend/src/screens/worklist.coaching.test.tsx
+  s_eae371035f0dc5::t_72c5351b36fc50 88-91,96-101
+  s_eae371035f0dc5::t_3047c368746505 92-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "525d3174ca2e1dfadbbf4eec3520f3b713b645b7",
+  "prompts": {},
+  "sessions": {
+    "s_eae371035f0dc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e39bfbad-a60c-42e8-991d-68c8b985143c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}

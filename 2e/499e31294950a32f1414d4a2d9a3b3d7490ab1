@@ -1,0 +1,74 @@
+backend/internal/compose/attentionplanseam_integration_test.go
+  s_eae371035f0dc5::t_32a51a2367a716 74,98,101,106
+  s_eae371035f0dc5::t_044b37fe3bf821 14,136-170
+  s_eae371035f0dc5::t_8e368a042077d9 171
+backend/internal/compose/attention/feed.go
+  s_eae371035f0dc5::t_e567af2364a0f0 204-205
+backend/internal/compose/attention/teamlanes.go
+  s_eae371035f0dc5::t_3b579b4b8f2ea5 30,34-36
+backend/internal/compose/attention/teamboard.go
+  s_eae371035f0dc5::t_1d5db628c21ac0 104-114
+  s_eae371035f0dc5::t_c97572a64080fe 79,82,84-90
+  s_eae371035f0dc5::t_ff65bba3397781 64
+frontend/src/screens/worklist.coaching.stories.tsx
+  s_eae371035f0dc5::t_a22d3a40db83b6 24
+backend/internal/compose/attention/degradablelanes_test.go
+  s_eae371035f0dc5::t_3bd0f408488fbc 27-29,54
+  s_eae371035f0dc5::t_6b577ef0fb07d7 30
+frontend/src/screens/worklist.coaching.test.tsx
+  s_eae371035f0dc5::t_a22d3a40db83b6 26
+frontend/src/screens/worklist.stories.tsx
+  s_eae371035f0dc5::t_a22d3a40db83b6 21,27,33
+backend/internal/modules/identity/namedteam.go
+  s_eae371035f0dc5::t_32a51a2367a716 18-21,47,49,57
+backend/internal/compose/attention/teamplans_test.go
+  s_eae371035f0dc5::t_3855f2292032ea 1-146,152,155-187
+  s_eae371035f0dc5::t_3f3d2cbe431f96 147-151,153-154
+backend/internal/compose/attention/worklist.go
+  s_eae371035f0dc5::t_e4494a3a3a9396 164,168
+backend/internal/compose/attention/namedteam_test.go
+  s_eae371035f0dc5::t_9ad0f3fb7ef528 1-78
+backend/internal/compose/attention/planlane.go
+  s_eae371035f0dc5::t_6caea0bf2c5c55 11-12,43,49-55,57,59-67,69-70,72-75,77,81-82,84-87,90,92-95,100,110-115,118-128,138,140
+  s_eae371035f0dc5::t_6b577ef0fb07d7 56,58,71,76,78-80,83,88-89,91,96,103-109
+backend/internal/compose/attention/namedteam.go
+  s_eae371035f0dc5::t_5ce7cc1b6e1dca 14-15,17,37
+backend/api/crm.yaml
+  s_eae371035f0dc5::t_7a5862ff5be5c8 54117-54152,54386,54388-54389,54410,54419-54424
+  s_eae371035f0dc5::t_10f9024857d28f 54387
+frontend/src/screens/worklist.board.stories.tsx
+  s_eae371035f0dc5::t_a22d3a40db83b6 34,40,46
+backend/internal/compose/integration/namedteamboard_http_integration_test.go
+  s_eae371035f0dc5::t_80d8003226eb74 38,41-45,48,64-65
+  s_eae371035f0dc5::t_cde03b1f621d4b 1-37,39-40,46-47,49-63,66-70
+backend/internal/compose/attention/owner_test.go
+  s_eae371035f0dc5::t_fef10fe3cd3b1f 34,254
+backend/internal/modules/identity/teamroster.go
+  s_eae371035f0dc5::t_32a51a2367a716 36-37
+backend/internal/compose/teammatesseam.go
+  s_eae371035f0dc5::t_32a51a2367a716 77-80,86
+backend/gates/rbacgate_test.go
+  s_eae371035f0dc5::t_32a51a2367a716 529
+frontend/src/screens/brief.teamboard.stories.tsx
+  s_eae371035f0dc5::t_a22d3a40db83b6 28,34
+backend/internal/contracts/api_gen.go
+  s_eae371035f0dc5::t_529231a9521f4c 15658-15675,43296-43299,43338-43341,43354-43357,45878-45885,46922-46949
+frontend/src/api/schema.d.ts
+  s_eae371035f0dc5::t_72637e65b97cd0 40538-40570,40790-40793,40823-40828
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2e499e31294950a32f1414d4a2d9a3b3d7490ab1",
+  "prompts": {},
+  "sessions": {
+    "s_eae371035f0dc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e39bfbad-a60c-42e8-991d-68c8b985143c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
