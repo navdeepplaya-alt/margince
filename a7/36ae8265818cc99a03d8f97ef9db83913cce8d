@@ -1,0 +1,36 @@
+frontend/src/screens/worklist.unread.test.tsx
+  s_eae371035f0dc5::t_fef2a3095f2bdb 68-70
+backend/internal/compose/attention/planlane.go
+  s_eae371035f0dc5::t_b872c958d843f1 121
+  s_eae371035f0dc5::t_4e077d03f88e80 77-80,82-85,87
+  s_eae371035f0dc5::t_0e4d350ab22c47 118-120,122-126
+frontend/src/api/schema.d.ts
+  s_eae371035f0dc5::t_aecdf7abee6f07 40568-40569
+backend/internal/contracts/api_gen.go
+  s_eae371035f0dc5::t_3e688519482c34 46943-46944
+backend/api/crm.yaml
+  s_eae371035f0dc5::t_36c1aebcfef1ec 54152-54153
+backend/internal/compose/attention/teamplans_test.go
+  s_eae371035f0dc5::t_465f68fbaf420e 179-203
+backend/internal/compose/attention/scope.go
+  s_eae371035f0dc5::t_ac1e23d0d7f06f 381
+  s_eae371035f0dc5::t_b31e52a6d786b9 380
+frontend/src/i18n/de.ts
+  s_eae371035f0dc5::t_fef2a3095f2bdb 11151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a736ae8265818cc99a03d8f97ef9db83913cce8d",
+  "prompts": {},
+  "sessions": {
+    "s_eae371035f0dc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e39bfbad-a60c-42e8-991d-68c8b985143c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
