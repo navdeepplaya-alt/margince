@@ -1,0 +1,47 @@
+backend/internal/compose/attention/planlane.go
+  s_eae371035f0dc5::t_1099e08268867c 103,105
+  s_eae371035f0dc5::t_e7b7f0775031f5 84-86
+  s_966469e33dc99b::t_e5de8d73bece2a 56
+backend/internal/compose/attention/snapshot.go
+  s_eae371035f0dc5::t_5aacccd5a3da72 61-62,66
+backend/internal/compose/attention/teamplans_test.go
+  s_eae371035f0dc5::t_df40f659d30c5e 12
+  s_eae371035f0dc5::t_f1135704092330 205-227,232-234
+  s_eae371035f0dc5::t_7ad5ebb0f8a3d4 228-231
+backend/api/crm.yaml
+  s_eae371035f0dc5::t_48e08b29b6d925 54134-54137
+backend/internal/compose/attention/suggestionlane.go
+  s_966469e33dc99b::t_7c2d7ffea70b47 53
+backend/internal/compose/attention/teamlanes.go
+  s_966469e33dc99b::t_091cf0317feeb6 67
+backend/internal/compose/attention/waitinglane.go
+  s_966469e33dc99b::t_2e9ad32d1affa6 224
+backend/internal/contracts/api_gen.go
+  s_eae371035f0dc5::t_3a9f1e1d59e990 46929-46931
+frontend/src/api/schema.d.ts
+  s_eae371035f0dc5::t_5198f26a5f3a05 40549-40553
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c146669d132b94aacb830929271e05cce5b66472",
+  "prompts": {},
+  "sessions": {
+    "s_966469e33dc99b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e7bb39d1-6c82-4851-8bb6-d782b515dcc2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_eae371035f0dc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e39bfbad-a60c-42e8-991d-68c8b985143c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
