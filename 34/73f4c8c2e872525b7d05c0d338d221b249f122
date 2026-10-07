@@ -1,0 +1,19 @@
+backend/internal/modules/identity/colleaguenames.go
+  s_e0579d37e69e7c::t_0fa20c3929d487 19-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3473f4c8c2e872525b7d05c0d338d221b249f122",
+  "prompts": {},
+  "sessions": {
+    "s_e0579d37e69e7c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "37ae108d-18d7-49e5-b55c-46cfe4440b98",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
