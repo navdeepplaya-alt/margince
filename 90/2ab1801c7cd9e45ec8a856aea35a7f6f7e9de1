@@ -1,0 +1,23 @@
+backend/gates/gatecensus_test.go
+  s_f7c8ec828e3b5e::t_a08c435d6bbbaa 57
+backend/internal/compose/jobkinds_gen.go
+  s_f7c8ec828e3b5e::t_fc74704769f558 14
+backend/internal/platform/jobs/specs_gen.go
+  s_f7c8ec828e3b5e::t_49aa103840e42b 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "902ab1801c7cd9e45ec8a856aea35a7f6f7e9de1",
+  "prompts": {},
+  "sessions": {
+    "s_f7c8ec828e3b5e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "477d8eca-66c0-4b1a-813f-e5d2dbb5a9fb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
