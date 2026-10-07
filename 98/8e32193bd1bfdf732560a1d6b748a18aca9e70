@@ -1,0 +1,40 @@
+backend/internal/modules/activities/emailsender_integration_test.go
+  s_128bab38a30733::t_1e1284de04a57a 107-206
+  s_128bab38a30733::t_334952d672bc90 13
+  s_128bab38a30733::t_e83689e7e4860c 11-12
+  s_128bab38a30733::t_0b4314b8b36927 14
+backend/internal/modules/activities/participantlog.go
+  s_128bab38a30733::t_a7caeb1dc37efa 146-147
+  s_128bab38a30733::t_8cb27598688282 134
+  s_128bab38a30733::t_cfbf46c2e5c9f9 135
+  s_128bab38a30733::t_63b8cf1efafdc3 148
+  s_758886acb8221f::t_32e1402a450667 21,156-174
+backend/internal/modules/activities/committask.go
+  s_758886acb8221f::t_bd88543860ffd7 90-91
+backend/internal/modules/activities/emailparties.go
+  s_758886acb8221f::t_468883a8cd16f1 110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "988e32193bd1bfdf732560a1d6b748a18aca9e70",
+  "prompts": {},
+  "sessions": {
+    "s_128bab38a30733": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a15c20e8-2698-4b21-9eb7-af6bcb63720e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    },
+    "s_758886acb8221f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38649275-2c62-4f3e-93b6-10e91b66e1e9",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
