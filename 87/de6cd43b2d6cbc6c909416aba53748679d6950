@@ -1,0 +1,21 @@
+backend/internal/modules/activities/participantlog.go
+  s_758886acb8221f::t_d6fd0291bc37da 160-161,171
+backend/internal/modules/activities/emailsender_integration_test.go
+  s_758886acb8221f::t_d6fd0291bc37da 197-232
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "87de6cd43b2d6cbc6c909416aba53748679d6950",
+  "prompts": {},
+  "sessions": {
+    "s_758886acb8221f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38649275-2c62-4f3e-93b6-10e91b66e1e9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
