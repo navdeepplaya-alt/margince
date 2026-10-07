@@ -1,0 +1,35 @@
+docs/explanation/search-and-retrieval.md
+  s_e4e446777416ae::t_3fcc6df74145b5 118-119
+  s_e4e446777416ae::t_f9ab38448a3738 62-65
+backend/internal/compose/integration/search_integration_test.go
+  s_e4e446777416ae::t_441a6055b1cbce 162-193
+backend/internal/modules/search/typedquery.go
+  s_e4e446777416ae::t_208e5feb06bc89 120,122,126-160,162,164-165
+  s_e4e446777416ae::t_f1d1993f7819ba 161
+backend/internal/modules/search/typedquery_test.go
+  s_e4e446777416ae::t_4b4ad475ae8167 277-289
+backend/internal/modules/search/store.go
+  s_e4e446777416ae::t_78c985754ba653 109
+  s_e4e446777416ae::t_c03c03adc4b44f 316,320-322
+  s_e4e446777416ae::t_853cafe927fa39 305-307
+backend/internal/modules/search/employerarm.go
+  s_e4e446777416ae::t_48a3957cae27d6 98-99
+  s_e4e446777416ae::t_99a71b86cff6c2 85
+  s_e4e446777416ae::t_39db23a831b131 75-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0a44ef065979b0a95a8c50b20511d7c32c03990a",
+  "prompts": {},
+  "sessions": {
+    "s_e4e446777416ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "661a2d91-4fe9-44b2-a13b-5643d475483c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
