@@ -1,0 +1,129 @@
+backend/internal/platform/storedobjects/referencing.go
+  s_24deed36989618::t_d218cded110565 1-97
+backend/internal/modules/activities/storedobjectintent.go
+  s_24deed36989618::t_64595facca6cd3 26-27
+  s_24deed36989618::t_6c834d0dda2167 25,28-36,47-48
+backend/internal/platform/storedobjects/reap.go
+  s_24deed36989618::t_34376927c19610 1-86,88-89,92-93,96-183
+  s_24deed36989618::t_5115936cc9984d 87,90-91,94-95
+backend/internal/platform/storedobjects/kind_test.go
+  s_24deed36989618::t_b7b4d34f800c0b 76,85
+  s_24deed36989618::t_edcdb7e978bd4e 73-75,77-84,86-89,91
+backend/migrations/core/1791361591_a_condemned_object_refuses_its_writers.up.sql
+  s_24deed36989618::t_914e507734ecd6 1-26
+backend/internal/compose/storedobjectcondemn_integration_test.go
+  s_24deed36989618::t_5115936cc9984d 41-43,46,96,127,130,157
+  s_24deed36989618::t_9840cfeb22c029 1-40,44-45,47-95,97-126,128-129,131-156,158-230,232-332
+  s_24deed36989618::t_b7b4d34f800c0b 231
+backend/internal/compose/storedobjectowners.go
+  s_24deed36989618::t_8fd4e9726d9a8c 22
+  s_24deed36989618::t_a905438c71f12f 15-21,23-25,32-38,42-51,54
+backend/internal/compose/storedobjectowners_test.go
+  s_24deed36989618::t_01d2bfd1e5a88c 21
+backend/internal/compose/jobs_storedobject_integration_test.go
+  s_24deed36989618::t_3161e0c7412002 48
+  s_24deed36989618::t_a59e8960d1d615 39,49-55,66,97-101,108-109,120-126,132,134-135,138-164,166,219-220,258-259,297-298,376,381,383-384,388,398-410,477-479,482,489,492-493
+  s_24deed36989618::t_d7ea4049de5a18 432-435
+  s_24deed36989618::t_a6b679c51922f2 411
+backend/migrations/core/1791361591_a_condemned_object_refuses_its_writers.down.sql
+  s_24deed36989618::t_9dd1de8edddc57 1-10
+backend/gates/jobfleetwide_test.go
+  s_24deed36989618::t_5810ce5634e07a 385
+  s_24deed36989618::t_dedec09690f4e1 384
+backend/internal/compose/integration/offerrender_http_integration_test.go
+  s_24deed36989618::t_00e8c726ccb185 75-79
+  s_24deed36989618::t_33c19f2097355b 25
+backend/api/jobs.yaml
+  s_24deed36989618::t_0fdf6f53980734 1228-1235
+backend/internal/modules/deals/handlers_offertemplates.go
+  s_24deed36989618::t_104f18c17f17be 17
+  s_24deed36989618::t_e7930e4134f2f5 177-181
+docs/reference/gate-inventory.md
+  s_24deed36989618::t_1f4256aa011341 347
+backend/internal/modules/migration/csvrun.go
+  s_24deed36989618::t_555b1ab0f97e95 282,285-293,299-300,314-326
+  s_24deed36989618::t_64595facca6cd3 283-284
+backend/internal/modules/deals/offer.go
+  s_24deed36989618::t_62e08629598188 345,406
+backend/internal/modules/knowledge/document.go
+  s_24deed36989618::t_64595facca6cd3 421-422
+  s_24deed36989618::t_a04d065aa8b6e5 165-167,170,420,423-431,436-437
+backend/internal/compose/importernamespace_integration_test.go
+  s_24deed36989618::t_d7ea4049de5a18 46-52,58
+backend/gates/entitymodelcatalog_test.go
+  s_24deed36989618::t_ab94815068b295 108-113,115
+docs/reference/entity-model/platform.md
+  s_24deed36989618::t_1f4256aa011341 178,183,190
+backend/internal/modules/contacts/logointents.go
+  s_24deed36989618::t_64595facca6cd3 40,42
+  s_24deed36989618::t_b9e7d408a5ae23 13,24-27,29-31,43,48-55,58-61
+docs/reference/entity-model/README.md
+  s_24deed36989618::t_1f4256aa011341 32,385
+backend/internal/compose/integration/csvimportexpired_integration_test.go
+  s_24deed36989618::t_aa49bb1cef54a8 4-6,10-11,13-15,17-18,20,23,25,27-32,34-47,50-51,53-57,59,61-63
+  s_24deed36989618::t_6cc055887eb8e8 26,60
+backend/internal/modules/activities/storedobjectintent_integration_test.go
+  s_24deed36989618::t_8fd4e9726d9a8c 42
+  s_24deed36989618::t_bbf9755ce5296d 23-24,30-32,37-41,43,56,78,101,143
+backend/internal/platform/storedobjects/referencing_test.go
+  s_24deed36989618::t_d13fc71baf61d4 4,11-24,28-29,31-35,37,41-42,46-47,51-53,57-59,61-64,66-83
+backend/internal/compose/datareset.go
+  s_24deed36989618::t_b3395da9093b09 359-365
+backend/internal/platform/storedobjects/storedobjects_integration_test.go
+  s_24deed36989618::t_b7b4d34f800c0b 149
+  s_24deed36989618::t_f6db4eb8a9fc7b 35,48-50,84,135-148,150-209
+backend/migrations/testdata/head_catalog.txt
+  s_24deed36989618::t_4e5686584f7894 6647,6652
+backend/internal/modules/migration/engine_test.go
+  s_24deed36989618::t_555b1ab0f97e95 70-71,632,641
+backend/gates/storedobjectdeclaration_test.go
+  s_24deed36989618::t_35347b4e7cb607 399,438-439
+  s_24deed36989618::t_6b7e87c4646943 12,32-39,43,53,55,58,60,62-64,66-70,73-76,79,83,86,88-91,98,104,110-218,220,228,244-248,251-258,262-263,266-269,272-273,277,282,288,290,293-297,299-342,345,353-354,356-362,365-370,374,377,380-390,393-394,397,400-405,407-408,411-427,430,433-437,440-443,445,449-455
+  s_24deed36989618::t_8fd4e9726d9a8c 61,219,221,352,371-372,375-376,406,409-410,428-429,431-432,444,456
+  s_24deed36989618::t_a04375b81b01df 259-261,264-265,270,274-276,278-281,283,285-287,343-344,346-351,396
+backend/internal/compose/datareset_unit_test.go
+  s_24deed36989618::t_645f34c322bd2b 13-14,19,22-23
+  s_24deed36989618::t_4488b19dedbc47 88-137
+backend/internal/compose/csvimport.go
+  s_24deed36989618::t_8c53eb8fa07c9d 227-228
+  s_24deed36989618::t_257e9922f571e9 225-226,229-231
+backend/internal/compose/jobs_storedobject.go
+  s_24deed36989618::t_4a59a4a3db37e5 6-7,10,12-13,15-17,21,23,42-43,46,51,54-60,73,76-86,90-101,104-111,113,116,120-123
+backend/gates/gatecensus_test.go
+  s_24deed36989618::t_64595facca6cd3 57
+backend/internal/platform/storedobjects/storedobjects.go
+  s_24deed36989618::t_5a12056fb30f46 13,29,37-40,43-44,53-60,62,64-78,82-98,109-111,123-135,143,153,165,168-174,179-181,183-192,194,196-197,199,201-214,216,218-221,224-233,235-238
+  s_24deed36989618::t_b7b4d34f800c0b 61
+  s_24deed36989618::t_8b232580c0d6ec 63
+backend/internal/modules/deals/offer_lifecycle.go
+  s_24deed36989618::t_62e08629598188 104,207,283
+backend/internal/modules/deals/offer_render.go
+  s_24deed36989618::t_73e27819c0eb03 319-321,323-325,329,333,338-339,343-344,348-349
+  s_24deed36989618::t_5115936cc9984d 332,336-337,340
+  s_24deed36989618::t_e22cd630189433 334-335
+  s_24deed36989618::t_62e08629598188 274
+  s_24deed36989618::t_64595facca6cd3 330-331
+  s_24deed36989618::t_f3c0cf06704c79 341-342
+docs/reference/configuration.md
+  s_24deed36989618::t_960a1e59282a2f 1183-1184
+backend/gates/storedobjectcolumns_test.go
+  s_24deed36989618::t_48c5ff1b45a9ba 4-5,10-23,27,30,33-37,42-50,52-58,60-61,63-66,68-92,94-101,103-120,123-124,127-158,160-161
+  s_24deed36989618::t_eae6aba7faecff 6
+  s_24deed36989618::t_d07f8d322aa34a 38-39,41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9cb0f12d6658a6db588501dd38a32bf6bf3ec3c1",
+  "prompts": {},
+  "sessions": {
+    "s_24deed36989618": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fb468652-947e-463e-94c7-a421cfc21408",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
