@@ -1,0 +1,28 @@
+backend/internal/shared/kernel/langcopy/langcopy.go
+  s_d53c26b952c6d1::t_01dc1510814fcf 7-8,20
+backend/gates/langcopyonecensus_test.go
+  s_d53c26b952c6d1::t_454ca3d5403808 97,103,107-109
+  s_d53c26b952c6d1::t_01dc1510814fcf 10-14,29-31
+  s_d53c26b952c6d1::t_9e16683f166a03 111,131
+backend/internal/shared/kernel/langcopy/langcopytest/census.go
+  s_d53c26b952c6d1::t_01dc1510814fcf 32,52-56
+backend/internal/compose/network/riskcopy.go
+  s_d53c26b952c6d1::t_01dc1510814fcf 8-9,14-15
+  s_d53c26b952c6d1::t_a690b45e1b5b8f 62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "13a1d9e27861ea6c63fd497de581927c9b33e6f2",
+  "prompts": {},
+  "sessions": {
+    "s_d53c26b952c6d1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1e3c19e8-1aee-49ce-9ef5-d96f2f963f9b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
