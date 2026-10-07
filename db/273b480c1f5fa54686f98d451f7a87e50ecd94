@@ -1,0 +1,21 @@
+scripts/scheduled-report.sh
+  s_67a5bd8aa65008::t_3e5bc9ae3d7e5e 413-414
+docs/reference/ci-workflows.md
+  s_67a5bd8aa65008::t_a019fc7c426e58 214-216
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "db273b480c1f5fa54686f98d451f7a87e50ecd94",
+  "prompts": {},
+  "sessions": {
+    "s_67a5bd8aa65008": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb3ab1d4-370f-48ca-a3f0-42f74f81cc97",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
