@@ -1,0 +1,21 @@
+scripts/seed-reset.sql
+  s_23a49b11a3717d::t_7b0fc0bab90b53 40
+backend/internal/compose/datasweep.go
+  s_23a49b11a3717d::t_14ff95440f5e1a 41-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "341cb409daa0b2f56ebedf85d65ffb794a9c52d6",
+  "prompts": {},
+  "sessions": {
+    "s_23a49b11a3717d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "60111fe2-c5f8-433a-9819-4ab7d8f6a782",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
