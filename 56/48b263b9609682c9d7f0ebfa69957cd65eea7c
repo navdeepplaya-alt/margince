@@ -1,0 +1,19 @@
+frontend/src/screens/brief.testkit.tsx
+  s_31845de60f96f1::t_25c155266fb0b3 142-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5648b263b9609682c9d7f0ebfa69957cd65eea7c",
+  "prompts": {},
+  "sessions": {
+    "s_31845de60f96f1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d309fa4f-623a-4a4b-bac6-8b349f221dcf",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
