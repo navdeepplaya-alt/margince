@@ -1,0 +1,56 @@
+backend/gates/tableownerregistry_test.go
+  s_23a49b11a3717d::t_43a8eaadfaaa48 508-509
+backend/internal/modules/capture/ownsentmailrepair.go
+  s_23a49b11a3717d::t_5f74011525951f 13,19,34,40-41,43-45,68-71,82-85,98,122-124,126,130
+backend/migrations/core/1791446309_mail_a_seat_sent_is_reread_from_its_original.down.sql
+  s_23a49b11a3717d::t_38081381ff5011 6
+backend/migrations/core/1791446309_mail_a_seat_sent_is_reread_from_its_original.up.sql
+  s_23a49b11a3717d::t_38081381ff5011 31,33-41
+  s_23a49b11a3717d::t_ee29ac74d42e24 4-7
+  s_23a49b11a3717d::t_eac6a5cdb166de 21-23
+backend/internal/compose/ownsentmailrepair_integration_test.go
+  s_23a49b11a3717d::t_d35f1f63b67b20 22-23,25,28,31,40-42,55-63,72-73,77-78,81-82,85,88,140-143,146-147,156-174,176-177,183,187,189,199,203,214-267,269-270,273-274,277,282
+backend/internal/modules/capture/provenaddress.go
+  s_23a49b11a3717d::t_bb81b1c4c950d6 162
+  s_23a49b11a3717d::t_cf96b57a068900 93,95
+  s_23a49b11a3717d::t_5093a92a89f13c 116,118,120
+  s_23a49b11a3717d::t_cf51e0adbf7c3d 170
+  s_23a49b11a3717d::t_7167186a70def8 97-99
+  s_23a49b11a3717d::t_64068c619adc72 142-143,147-158
+  s_23a49b11a3717d::t_9657a8d055781b 174-175
+  s_23a49b11a3717d::t_899c37a71f56fd 19
+  s_23a49b11a3717d::t_5e06dfb33c196a 198-200
+  s_23a49b11a3717d::t_a7d2b70539a4c4 141,144-146,159-161,163-167,172-173,176-197,201-219
+  s_23a49b11a3717d::t_4a91a86b3114fa 168-169,171
+  s_23a49b11a3717d::t_61be0f91147845 18
+backend/internal/compose/ownsentmailrepair.go
+  s_23a49b11a3717d::t_e0cf4db3f83886 78-82,90-92,94-105,107,110-111,119-120,127,129
+  s_23a49b11a3717d::t_fc31aad4fc0b6a 83
+docs/reference/entity-model/compose.md
+  s_23a49b11a3717d::t_992845bafcdf53 107
+  s_23a49b11a3717d::t_fb6a1607230b3c 5,74,85,91-106
+backend/internal/compose/participantbackfilljob.go
+  s_23a49b11a3717d::t_2360a3df5c7d92 146-149
+backend/migrations/testdata/head_catalog.txt
+  s_23a49b11a3717d::t_42c74e87ca56ae 278,282-287
+docs/reference/entity-model/README.md
+  s_23a49b11a3717d::t_fb6a1607230b3c 31-32,102,141
+backend/internal/modules/capture/sinkownsentmail.go
+  s_23a49b11a3717d::t_43b22a43c78aed 86-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7e9d39bbb8a3b877450673540fc9cbc7534bc601",
+  "prompts": {},
+  "sessions": {
+    "s_23a49b11a3717d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "60111fe2-c5f8-433a-9819-4ab7d8f6a782",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
