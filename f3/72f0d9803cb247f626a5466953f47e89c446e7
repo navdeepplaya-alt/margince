@@ -1,0 +1,52 @@
+backend/internal/compose/weeklymetricscoverage_integration_test.go
+  s_7efe9706dc4216::t_7e981db60594b3 1-139
+backend/internal/compose/weekly/weeklycoverage.go
+  s_7efe9706dc4216::t_0ad4261985fc35 116,132
+  s_7efe9706dc4216::t_67eed8dfb69a3d 1-115,117-131,133-146
+backend/internal/compose/weekly/weeklycoverage_test.go
+  s_7efe9706dc4216::t_d182bb3b4f2da9 1-45
+docs/explanation/ai-runtime.md
+  s_7efe9706dc4216::t_c0f7cd90ae3221 310-311
+backend/internal/compose/integration/magic_diagnostics_integration_test.go
+  s_7efe9706dc4216::t_48fbabc8981e9f 1-73
+backend/internal/compose/magic/doc.go
+  s_7efe9706dc4216::t_c115df73a31489 41-42
+backend/internal/compose/magic/linerecords.go
+  s_7efe9706dc4216::t_0b66e4963625c3 62
+backend/internal/compose/magic/service.go
+  s_7efe9706dc4216::t_068be91c746d87 117-121
+backend/internal/compose/weekly/teamreview.go
+  s_7efe9706dc4216::t_43c316860a79f5 154
+backend/internal/compose/weekly/weeklyassemble.go
+  s_7efe9706dc4216::t_43be400554d4e3 29,192,199,204-211
+backend/internal/compose/weekly/weeklycounts.go
+  s_7efe9706dc4216::t_c8f8963673111c 197-201
+backend/internal/compose/weekly/weeklynumeric.go
+  s_7efe9706dc4216::t_ba53719e774e7b 50-52,64-73
+backend/internal/compose/magic/done.go
+  s_cd39ca72e60d56::t_1986835518a9f9 119,130,139,146-164,167,172,368-369
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f372f0d9803cb247f626a5466953f47e89c446e7",
+  "prompts": {},
+  "sessions": {
+    "s_7efe9706dc4216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a251eebc-0404-4635-8ce7-b47242135086",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_cd39ca72e60d56": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a802ed2d71a4af130",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
