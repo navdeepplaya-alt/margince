@@ -1,0 +1,27 @@
+backend/api/crm.yaml
+  s_7efe9706dc4216::t_80a916b49d16cd 14681-14683
+  s_7efe9706dc4216::t_1d0e13e269d462 53054-53106
+  s_7efe9706dc4216::t_0b7112f9ee2361 55858-55861
+  s_7efe9706dc4216::t_f39e27076d857d 54532-54554
+  s_7efe9706dc4216::t_dbbd394a11d3d0 55904-55906
+backend/internal/contracts/api_gen.go
+  s_7efe9706dc4216::t_07a53ce0a206d4 17560-17580,17806-17826,36949-36951,36961-36963,36987-36990,45678-45716,45737-45746,46341-46352,46388-46395,46499-46510
+frontend/src/api/schema.d.ts
+  s_7efe9706dc4216::t_b4edce04308fc7 9683-9685,39515-39554,40827-40849,42057-42060,42088-42090
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ac11ff640458c7de8acf35f9dd8475f36cf719e8",
+  "prompts": {},
+  "sessions": {
+    "s_7efe9706dc4216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a251eebc-0404-4635-8ce7-b47242135086",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
