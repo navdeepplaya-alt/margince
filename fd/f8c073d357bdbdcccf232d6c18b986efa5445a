@@ -1,0 +1,68 @@
+frontend/src/screens/brief.weekly.tsx
+  s_7efe9706dc4216::t_5375991d522194 4,26-30,280-283,328-332,338-342,351-352,358-360,366-371,376-377,383,393-402,407-411,415
+  s_7efe9706dc4216::t_b842d9e148e3f3 384-387
+frontend/src/screens/brief.teamweekly.test.tsx
+  s_7efe9706dc4216::t_17c41e8ac22c0a 589-604,606-631,633-635
+  s_7efe9706dc4216::t_7732720fde416c 8-11,632
+  s_7efe9706dc4216::t_7943acdb32b67a 605
+frontend/src/screens/brief.numeric.test.ts
+  s_7efe9706dc4216::t_07ea403fa93eb1 8-9,13-20,29,40-41,43-50,52-74,76-92,94-100
+  s_7efe9706dc4216::t_d04632ac2b981a 21-28
+  s_7efe9706dc4216::t_00417e112584b3 5,30,75,93
+  s_7efe9706dc4216::t_63d9826067d55c 1-3,6
+frontend/src/screens/brief.teamweekly.tsx
+  s_7efe9706dc4216::t_7732720fde416c 430
+  s_7efe9706dc4216::t_81eadf51a08f63 25-32,163,167,178-189,285,287,290-294,319-328,334-342,347-354,368-371,376-377
+  s_7efe9706dc4216::t_67a2ebe8a27b30 412-414,420-426
+frontend/src/i18n/vi.ts
+  s_7efe9706dc4216::t_f1d5f63e21cd16 611-619
+frontend/src/screens/brief.weeksentence.ts
+  s_7efe9706dc4216::t_ff39f7970eb1e6 7-13,34-39,55-59,61-62,70,73,76,79,82,86-88,104-108,110,112,115,137-143
+frontend/src/screens/brief.teamweekly.stories.tsx
+  s_7efe9706dc4216::t_31a03eff85c996 5-11
+  s_7efe9706dc4216::t_65a36e3de4f905 188-231
+frontend/src/i18n/en.ts
+  s_7efe9706dc4216::t_036a837c87226b 602-610
+frontend/src/screens/brief.weeksentence.test.ts
+  s_7efe9706dc4216::t_68d96b8adf9f9e 7-10
+  s_7efe9706dc4216::t_8a3dbd9f5d1348 213-252,255-256
+  s_7efe9706dc4216::t_7a1b106e726bdc 253-254
+frontend/src/screens/brief.weekly.stories.tsx
+  s_7efe9706dc4216::t_760e45e9d2415e 11,15,24,26
+  s_7efe9706dc4216::t_8be87e00ff6e6b 399-402
+  s_7efe9706dc4216::t_ad9aa6248021a0 405-406,482-512
+  s_7efe9706dc4216::t_ce0905f9bf78a3 408-424
+  s_7efe9706dc4216::t_2d99a11d9596f6 403-404
+  s_7efe9706dc4216::t_1481b359bc4bba 407
+frontend/src/screens/brief.numeric.ts
+  s_7efe9706dc4216::t_d292e3c284ac88 1-3,5,10-12,23,25-98,102,114-115,120-123,126-141,144-185,187-198
+  s_7efe9706dc4216::t_0b1d326a113a5b 6-7,142-143,186
+  s_7efe9706dc4216::t_89ff9d026cd698 14-20,104-113
+  s_7efe9706dc4216::t_517e568d7c890a 13,21-22,24
+frontend/src/i18n/de.ts
+  s_7efe9706dc4216::t_ecd0d2967471d1 621-629
+frontend/src/screens/brief.weekly.test.tsx
+  s_7efe9706dc4216::t_0c9bcfa03db440 655-745,748-761
+  s_7efe9706dc4216::t_706803026e7851 5,8-13
+  s_7efe9706dc4216::t_9a02b417bb0db7 746-747
+frontend/src/screens/brief.fixtures.ts
+  s_7efe9706dc4216::t_f827c41db4e946 911-973
+frontend/src/screens/brief.weekly.workings.tsx
+  s_7efe9706dc4216::t_9e51086166d199 6-10,36-37,41-42,47-53,57,61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fdf8c073d357bdbdcccf232d6c18b986efa5445a",
+  "prompts": {},
+  "sessions": {
+    "s_7efe9706dc4216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a251eebc-0404-4635-8ce7-b47242135086",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
