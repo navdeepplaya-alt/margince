@@ -1,0 +1,30 @@
+frontend/src/screens/brief.readings.test.tsx
+  s_7efe9706dc4216::t_faa5c47dc464b2 299-315
+frontend/src/screens/worklist.sources.ts
+  s_7efe9706dc4216::t_14df6921940e15 22-24
+frontend/src/i18n/de.ts
+  s_7efe9706dc4216::t_8e37a142dce134 686-687
+frontend/src/i18n/vi.ts
+  s_7efe9706dc4216::t_1114184ea25e0c 677-678
+frontend/src/i18n/en.ts
+  s_7efe9706dc4216::t_742fdc37f5faa6 663-664
+frontend/src/screens/worklist.copy.test.ts
+  s_7efe9706dc4216::t_4ca32547320e4c 511-512,528
+  s_7efe9706dc4216::t_28227e37b8066a 513-527
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "835b1a8cc07493c8f8b8ee9e5a75a7dff3dcdb48",
+  "prompts": {},
+  "sessions": {
+    "s_7efe9706dc4216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a251eebc-0404-4635-8ce7-b47242135086",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
