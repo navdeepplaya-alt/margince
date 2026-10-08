@@ -1,0 +1,834 @@
+backend/internal/compose/sitecorpuslegal.go
+  s_424a6049eeaf75::t_b9faa1501de17e 317-321
+frontend/src/screens/filterclause.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-235
+frontend/src/app/topbar.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 9-10,125-126,130,134,144-146,319-353
+  s_424a6049eeaf75::t_3d3710c013bf55 354
+frontend/src/screens/tagresult.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 6,62,132-138,150,276
+backend/internal/compose/outagebehaviour_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-51
+Makefile
+  s_424a6049eeaf75::t_b9faa1501de17e 26,294,1304-1310,1720-1722
+  s_424a6049eeaf75::t_b2b49f6d52ed35 69
+frontend/src/screens/filters.testkit.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-531
+docs/reference/agent-tool-budget.md
+  s_424a6049eeaf75::t_b9faa1501de17e 58-60,76-77,97-98,159,233,236
+frontend/src/screens/viewactions.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-190
+backend/tools/gen-perfdoc/testdata/records/bench-record.json
+  s_424a6049eeaf75::t_b9faa1501de17e 1-17
+docs/handbook/retention-exports-and-deletion.md
+  s_424a6049eeaf75::t_b9faa1501de17e 18,20-22,27,366-369
+backend/internal/modules/contacts/lead.go
+  s_424a6049eeaf75::t_b9faa1501de17e 172-177,234,239-241,426-430,453-455
+frontend/src/screens/recordlistkeys.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-16
+backend/internal/modules/ai/routeplan.go
+  s_424a6049eeaf75::t_b9faa1501de17e 170-171,205-208
+frontend/src/app/unsaved.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 3,5,8-9,11-14,136-246
+backend/internal/platform/webread/webread.go
+  s_424a6049eeaf75::t_b9faa1501de17e 95-98
+frontend/e2e/analytics.spec.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 67,82
+frontend/src/screens/claimrecord.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 5,8,35-37
+frontend/src/screens/history.css
+  s_424a6049eeaf75::t_b9faa1501de17e 67
+frontend/src/screens/filtereditor.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-259
+docs/handbook/analytics.md
+  s_424a6049eeaf75::t_b9faa1501de17e 26-28,33-34,48,87-88,128-129
+frontend/src/screens/reporting.interactions.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 253,266
+frontend/src/screens/filterslibrary.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-474
+docs/reference/perfbench/bench-record.json
+  s_424a6049eeaf75::t_b9faa1501de17e 3,7-10,17-19,26-28,35-37,44-46
+frontend/src/app/nav.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 106-120,123-125
+docs/reference/agent-tool-budget.json
+  s_424a6049eeaf75::t_b9faa1501de17e 34,50-52,54,71-73,75,98-99,102-103,395,407
+backend/internal/platform/jobs/jobs.go
+  s_424a6049eeaf75::t_b9faa1501de17e 97,104-119
+  s_424a6049eeaf75::t_f20e9b103a42c9 120-121
+backend/internal/compose/tagseamleads_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-38
+backend/internal/compose/integration/daily_vocab_bench_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-410
+backend/internal/platform/jobs/reindexer_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-21
+docs/deployment.md
+  s_424a6049eeaf75::t_b9faa1501de17e 45-48
+frontend/src/app/shell.signout.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-122
+frontend/src/app/palette.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 386
+frontend/src/design-system/stylesheetnamespace.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 42
+frontend/src/app/rail.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 15,73,306-322
+  s_424a6049eeaf75::t_9a156125708ba3 323-324
+frontend/src/screens/filtereditor.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-163
+docs/reference/make-targets.md
+  s_424a6049eeaf75::t_b9faa1501de17e 164-165,237-239,248,257-258
+frontend/src/screens/filtersentence.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-339
+frontend/src/i18n/vi.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 90,1526-1531,2830,2834,4712-4728,9399-9402,9612,10089,10472-10535,10582-10617,10628,10630-10632,10638,10653-10664,10666,10718,10838-10839,10842,10876-10929,10951-10953,10964-10965
+frontend/src/screens/leads.list.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 10,38,40,58,210,254,257-258
+frontend/src/screens/story-utils.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 10,270-296
+  s_424a6049eeaf75::t_5dba84c9397a89 297
+backend/internal/compose/integration/daily_load_bench_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-382
+backend/internal/compose/integration/perfrecord_bench_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 12
+backend/internal/compose/jobs_knowledgeingest.go
+  s_424a6049eeaf75::t_b9faa1501de17e 19,25,52-72,121-122,130,152-154,226-231
+backend/internal/modules/contacts/leadidentity.go
+  s_424a6049eeaf75::t_b9faa1501de17e 17-18,67,71,108-152,156-186,188
+backend/internal/modules/privacy/purge.go
+  s_424a6049eeaf75::t_b9faa1501de17e 61-95,110-112,171
+docs/reference/mcp-info.md
+  s_424a6049eeaf75::t_b9faa1501de17e 16,18,36,94,102,6906-6910,6927-6928,7079,7126-7128,7141,8572,8589
+  s_424a6049eeaf75::t_918164dcb603fe 8590-8591
+docs/reference/performance-budgets.md
+  s_424a6049eeaf75::t_b9faa1501de17e 1,8,10,15-20,26-29,32-36,42,45-156,175-186,202,207-209,214-215,217,222-224,229-232
+frontend/src/screens/filterdata.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 92-113
+frontend/src/screens/filterlistedit.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 7,10,12,14-20,25-28,42-60,65-69,73-90,92-98,101-140,142-177,179,181,183-186,189-220,222-232,237-238,248-263,266-272,274-290,292-339,341-350,356-368,370,372-381,384-388,391-460
+frontend/src/screens/analytics.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 273,289,381,396,436,443,464
+frontend/src/screens/filterresults.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 5,104-108,117-135
+  s_424a6049eeaf75::t_6cca38b88d9c08 136
+frontend/src/screens/capture-purge-dialog.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 9,71-77
+backend/migrations/core/1791384706_a_lead_remembers_the_contact_it_was_worked_from.down.sql
+  s_424a6049eeaf75::t_b9faa1501de17e 1-4
+backend/internal/modules/collections/recordtags.go
+  s_424a6049eeaf75::t_b9faa1501de17e 14,19-20,48-50,55,62,71-73,78,92-95,114-127
+  s_424a6049eeaf75::t_f4d1abe3941357 128-129
+docs/README.md
+  s_424a6049eeaf75::t_b9faa1501de17e 129-130,162-163,190
+frontend/src/screens/filterbuilder.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 14-17,19-21,23-25,33,41-42,46-51,53-54,65,80-82,90-91,93-96,98-129,133-155,158,160,163-164,169-170,172-199,203-205,207-208,210-211,213,216,218-219,221,223-226,228,230-250,254-261
+frontend/src/screens/filtersaddress.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-225
+frontend/src/screens/contacts.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 31,182,314
+frontend/src/screens/filterview.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-697
+frontend/src/screens/leadraillinks.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 6,29,85,90-103
+  s_424a6049eeaf75::t_3e9161129eedc7 104-106
+frontend/src/screens/listlibrary.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 6-7,11,16-17,20-24,29-36,39-130,142
+frontend/e2e/savedviews.spec.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-62
+frontend/src/screens/historyreversalrow.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 12
+frontend/src/screens/listpage.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 28,67-101,304-361
+  s_424a6049eeaf75::t_b6504b938a9b6c 362
+backend/internal/modules/projects/quickfindindex_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-17
+docs/reference/glossary.md
+  s_424a6049eeaf75::t_b9faa1501de17e 1-67
+frontend/src/screens/filtersentence.census.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-170
+frontend/src/screens/analytics.explain.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 51
+frontend/src/screens/reporting.metricstable.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-83
+docs/reference/ai-provider-outages.md
+  s_424a6049eeaf75::t_b9faa1501de17e 21-22,46-47,49,51,53,63
+frontend/src/screens/savedviews.queries.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-224
+docs/reference/configuration.md
+  s_424a6049eeaf75::t_b9faa1501de17e 1076
+frontend/src/screens/filterhead.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-94
+frontend/src/screens/recordlists.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 12,39
+frontend/src/screens/settings.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 41,2081-2083
+frontend/src/screens/tagresult.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 51,53,59-64,68,83-88,105-111
+frontend/src/screens/listquery.leave.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-117
+backend/internal/compose/certcase_firstdraft.go
+  s_424a6049eeaf75::t_b9faa1501de17e 130-131
+frontend/src/screens/reporting.charts.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 20,40,45-47,68,70-81,93-111,113-116,118
+frontend/src/screens/tags.queries.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 9,17-36,102,119
+backend/internal/modules/collections/tagvocab.go
+  s_424a6049eeaf75::t_b9faa1501de17e 31,94-95,103,170
+frontend/src/screens/viewactions.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-130
+backend/tools/gen-perfdoc/testdata/records/bench-daily.json
+  s_424a6049eeaf75::t_b9faa1501de17e 1-25
+frontend/src/screens/filtermatches.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-84
+backend/migrations/core/1791384706_a_lead_remembers_the_contact_it_was_worked_from.up.sql
+  s_424a6049eeaf75::t_b9faa1501de17e 1-10
+frontend/src/screens/analytics.css
+  s_424a6049eeaf75::t_b9faa1501de17e 35-36,43-45,78-94
+backend/internal/compose/certcase_replydraft.go
+  s_424a6049eeaf75::t_b9faa1501de17e 349-350
+docs/reference/ai-prompts.json
+  s_424a6049eeaf75::t_b9faa1501de17e 84,217,234-236,413-415,425,517,534-536,861-863
+backend/tools/gen-aitasks/main.go
+  s_424a6049eeaf75::t_b9faa1501de17e 194-211,447-454
+  s_424a6049eeaf75::t_331d2e2dc7d318 455-457
+frontend/scripts/lib/import-reach.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-81
+frontend/src/screens/filterexport.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 6-9,13-17,30-31,34-58,63,65-66,71-74,87,90-93
+frontend/src/screens/library.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-200
+frontend/src/screens/lists.fixtures.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 8,57-63
+  s_424a6049eeaf75::t_e8f752f2cb78be 64-65
+scripts/comment-density-baseline.txt
+  s_424a6049eeaf75::t_b9faa1501de17e 1
+backend/internal/compose/firstdraft.go
+  s_424a6049eeaf75::t_b9faa1501de17e 31-34
+backend/internal/modules/contacts/mergerelink.go
+  s_424a6049eeaf75::t_b9faa1501de17e 136-137,437-459
+  s_424a6049eeaf75::t_9125e69fc632ec 460-461
+frontend/src/screens/filterview.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-234
+frontend/src/screens/projects.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 33-34
+frontend/src/screens/capture-purge-dialog.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 43-81
+frontend/src/screens/savedviews.manage.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 9-10,21-23,29,50,56,58,88,139-144
+backend/internal/compose/tagseam.go
+  s_424a6049eeaf75::t_b9faa1501de17e 89
+backend/internal/compose/integration/collections/recordtags_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 213-214,218-219
+backend/migrations/schema_fitness_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 337
+frontend/src/screens/filterdata.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 40,54-56,58,61
+docs/reference/plain-words.txt
+  s_424a6049eeaf75::t_b9faa1501de17e 1
+docs/how-to/plain-words.txt
+  s_424a6049eeaf75::t_b9faa1501de17e 1
+docs/reference/perfbench/bench-perf.json
+  s_424a6049eeaf75::t_b9faa1501de17e 3,7-10,17-19,26-28
+frontend/src/screens/segmentpredicate.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 19,116,119-129,131,133,137-138,369-385
+  s_424a6049eeaf75::t_7ea68c1fc3e214 386
+scripts/test-check-comment-prose.sh
+  s_424a6049eeaf75::t_b9faa1501de17e 1-71
+backend/internal/compose/integration/perf_tier_bench_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-457
+backend/gates/contactreaders_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 68-69
+frontend/src/app/shell.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 29,49,377-381,437-440,687,692-695
+frontend/src/screens/analytics.coverage.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-36
+frontend/src/screens/filters.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 6,9-11,13,26,28,30-56,60-62,64,69-70,72-73,77-78,85-87,90-92,95-97
+backend/api/ai-tasks.yaml
+  s_424a6049eeaf75::t_b9faa1501de17e 242,254,266,314,338,401
+frontend/src/screens/filterslibrary.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-675
+backend/internal/modules/contacts/leadmerge.go
+  s_424a6049eeaf75::t_b9faa1501de17e 88-90,236-249
+  s_424a6049eeaf75::t_63ba21285bb25f 250-251
+docs/plain-words.txt
+  s_424a6049eeaf75::t_b9faa1501de17e 1-514
+frontend/src/app/shell.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 2,51-52,55-56,223,245-254,512-550,702
+backend/tools/gen-perfdoc/verdict.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-121
+docs/handbook/sales-reporting.md
+  s_424a6049eeaf75::t_b9faa1501de17e 97
+frontend/src/app/urlstate.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 13,151-167
+  s_424a6049eeaf75::t_3a73d8667181ce 168
+frontend/src/screens/savedviews.manage.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 7-8,10-13,20,24,28-45,47,49,54-59
+  s_424a6049eeaf75::t_b9a16e15c07641 60
+frontend/src/screens/recordlist.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 4,11-16,64-66
+  s_424a6049eeaf75::t_6b58fa405839e6 67-68
+backend/internal/compose/integration/leadfromcontact_http_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 22,25,38,50,62-65,68,73,79,82-84,93-192
+frontend/src/screens/filterfoot.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-203
+backend/internal/modules/contacts/handlers_lead.go
+  s_424a6049eeaf75::t_b9faa1501de17e 31-32,34-39
+backend/internal/compose/integration/daily_seats_bench_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-194
+docs/explanation/frontend-architecture.md
+  s_424a6049eeaf75::t_b9faa1501de17e 129-135,325
+.githooks/pre-push
+  s_424a6049eeaf75::t_b9faa1501de17e 103-105
+backend/internal/modules/agents/toolcopy_tags.go
+  s_424a6049eeaf75::t_b9faa1501de17e 15-16,21-22
+docs/reference/docs-prose-style.md
+  s_424a6049eeaf75::t_b9faa1501de17e 91,96-110,116-117,127-134
+  s_424a6049eeaf75::t_306c70ddd395dd 135
+frontend/src/screens/reporting.metricstable.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-31
+backend/internal/modules/knowledge/handbook/seats-roles-and-access.md
+  s_424a6049eeaf75::t_b9faa1501de17e 49
+backend/internal/platform/database/storekit/recover.go
+  s_424a6049eeaf75::t_b9faa1501de17e 17,24-28,30,47
+docs/reference/entity-model/contacts.md
+  s_424a6049eeaf75::t_b9faa1501de17e 434,979,991,1026,1053,1066
+docs/reference/perfbench/bench-daily.json
+  s_424a6049eeaf75::t_b9faa1501de17e 1-1338
+frontend/src/screens/filterslibrary.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-295
+backend/internal/modules/activities/emailparties.go
+  s_424a6049eeaf75::t_b9faa1501de17e 110
+backend/tools/gen-aitasks/validate.go
+  s_424a6049eeaf75::t_b9faa1501de17e 92-100
+backend/internal/modules/knowledge/handbook/lists-filters-and-views.md
+  s_424a6049eeaf75::t_b9faa1501de17e 73-74,181,189,194-196,205-206,208-211,214-219,223-228,241-245,294-296,299-301,306-307,341,360-361,364,394-397
+docs/explanation/plain-words.txt
+  s_424a6049eeaf75::t_b9faa1501de17e 1
+frontend/src/design-system/breadcrumb.css
+  s_424a6049eeaf75::t_b9faa1501de17e 35-37,99-113
+  s_424a6049eeaf75::t_caca0f9e8b6fe2 114
+frontend/src/screens/analytics.attention.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-60
+docs/reference/mcp-tool-coverage.json
+  s_424a6049eeaf75::t_b9faa1501de17e 9,1596,3465,3529
+frontend/src/screens/filterbuilder.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 9,15,27-33,81-86,104-106,170-188,232-235,484,489,497,510,541-563,582-707,731,733-734,736-755,758-775,777-827
+frontend/src/screens/contactdetails.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 2,4,17-28,141-357
+backend/internal/compose/jobs_knowledgeingest_throttle_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-48
+backend/tools/gen-perfdoc/main.go
+  s_424a6049eeaf75::t_b9faa1501de17e 4-6,37-39,42-43,48-60,63-65,87-113,121-123,129,138-147,182-186
+frontend/src/screens/analytics.context.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 5,66
+frontend/src/screens/filtersave.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-200
+frontend/src/screens/segmentpredicate.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 71-73,152-157
+  s_424a6049eeaf75::t_017e10e7d7a673 158-159
+backend/internal/platform/httperr/clientclosed_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-67
+frontend/src/screens/lists.queries.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 8-13,43-44,47-51,55,63
+frontend/src/screens/viewactions.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-79
+backend/internal/compose/integration/perfrecord.go
+  s_424a6049eeaf75::t_b9faa1501de17e 105-138,150-153,173-177,186-189,192,197
+frontend/src/app/headsitself.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-36
+frontend/src/screens/filterpropose.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 4,6-8,11,14-21,24-25,27,33-35,53-62,71-72,76-89,92-97,99-106,110-133,135-136,139,142-144,146-156,158-186,189,197-210,218-219,221,226-229,233-248,251-264,266-271,273-310
+frontend/src/screens/historyreversalrow.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 10,91-94,104-126
+  s_424a6049eeaf75::t_e1f83b2d6c64f4 127
+backend/migrations/core/1791381834_a_project_search_reads_its_trigram_index.up.sql
+  s_424a6049eeaf75::t_b9faa1501de17e 1-13
+frontend/src/screens/analytics.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 3,45,592-608,610-737,1051-1070,1072-1079,1082,1094-1097,1103,1106-1109,1117,1125-1159,1168,1176,1181-1186,1195-1202,1218
+frontend/src/screens/filterpage.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-146
+backend/internal/platform/httperr/providerunusable_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-31
+frontend/src/screens/filterresults.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 6,9,162-223,225-232
+backend/internal/modules/ai/budget.go
+  s_424a6049eeaf75::t_b9faa1501de17e 14,82,93-101
+  s_424a6049eeaf75::t_c681880415834d 102
+frontend/src/screens/leads.columns.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 16,57-58,64,68-71
+  s_424a6049eeaf75::t_321fbaeeb35c2e 72
+frontend/src/app/filterstrail.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-83
+backend/internal/modules/search/rank_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-54
+frontend/src/screens/filtermoney.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 8,11-13,15-22,104-146
+  s_424a6049eeaf75::t_c745f9d8258c7d 147-149
+backend/internal/compose/integration/erasureworkedlead_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-197
+frontend/src/screens/filterbuilder.css
+  s_424a6049eeaf75::t_b9faa1501de17e 4-7,18,21-29,35,40-43,47,54,56,58-80,86-90,96-98
+frontend/src/screens/filterpropose.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 5-9,13,15,18-22,30-49,65-74,76-86,88,90-98,102-105,107-117,121,123,132-168,170-178,181-190,193-199,202-208
+backend/internal/modules/activities/emailsender_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 11-14,107-241
+frontend/src/screens/leadkeys.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 49-57
+backend/internal/modules/collections/handlers_tagvocab.go
+  s_424a6049eeaf75::t_b9faa1501de17e 209
+frontend/src/screens/analytics.pipelinetotals.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-118
+frontend/src/screens/listmembercolumns.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 40,58-61
+scripts/lib-addedlines.awk
+  s_424a6049eeaf75::t_b9faa1501de17e 1-8
+backend/gates/leadreaders_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 60-62,114,119
+frontend/src/screens/leads.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 697,792,824,853,888,935,976
+frontend/src/screens/reporting.library.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 12,56-69,71
+backend/internal/modules/knowledge/handbook/retention-exports-and-deletion.md
+  s_424a6049eeaf75::t_b9faa1501de17e 18,20-22,27,366-369
+frontend/src/screens/analytics.attention.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-120
+frontend/src/i18n/en.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 80,1587-1591,2920,2924,4866,4875-4890,9622-9625,9831,10337,10734-10799,10826,10845-10880,10889,10891,10893-10894,10899,10911-10922,10924,10968,11072-11073,11076,11112-11159,11171-11175,11182-11185,11196-11197
+frontend/src/app/pagemeta.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 4,62-73,78-80
+frontend/src/screens/leadraillinks.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 131-167
+frontend/src/design-system/breadcrumb.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 23-25,92-110
+  s_424a6049eeaf75::t_dbdf3116d68dbd 111-112
+backend/internal/compose/integration/daily_budgets_bench_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-604
+backend/internal/platform/database/storekit/recover_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 19
+frontend/src/app/topbar.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 8,52-53,67,103-104
+  s_424a6049eeaf75::t_b85eebe0416aab 105
+backend/internal/modules/agents/recordshapes_gen.go
+  s_424a6049eeaf75::t_b9faa1501de17e 85,92-93
+frontend/src/screens/savedviews.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 8,11-13,15-17,44-45,94
+backend/internal/compose/replydraftvoice.go
+  s_424a6049eeaf75::t_b9faa1501de17e 47-52,55-67,71-72
+frontend/src/screens/contactleadaction.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 10-15,38-40,56-57,72-74,111-130
+  s_424a6049eeaf75::t_5730895991c54d 131
+backend/internal/compose/aibudget_triage_resume_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 17,64
+.gitignore
+  s_424a6049eeaf75::t_b9faa1501de17e 78-81
+backend/internal/compose/replydraftmodel.go
+  s_424a6049eeaf75::t_b9faa1501de17e 209-215,217-220
+backend/tools/gen-perfdoc/plain.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-367
+backend/tools/gen-perfdoc/testdata/benchmark.golden.md
+  s_424a6049eeaf75::t_b9faa1501de17e 1-74
+frontend/src/screens/filterpropose.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 5-12,14-16,18,20-22,24,33-38,42-43,46-57,73-79,81-91,96-117,120-137,140,142-155,157,159-186,188,190-194,197-198,200,202,204-206,208-209,212,214,216-227,230-237,240-267,270-283,286-316,318-330,333-343,345-347,349-362,365-381,384-405,407-412,414-416,418-424,426-428,430-451,454-455,457-466,468-469,471-484
+backend/internal/modules/agents/tools_tags.go
+  s_424a6049eeaf75::t_b9faa1501de17e 52
+backend/internal/compose/integration/daily_bench_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-176
+frontend/src/app/palette.enter.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 6,15,63,73,88,102,112
+frontend/src/app/palettesearch.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 9,12,15-19,31-33,45-53,63-65,68-69,78-82,84,86-89,91-93,96,108-115,118-120,143-150,153,192-193,195-196
+frontend/src/screens/settings-imports.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 8-10,36,38-39
+frontend/src/screens/filtervalue.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 95-99
+docs/plain-words-project.txt
+  s_424a6049eeaf75::t_b9faa1501de17e 1
+frontend/src/screens/tagadmin.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 62,67,168,176
+backend/internal/compose/sitecorpuslegal_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 568-590
+backend/internal/compose/integration/searchplancache_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-79
+backend/internal/modules/ai/providerrefusalfault_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-31
+frontend/src/screens/filterpage.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-354
+backend/internal/compose/integration/daily_seed_bench_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-641
+docs/reference/ai-prompts.md
+  s_424a6049eeaf75::t_b9faa1501de17e 220,260,405,422-424,605,645,753,770-772
+frontend/src/screens/savedviews.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 8-9,11,13-14,16,146-148,150-152,156-157,159,174-177,229,233
+frontend/src/design-system/composed.css
+  s_424a6049eeaf75::t_b9faa1501de17e 1081,1095,1109,1153,1156,1286,1288,1291,1294,1461
+frontend/src/app/subnav.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 160-167
+frontend/src/screens/analytics.reporting.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 36-37,48,119-123
+backend/internal/compose/integration/leadtags_http_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-119
+frontend/src/design-system/debouncedsearch.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 6-11,96-124
+  s_424a6049eeaf75::t_568acf1c49519e 125
+backend/internal/platform/jobs/fault.go
+  s_424a6049eeaf75::t_b9faa1501de17e 129-132
+backend/tools/gen-perfdoc/render_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-180
+frontend/src/screens/listquery.tabsearch.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-146
+docs/handbook/plain-words.txt
+  s_424a6049eeaf75::t_b9faa1501de17e 1
+backend/internal/platform/httperr/httperr.go
+  s_424a6049eeaf75::t_b9faa1501de17e 364-370,414-421
+frontend/src/screens/listlibrary.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 4-7,9-10,15,20,22,24,27-28,30-38,44,62-66,71-78,98-112,114-126,129-311,313-317,335,346
+backend/internal/compose/integration/apptest_reboot_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-87
+backend/internal/modules/privacy/purgeauthority_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-58
+frontend/src/screens/filterdraft.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-175
+frontend/src/screens/filterhead.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-103
+backend/internal/compose/aibudget_authority_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 68,91
+backend/internal/modules/knowledge/handbook/sales-reporting.md
+  s_424a6049eeaf75::t_b9faa1501de17e 97
+frontend/src/screens/library.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-206
+backend/tools/gen-perfdoc/render.go
+  s_424a6049eeaf75::t_b9faa1501de17e 12,19,21,26-31,36-37,43,62,73-80,82-86,89-98,101-102,104,107-111,113,131,144-200,239-242
+frontend/src/app/palette.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 17,36,294,305,311,320,326,336-337,346,359,376,429,447,456,490,520,547,558,562,574,616,627,630
+backend/internal/modules/contacts/contact_list.go
+  s_424a6049eeaf75::t_b9faa1501de17e 176-179,196-201
+docs/handbook/lists-filters-and-views.md
+  s_424a6049eeaf75::t_b9faa1501de17e 73-74,181,189,194-196,205-206,208-211,214-219,223-228,241-245,294-296,299-301,306-307,341,360-361,364,394-397
+frontend/src/app/nav.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 13,35,373-378,381-383,409-411
+  s_424a6049eeaf75::t_dd871f58b52c94 412
+frontend/src/app/urlstate.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 140-152
+  s_424a6049eeaf75::t_6343cf5de97126 139
+frontend/src/screens/filterslibrary.reads.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-202
+frontend/src/screens/listexplain.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 5,7-14,30,55-139
+scripts/fe-file-length-waivers.txt
+  s_424a6049eeaf75::t_b9faa1501de17e 35-36
+backend/internal/modules/contacts/lead_list.go
+  s_424a6049eeaf75::t_b9faa1501de17e 12,20,97-106,137,142,149-194
+  s_424a6049eeaf75::t_f1467781b815bc 195
+backend/api/crm.yaml
+  s_424a6049eeaf75::t_b9faa1501de17e 9236-9262,12553,12564-12565,12572-12574,31287,42279-42280,42310-42317,42411-42415,44020-44022,44027,48068-48069
+backend/internal/modules/contacts/quickfindindex_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-33
+frontend/src/design-system/timelinerows.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-138
+frontend/src/screens/claim-list-key-coverage.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 23-24,32,34,39,61
+docs/reference/mcp-info.json
+  s_424a6049eeaf75::t_b9faa1501de17e 13,15,19-22,6147,6159-6160,6311,6345-6347,6360,7699,7716
+  s_424a6049eeaf75::t_ef1f4bf85a1b43 7717-7718
+backend/internal/modules/agents/testdata/outputshapes.json
+  s_424a6049eeaf75::t_b9faa1501de17e 4361-4363,4376
+frontend/src/screens/tagresult.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 25,33,88-109,228
+backend/gates/companyvocabulary_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 101-106
+frontend/src/screens/reporting.overview.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 2,8,15,34-35,63,88,93-94,98,108-109,112,115,136,142,228,242,284-286,305
+frontend/src/design-system/dealcard.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 5,139-143,145-158,160-161,167-174,425,458,465
+frontend/src/screens/filterexport.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 51-52,58-73,75-79,94,100,102,104-110,117,122-145
+frontend/src/design-system/debouncedsearch.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 37-49
+frontend/src/screens/filters.testkit.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-80
+backend/internal/compose/integration/daily_flows_bench_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-775
+frontend/src/app/palette.searchload.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-265
+backend/internal/modules/contacts/leadfromcontact.go
+  s_424a6049eeaf75::t_b9faa1501de17e 9,13-14,18,32-33,40,102-125
+backend/internal/modules/contacts/sitereadbudget.go
+  s_424a6049eeaf75::t_b9faa1501de17e 45
+frontend/src/design-system/breadcrumb.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 37-40
+frontend/src/app/topbar.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 5,8-15,321-455
+  s_424a6049eeaf75::t_d30e0a213c46a3 456
+backend/internal/modules/contacts/demote.go
+  s_424a6049eeaf75::t_b9faa1501de17e 119-121
+frontend/src/screens/filterdraft.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-82
+frontend/src/screens/filterview.reload.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-43
+frontend/src/screens/filterbuilder.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 7,9,66-68,134,145-243
+frontend/src/screens/filtersave.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-108
+frontend/src/screens/library.css
+  s_424a6049eeaf75::t_b9faa1501de17e 1-122
+backend/internal/compose/companyscan/budget.go
+  s_424a6049eeaf75::t_b9faa1501de17e 42
+frontend/src/screens/reporting.actions.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 66
+backend/gates/quickfindindex_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-221
+backend/tools/gen-aitasks/emitoutage_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 60-98
+backend/gates/writeauthorityreach_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 51
+frontend/src/screens/filtersaddress.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-83
+frontend/src/screens/filterview.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-474
+frontend/src/screens/historyentries.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 9,82
+frontend/src/screens/reporting.chartcontext.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1,99-101,103-104,106-108
+frontend/src/screens/ai-task-details.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 158-161,164-166,177
+backend/internal/compose/certcase_replydraft_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 185-194
+backend/internal/modules/activities/participantlog.go
+  s_424a6049eeaf75::t_b9faa1501de17e 21,134-135,146-148,156-173
+  s_424a6049eeaf75::t_fe987ca2805908 174-175
+backend/internal/modules/knowledge/handbook/analytics.md
+  s_424a6049eeaf75::t_b9faa1501de17e 26-28,33-34,48,87-88,128-129
+docs/how-to/design-a-bench-case.md
+  s_424a6049eeaf75::t_b9faa1501de17e 1-156
+frontend/src/screens/filterlistedit.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-100
+backend/internal/compose/replydraft_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 484-523
+backend/internal/compose/aideferred_providerwait_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 119
+backend/internal/modules/privacy/erasure_leadtwins.go
+  s_424a6049eeaf75::t_b9faa1501de17e 53-54
+backend/internal/compose/firstdraft_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 11,36-55
+  s_424a6049eeaf75::t_c8ed499a3a9eae 56
+frontend/src/screens/listpage.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 15,35-37,48,89
+frontend/src/design-system/composed.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 221-255
+frontend/src/screens/listquery.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 916-919,921-925,932,934-935,937,941-943,971-976,983-985,988
+backend/internal/modules/ai/voicebudget.go
+  s_424a6049eeaf75::t_b9faa1501de17e 43
+scripts/check-comment-prose.sh
+  s_424a6049eeaf75::t_b9faa1501de17e 1-49
+docs/handbook/seats-roles-and-access.md
+  s_424a6049eeaf75::t_b9faa1501de17e 49
+backend/internal/platform/database/storekit/quickfindtest/quickfindtest.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-107
+backend/internal/modules/contacts/listfilters.go
+  s_424a6049eeaf75::t_b9faa1501de17e 45,85-89
+backend/internal/modules/activities/committask.go
+  s_424a6049eeaf75::t_b9faa1501de17e 90-91
+backend/migrations/core/1791381834_a_project_search_reads_its_trigram_index.down.sql
+  s_424a6049eeaf75::t_b9faa1501de17e 1-5
+backend/internal/compose/capturepurgegrant_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-54
+backend/gates/docsplainwords_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 17,29-31,44-51,141-142,198-299,301-304,313-332,337,352-353,355-356,363,379-382,386-390,405-407,443-462
+frontend/src/screens/analytics.forecast.review.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 80-84,97-106
+frontend/src/screens/analytics.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 2,27-37,140,155,170,295,327,374,410,430,442,613,637,645-647,749,825-827,870-872,916-918,954-956
+frontend/src/i18n/de.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 82,1555-1560,2861,2865,4768,4777-4794,9496-9499,9706-9707,10211,10600-10664,10710-10745,10754,10756,10758-10759,10764,10776-10787,10789,10834,10942-10944,10947,10981-11031,11049-11052,11063-11064
+backend/internal/platform/jobs/faultlogshape_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 31,145-164
+  s_424a6049eeaf75::t_58b384bfacbbe9 165
+backend/gates/writeauthority_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 129
+frontend/src/i18n/record-noun.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 34-38
+frontend/src/screens/savedviews.manage.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 6-13,15,21-22,70-72,101-111,113-122,162-195,237-265,299-318
+  s_424a6049eeaf75::t_ee6d2d3fc7aba2 319
+backend/internal/compose/exportreferences.go
+  s_424a6049eeaf75::t_b9faa1501de17e 58,85
+backend/internal/compose/integration/apptest/appenv.go
+  s_424a6049eeaf75::t_b9faa1501de17e 55-60,123-162,168,178,207,209-210,214-217
+backend/internal/modules/contacts/listfilters_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 35,45-46,55
+backend/internal/modules/search/store.go
+  s_424a6049eeaf75::t_b9faa1501de17e 230,232,252-270
+  s_424a6049eeaf75::t_4297d015025af0 271-272
+backend/internal/platform/jobs/technicalfault.go
+  s_424a6049eeaf75::t_b9faa1501de17e 105-122,193-228
+  s_424a6049eeaf75::t_8b34b02b3771c6 229
+backend/internal/modules/search/queryreferencescope.go
+  s_424a6049eeaf75::t_b9faa1501de17e 133
+backend/migrations/testdata/head_catalog.txt
+  s_424a6049eeaf75::t_b9faa1501de17e 4393,4438,4738,4744,6980
+frontend/src/screens/filterproposal.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-434
+frontend/src/screens/filterproposal.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-174
+frontend/src/screens/filters.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 4-19,27-35,38-51,53-54,56-58,61-63,65-77,79-81
+backend/gates/benchfilenames_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-154
+frontend/src/screens/listpage.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 9,11,19,21,44,50,53-58,63-86,92,95-99,148,180-207
+  s_424a6049eeaf75::t_665c50e20af10c 208
+frontend/src/design-system/panel.css
+  s_424a6049eeaf75::t_b9faa1501de17e 436-439,442-443,469-470
+docs/reference/entity-model/projects.md
+  s_424a6049eeaf75::t_b9faa1501de17e 59
+frontend/src/screens/ai-task-details.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 136-149
+frontend/src/screens/tagadmin.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 200
+frontend/e2e/seed.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 587-635,1209-1211,2096-2100,2102-2108,2111-2168
+backend/internal/platform/jobs/resume_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 120
+backend/internal/platform/httperr/clientclosed.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-23
+backend/internal/modules/contacts/leadreopen.go
+  s_424a6049eeaf75::t_b9faa1501de17e 96-98
+backend/tools/gen-aitasks/emitoutage.go
+  s_424a6049eeaf75::t_b9faa1501de17e 48-49,85-86
+docs/reference/benchmark.md
+  s_424a6049eeaf75::t_b9faa1501de17e 1-84
+docs/reference/ci-workflows.md
+  s_424a6049eeaf75::t_b9faa1501de17e 195
+frontend/src/screens/analytics.forecast.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 2,45,49,73,86-90,96-105
+frontend/src/screens/filtermatches.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-286
+docs/reference/gate-inventory.md
+  s_424a6049eeaf75::t_b9faa1501de17e 319,393
+frontend/src/screens/leadtags.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-85
+frontend/src/screens/listsharing.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 11-12
+frontend/src/screens/recordlists.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 11,18,97,114-118,136-148,157,159-288
+frontend/src/screens/story-utils.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-113
+frontend/src/screens/filterslibrary.rows.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-410
+backend/internal/compose/capturepurge.go
+  s_424a6049eeaf75::t_b9faa1501de17e 144-148
+backend/tools/gen-perfdoc/plain_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-141
+docs/reference/entity-model/README.md
+  s_424a6049eeaf75::t_b9faa1501de17e 32-33,43,47,72,231,300
+frontend/e2e/history.spec.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 107,170
+backend/internal/modules/contacts/leadworkqueue.go
+  s_424a6049eeaf75::t_b9faa1501de17e 147,209
+frontend/src/app/unsaved.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 13-14,91-140
+  s_424a6049eeaf75::t_1c9093f90476b9 141
+frontend/src/screens/filtersave.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-275
+frontend/src/screens/filtersentence.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-415
+backend/gates/rowscopetables_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 515-521
+backend/internal/modules/contacts/lead_read.go
+  s_424a6049eeaf75::t_b9faa1501de17e 68,146-175,184,198,223
+backend/tools/gen-perfdoc/testdata/performance-budgets.golden.md
+  s_424a6049eeaf75::t_b9faa1501de17e 1-95
+frontend/src/screens/analytics.attention.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-178
+frontend/src/screens/filters-imports.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-102
+frontend/src/app/navlevel.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 20,228
+frontend/src/screens/filterfoot.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-169
+frontend/src/screens/filtermatches.stories.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-168
+frontend/src/screens/listexplain.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 10,17,24,68,90-97,103-110,123-125,134,136,140-141,150-153
+backend/migrations/locktimeout_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 79-82,275-278,372-374
+frontend/src/screens/privacy.caselink.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 3-8,83,130-138
+frontend/src/i18n/i18n.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 155-159,210
+scripts/lib-commentprose.awk
+  s_424a6049eeaf75::t_b9faa1501de17e 1-110
+backend/internal/modules/ai/tasks_gen.go
+  s_424a6049eeaf75::t_b9faa1501de17e 181,304-313
+  s_424a6049eeaf75::t_875758d133973b 314-315
+backend/internal/compose/aibudget_scan_resume_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-75
+frontend/src/screens/contactleadaction.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 4,16,19,27-28,37-49,71-74,85-92,98
+backend/internal/compose/aibudget_recovery_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 51,64,107
+backend/tools/gen-perfdoc/mirror_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-122
+frontend/e2e/ac.spec.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 947-949,952,954-961,2030-2032,2810-2811,2813-2815,2891,2901-2921,2936-2947,2986-2999
+  s_424a6049eeaf75::t_afe68c7fbf5e4d 3000-3001
+backend/internal/modules/deals/quickfindindex_integration_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 1-17
+frontend/src/screens/filters.css
+  s_424a6049eeaf75::t_b9faa1501de17e 4-5,8-9,26-29,31-32,37-57,59-76,78-92,94-136,140,146-147,158-191
+frontend/src/design-system/fieldgrid.css
+  s_424a6049eeaf75::t_b9faa1501de17e 106-107,110,112-113,116-121,124-132,135-141
+backend/gates/integrationmigrateonce_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 65
+frontend/src/screens/filterresults.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 111-112,114-121,130,132-134,156,159-161
+frontend/src/screens/filtervalue.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 7,94-95,103-104,265-277
+  s_424a6049eeaf75::t_e61a376b3dde0e 278-281
+frontend/src/design-system/README.md
+  s_424a6049eeaf75::t_b9faa1501de17e 259-261,445,558,560,764
+frontend/src/screens/leads.columns.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 19-24,125
+backend/internal/platform/jobs/technicalfault_test.go
+  s_424a6049eeaf75::t_b9faa1501de17e 26,92-113
+frontend/src/design-system/conformance.test.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 966,993
+frontend/src/screens/filterpage.test.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 1-760
+frontend/src/screens/consumer-mail-domains.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 3,16,144
+frontend/src/screens/filterlistedit.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 4-7,11,15-16,19-35,40,43-52,60,67,84-86,88-97,99-104,106-208,212,215,221-226,228,230-238,241-244,252-256,260,262,272-274,276,282
+backend/internal/platform/database/storekit/pagination.go
+  s_424a6049eeaf75::t_b9faa1501de17e 201-205,211-212
+backend/Makefile
+  s_424a6049eeaf75::t_b9faa1501de17e 65,528-529,531-533,553-567,574,696,705
+backend/internal/modules/contacts/handlers.go
+  s_424a6049eeaf75::t_b9faa1501de17e 173-190,219-220
+docs/reference/mcp-tool-coverage.md
+  s_424a6049eeaf75::t_b9faa1501de17e 95,467
+frontend/scripts/lib/import-reach.ts
+  s_424a6049eeaf75::t_b9faa1501de17e 1-79
+frontend/src/screens/deals.tsx
+  s_424a6049eeaf75::t_b9faa1501de17e 30,1809,1825
+backend/internal/contracts/api_gen.go
+  s_424a6049eeaf75::t_08f149c2645b9c 20575-20595,22368-22371,31657,36003-36008,36083,42091,43593-43594,43609-43610,43615,51207-51223,51235-51237,60404-60411,60644-60651,60776-60782,60978-60984,92438-92476
+frontend/src/api/schema.d.ts
+  s_424a6049eeaf75::t_fb8e44558532ab 8008,8015-8016,8023-8025,21654-21655,30818,30865-30869,30969,32496-32497,32503,34997,53005-53024,56664
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "67493754e153c857b485f09d08f5fc7b90a04cb8",
+  "prompts": {},
+  "sessions": {
+    "s_424a6049eeaf75": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc489dee-d4a2-4287-b046-89d19fc33922",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
