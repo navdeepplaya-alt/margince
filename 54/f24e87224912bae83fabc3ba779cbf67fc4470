@@ -1,0 +1,32 @@
+backend/internal/compose/weeklymetricscoverage_integration_test.go
+  s_7efe9706dc4216::t_8c7d484d23055f 10,19,54-55,59-61,63-70,73,78-83,134-135,138
+  s_7efe9706dc4216::t_86b06e42b6dc6b 34,89,150
+  s_7efe9706dc4216::t_980e104160defe 62,71-72,74-77,133,136-137
+backend/gates/dealreaders_test.go
+  s_7efe9706dc4216::t_8b75e7e427fc09 157
+docs/explanation/ai-runtime.md
+  s_7efe9706dc4216::t_4e28740df0a38d 282-283
+backend/internal/modules/activities/meetingroom.go
+  s_7efe9706dc4216::t_dce1bfb3c27aa7 57,61,84-88
+backend/internal/compose/meetinghorizon_integration_test.go
+  s_7efe9706dc4216::t_21e9a545a378a8 46-47,101,117,119,125,144,154
+backend/internal/compose/weekly/weeklycoverage.go
+  s_7efe9706dc4216::t_72629919517639 42-43,55,59-63,176-177,191-194,196-197,220
+  s_7efe9706dc4216::t_fab2fd2dccaee0 195,198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "54f24e87224912bae83fabc3ba779cbf67fc4470",
+  "prompts": {},
+  "sessions": {
+    "s_7efe9706dc4216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a251eebc-0404-4635-8ce7-b47242135086",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
