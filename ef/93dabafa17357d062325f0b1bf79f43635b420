@@ -1,0 +1,107 @@
+backend/internal/modules/activities/maildraftagent_integration_test.go
+  s_fee9953f8852d2::t_b71e9d92aa00cc 49,61,80,89,104,108
+backend/internal/compose/contactdraft/handlers.go
+  s_fee9953f8852d2::t_d0214f9c18fffe 36
+backend/internal/compose/leaddraft/service.go
+  s_fee9953f8852d2::t_157adf2222ae9b 27,97-98,101,105,116,121,126,132-135,144,146
+backend/internal/compose/contactdraft/grounding_test.go
+  s_fee9953f8852d2::t_5f1ea65c57cd79 1-6,8,10-15,17,19-27,29-47,49-73,78,80-83
+  s_fee9953f8852d2::t_8664c93dc19d6e 7,9,16,18,28,48,74-77,79
+backend/internal/compose/leaddraft/handlers.go
+  s_fee9953f8852d2::t_157adf2222ae9b 36
+backend/internal/modules/activities/maildraftgrounding_integration_test.go
+  s_fee9953f8852d2::t_6e857b7beca4a6 1-121
+backend/internal/modules/agents/draftgrounding_test.go
+  s_fee9953f8852d2::t_f7bd946cd651bd 1-62
+backend/internal/compose/accountdraft/handlers.go
+  s_fee9953f8852d2::t_def24c8e8baea4 41
+backend/migrations/core/1791430067_an_agent_draft_names_what_it_was_written_from.up.sql
+  s_fee9953f8852d2::t_1c486fbab7cca7 1-9
+docs/reference/entity-model/activities.md
+  s_fee9953f8852d2::t_f578f638ac438e 756,768
+backend/internal/compose/agentdraftseam_test.go
+  s_fee9953f8852d2::t_765c1290034a11 85
+backend/internal/compose/accountdraft/grounding_test.go
+  s_fee9953f8852d2::t_5409db4d860d69 1-56
+backend/migrations/core/1791430067_an_agent_draft_names_what_it_was_written_from.down.sql
+  s_fee9953f8852d2::t_44e2c76b5714b0 1-6
+backend/migrations/testdata/head_catalog.txt
+  s_fee9953f8852d2::t_06e14b2884acfb 5032
+backend/internal/modules/activities/maildraftagent.go
+  s_fee9953f8852d2::t_686a28c92ba696 67,73-74,79
+  s_fee9953f8852d2::t_494de3c0db9385 37-41,53-57,75-76,80,85-86,90,96-97
+  s_fee9953f8852d2::t_46101189f77302 77-78
+backend/internal/compose/accountdraft/input.go
+  s_fee9953f8852d2::t_def24c8e8baea4 45-48,134-136,138,211,264
+backend/internal/modules/activities/maildraft.go
+  s_fee9953f8852d2::t_a37688246f3bf3 76
+  s_fee9953f8852d2::t_9c0bc3e507a856 92-93
+  s_fee9953f8852d2::t_e582e87e7566e5 105-108,120-124,127-133
+  s_fee9953f8852d2::t_6e4539fb84d1db 435,439,450,452
+  s_fee9953f8852d2::t_e4a8680448c425 60-63
+  s_fee9953f8852d2::t_df4c5167de13de 59,451
+backend/internal/compose/contactdraft/fold.go
+  s_fee9953f8852d2::t_6628b5cbcdc756 193,422
+backend/internal/compose/contactdraft/input.go
+  s_fee9953f8852d2::t_6628b5cbcdc756 141-143,145,208-209
+backend/internal/compose/draftcore/grounding.go
+  s_fee9953f8852d2::t_e3ac6de152ab8e 1-33
+backend/internal/compose/leaddraft/service_test.go
+  s_fee9953f8852d2::t_45d9bef699dbdc 11,13,23,162,179-204
+  s_fee9953f8852d2::t_157adf2222ae9b 76,94,112,127,145
+  s_fee9953f8852d2::t_24df5caf6900ef 205
+backend/internal/modules/agents/tools_comms.go
+  s_fee9953f8852d2::t_5de5f0a734a33c 262-278
+  s_fee9953f8852d2::t_220f695cdadc00 238
+backend/internal/modules/agents/tools_comms_test.go
+  s_fee9953f8852d2::t_b9ba9ae06ae964 45
+  s_fee9953f8852d2::t_b51d2ce16ffb31 35-36
+docs/reference/entity-model/README.md
+  s_fee9953f8852d2::t_f578f638ac438e 32,314
+backend/internal/compose/contactdraft/service.go
+  s_fee9953f8852d2::t_d0214f9c18fffe 29,115-116,119,123,131,140,143-146,152,161,163
+backend/internal/compose/accountdraft/service.go
+  s_fee9953f8852d2::t_def24c8e8baea4 29,161-162,165,169,177,182,185-188,194,203,205
+backend/internal/compose/agentdraftseam.go
+  s_fee9953f8852d2::t_5ca5a5183393fc 115-117
+  s_fee9953f8852d2::t_73153433d1f2bf 182-205
+  s_fee9953f8852d2::t_5863a9028c4ab8 28
+  s_fee9953f8852d2::t_a08f70f65d4b5a 159,164-167,170
+backend/internal/modules/agents/results.go
+  s_fee9953f8852d2::t_58fed3a6dc6e7e 286-287
+  s_fee9953f8852d2::t_9f10982a2b097b 285
+backend/internal/compose/agentdraftseam_integration_test.go
+  s_fee9953f8852d2::t_bd0d5538719fb3 63-66
+backend/internal/compose/integration/project_surface_integration_test.go
+  s_fee9953f8852d2::t_6178c3289dd18c 253,264,318
+backend/internal/modules/activities/maildraftgrounding.go
+  s_fee9953f8852d2::t_b42ccf9c67f3a4 1-69
+backend/internal/compose/accountdraft/grounding.go
+  s_31845de60f96f1::t_d5590b6e927aaa 1-31
+backend/internal/compose/contactdraft/grounding.go
+  s_31845de60f96f1::t_06dac939ed1929 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ef93dabafa17357d062325f0b1bf79f43635b420",
+  "prompts": {},
+  "sessions": {
+    "s_31845de60f96f1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d309fa4f-623a-4a4b-bac6-8b349f221dcf",
+        "model": "unknown"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_fee9953f8852d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0c6d7211-a159-4109-bfc6-96aa776ad066",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
