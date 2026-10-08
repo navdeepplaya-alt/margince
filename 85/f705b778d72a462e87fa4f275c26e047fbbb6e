@@ -1,0 +1,23 @@
+backend/internal/compose/contactdraft/grounding_test.go
+  s_81b84c074f01d7::t_2d6e9fa86f66df 22,24
+backend/internal/modules/activities/maildraft.go
+  s_81b84c074f01d7::t_2d6e9fa86f66df 92
+backend/internal/compose/accountdraft/grounding_test.go
+  s_81b84c074f01d7::t_2d6e9fa86f66df 17,19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "85f705b778d72a462e87fa4f275c26e047fbbb6e",
+  "prompts": {},
+  "sessions": {
+    "s_81b84c074f01d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "277d560d-18b0-4091-a346-68a45c0eec84",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
