@@ -1,0 +1,57 @@
+frontend/src/screens/brief.schedule.test.tsx
+  s_7efe9706dc4216::t_b326435f8c05bb 121-122,125-179
+  s_7efe9706dc4216::t_c8c0c93193ffca 2,5
+  s_7efe9706dc4216::t_7823abb7a26a8c 32-33,35-39,42-48,181
+  s_7efe9706dc4216::t_efbccca2233281 49,180,182
+frontend/src/screens/brief.facts.ts
+  s_7efe9706dc4216::t_57643bcc222b8f 78-118
+frontend/src/screens/brief.readings.tsx
+  s_7efe9706dc4216::t_247123bd771400 145
+  s_7efe9706dc4216::t_2b89a622e2bc1a 16-17,25-31,119
+  s_7efe9706dc4216::t_e425d6e3b0375b 115-118
+  s_7efe9706dc4216::t_e5a09f5dd8abf6 170-180
+  s_7efe9706dc4216::t_d534e04c5ea406 219-220
+  s_7efe9706dc4216::t_76569c369580dd 277-283,286
+frontend/src/screens/brief.readings.test.tsx
+  s_7efe9706dc4216::t_f577b34a1be88b 232-320
+  s_7efe9706dc4216::t_27e1240d361186 7
+  s_7efe9706dc4216::t_f2301341304b78 321
+frontend/src/i18n/vi.ts
+  s_7efe9706dc4216::t_95b42c829de7b0 650-656
+  s_7efe9706dc4216::t_174e25b7020d2d 3918-3925
+frontend/src/screens/brief.schedule.tsx
+  s_7efe9706dc4216::t_a11b67f84b475e 85-86
+  s_7efe9706dc4216::t_17d071842a45cc 4,8,11-13,17
+  s_7efe9706dc4216::t_b3c8250ef66441 144-145
+  s_7efe9706dc4216::t_70a437578ab858 111-143,146-190
+  s_7efe9706dc4216::t_ff9f404e8de442 38-41
+  s_7efe9706dc4216::t_ef32b280cc83e0 18,191
+frontend/src/i18n/de.ts
+  s_7efe9706dc4216::t_57d7e65d4f4a11 661-667
+  s_7efe9706dc4216::t_14fd02bf59b98a 3960-3967
+frontend/src/screens/brief.readings.stories.tsx
+  s_7efe9706dc4216::t_5d596851a72d99 44-79
+frontend/src/i18n/en.ts
+  s_7efe9706dc4216::t_476898e935a96a 640-646
+  s_7efe9706dc4216::t_5df142959e744b 4046-4053
+frontend/src/screens/brief.schedule.stories.tsx
+  s_7efe9706dc4216::t_1e6d4dc3732916 82-120
+frontend/src/screens/brief.readings.meetings.ts
+  s_7efe9706dc4216::t_fee8cce7297941 1-127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bec3d448d1054eca628cd0fa92349fb905ee019f",
+  "prompts": {},
+  "sessions": {
+    "s_7efe9706dc4216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a251eebc-0404-4635-8ce7-b47242135086",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
