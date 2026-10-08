@@ -1,0 +1,32 @@
+frontend/src/screens/brief.weekly.tsx
+  s_7efe9706dc4216::t_1a0a8338d4a1ce 283
+frontend/src/screens/brief.weekly.test.tsx
+  s_7efe9706dc4216::t_e4c46d8aaab24e 715,718-723,736-741,745
+frontend/src/screens/brief.numeric.test.ts
+  s_7efe9706dc4216::t_e4c46d8aaab24e 58,67-69,77-79,97,102
+  s_7efe9706dc4216::t_1a0a8338d4a1ce 54-56,98-100,105
+frontend/src/screens/brief.teamweekly.tsx
+  s_7efe9706dc4216::t_1a0a8338d4a1ce 294
+frontend/src/screens/brief.teamweekly.test.tsx
+  s_7efe9706dc4216::t_e4c46d8aaab24e 634,640-643
+  s_7efe9706dc4216::t_9b0f9047645349 635-639,644
+frontend/src/screens/brief.numeric.ts
+  s_7efe9706dc4216::t_e4c46d8aaab24e 4,146-161,165-166,170,172,183-189
+  s_7efe9706dc4216::t_1a0a8338d4a1ce 163-164,177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4bd2fd49561ed2cb6d093564a474e35293730746",
+  "prompts": {},
+  "sessions": {
+    "s_7efe9706dc4216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a251eebc-0404-4635-8ce7-b47242135086",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
