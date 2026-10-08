@@ -1,0 +1,52 @@
+backend/internal/compose/participantbackfilljob.go
+  s_23a49b11a3717d::t_487379a263d2ff 147
+backend/internal/modules/capture/provenaddress.go
+  s_23a49b11a3717d::t_60ca4572b10ec4 124,127
+  s_23a49b11a3717d::t_89cfe6bf9559e7 156
+  s_23a49b11a3717d::t_b2c97895b13a22 131-133,135,139-141
+  s_23a49b11a3717d::t_fd50d406452ad5 22
+backend/internal/modules/capture/ownsentmailrepair.go
+  s_23a49b11a3717d::t_acab2c50b236ae 96-99,104,108
+  s_23a49b11a3717d::t_56b35ad64ef5f3 54,56-58,61-64
+  s_23a49b11a3717d::t_1acb6606e8b9b6 65
+  s_23a49b11a3717d::t_ce8afd4d011b55 76-77
+backend/internal/compose/ownsentmailrepair_integration_test.go
+  s_23a49b11a3717d::t_8b7ea2fcd29d4a 198
+  s_23a49b11a3717d::t_f587df8b9407f1 160,164
+  s_23a49b11a3717d::t_868d9ccc893b5a 130
+  s_23a49b11a3717d::t_2f69b0901b6ca3 180,184,186
+  s_23a49b11a3717d::t_e087f271a64750 42,45
+  s_23a49b11a3717d::t_f23ace58c1d10e 64-69
+  s_23a49b11a3717d::t_0f0dea851b040e 47
+  s_23a49b11a3717d::t_2212de799ff605 187-188
+backend/internal/compose/ownsentmailrepair.go
+  s_23a49b11a3717d::t_f05903f5b73e55 152-154
+  s_6563f99f309f86::t_26afe471d90ad2 78-79
+  s_23a49b11a3717d::t_f4defb7b790ebf 26
+  s_23a49b11a3717d::t_93d1fe5c2ebd5d 66,72-77
+  s_23a49b11a3717d::t_8f42a8dae43afc 82-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "db6f535ae1df7bd01a0b384b5dd44db122dd7884",
+  "prompts": {},
+  "sessions": {
+    "s_23a49b11a3717d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "60111fe2-c5f8-433a-9819-4ab7d8f6a782",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    },
+    "s_6563f99f309f86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c1572ffd-3c90-4d86-9e43-f58703fc48fe",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
