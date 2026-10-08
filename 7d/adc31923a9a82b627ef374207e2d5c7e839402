@@ -1,0 +1,19 @@
+backend/gates/testdata/wallclockfixtures.txt
+  s_424a6049eeaf75::t_6671669a34c599 126-129,173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7dadc31923a9a82b627ef374207e2d5c7e839402",
+  "prompts": {},
+  "sessions": {
+    "s_424a6049eeaf75": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc489dee-d4a2-4287-b046-89d19fc33922",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
