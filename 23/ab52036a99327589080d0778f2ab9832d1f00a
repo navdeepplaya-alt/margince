@@ -1,0 +1,20 @@
+backend/internal/platform/testdb/reset.go
+  s_23a49b11a3717d::t_62da33396ff0f4 126-128
+  s_23a49b11a3717d::t_a15426d558fced 136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "23ab52036a99327589080d0778f2ab9832d1f00a",
+  "prompts": {},
+  "sessions": {
+    "s_23a49b11a3717d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "60111fe2-c5f8-433a-9819-4ab7d8f6a782",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
