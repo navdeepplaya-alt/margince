@@ -1,0 +1,23 @@
+frontend/src/screens/brief.teamweekly.tsx
+  s_7efe9706dc4216::t_1e1d9be76730f0 42,316
+frontend/src/screens/brief.weekly.tsx
+  s_7efe9706dc4216::t_1e1d9be76730f0 323
+frontend/src/screens/brief.weekly.css
+  s_7efe9706dc4216::t_cdd39fad54046a 118-133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2af148a17d2765a5bd0d9f910ff9689fa75309f2",
+  "prompts": {},
+  "sessions": {
+    "s_7efe9706dc4216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a251eebc-0404-4635-8ce7-b47242135086",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
