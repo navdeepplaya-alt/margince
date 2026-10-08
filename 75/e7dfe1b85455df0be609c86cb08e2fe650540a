@@ -1,0 +1,38 @@
+frontend/src/screens/brief.schedule.stories.tsx
+  s_7efe9706dc4216::t_d78f5b86b38b00 82-91,97,103-104,108,114-115,118-121
+frontend/src/screens/brief.readings.test.tsx
+  s_7efe9706dc4216::t_e1b6af3bc90179 232-233,251-252,255,257
+frontend/src/screens/brief.schedule.test.tsx
+  s_7efe9706dc4216::t_1fa4e32375fe10 201-203
+  s_7efe9706dc4216::t_e1b6af3bc90179 5,138,174,184-200,204
+  s_7efe9706dc4216::t_8b1bd01388b24a 205
+frontend/src/screens/brief.readings.meetings.ts
+  s_7efe9706dc4216::t_6a6f9f64e50934 5,11
+  s_7efe9706dc4216::t_ecdce98a8d6947 99
+frontend/src/screens/brief.facts.ts
+  s_7efe9706dc4216::t_7270a47dbec164 98-100,103-104,107-110
+  s_7efe9706dc4216::t_4760bfabab5674 4-6
+  s_7efe9706dc4216::t_0d36e6d39bdc14 120
+  s_7efe9706dc4216::t_6c971844ce7050 111
+frontend/src/screens/brief.schedule.tsx
+  s_7efe9706dc4216::t_91747ceb2465d4 124-130,134-140
+  s_7efe9706dc4216::t_8b71d93cd120e3 8
+  s_7efe9706dc4216::t_8d364eed28111b 176
+  s_7efe9706dc4216::t_d138894546eef1 11-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "75e7dfe1b85455df0be609c86cb08e2fe650540a",
+  "prompts": {},
+  "sessions": {
+    "s_7efe9706dc4216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a251eebc-0404-4635-8ce7-b47242135086",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
