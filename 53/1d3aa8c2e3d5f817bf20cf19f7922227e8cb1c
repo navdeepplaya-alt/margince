@@ -1,0 +1,19 @@
+frontend/src/screens/brief.readings.sideread.test.tsx
+  s_8ec52196b5c0ec::t_6582a14b59fafe 71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "531d3aa8c2e3d5f817bf20cf19f7922227e8cb1c",
+  "prompts": {},
+  "sessions": {
+    "s_8ec52196b5c0ec": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "825498c2-87d6-41a6-a246-66472d92753b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
