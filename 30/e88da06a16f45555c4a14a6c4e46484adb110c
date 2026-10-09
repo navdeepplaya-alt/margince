@@ -1,0 +1,25 @@
+frontend/src/design-system/statstrip.test.tsx
+  s_8d383d7b877b2e::t_fcfdb48dbf5dfd 106-116
+frontend/src/design-system/statstrip.tsx
+  s_8d383d7b877b2e::t_618576c7987521 13-17
+  s_8d383d7b877b2e::t_1175c2bb04d6dc 76
+  s_8d383d7b877b2e::t_f4e1a1a23bcc6f 70-71,73
+frontend/src/design-system/statstrip.stories.tsx
+  s_8d383d7b877b2e::t_974b7330d42292 42-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "30e88da06a16f45555c4a14a6c4e46484adb110c",
+  "prompts": {},
+  "sessions": {
+    "s_8d383d7b877b2e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4b75e78d-b7a8-4449-adb7-d8a4e1c1ad3b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
