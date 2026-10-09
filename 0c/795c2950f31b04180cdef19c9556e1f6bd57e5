@@ -1,0 +1,89 @@
+backend/internal/compose/integration/booking_app_test.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 18-19,22-26,52-59
+  s_8d383d7b877b2e::t_06f1d41f9321b6 60-61
+docs/handbook/meetings-and-booking.md
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 80-81
+backend/internal/compose/integration/booking_provider_test.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 14,17-28
+  s_8d383d7b877b2e::t_2b81c30b6aaf25 29
+frontend/src/screens/deals.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 2249,2418
+backend/internal/modules/knowledge/handbook/meetings-and-booking.md
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 80-81
+frontend/AGENTS.md
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 17-21
+backend/internal/modules/activities/scheduling_public_replay.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 25-28
+frontend/src/screens/compose.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 1308
+backend/internal/compose/integration/booking_worker_integration_test.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 31
+frontend/src/screens/onboarding-conversation/company-act.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 150
+docs/reference/gate-inventory.md
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 231
+frontend/scripts/complexity-waivers.test.ts
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 1-58
+frontend/src/screens/companywork.test.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 32
+frontend/src/screens/reporting.report.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 1,29,57-61
+backend/internal/modules/activities/scheduling_guest.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 119
+backend/internal/modules/dealrooms/document_read.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 59-68,87-91
+backend/internal/compose/integration/dealroom_limitedmail_integration_test.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 1-78
+frontend/src/screens/contactleadaction.test.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 37-38,40
+frontend/biome.json
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 30-36,74-82,105-106
+backend/gates/declinedwrite_test.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 1-302
+backend/internal/modules/activities/scheduling_recovery.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 101-107
+frontend/src/screens/company.fixtures.ts
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 75
+frontend/src/screens/companytoday.stories.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 68
+frontend/src/screens/companyheader.stories.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 77
+backend/internal/compose/integration/booking_agenda_integration_test.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 1-185
+frontend/src/design-system/filedropzone.stories.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 85
+frontend/src/screens/companies.stories.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 109
+frontend/src/screens/company360.test.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 67
+backend/internal/modules/activities/scheduling_invitation.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 150-152
+frontend/src/screens/reporting.queries.ts
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 1,3,18-92
+backend/internal/modules/dealrooms/store_public_threads.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 37-50
+backend/internal/compose/integration/dealroom_pausedthreads_integration_test.go
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 1-89
+frontend/src/screens/companyrail.test.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 69
+frontend/src/design-system/listtable.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 406
+frontend/src/screens/companyrail.stories.tsx
+  s_8d383d7b877b2e::t_e67288fc9bdfa6 64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0c795c2950f31b04180cdef19c9556e1f6bd57e5",
+  "prompts": {},
+  "sessions": {
+    "s_8d383d7b877b2e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4b75e78d-b7a8-4449-adb7-d8a4e1c1ad3b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
