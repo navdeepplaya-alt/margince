@@ -1,0 +1,24 @@
+.tool-versions
+  s_8d383d7b877b2e::t_0ca0420970dc7d 2
+backend/internal/modules/consent/lift_integration_test.go
+  s_8d383d7b877b2e::t_81bdbb265651a0 402-403
+backend/Makefile
+  s_8d383d7b877b2e::t_2e1e1389242984 769
+  s_8d383d7b877b2e::t_4a2096c7196c49 764-765
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ebaa4cdce21e19f47e3ce7435bf3d7e5bba496dc",
+  "prompts": {},
+  "sessions": {
+    "s_8d383d7b877b2e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4b75e78d-b7a8-4449-adb7-d8a4e1c1ad3b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
