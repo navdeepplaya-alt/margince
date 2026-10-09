@@ -1,0 +1,52 @@
+.tool-versions
+  s_8d383d7b877b2e::t_be719b83083d6a 1
+docs/how-to/add-an-extension.md
+  s_8d383d7b877b2e::t_be719b83083d6a 39
+fixtures/extensions/bad-overbudget-table/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 3
+go.work
+  s_8d383d7b877b2e::t_be719b83083d6a 10
+extensions/de/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 3
+fixtures/extensions/crm-hello/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 3
+backend/tools/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 16
+extensions/openchannel/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 3
+fixtures/extensions/bad-unprefixed-table/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 3
+backend/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 7
+  s_8d383d7b877b2e::t_77c4e6dd412574 42
+desktop/launcher/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 8
+tools/gitleakspolicy/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 13
+composition/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 11
+extensions/vn/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 3
+fixtures/extensions/crm-nosy/go.mod
+  s_8d383d7b877b2e::t_be719b83083d6a 3
+backend/go.sum
+  s_8d383d7b877b2e::t_7f3abbea15c2c6 196-197
+backend/tools/go.sum
+  s_8d383d7b877b2e::t_bbbaa3a64dc5d7 158-159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cf15f280ad3575aac904ad94fa518579f4ad8f2d",
+  "prompts": {},
+  "sessions": {
+    "s_8d383d7b877b2e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4b75e78d-b7a8-4449-adb7-d8a4e1c1ad3b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
