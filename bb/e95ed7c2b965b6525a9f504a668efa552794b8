@@ -1,0 +1,27 @@
+backend/Makefile
+  s_8d383d7b877b2e::t_2a161bbfb99eb1 764-766
+backend/gates/goversionpins_test.go
+  s_8d383d7b877b2e::t_8e7be2fbe87c24 34-36
+  s_8d383d7b877b2e::t_b72a778e3277b9 75-89
+backend/gates/gatelanetrigger_test.go
+  s_8d383d7b877b2e::t_c77aecdf544bf7 45-47,52-53
+  s_8d383d7b877b2e::t_93333b00fca625 54,184-206
+Dockerfile
+  s_8d383d7b877b2e::t_bfd31222734948 50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bbe95ed7c2b965b6525a9f504a668efa552794b8",
+  "prompts": {},
+  "sessions": {
+    "s_8d383d7b877b2e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4b75e78d-b7a8-4449-adb7-d8a4e1c1ad3b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
