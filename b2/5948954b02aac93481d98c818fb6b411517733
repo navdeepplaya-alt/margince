@@ -1,0 +1,19 @@
+frontend/src/design-system/statstrip.test.tsx
+  s_8d383d7b877b2e::t_97236c477451d8 109-110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b25948954b02aac93481d98c818fb6b411517733",
+  "prompts": {},
+  "sessions": {
+    "s_8d383d7b877b2e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4b75e78d-b7a8-4449-adb7-d8a4e1c1ad3b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
