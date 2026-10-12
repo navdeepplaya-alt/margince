@@ -1,0 +1,25 @@
+backend/internal/modules/activities/threadanswersender_integration_test.go
+  s_6c2075b501f032::t_757aa7c2edbeb3 15-16
+  s_6c2075b501f032::t_696d9d766f68f0 48-60
+backend/internal/modules/activities/answered.go
+  s_6c2075b501f032::t_0bbf80d6dec521 177-180
+  s_6c2075b501f032::t_d7b954d334d81d 160-162
+docs/explanation/customer-requests.md
+  s_6c2075b501f032::t_66e0d64846b47d 54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b6e1d18872b635e5b17d985df1226b7c87153e79",
+  "prompts": {},
+  "sessions": {
+    "s_6c2075b501f032": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b1572fbf-f2e6-4500-a6b9-69b553786671",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
