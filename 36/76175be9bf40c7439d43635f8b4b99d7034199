@@ -1,0 +1,33 @@
+backend/internal/compose/draftcheck/greeting.go
+  s_f831e2080f7947::t_517e9248323be4 129
+  s_f831e2080f7947::t_03178aa296f9f5 97
+  s_f831e2080f7947::t_737c6bbd49f1e7 251
+  s_f831e2080f7947::t_6977e129dd31f2 265-266
+  s_0ce78016542ad8::t_21a045465c409e 12-14,28,43-44,46-50,63,69,77-78,88,93-96,98-105,125-126,130,133,156-159,163-166,170-173,177-178,183,185,189-190,192-193,200-211,240,250,252-264,267-273,283
+backend/internal/compose/draftcheck/greeting_test.go
+  s_0ce78016542ad8::t_5c1fec7b8e2900 7,26-44,146-147,173-185,199-203,221,234-235,254-255
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3676175be9bf40c7439d43635f8b4b99d7034199",
+  "prompts": {},
+  "sessions": {
+    "s_0ce78016542ad8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "804ebd52-31a8-4645-9227-a217823cfac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_f831e2080f7947": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "15dd8280-0d56-46c5-a404-2b5d81769891",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
