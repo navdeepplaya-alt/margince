@@ -1,0 +1,20 @@
+backend/gates/accountreachcopies_test.go
+  s_dfdecca1a9286a::t_44c58947c2f6f6 331
+  s_dfdecca1a9286a::t_5c126a6e8d6523 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e0c616ee62c8342a3c4d2eb5dc7594be44be8b63",
+  "prompts": {},
+  "sessions": {
+    "s_dfdecca1a9286a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a95d6e95-5db6-4b3d-a6ea-1a258ada8830",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
