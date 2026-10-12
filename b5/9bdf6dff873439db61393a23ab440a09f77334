@@ -1,0 +1,36 @@
+backend/migrations/core/1791782100_a_colleagues_mail_is_ours_under_an_own_address.up.sql
+  s_6c2075b501f032::t_0a81cc2550e166 72
+  s_6c2075b501f032::t_5d75eebd29dd6d 79-80,89-90
+  s_6c2075b501f032::t_3853b3359e0b79 1-71,73-78,81-88,91-100
+backend/internal/modules/activities/threadanswersender_integration_test.go
+  s_6c2075b501f032::t_ef6621f30e489d 1-62
+backend/internal/modules/activities/answered.go
+  s_6c2075b501f032::t_d8370ae89d3f06 31-32,158-161,163-168,175-179
+backend/internal/modules/capture/sentbycolleague_integration_test.go
+  s_6c2075b501f032::t_99676d2890b4e6 137-156
+backend/internal/modules/capture/sentbycolleague.go
+  s_6c2075b501f032::t_d8370ae89d3f06 27-29,47-52
+docs/explanation/customer-requests.md
+  s_6c2075b501f032::t_9fd186b80c37aa 52-54
+backend/migrations/colleagueownaddressmail_integration_test.go
+  s_6c2075b501f032::t_fd0ecdb2a1618f 1-10,13-89,91,103
+  s_6c2075b501f032::t_630f282f915139 11-12,90,92-102
+backend/migrations/core/1791782100_a_colleagues_mail_is_ours_under_an_own_address.down.sql
+  s_6c2075b501f032::t_e13a666014662b 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b59bdf6dff873439db61393a23ab440a09f77334",
+  "prompts": {},
+  "sessions": {
+    "s_6c2075b501f032": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b1572fbf-f2e6-4500-a6b9-69b553786671",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
