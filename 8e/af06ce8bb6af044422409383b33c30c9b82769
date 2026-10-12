@@ -1,0 +1,51 @@
+backend/internal/compose/draftcheck/greeting.go
+  s_f831e2080f7947::t_11e40647b90ce4 113,125-127,133-134,138,145,147,151-154,161,170-172,180,183
+  s_f831e2080f7947::t_915d99c7c7499e 117-119
+  s_f831e2080f7947::t_59e8664a8c31eb 41-72
+  s_f831e2080f7947::t_6a3301b42f1ad4 31-32
+  s_f831e2080f7947::t_1bdbb70d942843 7,9-12,15,18-22,25-30,35-40,73-85,88-99,102-112,114-116,120-124,128-132,135-137,139-144,148-150,155-160,162-169,173-179,181-182,184-227,241-242
+  s_f831e2080f7947::t_214512610b1c80 146
+backend/internal/compose/draftcore/draftcore_test.go
+  s_f831e2080f7947::t_eaa9daf2b999bf 200
+  s_f831e2080f7947::t_eeedd37bdd2c2d 50,205,217,227
+backend/internal/compose/draftcore/draftcore.go
+  s_f831e2080f7947::t_e48e833c33171a 164
+backend/internal/compose/draftcheck/unbroken_test.go
+  s_f831e2080f7947::t_f8e1e18f367098 20
+backend/internal/compose/draftcheck/worldclaims.go
+  s_f831e2080f7947::t_2e95703b2e9045 38-40
+backend/internal/compose/draftcheck/greeting_test.go
+  s_f831e2080f7947::t_4549e3bd556eac 28,115-226
+  s_f831e2080f7947::t_c53277c7ba0f86 11,14-18,25-27
+  s_0ce78016542ad8::t_f09e1971241abb 29
+backend/internal/compose/replydraft_test.go
+  s_f831e2080f7947::t_a4505c2ba0d4e3 154,206,231,255,409
+backend/internal/compose/draftcheck/draftcheck.go
+  s_f831e2080f7947::t_d6483c43165631 239,249
+backend/internal/compose/draftcheck/rule.go
+  s_f831e2080f7947::t_345df5c176fe48 83-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8eaf06ce8bb6af044422409383b33c30c9b82769",
+  "prompts": {},
+  "sessions": {
+    "s_0ce78016542ad8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "804ebd52-31a8-4645-9227-a217823cfac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_f831e2080f7947": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "15dd8280-0d56-46c5-a404-2b5d81769891",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
