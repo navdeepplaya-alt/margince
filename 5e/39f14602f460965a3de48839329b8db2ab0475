@@ -1,0 +1,33 @@
+backend/gates/wallclockfixtures_test.go
+  s_4ea245a9728248::t_0f84fc7d1c70f1 11-15,50-51,66,98,142,144-145,183-185,187-191,193-195,216-218,225-226,266-267,286-287
+backend/internal/platform/clocktest/clocktest.go
+  s_4ea245a9728248::t_f272e484da1504 7-10,13-16,18-19
+backend/internal/platform/clocktest/clocktest_test.go
+  s_4ea245a9728248::t_eb9e6dec00733b 42-44
+backend/internal/platform/testdb/clockshadow.go
+  s_4ea245a9728248::t_0d0f9d0eb979d1 9-10,13,16-17,31-34,55,89-91,102-105
+backend/internal/platform/testdb/clockshadow_integration_test.go
+  s_4ea245a9728248::t_e6a9a468803d3b 21,23,25-27,41-43,67-69,99,101-102
+backend/internal/platform/testdb/ensureschema.go
+  s_4ea245a9728248::t_c0a3850530ee5a 64-66
+backend/internal/shared/clockskew/clockskew.go
+  s_4ea245a9728248::t_ed93495944579c 4-5,22-24,56-58,71-73,76-77,110-111
+backend/internal/shared/clockskew/clockskew_test.go
+  s_4ea245a9728248::t_722f2fed3e4689 52,75-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5e39f14602f460965a3de48839329b8db2ab0475",
+  "prompts": {},
+  "sessions": {
+    "s_4ea245a9728248": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a1c4008-3f1d-4335-8411-0fa78106a825",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
