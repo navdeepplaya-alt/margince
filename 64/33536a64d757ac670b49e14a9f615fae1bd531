@@ -1,0 +1,19 @@
+backend/gates/testdata/wallclockfixtures.txt
+  s_4ea245a9728248::t_6de1995ceee8ae 14,32,41,71,81,91-92,138,149,161,168,179,182,187,201,209,214,224,226,235,237,249,255,258,260,266,271,274,283,291,296,301,305,308,325,350,365,387
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6433536a64d757ac670b49e14a9f615fae1bd531",
+  "prompts": {},
+  "sessions": {
+    "s_4ea245a9728248": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a1c4008-3f1d-4335-8411-0fa78106a825",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
