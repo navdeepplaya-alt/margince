@@ -1,0 +1,175 @@
+backend/internal/compose/jobschedule.go
+  s_0ce78016542ad8::t_6307d72fafb3ed 159
+backend/internal/compose/tagsuggestask.go
+  s_0ce78016542ad8::t_8835ad164504c1 106
+  s_0ce78016542ad8::t_56e9e20c052c32 1-83,86-105,107-139
+  s_0ce78016542ad8::t_3459c4b517353c 84-85
+backend/internal/compose/jobs_tagscout.go
+  s_0ce78016542ad8::t_3c7bd94c36e003 21-22,33-38,42-44,55,67-70
+  s_0ce78016542ad8::t_e40cc782e946ad 17
+  s_0ce78016542ad8::t_0e68edf02e024e 20
+  s_0ce78016542ad8::t_e7d6261a23defc 45,49-54
+  s_0ce78016542ad8::t_e09f9cacc3dd04 60,66
+  s_0ce78016542ad8::t_823414b02b2796 56
+backend/gates/tableownerregistry_test.go
+  s_0ce78016542ad8::t_4ed4cb5d494660 163
+frontend/src/app/ai-activity-orb.ts
+  s_0ce78016542ad8::t_31be61f5b5584f 36
+backend/internal/compose/brain.go
+  s_0ce78016542ad8::t_1a92753e3a3c87 106-109,338
+backend/migrations/schema_fitness_integration_test.go
+  s_0ce78016542ad8::t_3e7066b81ab0ef 557
+backend/gates/composerowscope_test.go
+  s_0ce78016542ad8::t_81678c04246bd3 88
+backend/internal/compose/tagsuggest_integration_test.go
+  s_0ce78016542ad8::t_89da9979417933 1-7,10-21,23-69,71-107,109-123,125,127-146,148-163,165-171,174-196,198-213,215-240,242-258,261-277,279-285
+  s_0ce78016542ad8::t_80b2a7324d8b71 70
+  s_0ce78016542ad8::t_b42ff71047c917 108,124,126,147,164,197,214,241,259-260,278
+  s_0ce78016542ad8::t_cde4af2e27195e 172-173
+  s_0ce78016542ad8::t_fdce39da440da3 22
+  s_0ce78016542ad8::t_440ec68c3d87de 8-9
+backend/internal/compose/jobs.go
+  s_0ce78016542ad8::t_27cef648e92381 202-205
+backend/internal/compose/certcase_tagsuggest.go
+  s_0ce78016542ad8::t_799f71b18c28b9 98-99
+  s_0ce78016542ad8::t_0066387fdf300b 1-63,66-96,100-151,154-207
+  s_0ce78016542ad8::t_440ec68c3d87de 64-65,97,152-153
+backend/internal/compose/tagsuggest/prompt.go
+  s_0ce78016542ad8::t_08f1457574403c 1-3,8-18,21-29,31-65,67-70,80-85,87-88,90-94,97-123
+  s_0ce78016542ad8::t_65bb2fe95b2363 20,66,71-79
+  s_0ce78016542ad8::t_bee6222e82c65f 19,86,89
+  s_0ce78016542ad8::t_8dc58277aa8f7d 30
+  s_0ce78016542ad8::t_440ec68c3d87de 4-7,95-96
+backend/internal/compose/tagsuggest/prompt_test.go
+  s_0ce78016542ad8::t_b42ff71047c917 29-30,49-50
+  s_0ce78016542ad8::t_83d50b2c1dfdbb 1-28,31-48,52-78
+  s_0ce78016542ad8::t_3ccae1f3ac8087 51
+backend/internal/compose/jobcensusposture.go
+  s_0ce78016542ad8::t_6307d72fafb3ed 141
+docs/reference/entity-model/collections.md
+  s_0ce78016542ad8::t_7b388f9a708a06 5,306-324
+  s_0ce78016542ad8::t_ae6183be50a237 325
+backend/internal/compose/jobs_dealscout.go
+  s_0ce78016542ad8::t_e40cc782e946ad 55,66-68
+  s_0ce78016542ad8::t_565d8987dc26c5 56-65,69
+  s_0ce78016542ad8::t_a29db7b385057b 7-8
+docs/reference/ai-egress.md
+  s_0ce78016542ad8::t_4aec3c108bed5f 63
+docs/reference/ai-certification.md
+  s_0ce78016542ad8::t_5e5a0e1bc0e942 55-61,84,110,161,171,197,248,258,284,335,345,371,422,432,458,509,519,545,596,606,632,683,1122,1126-1127,1191,1236,2732-2751
+  s_0ce78016542ad8::t_751b3cd471eedf 2752-2754
+docs/reference/ai-prompts.json
+  s_0ce78016542ad8::t_907b3e83deb2b2 3412-3467
+  s_0ce78016542ad8::t_8f9512ba9b3de3 3411
+backend/gates/audiencereaders_test.go
+  s_0ce78016542ad8::t_81678c04246bd3 102
+backend/cmd/worker/jobrunner.go
+  s_0ce78016542ad8::t_1a92753e3a3c87 290
+backend/internal/compose/aicert/corpus/tag_suggest/german_mail_01.yaml
+  s_0ce78016542ad8::t_feed4a94380b39 1-32
+backend/internal/modules/ai/railowner.go
+  s_0ce78016542ad8::t_c1ff025737a853 100
+backend/internal/compose/jobkinds_gen.go
+  s_0ce78016542ad8::t_4aec3c108bed5f 14
+docs/reference/modules.md
+  s_0ce78016542ad8::t_4ed4cb5d494660 52
+backend/internal/modules/collections/doc.go
+  s_0ce78016542ad8::t_4ed4cb5d494660 21
+backend/internal/compose/aicert/corpus/tag_suggest/other_words_01.yaml
+  s_0ce78016542ad8::t_9cd4f3995c435e 1-32
+backend/migrations/core/1791792812_a_captured_item_is_read_for_interest_once.down.sql
+  s_0ce78016542ad8::t_9ecf834e8597a8 1-3
+backend/api/jobs.yaml
+  s_0ce78016542ad8::t_5793effadf3eaa 1465,1468,1471-1474
+backend/internal/modules/collections/taginterest.go
+  s_0ce78016542ad8::t_6c9e55be58070b 59,70
+  s_0ce78016542ad8::t_e52dde9570fb99 60
+  s_0ce78016542ad8::t_bfeb920cedba64 1-58,61-69,71-77
+backend/api/crm.yaml
+  s_0ce78016542ad8::t_5793effadf3eaa 50429
+backend/gates/aicallsubject_test.go
+  s_0ce78016542ad8::t_81678c04246bd3 143
+backend/gates/aitaskmirror_test.go
+  s_0ce78016542ad8::t_4aec3c108bed5f 97
+backend/internal/compose/aitaskregistry.go
+  s_0ce78016542ad8::t_4179db3097b7ae 47
+backend/internal/compose/aicert/corpus/tag_suggest/batch_two_tags_01.yaml
+  s_0ce78016542ad8::t_f61e72ef085607 1-46
+docs/reference/ai-certification.json
+  s_0ce78016542ad8::t_5e5a0e1bc0e942 3,7-8,713-740,859,1583-1610,1733,2713-2740,2907,3610-3637,3756,4459-4486,4605,5308-5335,5454,6157-6184,6303,6312,7030,7754,8444,9094,20413-20453
+  s_0ce78016542ad8::t_d47e326d0431d1 20454
+backend/internal/compose/aicert/corpus/tag_suggest/instructions_in_the_mail_01.yaml
+  s_0ce78016542ad8::t_18cf5b7bc70357 1-33
+docs/reference/ai-prompts.md
+  s_0ce78016542ad8::t_907b3e83deb2b2 81,5152-5218,5220
+  s_0ce78016542ad8::t_ee184ce0b2478a 5219,5221
+docs/reference/entity-model/activities.md
+  s_0ce78016542ad8::t_7b388f9a708a06 9
+backend/migrations/core/1791792812_a_captured_item_is_read_for_interest_once.up.sql
+  s_0ce78016542ad8::t_663f0a4a7a2c7c 3
+  s_0ce78016542ad8::t_acfc4ece91cdf5 1-2,4-17
+backend/internal/modules/ai/tasks_gen.go
+  s_0ce78016542ad8::t_4aec3c108bed5f 61,107,149,218,256,303,369,491-493,551,642
+  s_0ce78016542ad8::t_553397f305a9da 60,185
+backend/migrations/testdata/head_catalog.txt
+  s_0ce78016542ad8::t_05538bacf75505 6856-6862
+docs/reference/entity-model/README.md
+  s_0ce78016542ad8::t_7b388f9a708a06 31-33,45,100,132,393
+backend/internal/compose/aicert/corpusjudgeless_tagsuggest_test.go
+  s_0ce78016542ad8::t_5e5a0e1bc0e942 8-16,21,27,29,49-50
+  s_0ce78016542ad8::t_42304bcb3252a5 1-7,17-20,22-26,28,30-48,51-57
+backend/internal/compose/jobcensusconfig.go
+  s_0ce78016542ad8::t_6307d72fafb3ed 106
+backend/internal/compose/tagscout.go
+  s_0ce78016542ad8::t_0878b431c4f715 7-11,49-50,58-64,67,75,78,81-82,84,86-87,90
+  s_0ce78016542ad8::t_6c9e55be58070b 21,111-117,134
+  s_0ce78016542ad8::t_1373eb35c202fb 110,118,120,136-150,157
+config/presets/consumer_class_brokered.yaml
+  s_0ce78016542ad8::t_cf3f99085ffc52 72-73
+backend/internal/compose/aitaskregistry_test.go
+  s_0ce78016542ad8::t_c55e87c5cdc520 39-40
+docs/explanation/ai-activity-rail.md
+  s_0ce78016542ad8::t_806dbfeb3dbf67 173
+backend/internal/compose/aicert/corpus/tag_suggest/mention_is_not_interest_01.yaml
+  s_0ce78016542ad8::t_4fdc1fa47a470a 1-39
+backend/internal/compose/certcase_tagsuggest_test.go
+  s_0ce78016542ad8::t_440ec68c3d87de 6-7,111-112
+  s_0ce78016542ad8::t_7a2e0beec8ad65 1-5,8-110,113-161
+backend/internal/compose/queryenums_gen.go
+  s_0ce78016542ad8::t_4aec3c108bed5f 160
+docs/reference/ai-provider-outages.md
+  s_0ce78016542ad8::t_4aec3c108bed5f 64
+backend/internal/compose/tagsuggestpass.go
+  s_0ce78016542ad8::t_440ec68c3d87de 7-9
+  s_0ce78016542ad8::t_3d8b54d728b342 1-6,10-114,126-156,158-177,179-199,201,203-213,225-251
+  s_0ce78016542ad8::t_6c9e55be58070b 115-125,157,178,200,202,214-224
+backend/internal/compose/aicert/corpusjudgeless_test.go
+  s_0ce78016542ad8::t_1863d1fe946a8c 135
+backend/internal/platform/jobs/specs_gen.go
+  s_0ce78016542ad8::t_4aec3c108bed5f 14,763-771
+frontend/src/app/ai-activity-lines.ts
+  s_0ce78016542ad8::t_31be61f5b5584f 190
+backend/api/ai-tasks.yaml
+  s_0ce78016542ad8::t_8dc58277aa8f7d 160
+  s_0ce78016542ad8::t_9701ef05651dfd 150-159,161
+backend/internal/contracts/api_gen.go
+  s_0ce78016542ad8::t_11cfd2fd295d18 700,767-768
+frontend/src/api/schema.d.ts
+  s_0ce78016542ad8::t_122009af7d0476 36794
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2638e4b18fc71a58a38c3c65d836abaf519d89db",
+  "prompts": {},
+  "sessions": {
+    "s_0ce78016542ad8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "804ebd52-31a8-4645-9227-a217823cfac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
