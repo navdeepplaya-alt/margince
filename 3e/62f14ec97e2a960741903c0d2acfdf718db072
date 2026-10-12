@@ -1,0 +1,103 @@
+backend/internal/compose/departedemployerclock_integration_test.go
+  s_dfdecca1a9286a::t_6ca2d7ecaf8456 1-27,29-36,38-43,46-69,76-77,84-106,108-131
+  s_dfdecca1a9286a::t_591938d732dc34 44-45
+  s_dfdecca1a9286a::t_ca60c9f48d078e 78-83
+  s_dfdecca1a9286a::t_6a691a0c14aca4 28,37,70-75,107
+frontend/src/i18n/de.ts
+  s_dfdecca1a9286a::t_be95637cd6c77c 890
+backend/migrations/core/1791782102_stored_company_clocks_count_a_contact_serving_notice.up.sql
+  s_dfdecca1a9286a::t_895b40e47583a0 5
+  s_dfdecca1a9286a::t_edae8c39ff77a3 1-4,6-19
+backend/internal/compose/jobdeclared_test.go
+  s_dfdecca1a9286a::t_2989e532b29ef9 513
+  s_dfdecca1a9286a::t_8989d2735e0c83 500-512,514-516
+backend/internal/compose/jobs_databasesweeps.go
+  s_dfdecca1a9286a::t_2989e532b29ef9 30,74
+  s_dfdecca1a9286a::t_877ebdeca3b3b1 31-32
+  s_916a92b79c427a::t_7eba1bec583ead 75-76
+backend/internal/compose/integration/noticeperiodclock_integration_test.go
+  s_dfdecca1a9286a::t_2dce6d153a2316 1-31,34-38,41,43-71,73-74,79-81,83-99,102-111
+  s_dfdecca1a9286a::t_b7132a1fa5c584 32-33,42,72,75-78,101
+  s_dfdecca1a9286a::t_956630a554886b 39-40,82,100
+frontend/src/i18n/vi.ts
+  s_dfdecca1a9286a::t_be95637cd6c77c 868
+backend/migrations/core/1791782101_the_company_clock_counts_a_contact_serving_notice.down.sql
+  s_dfdecca1a9286a::t_80e99c1bc565ef 1-3,5-56
+  s_dfdecca1a9286a::t_583fbf4cba8135 4
+backend/gates/edgereaders_test.go
+  s_dfdecca1a9286a::t_ce5a85b0b79fee 92
+  s_dfdecca1a9286a::t_f8737b72281088 93-118
+backend/migrations/noticeperiodrefold_integration_test.go
+  s_dfdecca1a9286a::t_1468745af4a9d7 23
+  s_dfdecca1a9286a::t_55b8fd27e9bbde 1-22,25-33,35-40,42-79,83-111
+  s_916a92b79c427a::t_5a7929d77ba00f 24,34,41,80-82
+backend/migrations/testdata/head_catalog.txt
+  s_dfdecca1a9286a::t_ecb3930b5dab0c 4765-4766,4804-4805
+backend/internal/platform/jobs/specs_gen.go
+  s_dfdecca1a9286a::t_8989d2735e0c83 14,351-359
+  s_dfdecca1a9286a::t_b0766256299fef 360
+backend/gates/companyreaders_test.go
+  s_dfdecca1a9286a::t_ce5a85b0b79fee 97
+  s_dfdecca1a9286a::t_f8737b72281088 98
+backend/gates/remediationnotbuyeractivity_test.go
+  s_dfdecca1a9286a::t_0df39cbb7019e2 129
+  s_dfdecca1a9286a::t_ab35370408854a 102-106
+  s_916a92b79c427a::t_8279e00afbb3b2 101
+backend/internal/modules/contacts/departedemployerclock.go
+  s_dfdecca1a9286a::t_01a51ddd33bc3c 25-26
+  s_dfdecca1a9286a::t_4534ebb675c8bb 1-24,27-78
+frontend/src/i18n/en.ts
+  s_dfdecca1a9286a::t_be95637cd6c77c 871
+backend/migrations/core/1791782101_the_company_clock_counts_a_contact_serving_notice.up.sql
+  s_dfdecca1a9286a::t_16acef8a9e879f 5-6
+  s_dfdecca1a9286a::t_7f67a7d8ddb47d 58
+  s_dfdecca1a9286a::t_80e99c1bc565ef 1-4,7-40,42-57,59-60
+  s_dfdecca1a9286a::t_45a0813f0de11f 41
+backend/internal/shared/kernel/employment/employment_test.go
+  s_dfdecca1a9286a::t_63c0172337ab68 65-77
+  s_dfdecca1a9286a::t_da8d1cf90037dc 63-64
+backend/internal/shared/kernel/employment/employment.go
+  s_dfdecca1a9286a::t_94ed7e2b22e8e9 67
+  s_dfdecca1a9286a::t_ea0e3844c4f48a 62-66,68-70
+backend/gates/accountreachcopies_test.go
+  s_dfdecca1a9286a::t_95cd708abf27f5 157,163
+  s_dfdecca1a9286a::t_7709fc264f6373 88-90
+  s_dfdecca1a9286a::t_a99edee0120ddc 93-116,123,125-129,131-136,138-139,146,152,155-156,161-162,164-165,168-171,174-178,185-198,205,209-218,220-221,224-231,234-235
+  s_dfdecca1a9286a::t_4e5a157d21ed84 141,148,153-154,159-160,166-167,172-173,180
+  s_dfdecca1a9286a::t_8558921c8816d8 237-240
+  s_dfdecca1a9286a::t_1cc484867db011 140,158,179,236
+backend/internal/compose/jobs_departedemployerclock.go
+  s_dfdecca1a9286a::t_21d10af35bf54d 1-56
+backend/migrations/core/1791782102_stored_company_clocks_count_a_contact_serving_notice.down.sql
+  s_dfdecca1a9286a::t_0a60febfc92122 1-5
+backend/api/jobs.yaml
+  s_dfdecca1a9286a::t_11bb2eb65d1b90 1023-1040
+backend/internal/compose/jobs.go
+  s_dfdecca1a9286a::t_2989e532b29ef9 446
+backend/internal/compose/jobkinds_gen.go
+  s_dfdecca1a9286a::t_8989d2735e0c83 14,58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e62f14ec97e2a960741903c0d2acfdf718db072",
+  "prompts": {},
+  "sessions": {
+    "s_916a92b79c427a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01d39abd-8076-4061-ad26-ee4c02fef750",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_dfdecca1a9286a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a95d6e95-5db6-4b3d-a6ea-1a258ada8830",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
