@@ -1,0 +1,33 @@
+frontend/src/i18n/en.ts
+  s_0ce78016542ad8::t_82f9e54b0306ed 2995
+  s_0ce78016542ad8::t_96a84cf53b64ac 2993,2997
+docs/handbook/records.md
+  s_0ce78016542ad8::t_d4fd159f3a5420 389
+  s_0ce78016542ad8::t_603ce4d385b5c6 387
+  s_0ce78016542ad8::t_d1898fd72699ca 391
+  s_0ce78016542ad8::t_55a9deab644160 386
+frontend/src/i18n/de.ts
+  s_0ce78016542ad8::t_c1eb7c74e80674 2934,2938
+  s_0ce78016542ad8::t_4c34561835c9a0 2936
+frontend/src/i18n/vi.ts
+  s_0ce78016542ad8::t_5dd28a6f8b6f6e 2880
+  s_0ce78016542ad8::t_8c2f2f6c316553 2878,2882
+backend/internal/modules/knowledge/handbook/records.md
+  s_0ce78016542ad8::t_e29d45ab723c7a 386-387,389,391
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1ad7b88c0a9b9c555bab4e15b0b17f86992b7c0a",
+  "prompts": {},
+  "sessions": {
+    "s_0ce78016542ad8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "804ebd52-31a8-4645-9227-a217823cfac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
