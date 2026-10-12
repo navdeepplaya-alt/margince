@@ -1,0 +1,119 @@
+backend/api/crm.yaml
+  s_4ea245a9728248::t_8a2c1e9bec049b 58889-58896
+backend/gates/livemember_test.go
+  s_4ea245a9728248::t_ec11445b9421c9 106
+backend/gates/tableownershipwaivers_test.go
+  s_4ea245a9728248::t_f9f3d0f2dc36c3 163
+backend/internal/compose/attention/meetinghorizon.go
+  s_4ea245a9728248::t_5904108f54a83c 25-26,100,103
+backend/internal/compose/attention/meetinghorizon_test.go
+  s_4ea245a9728248::t_34c50a090af149 187-219
+backend/internal/compose/attention/readings.go
+  s_4ea245a9728248::t_bce05587366d94 161,178-188
+backend/internal/compose/attention/worklist.go
+  s_4ea245a9728248::t_41dca74528dac6 187-200,357
+backend/internal/compose/extingressdrift_test.go
+  s_4ea245a9728248::t_acb9ca52b93132 124-126
+backend/internal/compose/reportnativemoney_test.go
+  s_4ea245a9728248::t_b6aeb454f5ab1f 35-36
+backend/internal/compose/requestsettle.go
+  s_4ea245a9728248::t_5bc2ceb1330650 255-256,258
+backend/internal/contracts/api_gen.go
+  s_4ea245a9728248::t_e94a22794ffc4f 49184-49193
+backend/internal/modules/activities/ourownoutbound.go
+  s_4ea245a9728248::t_89b8dba84b77ad 30-33,48
+backend/internal/modules/activities/ourownoutbound_test.go
+  s_4ea245a9728248::t_861e4c347e1260 65
+backend/internal/modules/activities/requestsettlement_integration_test.go
+  s_4ea245a9728248::t_21d5f3bfd77e65 390-421
+backend/internal/modules/capture/fields.go
+  s_4ea245a9728248::t_d71333ec54fe30 9-10,46-49
+backend/internal/modules/capture/importrow.go
+  s_4ea245a9728248::t_fb7f67d8518252 165
+backend/internal/modules/capture/sentbycolleague.go
+  s_4ea245a9728248::t_eb3ce348b218e3 1-100
+backend/internal/modules/capture/sentbycolleague_integration_test.go
+  s_4ea245a9728248::t_393e567ff638f7 1-136
+backend/internal/modules/capture/sentfromownaddress.go
+  s_4ea245a9728248::t_84a65643934a4d 27-30
+backend/internal/modules/capture/sinkactivity.go
+  s_4ea245a9728248::t_717ce4f8112445 243,444,450
+backend/internal/modules/contacts/acquiredhistory.go
+  s_4ea245a9728248::t_4c1b089cb42450 62-64,85
+backend/migrations/core/1791775182_a_colleagues_mail_is_ours.down.sql
+  s_4ea245a9728248::t_142e27ae66a16b 1-12
+backend/migrations/core/1791775182_a_colleagues_mail_is_ours.up.sql
+  s_4ea245a9728248::t_2d5729db562ca9 1-79
+backend/migrations/core/1791775183_a_colleagues_mail_check_is_validated.down.sql
+  s_4ea245a9728248::t_bb92241bd06008 1-3
+backend/migrations/core/1791775183_a_colleagues_mail_check_is_validated.up.sql
+  s_4ea245a9728248::t_a775524ee315a5 1-5
+backend/migrations/testdata/head_catalog.txt
+  s_4ea245a9728248::t_80620219151b66 8,43,97
+docker-compose.dev.yml
+  s_4ea245a9728248::t_92a02d98ea0628 53,229
+docs/reference/entity-model/README.md
+  s_4ea245a9728248::t_b8f55dbcafe065 32-33,42,45,64,132,163
+docs/reference/entity-model/activities.md
+  s_4ea245a9728248::t_8ce83845e6b21a 9,56,82,91
+docs/reference/entity-model/identity.md
+  s_4ea245a9728248::t_8c69e07d0527ef 9
+frontend/src/api/schema.d.ts
+  s_4ea245a9728248::t_3839736b69ba9f 44490-44497
+frontend/src/design-system/presslatch.test.tsx
+  s_4ea245a9728248::t_14540d34f9ae0b 6,11-14,122,134-137,140-143,148-180
+frontend/src/design-system/presslatch.ts
+  s_4ea245a9728248::t_a9b9d7417c116a 4-10,46-47
+frontend/src/design-system/richtext.test.tsx
+  s_4ea245a9728248::t_085701cb0cd52e 150,152,156
+frontend/src/screens/analytics.explain.test.tsx
+  s_4ea245a9728248::t_3a8fd784eeaf48 498-513
+frontend/src/screens/analytics.explain.tsx
+  s_4ea245a9728248::t_d73ccb2d5150cb 19,153-162,171-173
+frontend/src/screens/brief.feed.tsx
+  s_4ea245a9728248::t_47b126b5d4668c 15,61
+frontend/src/screens/brief.readings.honesty.ts
+  s_4ea245a9728248::t_cae034a72c1e9b 44-52
+frontend/src/screens/brief.readings.sideread.test.tsx
+  s_4ea245a9728248::t_1626113cea6506 1-73
+frontend/src/screens/brief.readings.test.tsx
+  s_4ea245a9728248::t_427f5bf1ba15e5 472
+frontend/src/screens/brief.readings.tsx
+  s_4ea245a9728248::t_c1e7a8daaf4a0d 22,230
+frontend/src/screens/brief.sentence.test.ts
+  s_4ea245a9728248::t_f941695b721424 246-257
+frontend/src/screens/brief.sentence.ts
+  s_4ea245a9728248::t_ab830b6f8f08c7 6,100
+frontend/src/screens/compose.css
+  s_4ea245a9728248::t_e465d8807d6d8e 10-36,155,160-161
+frontend/src/screens/composedraftband.stories.tsx
+  s_4ea245a9728248::t_13e41b3c3aed85 15,108,144-148
+frontend/src/screens/composedraftband.tsx
+  s_4ea245a9728248::t_9250e1131c433c 6,8,34,47,54-80,82-89,91-95
+frontend/src/screens/composehead.css
+  s_4ea245a9728248::t_40eeab8de87ef7 17-27
+frontend/src/screens/composehead.stories.tsx
+  s_4ea245a9728248::t_31b28306e4e4e7 81-86
+frontend/src/screens/composehead.tsx
+  s_4ea245a9728248::t_31ed6dfd722ae4 167-171,185,211-215,265-269
+frontend/src/screens/composethread.css
+  s_4ea245a9728248::t_aa15bfaa048027 8,20
+frontend/src/screens/composethread.stories.tsx
+  s_4ea245a9728248::t_132ef48be89ef3 106,114-120,135-140,142-154,157-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e6bb46da2a7332977312e20b63b48f0524c0f625",
+  "prompts": {},
+  "sessions": {
+    "s_4ea245a9728248": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a1c4008-3f1d-4335-8411-0fa78106a825",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
