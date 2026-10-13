@@ -1,0 +1,21 @@
+backend/internal/compose/csvinjection_test.go
+  s_3e6db3e6b349b1::t_f42169fe16b87e 54
+backend/internal/shared/kernel/formulacell/formulacell.go
+  s_3e6db3e6b349b1::t_0faa44c91fdb69 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0c01a888282a57930ef41eaa021ff1bc9bbab565",
+  "prompts": {},
+  "sessions": {
+    "s_3e6db3e6b349b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5edafda6-49e6-4886-baed-36b654011d49",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
