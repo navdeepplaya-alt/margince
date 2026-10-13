@@ -1,0 +1,250 @@
+backend/internal/compose/aicert/records/cold_start/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-312
+backend/internal/compose/draftcheck/unbroken_test.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 20
+backend/gates/configpresets_test.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 149
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case6_ask_the_company.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 8,17-18,20
+backend/internal/compose/aicert/records/capture_counterparty_verdict/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-486
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case56_not_the_same.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 16-18,21
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case30_a_word_for_it.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 17-19,22
+backend/internal/compose/aicert/records/rate_extract/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-74
+backend/internal/compose/aicert/records/nl_search/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-302
+backend/internal/compose/aicert/records/summarize/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-267
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case2_business_card.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 6,15-16,18
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case7_ask_for_a_number.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 16-17,19
+docs/reference/ai-certification.md
+  s_0ce78016542ad8::t_ae5ca03e5ec127 50,605-606,608-632,634-683,685-691,948-949,951-955,959-1009,1011,1218,1221-1222,1290-1303,1305-1328,1330-1336,1492,1505,1516-1517,1528,1542,1554-1555,1562,1576,1588-1589,1598,1610,1622-1623,1632,1648,1658,1667,1692,1700,1709,1739,1747,1756,1769,1781-1782,1791,1807,1818-1819,1826,1838,1849-1850,1857,1869,1880-1881,1888,1903,1914-1915,1924,1940,1951,1959,1973,1984-1985,2022,2034,2047-2048,2055,2067,2080-2081,2088,2101,2114-2115,2122,2136,2149-2150,2157,2172,2185-2186,2195,2208,2218,2227,2240,2251-2252,2263,2285,2295-2296,2306,2322,2333-2334,2343,2360,2370,2379,2393,2404-2405,2414,2427,2439-2440,2449,2466,2476,2485,2504,2515-2516,2525,2541,2551,2559,2573,2584-2585,2594,2610,2621-2622,2631,2651,2662-2663,2674,2687,2698-2699,2706,2719,2730-2731,2738,2750,2761-2762,2769,2782,2793-2794,2801,2813,2824-2825,2832,2844,2855-2856,2888,2905,2916-2917,2926,2938,2949-2950,2957,2969,2980-2981,2988,3000,3011-3012,3019,3031,3042-3043,3052,3066,3077-3078,3087,3103,3114-3115
+  s_0ce78016542ad8::t_f562b52544fe45 38,61,607,633,684,950,956-958,1216,1375-1376
+  s_0ce78016542ad8::t_78f9f59814ab6b 1010,1012
+backend/internal/compose/draftcore/draftcore_test.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 50,200,205,217,227
+backend/internal/compose/aicert/records/deal_health/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-121
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case45_move_the_deal_on.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 17-18,20
+config/presets/openrouter_openai.yaml
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-59
+backend/internal/compose/aicert/records/stage_evidence_extract/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-181
+backend/internal/compose/aicert/records/growth_fit/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-102
+backend/internal/compose/aicert/records/account_scan/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-100
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case32_two_words_for_one_thing.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 18-20,23
+backend/internal/compose/aicert/records/transcript_propose/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-199
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case10_finish_the_import.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 16-19,22
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case54_a_word_from_the_fair.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 15-16,18
+backend/internal/compose/aicert/records/signal_extract/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-202
+docs/reference/mcp-info.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 13,15,19,22,4113,4317
+backend/internal/compose/draftcheck/groupgreeting_internal_test.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-27
+backend/internal/compose/aicert/records/cert_judge/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-74
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case56_not_the_same.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 6,15-16,18
+backend/internal/compose/aicert/records/signal_extract/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-208
+backend/internal/compose/aicert/records/owed_verdict/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-130
+backend/internal/compose/aicert/records/summarize/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-282
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case8_whats_waiting.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 17-18,20
+backend/internal/compose/aicert/records/agent_loop/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-135
+backend/internal/compose/draftcheck/rule.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 83-87
+backend/internal/compose/aicert/records/offer_draft/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-165
+backend/internal/compose/aicert/records/stage_evidence_extract/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-181
+backend/internal/compose/aicert/records/propose_roles/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-115
+backend/internal/compose/draftcheck/draftcheck.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 239,249
+backend/internal/compose/aicert/records/site_triage/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-161
+backend/internal/compose/aicert/records/enrich/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-74
+backend/internal/compose/aicert/records/cold_start/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-306
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case2_business_card.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 16-18,21
+backend/internal/compose/draftcore/writer.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 95-97,229,396
+backend/internal/modules/ai/pricing_test.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 271
+backend/internal/compose/aicert/records/voice_build/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-162
+backend/internal/compose/aicert/records/growth_fit/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-102
+backend/internal/compose/draftcheck/greeting.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 7,9-15,18,21-31,34-37,40-284,295,300-301
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case54_a_word_from_the_fair.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 6,15-18,21
+backend/internal/compose/contactdraft/deterministic.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 90
+backend/internal/compose/aicert/records/request_settlement/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-184
+backend/internal/compose/aicert/records/weekly_review/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-164
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case49_who_can_introduce_us.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-26
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case9_filed_in_the_wrong_place.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 17-18,20
+config/presets/README.md
+  s_0ce78016542ad8::t_ae5ca03e5ec127 16
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case3_spreadsheet.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 7,16-19,22
+backend/internal/compose/aicert/records/site_fact_extract/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-115
+backend/internal/compose/aicert/records/agent_loop/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-135
+backend/internal/compose/replydraftmodel.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 168-169
+backend/internal/compose/aicert/records/draft_reply/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-333
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case31_wrong_word_on_the_record.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 7,16-17,19
+backend/internal/compose/aicert/records/nl_search/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-302
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case32_two_words_for_one_thing.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 17-18,20
+backend/internal/compose/aicert/records/weekly_learnings/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-115
+backend/internal/compose/replydraft_test.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 154,206,231,255,409,489
+backend/internal/compose/aicert/records/brief_ranking/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-60
+backend/internal/compose/aicert/records/site_triage/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-161
+docs/reference/ai-certification.json
+  s_0ce78016542ad8::t_f562b52544fe45 4,6154-6181,6303,7878,7888-7889,7892-7894,7898,7908-7909,7912-7914,7918,7932-7934,7939,8582,8592,8595-8598,8602,8632-8633,8636-8638,8642,9284,9286,9296-9297,9300-9302,9307,9336-9342,9347,9356-9357,9360-9362,9366,10008,10011-10012,10020,10023-10026,10031,10904-10905,10908-10910,10914,10924-10925,10928-10930,10934,15152-15155
+  s_0ce78016542ad8::t_ae5ca03e5ec127 6,9-10,5459-5460,5464-5465,5469-5470,5474-5475,5479-5480,5489-5491,5498-5500,5502,5517-5519,5521-5522,5526-5528,5530,5532,5535-5536,5545-5547,5554-5556,5558,5573-5575,5582-5584,5592-5594,5601-5603,5618-5620,5625-5628,5635-5637,5644-5646,5648,5663-5665,5667-5668,5672-5674,5676-5678,5681-5684,5691-5693,5695,5698-5701,5708-5710,5712,5717-5719,5721-5722,5726-5727,5729,5736-5738,5753-5755,5757-5758,5762-5764,5766-5768,5771-5774,5781-5783,5786,5790-5792,5796,5809-5811,5813,5818-5820,5822-5823,5828-5830,5837-5839,5841-5842,5846-5848,5850-5856,5865-5867,5869-5870,5874-5876,5878-5880,5883,5885-5886,5893-5895,5897-5898,5902-5904,5907-5908,5911-5913,5921-5923,5925,5930-5932,5934-5935,5939-5942,5949-5951,5954,5958-5960,5962,5964,5967-5968,5977-5979,5981-5982,5986-5988,5991-5992,5995-5998,6005-6007,6009-6010,6014-6016,6018-6020,6023-6026,6033-6035,6037,6040-6043,6050-6052,6054,6059-6061,6063-6064,6069-6071,6078-6080,6087-6089,6091,6096-6097,6106-6108,6110,6115-6117,6119-6120,6124-6126,6134-6136,6138-6139,6143-6145,6147-6149,6152-6153,6182-6302,6304-7004,7873,7877,7879-7880,7884-7886,7891,7895,7897,7899,7905,7915,7917,7919,7925,7935,7937,7949,7956,7963,7970,7976-7978,7984,7991,7998,8004-8006,8010-8012,8019,8022,8024-8025,8033,8038-8039,8046-8048,8054,8061,8066-8068,8075,8080-8082,8089,8096,8103,8110,8117,8124,8131,8134,8136-8138,8144-8146,8148-8152,8158-8160,8162-8166,8173,8178-8180,8187,8190,8192-8194,8201,8204,8206-8208,8215,8222,8229,8236,8243,8250,8257,8264,8271,8278,8285,8292,8299,8306,8312-8314,8317-8320,8327,8332-8334,8341,8344,8347-8348,8354-8356,8358,8360-8362,8369,8376,8383,8390,8396-8398,8400,8403-8404,8411,8414,8416-8418,8425,8428,8430-8432,8439,8442,8444-8446,8453,8460,8467,8474,8481,8486-8488,8495,8502,8509,8512,8515-8516,8523,8526,8530,8537,8544,8551,8556-8558,8564-8566,8568,8570-8572,8577,8581,8583-8584,8588-8590,8593,8599,8601,8603,8609-8610,8616-8619,8621-8623,8629,8639,8643,8653-8654,8660,8667-8668,8674,8680-8682,8688,8695-8696,8702,8708-8710,8714-8716,8723-8724,8728-8730,8737-8738,8742-8744,8750-8752,8758,8765-8766,8772,8779-8780,8784-8786,8793-8794,8800,8807-8808,8814,8821,8835-8836,8840-8842,8848-8850,8852-8856,8862-8863,8866,8868-8869,8877,8880,8884,8891-8892,8894,8896-8898,8905-8906,8908,8910-8912,8919-8920,8926,8933,8938-8940,8947,8954,8961,8966-8968,8975-8976,8978,8981-8982,8989-8990,8996,9003,9010,9016-9018,9021-9024,9031-9032,9038,9045-9046,9050-9051,9058-9060,9064-9066,9073-9074,9080,9087-9088,9090,9093-9094,9100-9102,9104,9107-9108,9115,9120-9122,9129,9136,9143,9148-9150,9157,9160,9162-9164,9171,9176-9178,9185-9186,9188,9190-9192,9199,9206,9213,9218-9220,9227,9230,9232-9234,9241,9244,9246-9248,9255,9260-9262,9268-9270,9274-9276,9281-9282,9285,9287-9288,9292-9294,9299,9303,9305-9306,9308-9335,9343-9346,9348-9355,9358-9359,9363-9365,9367,9376-9378,9384,9390-9392,9395,9398,9404-9406,9412,9418-9420,9426,9432-9434,9436,9439-9440,9446-9448,9450,9452-9453,9460-9462,9466-9467,9474-9476,9482,9488-9490,9494-9496,9502-9504,9506-9507,9509-9510,9516-9518,9522-9524,9530-9532,9534-9538,9544-9546,9548,9550-9552,9558-9560,9562,9564-9566,9572-9574,9576-9580,9586-9588,9591-9594,9600,9615-9616,9619-9622,9628-9630,9632-9636,9642-9644,9647,9650,9656-9658,9660,9662-9678,9684-9686,9688-9692,9698-9700,9703-9706,9712-9714,9716,9718-9720,9726-9728,9730-9734,9740-9742,9744-9748,9754-9756,9758-9762,9768-9770,9774-9776,9782-9784,9790,9796-9798,9802-9804,9810-9812,9816-9818,9824-9826,9828,9832,9838-9840,9842,9844-9846,9852-9854,9860,9866-9868,9870,9872-9874,9880-9882,9884-9888,9894-9896,9898-9902,9908-9910,9912-9916,9922-9924,9926,9930,9936-9938,9940,9943-9944,9950-9952,9958,9964-9966,9972,9978-9980,9982-9984,9986,9992-9994,9996,9998-10000,10005,10009-10010,10016-10018,10021,10027,10029-10030,10040-10042,10054-10056,10059,10068-10070,10082-10084,10096-10098,10100,10103,10110-10112,10114,10116-10117,10124-10126,10130-10131,10138-10140,10152-10154,10156,10158-10159,10166-10168,10170-10171,10173,10180-10182,10186-10187,10194-10210,10214-10215,10222-10224,10226,10228-10229,10236-10238,10240-10243,10250-10252,10255-10257,10264-10266,10269-10271,10278-10280,10282-10285,10292-10294,10296-10299,10306-10308,10310-10311,10317-10318,10320-10322,10324,10326-10327,10334-10336,10338-10341,10348-10350,10352-10355,10362-10364,10368-10369,10376-10378,10380-10383,10390-10392,10396,10412-10414,10417,10421,10898-10903,10906-10907,10911-10913,10915-10923,10926-10927,10931-10933,10935-10937,11176-11221,11513-11558,11625-11635,11899-11944,12218-12263,12500-12522,12754-12781,12783-12784,13064-13086,13352-13397,13658-13703,13946-13993,14239-14284,14545-14592,14812-14836,14848,14858-14859,14871-14872,14881-14882,15116-15151,15156-15161,15545-15590,15911-15956,16289-16334,16669-16714,17058-17105,17107-17108,17110,17355-17377,17627-17672,17949-17994,18236-18281,18551-18573,18830-18875,19131-19184,19186,19191,19455-19477,19787-19832,20083-20105,20331-20376,20637-20682,20967-21012,21227-21273,21276,21283-21284,21287,21290-21291,21293-21294,21296,21548-21593,21654,21657,21832-21877,22122-22167,22414-22459,22714-22759,23046-23093,23102-23103,23112-23113,23369-23414,23652-23697,23934-23979,24217-24262,24523-24568,24842-24887
+  s_0ce78016542ad8::t_655fa34f2b1bca 8864,8867,8870,9601-9602,9604-9605,9608,9614,10394-10395,10397,10404-10406,10408-10411,10415-10416,10418-10420,10422,10424-10425,10432-10434,10436,10439,10446-10448,10452-10453,10460-10462,10466-10467,10474-10476,10480-10481,10488-10490,10494-10495,10502-10504,10508-10509,10516-10518,10523,10530-10532,10535-10537,10544-10546,10549,10551,10558-10560,10563-10565,10572-10574,10578-10579,10586-10588,10590,10592-10593,10600-10602,10606-10607,10614-10616,10628-10630,10632-10635,10642-10644,10646,10648-10649
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case31_wrong_word_on_the_record.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 17-19,22
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case44_chase_what_is_slipping.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 8,17-18,20
+backend/internal/shared/kernel/draftfloor/envelope.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 137-146
+docs/reference/mcp-info.md
+  s_0ce78016542ad8::t_ae5ca03e5ec127 16,18,32-33,36,82-83,4687-4689,4913-4914
+backend/internal/compose/aicert/records/voice_build/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-162
+docs/reference/agent-tool-budget.md
+  s_0ce78016542ad8::t_ae5ca03e5ec127 60,149,170,178
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case10_finish_the_import.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case47_tidy_the_fair_list.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-25
+backend/internal/compose/aicert/records/corpus_ask/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-161
+backend/internal/modules/knowledge/groundingfloor.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 45-49
+  s_0ce78016542ad8::t_81dedb4b47ad23 44
+backend/internal/modules/ai/pricing.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 301-306,313
+backend/internal/compose/aicert/records/site_extract/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-161
+backend/internal/compose/draftcheck/greeting_test.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 7,12,15-19,26-49,98,101,111,115,126,131,135-302
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case3_spreadsheet.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 7,16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case50_what_moved_my_quarter.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 17-18,20
+backend/internal/compose/aicert/records/rate_extract/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-74
+backend/internal/compose/aicert/records/propose_roles/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-115
+backend/internal/compose/comms_integration_test.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 197,205
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case59_file_it_on_the_meeting_and_the_contract.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 16-17,19
+backend/internal/compose/draftcore/draftcore.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 164
+backend/internal/compose/aicert/records/cert_judge/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-74
+docs/reference/agent-tool-budget.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 34,36,143,174-175,178-179
+backend/internal/compose/draftcheck/worldclaims.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 38-40,42-44
+backend/internal/compose/aicert/records/account_scan/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-100
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case30_a_word_for_it.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 16-17,19
+docs/reference/mcp-tool-coverage.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 22-23,29-35,181,338,347,349,415,417,699,764-772,801-809,872-880,937,969,1011,1144,2182-2183,2188-2190,2215-2216,2239-2244,2325-2330,2352-2353,2358-2359,2385-2386,2409-2414,2448,2466-2467,2496-2501,2646-2648,2679-2710,2906-2911,2943-2944,3004-3006,3112-3113,3204-3209,3290-3295,3320-3321,3403-3408
+backend/internal/compose/aicert/records/capture_classify/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-161
+backend/internal/compose/aicert/records/transcript_propose/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-192
+backend/internal/compose/aicert/records/brief_ranking/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-60
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case50_what_moved_my_quarter.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 8,17-20,23
+backend/internal/compose/aicert/records/site_fact_extract/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-115
+backend/internal/modules/agents/toolcopy_forecast.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 50-51,72-73
+backend/internal/compose/aicert/records/capture_confidentiality_verdict/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-242
+backend/internal/compose/contactdraft/draftinput.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 44-53
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case46_get_us_in_a_room.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-25
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case48_that_whole_thread_is_filed_wrong.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 16-17,19
+docs/reference/mcp-tool-coverage.md
+  s_0ce78016542ad8::t_ae5ca03e5ec127 21,37,50,59-60,62,108-109,162,171-172,176,192,196,198,202,205,207,210,218,324,332,338,368-369,372-373,380-381,384,387,389-390,392,407,417-420,424-425,428
+backend/internal/compose/aicert/records/weekly_learnings/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-115
+backend/internal/compose/aicert/records/weekly_review/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-182
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case57_put_it_on_the_file.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 17-18,20
+backend/internal/compose/aicert/records/offer_draft/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-165
+backend/internal/compose/aicert/records/deal_health/openai_compatible_openai_gpt-6-sol_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-118
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case5_before_the_meeting.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 18-19,21
+backend/internal/compose/accountdraft/draftinput.go
+  s_0ce78016542ad8::t_ae5ca03e5ec127 40-42
+backend/internal/compose/aicert/records/draft_reply/openai_compatible_openai_gpt-6-luna_cloud_frontier.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 1-330
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case58_quiet_for_three_weeks.json
+  s_0ce78016542ad8::t_ae5ca03e5ec127 15-16,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f7fdaca42b105f2f9f0072789a41141f2653e6a9",
+  "prompts": {},
+  "sessions": {
+    "s_0ce78016542ad8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "804ebd52-31a8-4645-9227-a217823cfac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
