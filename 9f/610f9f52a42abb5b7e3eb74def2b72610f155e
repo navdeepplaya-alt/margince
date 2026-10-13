@@ -1,0 +1,22 @@
+backend/internal/compose/draftcheck/greeting.go
+  s_0a769540c3bcf9::t_faf37419b882d5 134-135,139,151-163
+  s_0a769540c3bcf9::t_4592c3513bd322 164-165
+backend/internal/compose/draftcheck/greeting_test.go
+  s_0a769540c3bcf9::t_faf37419b882d5 148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9f610f9f52a42abb5b7e3eb74def2b72610f155e",
+  "prompts": {},
+  "sessions": {
+    "s_0a769540c3bcf9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b7b268d-4a62-496d-97f9-de3f27ae8010",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
