@@ -1,0 +1,39 @@
+frontend/src/i18n/de.ts
+  s_05d944734ad216::t_a904b75b869d09 8190-8196,10089-10096
+frontend/src/i18n/en.ts
+  s_05d944734ad216::t_7e676364b277d3 8353-8359,10208-10215
+frontend/src/i18n/vi.ts
+  s_05d944734ad216::t_30bf7ed62b8aab 8014-8020,9875-9882
+frontend/src/screens/auth-signin.tsx
+  s_05d944734ad216::t_e41cf32fbf6b5c 1-156
+frontend/src/screens/auth.stories.tsx
+  s_05d944734ad216::t_14bafa27229e19 7,418-489
+frontend/src/screens/auth.test.tsx
+  s_05d944734ad216::t_e69fbdb455cea3 360-487
+frontend/src/screens/auth.tsx
+  s_05d944734ad216::t_fca88f02a1b124 7,28-34,99,144-148,262,292-295,300-307,450,463,492-499,505,507-508
+frontend/src/screens/settingscatalog.ts
+  s_05d944734ad216::t_7d328a79a6ea4d 357-358
+frontend/src/screens/sign-in-methods.stories.tsx
+  s_05d944734ad216::t_bd877039ed2a50 7,33-34,39-40,48,59-64,138-172
+frontend/src/screens/sign-in-methods.test.tsx
+  s_05d944734ad216::t_3058a1703d0e59 47,51,56-64,82,94,175-249
+frontend/src/screens/sign-in-methods.tsx
+  s_05d944734ad216::t_b016a8e26329e3 5,10,30-34,53,56-59,63,99-109,114-117,170-171,184,286-290,346-348,355,390-411,427-428,430-431,436,453-474
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e638ac1b7b420f11ffe13ea68aa54e4b3f9eb6b",
+  "prompts": {},
+  "sessions": {
+    "s_05d944734ad216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "35c18ba7-20bd-45b6-b5ba-74e804494860",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
