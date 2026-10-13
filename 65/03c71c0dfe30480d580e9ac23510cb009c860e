@@ -1,0 +1,2057 @@
+backend/internal/compose/csvpredictinfile.go
+  s_4862d7ef36966f::t_faed330d275ede 9-11,16,35-38,46-51,53,68-69,72-78,81-85,87-89,92,94-109,113,115,118-121,123-124,129-130,138-157,159-162,165-172,177-207,209
+backend/internal/modules/contacts/dedupebatch.go
+  s_4862d7ef36966f::t_52c98368159c66 9-11,13-20,28-30,39-42,46-80,82,86,89,92,95,121-149,151,153-154,159-161,165
+.github/workflows/cache-warm.yml
+  s_4862d7ef36966f::t_0969b98a558e09 220-222
+CHANGELOG.md
+  s_4862d7ef36966f::t_09fa5021e3f227 15-26
+Makefile
+  s_4862d7ef36966f::t_4cce93d60ba847 1272
+backend/api/crm.yaml
+  s_4862d7ef36966f::t_c6fcf6183334e3 1732-1751,6221,7055,7058-7064,17155-17156,27440,27442,27464-27488,27518-27519,27536-27595,27603-27604,27658-27682,30909,30919-30954,30970-30972,32431,32435-32437,32439-32445,33019,33022-33038,33057-33120,33124-33128,33131,33133-33147,33309-33361,33364-33365,33367-33368,33370-33371,33374-33383,33395-33398,33484,33488-33497,33506-33522,41878-41897,43100-43110,43230,43232-43234,56465-56468,56818-56819,57021-57038,58099-58104,58215-58216,58349-58354,58441-58449,58515,58522,58630-58634,59006,59399,59404-59418
+backend/api/jobs.yaml
+  s_4862d7ef36966f::t_700679df075eff 1202-1215,1379-1400
+backend/api/public-events.yaml
+  s_4862d7ef36966f::t_9f19ec0b0f75a3 117,2054-2055,2134-2150,2488-2496,2509-2530
+backend/gates/catalogoptionsreaders_test.go
+  s_4862d7ef36966f::t_b08a137103e0e7 68-70
+backend/gates/companyreaders_test.go
+  s_4862d7ef36966f::t_5f74dee48b7e84 81,162
+backend/gates/docsplainwords_test.go
+  s_4862d7ef36966f::t_fa018407efa890 245
+backend/gates/frontendmailproviders_test.go
+  s_4862d7ef36966f::t_ab27c8ea3481be 33
+backend/gates/frontendproblemcodecopy_test.go
+  s_4862d7ef36966f::t_dac4521b802462 1-320
+backend/gates/leadreaders_test.go
+  s_4862d7ef36966f::t_a153423307b990 93
+backend/gates/mcptoolcount_test.go
+  s_4862d7ef36966f::t_ae26dcee7ffc7c 33-37,90-95
+backend/gates/piicolumncoverage_test.go
+  s_4862d7ef36966f::t_745d2f1816653b 142-144
+backend/gates/rbacgate_test.go
+  s_4862d7ef36966f::t_5f700719fc6e3f 162
+backend/gates/readersetaside_test.go
+  s_4862d7ef36966f::t_935f86287458af 1-98
+backend/gates/runledgerretention_test.go
+  s_4862d7ef36966f::t_6010074ff06ba7 70-71
+backend/gates/tableownerregistry_test.go
+  s_4862d7ef36966f::t_6fc0d3886b2c8d 194-200,515-520
+backend/gates/tableownershipwaivers_test.go
+  s_4862d7ef36966f::t_75766e73a00916 163
+backend/gates/testdata/wallclockfixtures.txt
+  s_4862d7ef36966f::t_2c69cf28d692e9 306,321
+backend/gates/writeauthority_test.go
+  s_4862d7ef36966f::t_d3086da8257450 107,129
+backend/gates/writeliveness_test.go
+  s_4862d7ef36966f::t_7866110fb62c4f 133
+backend/gates/writeshape_test.go
+  s_4862d7ef36966f::t_1d322094e7832b 235-236
+backend/internal/compose/agentbundle/agentcontract_gen.yaml
+  s_4862d7ef36966f::t_0bc5c4411d80e9 8113-8140,9147-9175,9178-9182,9187-9201,9286-9335,9338-9339,9341-9342,9344-9345,9347-9355,9367-9370,9441,9446-9454,9462-9468,14512-14527,15229-15234
+backend/internal/compose/agentbundle/agentindex_gen.txt
+  s_4862d7ef36966f::t_3d122c9e0de8df 378
+backend/internal/compose/agentbundletransport.go
+  s_4862d7ef36966f::t_b6fbee359e4607 78
+backend/internal/compose/agentcommandbothdoors_test.go
+  s_4862d7ef36966f::t_c03c55a110eb3d 543-552
+backend/internal/compose/agentpolicy_gen.go
+  s_4862d7ef36966f::t_f1bc8906a65ff0 328-331
+backend/internal/compose/agentrestparity_test.go
+  s_4862d7ef36966f::t_a6c0391aada75e 35-36,46-49
+backend/internal/compose/agenttoolbudget_test.go
+  s_4862d7ef36966f::t_2bf60ae8cfa77f 24,163-164,168-169
+backend/internal/compose/agenttooldescriptions_test.go
+  s_4862d7ef36966f::t_586b10b9015597 26,170,172
+backend/internal/compose/agenttoolparity_test.go
+  s_4862d7ef36966f::t_3a65136613b3c9 74-75,84-92
+backend/internal/compose/agentunlisted_test.go
+  s_4862d7ef36966f::t_88b5f363947676 1-106
+backend/internal/compose/aicert/corpus/owed_verdict/calendar_reply_01.yaml
+  s_4862d7ef36966f::t_ca42c33e126896 1-26
+backend/internal/compose/aicert/corpus/owed_verdict/calendar_reply_question_01.yaml
+  s_4862d7ef36966f::t_5b6d9ef91914de 1-25
+backend/internal/compose/aicert/corpusjudgeless_test.go
+  s_4862d7ef36966f::t_f327d0b5a8e0a8 186-194
+backend/internal/compose/aicert/records/agent_loop/gemini_gemini-3.1-flash-lite_cloud_frontier.json
+  s_4862d7ef36966f::t_3dfcb82e310e4c 6,26-30,33,38,43,57,71,85,99,113
+backend/internal/compose/aicert/records/agent_loop/gemini_gemini-3.6-flash_cloud_frontier.json
+  s_4862d7ef36966f::t_bdf542a9062e24 1-126
+backend/internal/compose/aicert/records/agent_loop/openai_compatible_google_gemma-4-31b-it_cloud_frontier.json
+  s_4862d7ef36966f::t_c105d84559aa09 6,26-31,50,55,69,83,97,100-101,103-104,111,114-115,117-118,125
+backend/internal/compose/aicert/records/agent_loop/openai_compatible_mistralai_ministral-14b-2512_eu_hosted.json
+  s_4862d7ef36966f::t_bac89429390eb2 6,26-31,33,50,55,69,83,97,111,125
+backend/internal/compose/aicert/records/agent_loop/openai_compatible_mistralai_mistral-medium-3-5_cloud_frontier.json
+  s_4862d7ef36966f::t_15994ed5e00eb6 6,26-31,33,48,53,67,81,95,109,123
+backend/internal/compose/aicert/records/agent_loop/openai_compatible_mistralai_mistral-medium-3-5_eu_hosted.json
+  s_4862d7ef36966f::t_70bf989f3ff95f 6,26-31,33,50,55,69,83,97,111,125
+backend/internal/compose/aicert/records/agent_loop/openai_compatible_openai_gpt-oss-120b_cloud_frontier.json
+  s_4862d7ef36966f::t_4b1b02605dd9df 6,9-13,26-31,33,51,56,70,84,98,112,126,129-130,132-133
+backend/internal/compose/aicert/records/draft_reply/gemini_gemini-3.1-flash-lite_cloud_frontier.json
+  s_4862d7ef36966f::t_219799f399fb16 6,9-10,12,24-30,33,38,43,46-47,49,52-54,61,69,72-73,75-76,78-80,87,95,101-109,124-128,130-138,145,153-157,161-166,174,182,185-186,188-189,192-193,200,208,211-212,214,216-219,226,237-238,240-243,245,252,263-264,266-268,270-274,281,289,292-293,296,298-300,307,315,318-319,321-326,333,341,344-345,347-349,351-354,362
+backend/internal/compose/aicert/records/draft_reply/gemini_gemini-3.6-flash_cloud_frontier.json
+  s_4862d7ef36966f::t_18499715191806 1-339
+backend/internal/compose/aicert/records/draft_reply/openai_compatible_google_gemma-4-31b-it_cloud_frontier.json
+  s_4862d7ef36966f::t_4068ea8c6e2ad1 6,9-13,24-31,50,55,61-62,78,84-86,101,107,109,124,132,147,153-161,176,179-180,182-187,194,202,208-210,226-229,232,234-239,246-247,260-262,277,280-281,283-284,286,288-291,298,306,312-316,318,320,335,341-343
+backend/internal/compose/aicert/records/draft_reply/openai_compatible_mistralai_ministral-14b-2512_eu_hosted.json
+  s_4862d7ef36966f::t_92d3bc8f989f3a 6,9-12,24,26-31,33,50,55,58-59,61-63,70,78,84,86,101-105,108-109,116,124,128-133,139,141-142,147,153,155,170-174,177-178,185,193,196-197,199-204,211,243-244,248-250,265-269,271,273-274,276,283,285,291-300,306,308,310,315-319,321-323,330,332
+backend/internal/compose/aicert/records/draft_reply/openai_compatible_mistralai_mistral-medium-3-5_cloud_frontier.json
+  s_4862d7ef36966f::t_287f43cac60c19 6,9-13,26-31,33,48,53,56-57,59-60,63-64,71,79,82-83,86,90,97,105,108-109,113,115,123,131,137-145,160,163-164,166,168,170-171,178,186,192-194,197,199-200,215,218-219,222,224-226,233,244,260,270-271,274-278,285,293,296-297,299,301,304,311,319,325-331,333,348,351-352,356-359,366
+backend/internal/compose/aicert/records/draft_reply/openai_compatible_mistralai_mistral-medium-3-5_eu_hosted.json
+  s_4862d7ef36966f::t_0e9ad49c111364 6,9-12,24,26-31,33,50,55,62-65,81,88-89,91-92,107,116-117,133-137,139-147,154,162,168,170-173,188,194-199,201-202,217,223,225,227-228,276-279,295,301,303-306,321,324-325,327,329-332,334-335,342,350,358,360-361
+backend/internal/compose/aicert/records/draft_reply/openai_compatible_openai_gpt-oss-120b_cloud_frontier.json
+  s_4862d7ef36966f::t_8af4ca554bdd61 6,10-12,14,24-31,33,51,56,63,65-67,82,90,92-93,108,115-117,119,134,140-142,144-148,163,169-172,174,189-193,195-199,201-203,210,218,224,226-229,245-248,254-255,262,264,277-281,296,299-300,302-307,309-310,317,325-329,331-333,336,343,351-353,357-358,360-365
+backend/internal/compose/aicert/records/enrich/gemini_gemini-3.1-flash-lite_cloud_frontier.json
+  s_4862d7ef36966f::t_e261df3db0df53 6,21-25,28,33,38,52
+backend/internal/compose/aicert/records/enrich/openai_compatible_google_gemma-4-26b-a4b-it_cloud_frontier.json
+  s_4862d7ef36966f::t_be1e7dd5371847 6,9-10,12,15,21-25,45,50-51,53-54,56,59,64-65,67-68,70,73
+backend/internal/compose/aicert/records/enrich/openai_compatible_google_gemma-4-31b-it_cloud_frontier.json
+  s_4862d7ef36966f::t_1389d54bd0fa5d 6,21-26,45,50,64
+backend/internal/compose/aicert/records/enrich/openai_compatible_mistralai_ministral-14b-2512_eu_hosted.json
+  s_4862d7ef36966f::t_fc10b6db454d85 6,21-26,28,45,50,64
+backend/internal/compose/aicert/records/enrich/openai_compatible_mistralai_ministral-8b-2512_eu_hosted.json
+  s_4862d7ef36966f::t_b122c3c635683c 6,21-26,28,45,50,64
+backend/internal/compose/aicert/records/enrich/openai_compatible_openai_gpt-oss-120b_cloud_frontier.json
+  s_4862d7ef36966f::t_1b9b95a2da3790 6,21-26,28,46,51,65
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case10_finish_the_import.json
+  s_4862d7ef36966f::t_67ad1565e8ad34 16-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case1_log_it.json
+  s_4862d7ef36966f::t_cb0c29f15ee617 16-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case20_put_it_in_the_board_pack.json
+  s_4862d7ef36966f::t_b0833e091ddcd3 16-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case21_what_are_we_closing.json
+  s_4862d7ef36966f::t_ea84f3c8cf8178 17-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case22_can_i_trust_the_numbers.json
+  s_4862d7ef36966f::t_f57a5219e978da 7,17-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case23_find_us_a_slot.json
+  s_4862d7ef36966f::t_93113952f2ba8d 17-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case2_business_card.json
+  s_4862d7ef36966f::t_dacadca7c9b938 16-18,21
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case30_a_word_for_it.json
+  s_4862d7ef36966f::t_8222e597b561a4 17-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case31_wrong_word_on_the_record.json
+  s_4862d7ef36966f::t_a6c52d5da6dde1 16-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case32_two_words_for_one_thing.json
+  s_4862d7ef36966f::t_69e3d9bbb2b948 18-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case33_two_cards_for_one_company.json
+  s_4862d7ef36966f::t_056d6a5bf4c58e 17-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case3_spreadsheet.json
+  s_4862d7ef36966f::t_a20c3b515d1526 7,16-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case40_sort_the_queue.json
+  s_4862d7ef36966f::t_286a024152101b 18-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case41_close_the_project.json
+  s_4862d7ef36966f::t_c659f0b84c7ced 17-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case42_can_i_answer_on_whatsapp.json
+  s_4862d7ef36966f::t_fd6c8c28909932 16-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case43_the_fair_leads_are_prospects.json
+  s_4862d7ef36966f::t_8a97eaffc4fd24 18-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case44_chase_what_is_slipping.json
+  s_4862d7ef36966f::t_655e9cf2028789 18-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case45_move_the_deal_on.json
+  s_4862d7ef36966f::t_8f54a41d3578b0 17-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case46_get_us_in_a_room.json
+  s_4862d7ef36966f::t_1537127970edf7 17-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case47_tidy_the_fair_list.json
+  s_4862d7ef36966f::t_bb0d470df9b1ef 8,18-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case48_that_whole_thread_is_filed_wrong.json
+  s_4862d7ef36966f::t_fa9f827c41fd03 17-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case49_who_can_introduce_us.json
+  s_4862d7ef36966f::t_888c3c6008ef19 18-21,24
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case4_use_the_moment.json
+  s_4862d7ef36966f::t_3c4300ab3b539c 7,16-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case50_what_moved_my_quarter.json
+  s_4862d7ef36966f::t_53fb8c5d523b1e 8,17-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case54_a_word_from_the_fair.json
+  s_4862d7ef36966f::t_fcc92adb0988f3 15-18,21
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case56_not_the_same.json
+  s_4862d7ef36966f::t_ec5f34d351e71c 16-18,21
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case57_put_it_on_the_file.json
+  s_4862d7ef36966f::t_1adeddf83be845 18-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case58_quiet_for_three_weeks.json
+  s_4862d7ef36966f::t_950108c87162e3 16-18,21
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case59_file_it_on_the_meeting_and_the_contract.json
+  s_4862d7ef36966f::t_b154da5d5ebfaf 16-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case5_before_the_meeting.json
+  s_4862d7ef36966f::t_f2cc253868d329 18-21,24
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case6_ask_the_company.json
+  s_4862d7ef36966f::t_81cfda74acfce9 17-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case7_ask_for_a_number.json
+  s_4862d7ef36966f::t_b94014587d2d8e 16-19,22
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case8_whats_waiting.json
+  s_4862d7ef36966f::t_76d40af1b9c585 18-20,23
+backend/internal/compose/aicert/records/mcp_e2e/claude-sonnet-5-5@claude-cli/case9_filed_in_the_wrong_place.json
+  s_4862d7ef36966f::t_909a1a943820fe 17-20,23
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case10_finish_the_import.json
+  s_4862d7ef36966f::t_a7a0446327d455 16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case1_log_it.json
+  s_4862d7ef36966f::t_eadb25a5dd1b4c 7,16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case20_put_it_in_the_board_pack.json
+  s_4862d7ef36966f::t_15d906b20f8d24 16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case21_what_are_we_closing.json
+  s_4862d7ef36966f::t_8747f938d6fd1b 7,16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case22_can_i_trust_the_numbers.json
+  s_4862d7ef36966f::t_bed361214b2492 16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case23_find_us_a_slot.json
+  s_4862d7ef36966f::t_e8111ffc21b6a8 16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case2_business_card.json
+  s_4862d7ef36966f::t_aba43d5f5e4ea4 6,15-16,18
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case30_a_word_for_it.json
+  s_4862d7ef36966f::t_4a41aaef028833 16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case31_wrong_word_on_the_record.json
+  s_4862d7ef36966f::t_7af6b7843ff602 7,16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case32_two_words_for_one_thing.json
+  s_4862d7ef36966f::t_75e5805fa95f7a 17-18,20
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case33_two_cards_for_one_company.json
+  s_4862d7ef36966f::t_f461e4f6223134 8,17-18,20
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case3_spreadsheet.json
+  s_4862d7ef36966f::t_92a350adf46447 7,16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case40_sort_the_queue.json
+  s_4862d7ef36966f::t_887786f7f0046e 8,17-18,20
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case41_close_the_project.json
+  s_4862d7ef36966f::t_20a6504a1ea35b 16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case42_can_i_answer_on_whatsapp.json
+  s_4862d7ef36966f::t_41b7056da98601 16-17,19
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case43_the_fair_leads_are_prospects.json
+  s_4862d7ef36966f::t_010509c1c351db 17-18,20
+backend/internal/compose/aicert/records/mcp_e2e/gpt-5.6-sol@codex-cli/case4_use_the_moment.json
+  s_4862d7ef36966f::t_4607c76015e268 16-17,19
+backend/internal/compose/aicert/records/nl_search/openai_compatible_google_gemma-4-31b-it_cloud_frontier.json
+  s_4862d7ef36966f::t_43113fc247518d 1-304
+backend/internal/compose/aicert/records/owed_verdict/gemini_gemini-3.1-flash-lite_cloud_frontier.json
+  s_4862d7ef36966f::t_bda28d29ad3f23 6,9-10,12,21-25,28,33,38-66,80,94,108
+backend/internal/compose/aicert/records/owed_verdict/openai_compatible_google_gemma-4-26b-a4b-it_cloud_frontier.json
+  s_4862d7ef36966f::t_bec9d0f70b1ebf 6,8-13,21-26,45,50-78,92,106-107,109-110,112-113,120
+backend/internal/compose/aicert/records/owed_verdict/openai_compatible_google_gemma-4-31b-it_cloud_frontier.json
+  s_4862d7ef36966f::t_1f75bc44272392 6,9-10,12,21-26,45,50-78,92,106,120
+backend/internal/compose/aicert/records/owed_verdict/openai_compatible_mistralai_ministral-14b-2512_eu_hosted.json
+  s_4862d7ef36966f::t_fb5fa35e95a13c 6,9-13,21-25,28,45,50,62,64,76,78,89-116,120
+backend/internal/compose/aicert/records/owed_verdict/openai_compatible_mistralai_ministral-8b-2512_eu_hosted.json
+  s_4862d7ef36966f::t_4194af5a800a68 6,9-13,21-25,28,45,50-78,92,106,120-121,123-124,126-127
+backend/internal/compose/aicert/records/owed_verdict/openai_compatible_openai_gpt-oss-120b_cloud_frontier.json
+  s_4862d7ef36966f::t_b45b7a14928aa4 6,9-13,21-26,28,46,51,54-55,57-85,93,96-97,99,107,110-111,113,121,124-125,127-128
+backend/internal/compose/aicert/records/signal_extract/openai_compatible_google_gemma-4-31b-it_cloud_frontier.json
+  s_4862d7ef36966f::t_a0349873b624a4 6,9-10,12,19-26,45,50,57-58,70,75,82,101,115,121,123,141,148-149,164,178-192
+backend/internal/compose/aicert/records/signal_extract/openai_compatible_mistralai_ministral-14b-2512_eu_hosted.json
+  s_4862d7ef36966f::t_a25476ad84755b 6,10-12,14,19,21-26,28,45,50,56-58,73,79,81,97,111,135,138-139,142-143,150,152,158,172-186
+backend/internal/compose/aicert/records/signal_extract/openai_compatible_mistralai_mistral-medium-3-5_cloud_frontier.json
+  s_4862d7ef36966f::t_806a97dbbb5405 6,9-10,12,19-26,28,43,48,55,73,79,81,99,113,120-121,139,147,162,176-190
+backend/internal/compose/aicert/records/signal_extract/openai_compatible_mistralai_mistral-medium-3-5_eu_hosted.json
+  s_4862d7ef36966f::t_a76aaa16cfae09 6,9-10,12,19-26,28,45,50,57-58,70,75,81,101,115,122-123,141,148,164,178-192
+backend/internal/compose/aicert/records/signal_extract/openai_compatible_openai_gpt-oss-120b_cloud_frontier.json
+  s_4862d7ef36966f::t_8b5348b355ae0e 6,8-14,19-26,28,46,51,54-55,57-65,72,74,77,82-83,86,88-94,96,103-104,114,128,134-135,154,161-162,177-191,203,205
+backend/internal/compose/attention/awaitinglane.go
+  s_4862d7ef36966f::t_7d73bd75912f72 45-46,98-100,175-178,194-196,200-204,206-210,217
+backend/internal/compose/attention/awaitinglane_test.go
+  s_4862d7ef36966f::t_564a063a87bc55 86,97,121-123,126-127,129-133,139-145,147-202
+backend/internal/compose/attention/capturelane_test.go
+  s_4862d7ef36966f::t_0512168b82596a 12,65,70-110
+backend/internal/compose/attention/classify.go
+  s_4862d7ef36966f::t_ccee96ebd1fde8 97
+backend/internal/compose/attention/contacttouch.go
+  s_4862d7ef36966f::t_71d10e81a60789 118-120,127-133,144-147,153-167
+backend/internal/compose/attention/dealmoves.go
+  s_4862d7ef36966f::t_d0d1fd9ebc6a97 121-126,128-129,136-139
+backend/internal/compose/attention/dealmoves_test.go
+  s_4862d7ef36966f::t_89f866a8ba1a85 248-269
+backend/internal/compose/attention/dispositions.go
+  s_4862d7ef36966f::t_f1fe09c9d00c42 14,19,25-28,30-32,34-36,39-50,52-53,55-63
+backend/internal/compose/attention/healthlanes.go
+  s_4862d7ef36966f::t_5b5687ba23afe9 40-41
+backend/internal/compose/attention/owner_test.go
+  s_4862d7ef36966f::t_e957f0e3b01f0e 40-43,46
+backend/internal/compose/attention/rank.go
+  s_4862d7ef36966f::t_18b421001f8d3e 256
+backend/internal/compose/attention/renderhealthlanes.go
+  s_4862d7ef36966f::t_b977592f369ff7 14-15,18,24-27,29-35,38,53-59
+backend/internal/compose/attention/waitingdispositions_test.go
+  s_4862d7ef36966f::t_69c746cedcdc08 9-11,43-50,60,63,65,69-100,115-118
+backend/internal/compose/attention/worklistincidents_test.go
+  s_4862d7ef36966f::t_cd5be2b3bcb10c 352-380
+backend/internal/compose/attentionawaitingseam.go
+  s_4862d7ef36966f::t_c9c8a2de8a5707 65
+backend/internal/compose/attentionopsseam.go
+  s_4862d7ef36966f::t_4c28a14d595e61 12,110
+backend/internal/compose/calendarmethodbackfill.go
+  s_4862d7ef36966f::t_81cbaf976d206a 1-132
+backend/internal/compose/calendarmethodbackfill_integration_test.go
+  s_4862d7ef36966f::t_6d64b6279b0b64 1-340
+backend/internal/compose/capturehealth_integration_test.go
+  s_4862d7ef36966f::t_4916f34406e550 20,297-319
+backend/internal/compose/captureverdictdomain.go
+  s_4862d7ef36966f::t_3d71724d363397 57
+backend/internal/compose/captureverdictkinds_test.go
+  s_4862d7ef36966f::t_540e5b56f9006b 14-17,19,23-24,270-351
+backend/internal/compose/certcase_agentloop.go
+  s_4862d7ef36966f::t_2f13a6ad8916db 57,139,321-327
+backend/internal/compose/certcase_agentloop_step.go
+  s_4862d7ef36966f::t_a1f8e8e7b8dfd5 28-33
+backend/internal/compose/certcase_owedverdict.go
+  s_4862d7ef36966f::t_83069b0969164a 52,124
+backend/internal/compose/certcase_owedverdict_test.go
+  s_4862d7ef36966f::t_6dbecdea9a92f0 239-264
+backend/internal/compose/choicecards_test.go
+  s_4862d7ef36966f::t_98285e8c857403 48,50,53-57
+backend/internal/compose/clearablefields.go
+  s_4862d7ef36966f::t_22f8e6ce2e4d4e 47
+backend/internal/compose/connectorproviders.go
+  s_4862d7ef36966f::t_af36912c78426d 55-56
+backend/internal/compose/contactdraft/about.go
+  s_4862d7ef36966f::t_c9398ba89e0566 1-89
+backend/internal/compose/contactdraft/about_test.go
+  s_4862d7ef36966f::t_944430800229ce 1-95
+backend/internal/compose/contactdraft/corecipients.go
+  s_4862d7ef36966f::t_bc4ce636ee62da 1-78
+backend/internal/compose/contactdraft/corecipients_test.go
+  s_4862d7ef36966f::t_6e5c912fd24ad0 1-106
+backend/internal/compose/contactdraft/deterministic.go
+  s_4862d7ef36966f::t_cd4c8fafda5892 87-88,90-92
+backend/internal/compose/contactdraft/draftinput.go
+  s_4862d7ef36966f::t_aa8c3db0394ba4 10-14,44-45,47-59,61
+backend/internal/compose/contactdraft/handlers.go
+  s_4862d7ef36966f::t_467f8b926c63ff 62-74
+backend/internal/compose/contactdraft/input.go
+  s_4862d7ef36966f::t_8efe7e7f13eb0a 74-75,87-89,253-254
+backend/internal/compose/contactdraft/service.go
+  s_4862d7ef36966f::t_56efc1fca07142 50-53,82-85,145-153
+backend/internal/compose/contactdraft/write.go
+  s_4862d7ef36966f::t_cef35adb37f593 49-50
+backend/internal/compose/corpusask.go
+  s_4862d7ef36966f::t_9bc8aeb28bf65f 374,376,388-394
+backend/internal/compose/csvauthor.go
+  s_4862d7ef36966f::t_119475c28d6adf 22,40-53,89-90,92-94
+backend/internal/compose/csvauthor_test.go
+  s_4862d7ef36966f::t_a3644b5c2706dd 11,28-33,42-44
+backend/internal/compose/csvbinding.go
+  s_4862d7ef36966f::t_6f44ec7c122151 54,72-93
+backend/internal/compose/csvbundleprofile.go
+  s_4862d7ef36966f::t_59022eeb5793c9 1-120
+backend/internal/compose/csvbundlewriters.go
+  s_4862d7ef36966f::t_4f2f0c6b159a57 1-268
+backend/internal/compose/csvcells.go
+  s_4862d7ef36966f::t_dfabd7365868c8 1-343
+backend/internal/compose/csvcells_test.go
+  s_4862d7ef36966f::t_ccc21c77dafdc8 1-147
+backend/internal/compose/csvcompanyfields.go
+  s_4862d7ef36966f::t_3ae1032f9cc38e 60,66,73,75,94,96-104
+backend/internal/compose/csvcompanywriter.go
+  s_4862d7ef36966f::t_43cdf5313d7066 6,14,20,23,59-97
+backend/internal/compose/csvcontactfields.go
+  s_4862d7ef36966f::t_5c46978c431b01 19,34,46,52-54,61,63-69,72-73,111-227
+backend/internal/compose/csvcontactwriter.go
+  s_4862d7ef36966f::t_ab3f1886aae0ab 42-45,49,66-104,129-145,147-157,159,161-182,255,274-286
+backend/internal/compose/csvcontexttag.go
+  s_4862d7ef36966f::t_a330cb931ed123 13-14,78-103
+backend/internal/compose/csvcorefields_test.go
+  s_4862d7ef36966f::t_23757c050089b9 1-96
+backend/internal/compose/csvcustomfields.go
+  s_4862d7ef36966f::t_3e7436f881ca2b 1-188
+backend/internal/compose/csvcustomfields_test.go
+  s_4862d7ef36966f::t_1aad4b8b9be646 1-137
+backend/internal/compose/csvdisposition_test.go
+  s_4862d7ef36966f::t_0a67ab5aee4c85 63-107
+backend/internal/compose/csvemployer.go
+  s_4862d7ef36966f::t_693703a9447420 42,86,95,101-107,131-135,137-139,142-158,162,209,219-221,223,227-228,230-240,244-258,260-265,267-271,276,281,297,302-345
+backend/internal/compose/csvfields.go
+  s_4862d7ef36966f::t_5bac93e886b074 9-10,27-33,58-60,62,64,70-73,92-99,131-133,139,151,153,181-183,185-186,196,204-206,210-222,240-241,247-252,313,320,324-325,328,333,335-342,401-412
+backend/internal/compose/csvgrants.go
+  s_4862d7ef36966f::t_ab5ecd39489788 1-198
+backend/internal/compose/csvgrants_test.go
+  s_4862d7ef36966f::t_dd4d0b0116d7f8 1-51
+backend/internal/compose/csvimport.go
+  s_4862d7ef36966f::t_3a08e4736516ff 22,62-70,82,100,105-111,155,159-160,163-165,167,170,173,191,225,229-233,240,242-244,259,261,264-265,291,299-300,331,335-350,356-361,364-370
+backend/internal/compose/csvimport_test.go
+  s_4862d7ef36966f::t_6cce6332c84e04 23,37-40,47,49-50,58-60,64-66,74,76,83,86,92-93,107-109,116-117,119,126,129,138-140,152,156,159-165,167,197-199,210,219,228,238,245,295,310,326,334,343,345,404,406,504-507,509,518,527-528,579-583,657-658,664-665,668-669,672-694,754,758,773,785,787,839-847
+backend/internal/compose/csvimportdetached.go
+  s_4862d7ef36966f::t_743a6cbac08057 6-8,10-17,20-22,24-85
+backend/internal/compose/csvimportdetached_test.go
+  s_4862d7ef36966f::t_1a8667ef58c080 1-97
+backend/internal/compose/csvimportdryrun.go
+  s_4862d7ef36966f::t_b056dfd6b35bfe 1-109
+backend/internal/compose/csvimportlist.go
+  s_4862d7ef36966f::t_603592fb764dd1 1-52
+backend/internal/compose/csvimportlist_test.go
+  s_4862d7ef36966f::t_ae2d00ebcd5fac 1-37
+backend/internal/compose/csvimportparts.go
+  s_4862d7ef36966f::t_b6c52f0cb3b03a 1-106
+backend/internal/compose/csvimportparts_test.go
+  s_4862d7ef36966f::t_82904fd09ebd80 1-248
+backend/internal/compose/csvimportreport.go
+  s_4862d7ef36966f::t_a34ac04650c6ea 37,43-48,76,80-81,87,93-110,113-114,125-127,129-133,138-144,153-189,237-239
+backend/internal/compose/csvimportreportwire.go
+  s_4862d7ef36966f::t_dfef1c8aa6efa8 16,46-48,50-54,56,58-68,73-80,98-126,133-180,266-268,270,276,278-281,284-328,340-410
+backend/internal/compose/csvimportrunwire_test.go
+  s_4862d7ef36966f::t_fa41f6dc79a38b 1-29
+backend/internal/compose/csvimportsource.go
+  s_4862d7ef36966f::t_01c58ab19e12e3 1-34
+backend/internal/compose/csvimportsweep.go
+  s_4862d7ef36966f::t_da4e1baa228ad0 1-76
+backend/internal/compose/csvimportsweep_integration.go
+  s_4862d7ef36966f::t_d7941861836d57 1-25
+backend/internal/compose/csvimportteststop_integration_test.go
+  s_4862d7ef36966f::t_e2ee4406203f49 1-118
+backend/internal/compose/csvimportundo.go
+  s_4862d7ef36966f::t_73a2f28551f051 34-35,39-49
+backend/internal/compose/csvimportwire.go
+  s_4862d7ef36966f::t_d43daccba99aca 19-20,24,36-129,132-135,137,145,153,161,174,181-186,206,210,213-218,239-258,260-261,265-268,271,273,345-346,382-383,392-401,403-411,415,417-419,429,432,434,444,447-451,453,464-492
+backend/internal/compose/csvlinks.go
+  s_4862d7ef36966f::t_6207da5def6867 1-277
+backend/internal/compose/csvlinks_test.go
+  s_4862d7ef36966f::t_d65b9f078633bf 1-172
+backend/internal/compose/csvowners.go
+  s_4862d7ef36966f::t_57aadfdc9dd0bf 4-8,12-16,18,23,25-26,28-33,35-37,39-45,47,49-56,59-65,67-71,73-80,82-87,90-95,97-103,105-110,112-116,119-131,133,136-144,146-147
+backend/internal/compose/csvowners_test.go
+  s_4862d7ef36966f::t_a71603e7eab0c1 1-43
+backend/internal/compose/csvpredict.go
+  s_4862d7ef36966f::t_bbea196654199a 15,22,24,63-64,66-78,80-91,100,110,112,118-122,131-132,152-156,175-182,185,206,212,219-221
+backend/internal/compose/csvsourcename.go
+  s_4862d7ef36966f::t_094a3378022c3d 1-44
+backend/internal/compose/csvsourcename_test.go
+  s_4862d7ef36966f::t_ce25f1a46e97f5 9-11,14-18,21-35
+backend/internal/compose/csvstoredrecord.go
+  s_4862d7ef36966f::t_140a17b67af4bf 1-52
+backend/internal/compose/csvtags.go
+  s_4862d7ef36966f::t_0e55a0c4471e15 1-167
+backend/internal/compose/csvtags_test.go
+  s_4862d7ef36966f::t_e0deeb6a2d8573 1-28
+backend/internal/compose/csvwriters.go
+  s_4862d7ef36966f::t_b024ffa6e427bb 7,20,24,26,28,45-47,63-71,76-84,87-94,112-117,121-122,125-133,138,141-142,144-147,153,187-189,197-199,201-226,232-235,245,249,290,301,304,306,308,315,320,327-330,332,345-346,348-349,351,353-354,356-357,372-374,379,382,402,415-417,421,436-438,445-446,448-451,455,468-470,483-486,498-501,508
+backend/internal/compose/datasweep.go
+  s_4862d7ef36966f::t_b2ab8eb5ccdd95 42-43
+backend/internal/compose/dealstatus/followup.go
+  s_4862d7ef36966f::t_165d05316601da 1-89
+backend/internal/compose/dealstatus/followup_test.go
+  s_4862d7ef36966f::t_bab0a7ccd1ea9b 1-96
+backend/internal/compose/dealstatus/input.go
+  s_4862d7ef36966f::t_f9b579ce0277f6 71-85
+backend/internal/compose/dealstatus/move.go
+  s_4862d7ef36966f::t_df7857fa9a4972 43,56-58,70,77-81,132,164,205
+backend/internal/compose/dealstatus/moves.go
+  s_4862d7ef36966f::t_ca75ac5c1d867f 131-133,279
+backend/internal/compose/dealstatus/service.go
+  s_4862d7ef36966f::t_26294e747bcfc5 101-104,395-397
+backend/internal/compose/displaynamerepair_integration_test.go
+  s_4862d7ef36966f::t_86b898eca40528 60
+backend/internal/compose/embeddriftsweep.go
+  s_4862d7ef36966f::t_a9ca357daa522b 108-112
+backend/internal/compose/embeddriftsweep_test.go
+  s_4862d7ef36966f::t_e521f275a53bd2 24,29-32
+backend/internal/compose/embedreindexavailability_test.go
+  s_4862d7ef36966f::t_f79234c06c9057 17,55-56,74-76
+backend/internal/compose/embedreindextransport.go
+  s_4862d7ef36966f::t_7c6ea6b3d43e78 164,381-382,387-392,394,402,410,417-418,435-436
+backend/internal/compose/exportbundletransport.go
+  s_4862d7ef36966f::t_59e4a883345697 25-27,69
+backend/internal/compose/extingressdrift_test.go
+  s_4862d7ef36966f::t_39c99276252f74 58-60,127-128
+backend/internal/compose/graphjobs_integration_test.go
+  s_4862d7ef36966f::t_a48dd27b17e134 74
+backend/internal/compose/handlers_agenttools.go
+  s_4862d7ef36966f::t_935b18c2f64000 37-40
+backend/internal/compose/handlers_domainquestions.go
+  s_4862d7ef36966f::t_4c2742b798f833 92
+backend/internal/compose/handlersets.go
+  s_4862d7ef36966f::t_1ad2729f5e171b 149-150
+backend/internal/compose/importerobject_test.go
+  s_4862d7ef36966f::t_47cc149c3bb056 30-37
+backend/internal/compose/importformat.go
+  s_4862d7ef36966f::t_eb2f0fd278af1c 1-162
+backend/internal/compose/importformat_test.go
+  s_4862d7ef36966f::t_d51a1cb3e75d67 1-159
+backend/internal/compose/importformatlimit_test.go
+  s_4862d7ef36966f::t_cd3f73099ea00c 1-28
+backend/internal/compose/importguide/copy.go
+  s_4862d7ef36966f::t_8dd3ab214d5f1c 1-266
+backend/internal/compose/importguide/copy_test.go
+  s_4862d7ef36966f::t_7c523951223059 1-36
+backend/internal/compose/importproblems.go
+  s_4862d7ef36966f::t_6cf1df3c52b2ee 1-83
+backend/internal/compose/importproblems_test.go
+  s_4862d7ef36966f::t_7018e8843eb102 1-30
+backend/internal/compose/importseam.go
+  s_4862d7ef36966f::t_6e1761afd2cd27 30-31,34,48-53,116,129,155-160,163,166-225,227,240-241
+backend/internal/compose/importtemplate.go
+  s_4862d7ef36966f::t_fed5f07c3db911 1-175
+backend/internal/compose/importtemplate_test.go
+  s_4862d7ef36966f::t_60200355f10646 1-80
+backend/internal/compose/integration/closedealtasks_integration_test.go
+  s_4862d7ef36966f::t_3d9b5882045bd3 1-156
+backend/internal/compose/integration/csvbundle_integration_test.go
+  s_4862d7ef36966f::t_5b8f84b92bf463 1-84
+backend/internal/compose/integration/csvbundlehelpers_integration_test.go
+  s_4862d7ef36966f::t_f433619efe1a86 1-116
+backend/internal/compose/integration/csvbundlelinks_integration_test.go
+  s_4862d7ef36966f::t_abd925118ccb64 1-360
+backend/internal/compose/integration/csvbundlerun_integration_test.go
+  s_4862d7ef36966f::t_f735f2d8dc39b3 1-131
+backend/internal/compose/integration/csvcorefields_integration_test.go
+  s_4862d7ef36966f::t_bf269a1616b65b 1-136
+backend/internal/compose/integration/csvcustomfields_integration_test.go
+  s_4862d7ef36966f::t_344579db3a2f76 1-210
+backend/internal/compose/integration/csvgrants_integration_test.go
+  s_4862d7ef36966f::t_6c71a420ae406e 1-132
+backend/internal/compose/integration/csvimport_integration_test.go
+  s_4862d7ef36966f::t_5c7ea5a6feb77b 23,33,58,72-75,97-101,118-121,125,469-475,961-991
+backend/internal/compose/integration/csvimportdetached_integration_test.go
+  s_4862d7ef36966f::t_3bd3ac6ef1d66a 1-90
+backend/internal/compose/integration/csvimportinfile_integration_test.go
+  s_0a769540c3bcf9::t_0bbf43052bef9b 246-318
+backend/internal/compose/integration/csvimportlimits_integration_test.go
+  s_4862d7ef36966f::t_6f03f9250f515f 1-90
+backend/internal/compose/integration/csvimportsweep_integration_test.go
+  s_4862d7ef36966f::t_13c1440abb5e44 1-104
+backend/internal/compose/integration/csvownerstags_integration_test.go
+  s_4862d7ef36966f::t_066b39e7852a84 1-105
+backend/internal/compose/integration/dealmovefollowup_integration_test.go
+  s_4862d7ef36966f::t_efc437241b41df 1-85
+backend/internal/compose/integration/decisionwritetoolroutes_integration_test.go
+  s_4862d7ef36966f::t_55a899b072de16 17-18,157
+backend/internal/compose/integration/e2e/usecases/case3_spreadsheet_test.go
+  s_4862d7ef36966f::t_57914be3a17372 30,95-98,299,301,304,306,342-349,351-352,354
+backend/internal/compose/integration/e2e/usecases/harness_test.go
+  s_4862d7ef36966f::t_2549d4751340a8 156-158
+backend/internal/compose/integration/embedreindex_integration_test.go
+  s_4862d7ef36966f::t_62aae6719e47b3 82-91,97,109,120,125-147
+backend/internal/compose/integration/importfilestool_integration_test.go
+  s_4862d7ef36966f::t_3729ae1fc01b89 1-72
+backend/internal/compose/integration/importformat_integration_test.go
+  s_4862d7ef36966f::t_dad49826eac8c8 1-119
+backend/internal/compose/integration/jobfanout/runnerownrelease_integration_test.go
+  s_4862d7ef36966f::t_153fa13037e510 27,34,54,61
+backend/internal/compose/integration/knowledgeembedstate_integration_test.go
+  s_4862d7ef36966f::t_553ebd99e400d0 1-163
+backend/internal/compose/integration/loggedcolleague_integration_test.go
+  s_4862d7ef36966f::t_1f281d5ded5ca8 4,6-9,19-21,26-32,34-38,41-59,62-64,66-68,70-73,75-77,79-80,82-83,87-89,91-93,95-96,98-99,103-108,110-113,116-129
+backend/internal/compose/integration/recordrestore_integration_test.go
+  s_4862d7ef36966f::t_e80e669e23158a 917-970
+backend/internal/compose/integration/searchidentifier_integration_test.go
+  s_4862d7ef36966f::t_d59947d4ba95af 1-251
+backend/internal/compose/integration/stagetable_integration_test.go
+  s_4862d7ef36966f::t_48226ef8cbadcd 1-222
+backend/internal/compose/integration/toolschema_conformance_integration_test.go
+  s_4862d7ef36966f::t_077d1276d5a79b 30,375-376,410-411,507-515
+backend/internal/compose/integration/txseam_gates_integration_test.go
+  s_4862d7ef36966f::t_50d8483e2e832f 8-11,13-14,107,125,142,158,176,191,208,227,250
+backend/internal/compose/integration/txseam_singleconn_integration_test.go
+  s_4862d7ef36966f::t_5a10d2d7c29e53 266-269,274-277,284-285,290-291,298-301,308-309,314-315,322-325,335-336,341-342,350-353,361-362,367-368
+backend/internal/compose/integration/workflowreadroutes_integration_test.go
+  s_4862d7ef36966f::t_8e9acfc1e05877 69-71,73,76-90,93,99-107
+backend/internal/compose/jobdeclared_test.go
+  s_4862d7ef36966f::t_38ab6ab07b3d34 510
+backend/internal/compose/jobkinds_gen.go
+  s_4862d7ef36966f::t_3764a8a0d6d37c 14,75,109
+backend/internal/compose/jobs.go
+  s_4862d7ef36966f::t_0e05bc316dc568 403,444
+backend/internal/compose/jobs_databasesweeps.go
+  s_4862d7ef36966f::t_dc5e197b1785dd 77
+backend/internal/compose/jobs_graph.go
+  s_4862d7ef36966f::t_315bf2cb6a0784 34
+backend/internal/compose/jobs_waitinghorizon.go
+  s_4862d7ef36966f::t_be00910ed3e7c2 1-70
+backend/internal/compose/leadqualifydeal.go
+  s_4862d7ef36966f::t_8c7d04eaed278e 38
+backend/internal/compose/mcptoolcoverage_test.go
+  s_4862d7ef36966f::t_94c0df6de95545 344
+backend/internal/compose/mcptoolcoveragesurface_test.go
+  s_4862d7ef36966f::t_30f797df0a9a0c 208
+backend/internal/compose/owedverdict/prompt.go
+  s_4862d7ef36966f::t_7d71b8da40cd39 28,47-49,104-107,117-119,124,135-139,166
+backend/internal/compose/owedverdict/prompt_test.go
+  s_4862d7ef36966f::t_8a6636bf37d6db 25,50,69-70
+backend/internal/compose/ownsentmailrepair.go
+  s_4862d7ef36966f::t_6a5f602ddc7f1b 1-164
+backend/internal/compose/ownsentmailrepair_integration_test.go
+  s_4862d7ef36966f::t_812af9f7059c75 1-298
+backend/internal/compose/participantbackfilljob.go
+  s_4862d7ef36966f::t_19f6ed9e726eeb 22,29,62-65,68-69,113-115,123-127,130-166,170-172,175
+backend/internal/compose/queryenums_gen.go
+  s_4862d7ef36966f::t_3b08d33aed5c52 145-147
+backend/internal/compose/registry.go
+  s_4862d7ef36966f::t_57ab6ad0e66477 158
+backend/internal/compose/routingwatcher.go
+  s_4862d7ef36966f::t_e483d18cfab7d7 30,48-54,74-78,113-116,123-125,207-228
+backend/internal/compose/routingwatcher_test.go
+  s_4862d7ef36966f::t_4fb468a203ca9b 12,48-54,151-192
+backend/internal/compose/schedulingbrand_integration_test.go
+  s_4862d7ef36966f::t_355e1f3254c80b 154-155
+backend/internal/compose/serveroptions.go
+  s_4862d7ef36966f::t_342bb6df203f2c 179-187
+backend/internal/compose/serveroptions_contactview.go
+  s_4862d7ef36966f::t_c37bc3b64cfdb0 68-69
+backend/internal/compose/serveroptions_test.go
+  s_4862d7ef36966f::t_010d3f3ef9ae18 18-19,90-92,113-119,153-154,157-159
+backend/internal/compose/sitecorpuslegal.go
+  s_4862d7ef36966f::t_e24dc5ff7198f3 173-175,179
+backend/internal/compose/sitecorpuslegal_test.go
+  s_4862d7ef36966f::t_0094b32a4e6b3c 45-83,276-286,288-291,297-299
+backend/internal/compose/storedoriginaldrain.go
+  s_4862d7ef36966f::t_e4791ded85261c 58-60,125-129
+backend/internal/compose/stubs_gen.go
+  s_4862d7ef36966f::t_e9e91d46d38639 1846-1849,1854-1857,1862-1865,1874-1877
+backend/internal/compose/treeinputs_test.go
+  s_4862d7ef36966f::t_af0dd13202b3f0 16
+backend/internal/compose/waitinghorizonrefresh_integration_test.go
+  s_4862d7ef36966f::t_8c638b7b3f40de 1-62
+backend/internal/compose/workflows.go
+  s_4862d7ef36966f::t_2d47fff86a38dc 91-93
+backend/internal/contracts/api_gen.go
+  s_4862d7ef36966f::t_e01f8f2313dc98 2026-2043,3025-3081,10294-10326,10348-10365,10384-10419,11026-11046,15222,15231-15232,18783,18792-18793,19134,19195-19196,21148-21168,23653-23659,24878-24881,25146-25161,25356-25362,26257-26258,26261-26264,26271-26273,26275-26278,26281-26297,26312-26328,32291-32294,32631-32633,32653-32655,32678,32705-32715,32747-32749,32767-32769,36017-36022,36142-36237,36265-36274,36305-36423,36428-36435,36439-36441,36452-36455,36458-36462,36489-36506,36566-36607,36633-36638,36667-36672,36698-36701,36712-36716,36720-36722,37678-37690,37693-37705,38740-38745,43590-43591,44757-44759,44782-44784,45393-45403,45410-45415,45532-45540,49222-49226,49393-49398,52402-52407,53442-53465,53468,53496,55674-55680,69223-69225,69229-69231,69235-69237,69244-69246,73060-73065,73072-73077,73084-73089,73102-73107,94909-94960,94983-95023,95044-95063,95132-95163,106514-106532,111834-111836,111840-111842,111846-111848,111855-111857
+backend/internal/contracts/publicevents_gen.go
+  s_4862d7ef36966f::t_5face6094fd6a5 33-68,488,629-630,927,938-940,978-980,987,991,995,998-1002,1014,2623-2626,3162
+backend/internal/modules/activities/activity.go
+  s_4862d7ef36966f::t_6f88736608939c 77-79
+backend/internal/modules/activities/activityread.go
+  s_4862d7ef36966f::t_d01cc95b77e561 157
+backend/internal/modules/activities/activityupdate.go
+  s_4862d7ef36966f::t_1c0944db500810 36
+backend/internal/modules/activities/answered.go
+  s_4862d7ef36966f::t_a67759832d30e1 31-32,158-166,168-176,183-190,246-247,256-259,261,267-268
+backend/internal/modules/activities/awaitingreply.go
+  s_4862d7ef36966f::t_d7598dd36c5c89 45-47,262
+backend/internal/modules/activities/calendarmethodbackfill.go
+  s_4862d7ef36966f::t_3830fb2240cf6e 1-147
+backend/internal/modules/activities/calendarresponse_integration_test.go
+  s_4862d7ef36966f::t_9087d3f2c69604 1-193
+backend/internal/modules/activities/calendarresponse_test.go
+  s_4862d7ef36966f::t_7d9af1b6762449 4,8,12-13,16-18,20-22,24-29,33-49
+backend/internal/modules/activities/calledoffmeeting_integration_test.go
+  s_4862d7ef36966f::t_f3228bf6f75af5 1-216
+backend/internal/modules/activities/companyscope_test.go
+  s_4862d7ef36966f::t_e15b6f94a3fcd7 370,379
+backend/internal/modules/activities/disposition.go
+  s_4862d7ef36966f::t_d9026fff3fec7a 18-20,50,166-167,182-212,274-282,344-351,397,402-417,469-474
+backend/internal/modules/activities/doc.go
+  s_4862d7ef36966f::t_72dccd8578cd5e 16-17
+backend/internal/modules/activities/emailmove.go
+  s_4862d7ef36966f::t_223286b098d5d5 35
+backend/internal/modules/activities/emailrequestrequester_test.go
+  s_4862d7ef36966f::t_a6d623cc9b59e7 32,35-39
+backend/internal/modules/activities/emailrequesttasks.go
+  s_4862d7ef36966f::t_c9f8b17e776b83 77
+backend/internal/modules/activities/followupcomplete.go
+  s_4862d7ef36966f::t_8ed9a5f3a748e3 117-158,224-225,241-251,263,267,287,289,329-331,354-360
+backend/internal/modules/activities/followupreopen.go
+  s_4862d7ef36966f::t_4b84e767ea51c3 1-107
+backend/internal/modules/activities/followupreopen_test.go
+  s_4862d7ef36966f::t_572b132770565d 1-132
+backend/internal/modules/activities/followupresolve.go
+  s_4862d7ef36966f::t_5b97e7a0044c57 179
+backend/internal/modules/activities/followupsetting_integration_test.go
+  s_4862d7ef36966f::t_4033c0de139064 58-67,70,97
+backend/internal/modules/activities/handled_integration_test.go
+  s_4862d7ef36966f::t_049e20296de89d 1-250
+backend/internal/modules/activities/handlers_lifecycle.go
+  s_4862d7ef36966f::t_027077bfdb33bd 166-170,194-195
+backend/internal/modules/activities/hiddenbacklog.go
+  s_4862d7ef36966f::t_be5c07772054c8 9-12,82-84,146-149,216-219,331
+backend/internal/modules/activities/hiddenbacklogrows.go
+  s_4862d7ef36966f::t_0c94b9251c744d 125-127
+backend/internal/modules/activities/lasttouch.go
+  s_4862d7ef36966f::t_3e6851ab24b391 56-57,63-78
+backend/internal/modules/activities/loggedcolleagues.go
+  s_4862d7ef36966f::t_03ef57df662cff 1-84
+backend/internal/modules/activities/mapping.go
+  s_4862d7ef36966f::t_f8dde7548fc5ae 428-435
+backend/internal/modules/activities/mapping_attendees_test.go
+  s_4862d7ef36966f::t_a4c0a7b3d0321a 1-69
+backend/internal/modules/activities/meetingfollowup.go
+  s_4862d7ef36966f::t_ad8f54030776ed 18,27-59,69,76,85-89,95,100-126,138-142,145,153-169,174,187-198,206-207
+backend/internal/modules/activities/meetingrecipients_integration_test.go
+  s_4862d7ef36966f::t_a8b0815445798b 1-242
+backend/internal/modules/activities/owedverdict.go
+  s_4862d7ef36966f::t_46e1d1e6df421f 107-109,124,163,176,247,266-269
+backend/internal/modules/activities/ownsentmail.go
+  s_4862d7ef36966f::t_bc96ea16e39594 22-27,29-32,34,37,51,54,67,78,80
+backend/internal/modules/activities/participantlog.go
+  s_4862d7ef36966f::t_3aebfac6516c47 43,48-61,69,71,74,77-81,83
+backend/internal/modules/activities/requestretire.go
+  s_4862d7ef36966f::t_47f7680b9d1200 24
+backend/internal/modules/activities/requeststate.go
+  s_4862d7ef36966f::t_8367e2cd5d523c 81-86,90-91,102-103
+backend/internal/modules/activities/responsemetrics.go
+  s_4862d7ef36966f::t_19444720ef7aee 123-126,163-166,174-175,183
+backend/internal/modules/activities/store.go
+  s_4862d7ef36966f::t_28fbda78d67b19 122
+backend/internal/modules/activities/threadanswersender_integration_test.go
+  s_4862d7ef36966f::t_15877b153b3b42 1-75
+backend/internal/modules/activities/waiting.go
+  s_4862d7ef36966f::t_71d4635b552d58 300-302,331
+backend/internal/modules/activities/waitinghorizon.go
+  s_4862d7ef36966f::t_b38cd63c1aa379 116-124,126-134,137,139-140,145-146,148-163,165-170,172,176
+backend/internal/modules/activities/waitinghorizonstored_integration_test.go
+  s_4862d7ef36966f::t_be759b4b73c8e0 8-10,17-18,23-28,35,39,41-49,51-55,57-64,66-86,89-91,93-94,96-119,121-122
+backend/internal/modules/activities/waitingrecordscope.go
+  s_4862d7ef36966f::t_d8039fc57a0502 55,118,129,147
+backend/internal/modules/activities/waitingsql.go
+  s_4862d7ef36966f::t_4bd9b89a126345 286,298-302,327-341
+backend/internal/modules/agents/apps/actions.json
+  s_4862d7ef36966f::t_cbf62b689e942e 2-4
+backend/internal/modules/agents/argsbound.go
+  s_4862d7ef36966f::t_eb094757594085 16,26-34
+backend/internal/modules/agents/badargsvocabulary_test.go
+  s_4862d7ef36966f::t_babe10f10cfe0c 14-17
+backend/internal/modules/agents/command_import.go
+  s_4862d7ef36966f::t_557755418ed3bf 29,117,119-120,125,127,129
+backend/internal/modules/agents/conformance_test.go
+  s_4862d7ef36966f::t_4d940187d4e664 250
+backend/internal/modules/agents/dispatch.go
+  s_4862d7ef36966f::t_10bcca5150aef9 404-408,410,413,415
+backend/internal/modules/agents/enumargs_test.go
+  s_4862d7ef36966f::t_b443fed92ca8ef 62-64
+backend/internal/modules/agents/envelope_test.go
+  s_4862d7ef36966f::t_8975c0adb5cf09 134-138
+backend/internal/modules/agents/explain.go
+  s_4862d7ef36966f::t_b5794d3a6096ed 396-398,402
+backend/internal/modules/agents/idargs_test.go
+  s_4862d7ef36966f::t_1ca7520187cda5 362,470-472
+backend/internal/modules/agents/logactivityattendees_test.go
+  s_4862d7ef36966f::t_a7ea57191aaa2e 1-48
+backend/internal/modules/agents/outputshapes_test.go
+  s_4862d7ef36966f::t_443ebef7504038 70-74
+backend/internal/modules/agents/recordfields.go
+  s_4862d7ef36966f::t_2054fd144d6e04 131
+backend/internal/modules/agents/recordshapes_gen.go
+  s_4862d7ef36966f::t_d8edde498fc7e0 14
+backend/internal/modules/agents/registration.go
+  s_4862d7ef36966f::t_4b70986c9d6fb2 42-44
+backend/internal/modules/agents/registry.go
+  s_4862d7ef36966f::t_dbee4068ba2a53 128-146,151-158
+backend/internal/modules/agents/registryquery.go
+  s_4862d7ef36966f::t_22d5cde02454cc 155,160,193-205
+backend/internal/modules/agents/results_identity.go
+  s_4862d7ef36966f::t_8c97c3a03cf745 114-115,117-129,135-137,139-150
+backend/internal/modules/agents/router.go
+  s_4862d7ef36966f::t_d602923a5383e6 1-343
+backend/internal/modules/agents/router_test.go
+  s_4862d7ef36966f::t_79d90cfb02bd0a 1-401
+backend/internal/modules/agents/routers.go
+  s_4862d7ef36966f::t_deef89b41c7dcb 1-13
+backend/internal/modules/agents/stagingfitness_test.go
+  s_4862d7ef36966f::t_89a22fe74bd311 402,404,408-410,412
+backend/internal/modules/agents/stubimports_test.go
+  s_4862d7ef36966f::t_9096fa617ba056 32-41
+backend/internal/modules/agents/testdata/outputshapes.json
+  s_4862d7ef36966f::t_570ec0e2d3e559 1326,1422,2785,3067-3245,3610,7567-7608,8690,8697-8724,8765-8770,8776-8778,8829-8877,9058,9968
+backend/internal/modules/agents/toolcopy_analytics.go
+  s_4862d7ef36966f::t_e313c664630447 19
+backend/internal/modules/agents/toolcopy_analyticsreport.go
+  s_4862d7ef36966f::t_300a2b2d572b4a 53
+backend/internal/modules/agents/toolcopy_approvals.go
+  s_4862d7ef36966f::t_0df817c8ab4a64 25,35,66-83
+backend/internal/modules/agents/toolcopy_comms.go
+  s_4862d7ef36966f::t_60a1f6955e0e3d 103-104
+backend/internal/modules/agents/toolcopy_describevocabulary.go
+  s_4862d7ef36966f::t_e60d1be2e6ad27 1-22
+backend/internal/modules/agents/toolcopy_forecast.go
+  s_4862d7ef36966f::t_912d65f8339a6a 45,120-136
+backend/internal/modules/agents/toolcopy_import.go
+  s_4862d7ef36966f::t_6ec6e48ff2f0ec 25-29,36-40,43-46,59-60,66-77
+backend/internal/modules/agents/toolcopy_intents.go
+  s_4862d7ef36966f::t_2ceba77c24b4ba 175
+backend/internal/modules/agents/toolcopy_leadstate.go
+  s_4862d7ef36966f::t_5ebb27a396eae7 1-22
+backend/internal/modules/agents/toolcopy_lists.go
+  s_4862d7ef36966f::t_6786f65a3b5742 21
+backend/internal/modules/agents/toolcopy_records.go
+  s_4862d7ef36966f::t_e6a502c090beb6 68,80,123,141,170,203-211,275,292
+backend/internal/modules/agents/toolcopy_tags.go
+  s_4862d7ef36966f::t_d612b27a506f66 65,76-103
+backend/internal/modules/agents/tools.go
+  s_4862d7ef36966f::t_2f934b075ae5b3 404-405
+backend/internal/modules/agents/tools_advance.go
+  s_4862d7ef36966f::t_e7bf8fa5f729af 83
+backend/internal/modules/agents/tools_analyticsvocabulary.go
+  s_4862d7ef36966f::t_3774bfc84d30cd 69
+backend/internal/modules/agents/tools_approvals.go
+  s_4862d7ef36966f::t_148d972be7a44c 127,247,293
+backend/internal/modules/agents/tools_confirm.go
+  s_4862d7ef36966f::t_3720c347ea37cd 231
+backend/internal/modules/agents/tools_decideapprovals.go
+  s_4862d7ef36966f::t_f9b5f6bf2d2928 1-57
+backend/internal/modules/agents/tools_decideapprovals_test.go
+  s_4862d7ef36966f::t_e68c72e6e18189 1-36
+backend/internal/modules/agents/tools_describevocabulary.go
+  s_4862d7ef36966f::t_2010180c24711d 1-35
+backend/internal/modules/agents/tools_describevocabulary_test.go
+  s_4862d7ef36966f::t_7b37d8d4ec29c4 1-42
+backend/internal/modules/agents/tools_forecast.go
+  s_4862d7ef36966f::t_7988207c8f794d 226,288,351
+backend/internal/modules/agents/tools_import.go
+  s_4862d7ef36966f::t_b89f1094287658 64-66,69-79,84-87,91,93,144-149,171,174,186,190-199,307-315,320
+backend/internal/modules/agents/tools_import_files.go
+  s_4862d7ef36966f::t_01ab227354ed18 1-168
+backend/internal/modules/agents/tools_import_files_test.go
+  s_4862d7ef36966f::t_d4c41770a5cb14 1-143
+backend/internal/modules/agents/tools_import_format.go
+  s_4862d7ef36966f::t_c0e9771963c6b1 1-39
+backend/internal/modules/agents/tools_import_format_test.go
+  s_4862d7ef36966f::t_12618be171d010 1-24
+backend/internal/modules/agents/tools_import_preview.go
+  s_4862d7ef36966f::t_ec4b9fd8c6d6ef 38,43-53,58-59,66,70-76,112,114,165-167,173-180,188-189
+backend/internal/modules/agents/tools_import_test.go
+  s_4862d7ef36966f::t_9e9bd5742ca98d 135-139,143,145-147,154-168,188,191,250-251
+backend/internal/modules/agents/tools_leadstate.go
+  s_4862d7ef36966f::t_fdd757d6366982 1-34
+backend/internal/modules/agents/tools_leadstate_test.go
+  s_4862d7ef36966f::t_f19d4327a602f8 1-44
+backend/internal/modules/agents/tools_lifecycle.go
+  s_4862d7ef36966f::t_61fb539270dd64 251,307
+backend/internal/modules/agents/tools_qualify.go
+  s_4862d7ef36966f::t_ed5ed6ae13f5aa 43
+backend/internal/modules/agents/tools_readrouters.go
+  s_4862d7ef36966f::t_3d35221016e156 1-48
+backend/internal/modules/agents/tools_readrouters_test.go
+  s_4862d7ef36966f::t_9ec8d25f7a722b 1-38
+backend/internal/modules/agents/tools_recordfields.go
+  s_4862d7ef36966f::t_b8d1584f2065f3 65
+backend/internal/modules/agents/tools_relinkbatch.go
+  s_4862d7ef36966f::t_a0a7def089bb11 54
+backend/internal/modules/agents/tools_report.go
+  s_4862d7ef36966f::t_1361f050c1be82 194
+backend/internal/modules/agents/tools_reportblocks.go
+  s_4862d7ef36966f::t_05d1c26f5b57de 42
+backend/internal/modules/agents/tools_reportvocabulary.go
+  s_4862d7ef36966f::t_00b01961bf0248 81
+backend/internal/modules/agents/tools_reportvocabulary_test.go
+  s_4862d7ef36966f::t_d344bcd86813a8 155
+backend/internal/modules/agents/tools_tagrouters.go
+  s_4862d7ef36966f::t_fe1c80de25efa5 1-43
+backend/internal/modules/agents/tools_tagrouters_test.go
+  s_4862d7ef36966f::t_1b4c4dafadf7b6 1-37
+backend/internal/modules/agents/tools_tags.go
+  s_4862d7ef36966f::t_6f9956bef5a666 177-178,209,248,286,322,371
+backend/internal/modules/agents/tools_tagvocab.go
+  s_4862d7ef36966f::t_b78376e16aa5d1 45,87
+backend/internal/modules/agents/tools_update.go
+  s_4862d7ef36966f::t_5803f42060b782 217
+backend/internal/modules/agents/tools_vocabulary.go
+  s_4862d7ef36966f::t_4bc4bc016e2458 85
+backend/internal/modules/agents/unlisted_test.go
+  s_4862d7ef36966f::t_c774109e7b5e1e 1-57
+backend/internal/modules/ai/binding.go
+  s_4862d7ef36966f::t_1b933ed9b225b7 186-200,202-209,211-212
+backend/internal/modules/ai/handlers_usage.go
+  s_4862d7ef36966f::t_9931d316c6aa2f 212-215,231-239
+backend/internal/modules/ai/providerhealth_handler_test.go
+  s_4862d7ef36966f::t_a54abc95021965 10,72-109
+backend/internal/modules/ai/routing_bind.go
+  s_4862d7ef36966f::t_c5e4388abae3e3 178
+backend/internal/modules/capture/fields.go
+  s_4862d7ef36966f::t_b7a9c314dd2756 46-48
+backend/internal/modules/capture/mailmap/authresults.go
+  s_4862d7ef36966f::t_d4669075d7f01b 1-84
+backend/internal/modules/capture/mailmap/authresults_test.go
+  s_4862d7ef36966f::t_bba7d5fe340975 1-127
+backend/internal/modules/capture/mailmap/body.go
+  s_4862d7ef36966f::t_b62df643a60388 23,25,48-50,86-94,98,100,112,114,124-126,139-141
+backend/internal/modules/capture/mailmap/calendar.go
+  s_4862d7ef36966f::t_d8f2e52faa6adf 27,32,135-241
+backend/internal/modules/capture/mailmap/calendarmethod_test.go
+  s_4862d7ef36966f::t_ea7703864b29d1 1-204
+backend/internal/modules/capture/mailmap/mailmap.go
+  s_4862d7ef36966f::t_016c06c6826521 56,72,149,153-154,201,206,406,408-419
+backend/internal/modules/capture/mailmap/parts.go
+  s_4862d7ef36966f::t_7204c065aa0a46 132-140
+backend/internal/modules/capture/ownsentmailrepair.go
+  s_4862d7ef36966f::t_89f956db100af2 4,6-10,13-17,19-23,25-26,29-51,53-58,61-64,66-68,70-86,88,90-104,106-111,113-114,116-125,128-134,136
+backend/internal/modules/capture/provenaddress.go
+  s_4862d7ef36966f::t_55023fed681c07 18,22,93,95,97-99,116-182,189,192,195-197,199-201,205,207,210-217,219
+backend/internal/modules/capture/sentbycolleague.go
+  s_4862d7ef36966f::t_3e474288a0320e 11,24-28,30-33,38-39,52-57,112-128
+backend/internal/modules/capture/sentbycolleague_integration_test.go
+  s_4862d7ef36966f::t_a625805c09c7ba 10,31-33,82,130,140-220
+backend/internal/modules/capture/sentfromownaddress.go
+  s_4862d7ef36966f::t_337dc54e8f8a46 9,67,79-94,98-99
+backend/internal/modules/capture/sinkactivity.go
+  s_4862d7ef36966f::t_70a83e7f4e1d29 444,450
+backend/internal/modules/capture/sinkownsentmail.go
+  s_4862d7ef36966f::t_b504a98b66f1ed 20-22,67
+backend/internal/modules/contacts/clearable.go
+  s_4862d7ef36966f::t_8c86799e2eb6ae 57
+backend/internal/modules/contacts/company.go
+  s_4862d7ef36966f::t_f13e91008ba502 34-37,57,85-87,91,94,98,127-131,135-141,193
+backend/internal/modules/contacts/company_list.go
+  s_4862d7ef36966f::t_9eafb86ba9c847 179-180
+backend/internal/modules/contacts/company_update.go
+  s_4862d7ef36966f::t_7c0126711096bb 139-140
+backend/internal/modules/contacts/companycolumnwrites.go
+  s_4862d7ef36966f::t_84d5fcea11dc80 111-114,145
+backend/internal/modules/contacts/companylinkedin.go
+  s_4862d7ef36966f::t_52dcc85ed43e33 9,22-24,27-41,43,45-47,85
+backend/internal/modules/contacts/companylinkedin_test.go
+  s_4862d7ef36966f::t_59184861bb7bf3 48,79
+backend/internal/modules/contacts/companylinkedincreate_integration_test.go
+  s_4862d7ef36966f::t_e2a61c33332246 1-66
+backend/internal/modules/contacts/companynameform.go
+  s_4862d7ef36966f::t_9c13f23410ffb0 7
+backend/internal/modules/contacts/contact.go
+  s_4862d7ef36966f::t_b6d0023cedd9af 119-121,125,132
+backend/internal/modules/contacts/contact_list.go
+  s_4862d7ef36966f::t_bbd4c68a9b2bdc 191-192
+backend/internal/modules/contacts/contactprofilefieldwrite.go
+  s_4862d7ef36966f::t_5af044292f92e4 269,271-272,277-278,285-286,293,300-301
+backend/internal/modules/contacts/customfields.go
+  s_4862d7ef36966f::t_c478f3676b839b 87-93,95,97-99,101,103-107,109
+backend/internal/modules/contacts/dedupe.go
+  s_4862d7ef36966f::t_b201486ec7431c 218-219,292-299
+backend/internal/modules/contacts/dedupecompany.go
+  s_4862d7ef36966f::t_a139dcb1342f3b 224,281-287,462
+backend/internal/modules/contacts/domainadmission.go
+  s_4862d7ef36966f::t_6694690a40fb83 273-274,282,297,365,368,412,414-417,421-422
+backend/internal/modules/contacts/domainadmissionlist.go
+  s_4862d7ef36966f::t_2cb5e435fad043 36-39,49-54,56,64-89,106-112,115,132-133,142,171-172,174,197,206-207,209,217,220-222,227,233-235
+backend/internal/modules/contacts/domainadmissionreason.go
+  s_4862d7ef36966f::t_4f4458f88a2676 1-72
+backend/internal/modules/contacts/domainadmissionreason_integration_test.go
+  s_4862d7ef36966f::t_84b1e91748f32f 1-246
+backend/internal/modules/contacts/domainadmissionreason_test.go
+  s_4862d7ef36966f::t_c1ad1fa5c774bd 1-27
+backend/internal/modules/contacts/domainopenquestion.go
+  s_4862d7ef36966f::t_ec39d1a80f8d6e 139,141-143,153-154
+backend/internal/modules/contacts/domaintriage_integration_test.go
+  s_4862d7ef36966f::t_e2819bff2421ca 482,559,594,641,674
+backend/internal/modules/contacts/employment_import_apply.go
+  s_4862d7ef36966f::t_3ae3b72c280069 166
+backend/internal/modules/contacts/fillretraction.go
+  s_4862d7ef36966f::t_95690a057a61ed 414
+backend/internal/modules/contacts/headerline_test.go
+  s_4862d7ef36966f::t_14989b085f2cf9 31-32,48-49,55,57,80
+backend/internal/modules/contacts/lead.go
+  s_4862d7ef36966f::t_76e73094982ce4 87-89,91-93,97,110
+backend/internal/modules/contacts/lead_update.go
+  s_4862d7ef36966f::t_c69ad9ecc4fa08 36-38,384-390
+backend/internal/modules/contacts/lead_update_test.go
+  s_4862d7ef36966f::t_82e7d6dbd5c81a 208-221
+backend/internal/modules/contacts/leadassign.go
+  s_4862d7ef36966f::t_2484e0eff538f1 188-189
+backend/internal/modules/contacts/linkedin.go
+  s_4862d7ef36966f::t_081aa2947de4cb 65-80
+backend/internal/modules/contacts/linkedinmatchapply.go
+  s_4862d7ef36966f::t_5d38fc4d455c4d 37,361-362,365,371,378-380,396
+backend/internal/modules/contacts/namesim.go
+  s_4862d7ef36966f::t_16fc29b2d224b9 207-213
+backend/internal/modules/contacts/providerclaimfill.go
+  s_4862d7ef36966f::t_caa4d25227c9dc 107,119
+backend/internal/modules/contacts/quickcapture.go
+  s_4862d7ef36966f::t_7eaf4de24666f5 106,157
+backend/internal/modules/contacts/resolvecreate.go
+  s_4862d7ef36966f::t_752f0d3ec23a0f 230-231,295,299,302,304-306
+backend/internal/modules/contacts/sender.go
+  s_4862d7ef36966f::t_a90f65a0590d0b 8
+backend/internal/modules/contacts/vcardarms.go
+  s_4862d7ef36966f::t_ce838cbc83ebb7 91
+backend/internal/modules/contacts/vcardimport.go
+  s_4862d7ef36966f::t_46a5cebc50db8d 287-288,366,485
+backend/internal/modules/deals/acquisitionsource.go
+  s_4862d7ef36966f::t_66b74aa0a4f5c7 131,157-159,174
+backend/internal/modules/deals/deal_create.go
+  s_4862d7ef36966f::t_9b229857f576da 112-114,118,125
+backend/internal/modules/deals/pipeline.go
+  s_4862d7ef36966f::t_9fffddfc05fd93 151,184-185,187,189,191-195,197-201,203-204,206,208-209,211-216,218-221,223-242,271-273,295-297
+backend/internal/modules/deals/pipelineseed_test.go
+  s_4862d7ef36966f::t_39d5852a47aaaa 1-36
+backend/internal/modules/deals/stageread.go
+  s_4862d7ef36966f::t_2904787c915c59 1-87
+backend/internal/modules/deals/stages.go
+  s_4862d7ef36966f::t_36d83ac3055f4c 224,228-229,232,234-235
+backend/internal/modules/deals/store.go
+  s_4862d7ef36966f::t_6e37201e65976c 248,250-252,254,256-258,260-261
+backend/internal/modules/deals/suggestiondecide.go
+  s_4862d7ef36966f::t_9c3bb909624e87 146
+backend/internal/modules/identity/grantreachability_test.go
+  s_4862d7ef36966f::t_1ad3d14e3dcd56 63-67
+backend/internal/modules/identity/handlers.go
+  s_4862d7ef36966f::t_a189f517c1856f 124-126
+backend/internal/modules/identity/meresponse.go
+  s_4862d7ef36966f::t_620ecc33f30501 69
+backend/internal/modules/identity/nonproduction.go
+  s_4862d7ef36966f::t_d18b085a219c03 63-64,71,79
+backend/internal/modules/identity/settingsavailability_test.go
+  s_4862d7ef36966f::t_b59470dae586cf 54-55,57-78
+backend/internal/modules/knowledge/ask.go
+  s_4862d7ef36966f::t_f2304d75b24d73 297,299-300,304-307
+backend/internal/modules/knowledge/corpus.go
+  s_4862d7ef36966f::t_ef334bca14dd10 10,386-387,392-396,405-408,411-412,418,422-436,462
+backend/internal/modules/knowledge/handbook/capture.md
+  s_4862d7ef36966f::t_498cb1176e860f 14,19,45-47,52,284,288,291-292,326,335-336
+backend/internal/modules/knowledge/handbook/connecting-mail-and-calendars.md
+  s_4862d7ef36966f::t_539e0b535d99ba 91,104,106,146,151,153,160,162,176,178-181
+backend/internal/modules/knowledge/handbook/documents-and-files.md
+  s_4862d7ef36966f::t_ab1e2a71a93557 173,223,225-235,242-243,245-246
+backend/internal/modules/knowledge/handbook/lists-filters-and-views.md
+  s_4862d7ef36966f::t_dbbde4b1ba968c 37,294-295,302,316,319,325,333,337-339,352-353,379,383
+backend/internal/modules/knowledge/handbook/records.md
+  s_4862d7ef36966f::t_707104c328741b 263-266
+backend/internal/modules/knowledge/handbook/retention-exports-and-deletion.md
+  s_4862d7ef36966f::t_3a7514a1845ca9 27-32,34,37-40
+backend/internal/modules/knowledge/handbook/settings.md
+  s_4862d7ef36966f::t_51470908c2e8f8 58,236-238,263,265-285,288,292,298-301,308-310
+backend/internal/modules/knowledge/handbook/the-pipeline.md
+  s_4862d7ef36966f::t_0243d5c46e3ff3 65,68-69,145-146
+backend/internal/modules/knowledge/handbook/who-can-see-an-email.md
+  s_4862d7ef36966f::t_d2f7496b3abe5c 116,118-121,128-129
+backend/internal/modules/knowledge/handbook/your-day.md
+  s_4862d7ef36966f::t_fe3b4960b41bb9 49-50,53-55,57-59,260,264,266,269-274
+backend/internal/modules/migration/bundle.go
+  s_4862d7ef36966f::t_ebefea377c22da 1-199
+backend/internal/modules/migration/bundle_test.go
+  s_4862d7ef36966f::t_a1cb38820f2cf9 1-221
+backend/internal/modules/migration/bundlesource.go
+  s_4862d7ef36966f::t_0b6775e45d23b4 1-145
+backend/internal/modules/migration/bundlesource_test.go
+  s_4862d7ef36966f::t_1e4ee976fc9b91 1-196
+backend/internal/modules/migration/csvassoc.go
+  s_4862d7ef36966f::t_2c53392474fd41 40-48,54-57,66-72,96-99,109-123
+backend/internal/modules/migration/csvassoc_test.go
+  s_4862d7ef36966f::t_66f6c68612810b 113-132
+backend/internal/modules/migration/csvframe.go
+  s_4862d7ef36966f::t_764b267c9b3625 1-69
+backend/internal/modules/migration/csvframe_test.go
+  s_4862d7ef36966f::t_0aa65bb6a42ac8 1-53
+backend/internal/modules/migration/csvprofile.go
+  s_4862d7ef36966f::t_cda968c6dce789 74-77
+backend/internal/modules/migration/csvrun.go
+  s_4862d7ef36966f::t_27e76905cb0d50 54-80,95,117,141,158,201,207-211,217,224,251,254,256-258,262-263,265-267,271-341,348,353,360,367,422-454
+backend/internal/modules/migration/csvsource.go
+  s_4862d7ef36966f::t_69c233cf3fc63f 7,60-66,73-80,97-103,133-139,141-146,148-190,202,207,209-211,213,292,294,296-301,318-348,367,369,374,381-406
+backend/internal/modules/migration/csvsource_test.go
+  s_4862d7ef36966f::t_3ea7a1339a864a 10,337-398
+backend/internal/modules/migration/engine.go
+  s_4862d7ef36966f::t_890701932bc29b 91-93
+backend/internal/modules/migration/engine_test.go
+  s_4862d7ef36966f::t_8b3b28f25e0a35 13,39,85,87,93-96,102-105,656-657,659
+backend/internal/modules/migration/report.go
+  s_4862d7ef36966f::t_cc8cc6a2253752 21-45,55-57,91-94,138-142,159-163,190-194,196,227-232
+backend/internal/modules/migration/report_test.go
+  s_4862d7ef36966f::t_7b38394b4e433b 17,21,50-60,74-119
+backend/internal/modules/migration/run.go
+  s_4862d7ef36966f::t_994f87d31e4965 23-25,97,114,127,164,208,239,252,313,410,443,456,477
+backend/internal/modules/migration/run_integration_test.go
+  s_4862d7ef36966f::t_a22420dd508315 122,150-151,158-159
+backend/internal/modules/migration/runcause.go
+  s_4862d7ef36966f::t_03a1133b0ace3f 1-26
+backend/internal/modules/migration/runcause_test.go
+  s_4862d7ef36966f::t_ee0b33dfa8ea3a 1-25
+backend/internal/modules/migration/runrecovery.go
+  s_4862d7ef36966f::t_27a780dd7ad814 1-106
+backend/internal/modules/migration/undo.go
+  s_4862d7ef36966f::t_36744f08ac1dfd 12,92-94,96,98,101,203-206,262-265,315,326-328,336-337,456,462-468
+backend/internal/modules/migration/undo_integration_test.go
+  s_4862d7ef36966f::t_32ea996c342217 281-284,291,293
+backend/internal/modules/migration/undo_test.go
+  s_4862d7ef36966f::t_42322d2b0bc5b3 9,120-129
+backend/internal/modules/search/branches.go
+  s_4862d7ef36966f::t_003abe91fc6f1d 20,68-103,198-202
+backend/internal/modules/search/classify.go
+  s_4862d7ef36966f::t_a8e06e7a36048b 29-31,82,84-87
+backend/internal/modules/search/employerarm.go
+  s_4862d7ef36966f::t_29754c3eece402 41-43,89,95,98-99,101-102
+backend/internal/modules/search/employerarm_test.go
+  s_4862d7ef36966f::t_f69ac2a024fd53 24-25,40,42
+backend/internal/modules/search/store.go
+  s_4862d7ef36966f::t_ed910356a05f53 209-210,215,302-304,330,333-334
+backend/internal/modules/search/typedquery_test.go
+  s_4862d7ef36966f::t_415655b889d6c7 113,115,132-149,162,200,258
+backend/internal/platform/database/storekit/pagination.go
+  s_4862d7ef36966f::t_4355c1972a7b72 205,209-224
+backend/internal/platform/httperr/multipart.go
+  s_4862d7ef36966f::t_7917acd65ceebc 61-66
+backend/internal/platform/jobs/specs_gen.go
+  s_4862d7ef36966f::t_21ef662a840a17 14,535-544,889-898
+backend/internal/platform/testdb/reset.go
+  s_4862d7ef36966f::t_61338341dfadbc 128-130,138
+backend/internal/shared/kernel/calendarmethod/calendarmethod.go
+  s_4862d7ef36966f::t_3cc0073f7934aa 1-37
+backend/internal/shared/kernel/calendarmethod/calendarmethod_test.go
+  s_4862d7ef36966f::t_468b22094f13e9 1-33
+backend/internal/shared/kernel/draftfloor/draftfloor.go
+  s_4862d7ef36966f::t_578e85a57d9bae 214-226
+backend/internal/shared/kernel/draftfloor/draftfloor_test.go
+  s_4862d7ef36966f::t_955910a58044e7 263-276
+backend/internal/shared/kernel/events/catalog.go
+  s_4862d7ef36966f::t_6935ea419d88c4 217-220
+backend/internal/shared/kernel/events/events_test.go
+  s_4862d7ef36966f::t_6a4b63de0f12a6 142-145
+backend/internal/shared/ports/connector/connector.go
+  s_4862d7ef36966f::t_228bc0b0b3d28e 296-300
+backend/internal/shared/ports/connector/senderauthentication.go
+  s_4862d7ef36966f::t_237a37103758b6 1-12
+backend/internal/shared/ports/mcp/mcp.go
+  s_4862d7ef36966f::t_5791d92fb6bf11 118-121
+backend/migrations/colleaguecopyauth_integration_test.go
+  s_4862d7ef36966f::t_2864b271fdf401 1-185
+backend/migrations/colleagueownaddressmail_integration_test.go
+  s_4862d7ef36966f::t_9a90ab8fee662f 1-152
+backend/migrations/core/1791780220_mail_a_seat_sent_is_reread_from_its_original.down.sql
+  s_4862d7ef36966f::t_824721a2a31034 1-7
+backend/migrations/core/1791780220_mail_a_seat_sent_is_reread_from_its_original.up.sql
+  s_4862d7ef36966f::t_76ac86df28e78c 1-41
+backend/migrations/core/1791782100_a_colleagues_mail_is_ours_under_an_own_address.down.sql
+  s_4862d7ef36966f::t_b570951825ee6f 1-28
+backend/migrations/core/1791782100_a_colleagues_mail_is_ours_under_an_own_address.up.sql
+  s_4862d7ef36966f::t_42f90082bd4555 1-102
+backend/migrations/core/1791793531_a_message_knows_its_calendar_method.down.sql
+  s_4862d7ef36966f::t_7c45497577774e 1-5
+backend/migrations/core/1791793531_a_message_knows_its_calendar_method.up.sql
+  s_4862d7ef36966f::t_901849afa806ec 1-41
+backend/migrations/core/1791793532_a_calendar_method_check_is_validated.down.sql
+  s_4862d7ef36966f::t_804f3e7bf595d5 1-3
+backend/migrations/core/1791793532_a_calendar_method_check_is_validated.up.sql
+  s_4862d7ef36966f::t_a7ec4222abc601 1-5
+backend/migrations/core/1791793533_unread_calendar_methods_are_indexed.down.sql
+  s_4862d7ef36966f::t_77b16c863886e4 1-2
+backend/migrations/core/1791793533_unread_calendar_methods_are_indexed.up.sql
+  s_4862d7ef36966f::t_ce640d980e5d09 1-8
+backend/migrations/core/1791797051_a_reader_can_mark_a_waiting_message_done.down.sql
+  s_4862d7ef36966f::t_4eb59eab210a0b 1-19
+backend/migrations/core/1791797051_a_reader_can_mark_a_waiting_message_done.up.sql
+  s_4862d7ef36966f::t_72fc489b020e25 1-24
+backend/migrations/core/1791797052_a_reader_done_check_is_validated.down.sql
+  s_4862d7ef36966f::t_3763426732ffb4 1-3
+backend/migrations/core/1791797052_a_reader_done_check_is_validated.up.sql
+  s_4862d7ef36966f::t_c41c2e36aecb02 1-6
+backend/migrations/core/1791798498_a_colleagues_copy_needs_an_authenticated_from.down.sql
+  s_4862d7ef36966f::t_8f5612c424b84e 1-3
+backend/migrations/core/1791798498_a_colleagues_copy_needs_an_authenticated_from.up.sql
+  s_4862d7ef36966f::t_a5ccc8a408ac27 1-74
+backend/migrations/core/1791798992_the_waiting_horizon_is_stored.down.sql
+  s_4862d7ef36966f::t_ff4faaac8e891b 1-3
+backend/migrations/core/1791798992_the_waiting_horizon_is_stored.up.sql
+  s_4862d7ef36966f::t_4b21ab115c6b7a 1-16
+backend/migrations/core/1791839152_a_contact_name_key_reads_its_own_index.down.sql
+  s_4862d7ef36966f::t_6f8e7051362841 1-2
+backend/migrations/core/1791839152_a_contact_name_key_reads_its_own_index.up.sql
+  s_4862d7ef36966f::t_731590d784ed8c 1-10
+backend/migrations/schema_fitness_integration_test.go
+  s_4862d7ef36966f::t_2fd0f62e6fd343 462-464
+backend/migrations/testdata/head_catalog.txt
+  s_4862d7ef36966f::t_26787736c15e36 5,57,121-131,291-304,334,339,685-692,4410
+backend/pkg/extension/crm/crm_gen.go
+  s_4862d7ef36966f::t_8b2f493413124b 556-559
+backend/tools/check-test-inputs/main.go
+  s_4862d7ef36966f::t_5d2f554277ec34 156-158
+backend/tools/check-test-inputs/main_test.go
+  s_4862d7ef36966f::t_e315890db1dc4a 71-91
+backend/tools/gen-agentcontract/treeinputs_test.go
+  s_4862d7ef36966f::t_f9963d818ceb9b 1-19
+backend/tools/gen-perfdoc/treeinputs_test.go
+  s_4862d7ef36966f::t_bfd6bb07b74a77 1-19
+docs/explanation/agent-surface.md
+  s_4862d7ef36966f::t_668a46d698c009 40-50
+docs/explanation/customer-requests.md
+  s_4862d7ef36966f::t_6f2944cb2954b7 14-18,46,57-59,87
+docs/explanation/search-and-retrieval.md
+  s_4862d7ef36966f::t_9edfb501f6ecb6 72-76
+docs/explanation/self-hosting.md
+  s_4862d7ef36966f::t_8a8b2f47e66c99 166-168
+docs/handbook/capture.md
+  s_4862d7ef36966f::t_3779c23ff25f44 14,19,45-47,52,284,288,291-292,326,335-336
+docs/handbook/connecting-mail-and-calendars.md
+  s_4862d7ef36966f::t_04a396913ef41c 91,104,106,146,151,153,160,162,176,178-181
+docs/handbook/documents-and-files.md
+  s_4862d7ef36966f::t_2f745eb5063176 173,223,225-235,242-243,245-246
+docs/handbook/lists-filters-and-views.md
+  s_4862d7ef36966f::t_6793291c93e500 37,294-295,302,316,319,325,333,337-339,352-353,379,383
+docs/handbook/records.md
+  s_4862d7ef36966f::t_4daa0831da7ad9 263-266
+docs/handbook/retention-exports-and-deletion.md
+  s_4862d7ef36966f::t_6dbe9a134e8557 27-32,34,37-40
+docs/handbook/settings.md
+  s_4862d7ef36966f::t_72350f02dc8040 58,236-238,263,265-285,288,292,298-301,308-310
+docs/handbook/the-pipeline.md
+  s_4862d7ef36966f::t_2d61f332220adf 65,68-69,145-146
+docs/handbook/who-can-see-an-email.md
+  s_4862d7ef36966f::t_8ca48b175616fb 116,118-121,128-129
+docs/handbook/your-day.md
+  s_4862d7ef36966f::t_2383201c2cd402 49-50,53-55,57-59,260,264,266,269-274
+docs/how-to/deploy-margince.md
+  s_4862d7ef36966f::t_72f7e99a6a320d 107,127-152,268-273
+docs/how-to/import-a-company-spreadsheet.md
+  s_4862d7ef36966f::t_a6485179527475 2,4-7,22-23,25,30-31,108-146,173-175
+docs/reference/agent-tool-budget.json
+  s_4862d7ef36966f::t_04e6c01c9d152a 32,34-36,49,70-73,75,91-95,109-112,115,123,127,143,153-156,159,162-163,170-171,174-175,181-184,202-203,206-207,218-223,242-243,259,283,286-287,290-291,322-323,327,330-331
+docs/reference/agent-tool-budget.md
+  s_4862d7ef36966f::t_11eb9a3f7af0a9 58-60,97-98,149,157-158,162-163,165-166,170,173-175,177,180,185,189-190,195,199,205-206,216-217
+docs/reference/agent-tools.md
+  s_4862d7ef36966f::t_39f239c0a7d34d 19-20,30-32,34-36,40-43,51-53,55,59-61,85,87,94,98,100,129,132,134,169-170
+docs/reference/ai-certification.json
+  s_4862d7ef36966f::t_51357c288a1fa1 4,6,8-10,314,324,327-328,330,342,352,355-356,397-398,407-408,411-412,453,467-469,566,576,579-580,827-829,831,1144,1158-1159,1161,1173,1183,1301-1302,2089,2109-2110,2112,2129,2139,2305-2306,3267,3277,3725-3726,3948,3958,3962-3963,3976,3986,4101-4102,4199-4200,4210,4213-4215,4462-4463,4769,4779,4782-4783,4785,4797,4807,4922-4924,5021,5031,5035,5730,5740,6118-6119,6121,6130,6132-6135,6189,6384-6385,6388-6390,6398-6399,6402-6404,6427-6428,6431,6441-6442,6445-6447,6458-6461,6473,6531-6532,6843,6848-6850,6854-6856,6858-6859,6861-6865,6867-6869,6875-6876,6879,6881-6885,6887-6889,6895,6898-6899,6901-6905,6907-6909,6919-6920,6926,6933,6937,6940,6946-6948,6954,6961-6962,6968,6974-6976,6980-6982,6989-6990,6994-6996,7003-7004,7008-7010,7016-7018,7024,7031-7032,7038,7045-7046,7050-7052,7059-7060,7066,7073-7074,7080,7087,7101-7102,7106-7108,7114-7116,7122,7128-7130,7136,7143,7146-7150,7157-7158,7160-7161,7164,7171-7172,7174-7175,7177-7178,7185,7188-7192,7199-7200,7203,7206,7213,7218-7220,7227,7234,7241,7246-7248,7255-7256,7258,7260-7262,7269-7270,7276,7283,7290,7296-7298,7301-7304,7311,7315-7318,7325-7326,7330-7331,7338-7340,7344-7346,7353-7354,7360,7367-7368,7370,7373-7374,7380-7382,7384,7387-7388,7395,7400-7402,7409,7416,7423,7428-7430,7437,7440,7442-7444,7451,7456-7458,7465-7466,7468,7470-7472,7479,7486,7493,7498-7500,7507,7510,7512-7514,7521,7524,7526-7528,7535,7540-7542,7548-7550,7554-7556,7561,7564-7568,7572-7574,7576-7577,7579-7583,7585-7587,7593-7594,7597,7599-7603,7605-7607,7613,7616-7617,7619-7623,7625-7647,7657-7658,7664,7671-7672,7675,7678,7684-7686,7692,7699-7700,7706,7712-7714,7718-7720,7727-7728,7732-7734,7741-7742,7746-7748,7754-7756,7762,7769-7770,7776,7783-7784,7788-7790,7797-7798,7804,7811-7812,7818,7825,7839-7840,7844-7846,7852-7854,7856-7860,7866-7868,7870-7874,7881-7882,7885-7888,7895,7899-7902,7909-7910,7912-7914,7916,7923-7924,7926-7930,7937-7938,7941,7944,7951-7965,7970-7972,7979,7984-7986,7993-7994,7996,7998-8000,8007-8008,8014,8021,8028,8034-8036,8039-8042,8049-8050,8053-8056,8063-8064,8068-8069,8076-8078,8082-8084,8091-8092,8098,8105-8106,8108,8111-8112,8118-8120,8122,8125-8126,8133,8138-8140,8147,8154,8161,8166-8168,8175,8178,8180-8182,8189,8194-8196,8203-8204,8206,8208-8210,8217,8224,8231,8236-8238,8245,8248,8250-8252,8259,8262,8264-8266,8273,8278-8280,8286-8288,8292-8294,8306,8315,8317,8661,8967,8969-8970,8979,8981-8985,8987,8989,9017,9030,9032-9033,9185,9199,9213,9226-9229,9240-9243,9255-9257,9269,9326-9327,9380-9383,9621,9623-9626,9675-9695,9703,9705,9723,9725-9729,9732-9733,9742-9743,9745-9748,9751-9752,9763,9765-9768,9772-9773,9783,9785-9789,9803,9805-9808,9811-9812,9823,9825-9828,9831-9833,9863,9865-9869,9871,9873,9883,9885,10153-10163,10191,10193,10198-10199,10206,10239-10262,10299,10301,10306-10307,10314,10322,10324,10329-10330,10337,10345,10347,10352-10353,10360,10368,10370,10375-10376,10383,10391,10393,10398-10399,10406,10487-10488,10535-10565,10609-10610,10639-10640,10669-10670,10699-10700,10723,10726-10730,10732-10733,13645-13655,13671-13693,13701-13702,13722-13724,13733-13734,13754,13758,13760,13765-13766,13773,13812,13814,13819-13820,13827,13835,13837,13839-13840,13842-13843,13845,13850,13858-13860,13862-13863,13865-13866,13868,13873,13881,13883,13888-13889,13896,13904,13906,13911-13912,13919,13965-13975,13991,13993,13998-13999,14006,14071-14094,14132,14134,14139-14140,14147,14155,14157,14159-14160,14162-14163,14165,14170,14178-14180,14182-14183,14185-14186,14188,14193,14201,14203,14208-14209,14216,14224,14226,14231-14232,14239,14285-14295,14308-14331,14335,14341-14342,14362-14364,14373-14374,14394,14398,14400,14405-14406,14413,14452,14454,14459-14460,14467,14475,14477,14480-14483,14485,14487,14490,14498,14500,14505-14506,14513,14521-14523,14525-14526,14528-14529,14531,14536,14544,14546,14551-14552,14559,14605-14615,14637-14639,14641-14642,14644-14645,14647,14652,14721-14744,14784-14786,14788-14789,14791-14792,14794,14799,14807,14809,14811-14815,14817,14819,14822,14830-14832,14834-14835,14837-14838,14840,14845,14853-14855,14860-14861,14868,14876-14878,14880-14881,14883-14884,14886,14891,14939-14949,14977,14979,14981-14982,14984-14985,14987,14992,15057-15080,15118-15120,15122-15126,15128-15129,15133,15141,15143,15145-15149,15151,15156,15164,15166,15168-15169,15171-15172,15174-15175,15179,15187,15189,15194-15195,15202,15210-15212,15214-15218,15220,15222,15225,15271-15281,15315-15317,15319-15320,15322-15323,15325,15330,15407-15430,15474,15476,15481-15482,15489,15497-15499,15502-15505,15507,15509,15512,15520,15522,15524-15525,15527-15528,15530,15535,15543,15545,15547-15548,15550-15551,15553,15558,15566,15568,15570-15571,15573-15574,15576,15581,15628-15638,15660,15662,15667-15668,15675,15712,15714,15716-15717,15719-15720,15722,15725,15727,15735,15737,15742-15743,15750,15758,15760,15765-15766,15773,15781,15783,15788-15789,15796,15804,15806,15811-15812,15819,16231-16253,16649-16660,16695-16698,16700-16701,16703,16716,16718-16719,16731-16739,16748-16755,16757-16758,16772-16775,16777-16778,16780,16795-16801,16803-16804,16818-16824,16826-16827,16841-16847,16849-16850,16862,16864-16865,16877-16885,17845,17847,17849-17850,17852-17853,17855,17860,17868,17870,17873-17876,17878,17880,17883,17891,17893,17895-17896,17898-17899,17901,17906,17914,17916,17918-17919,17921-17922,17924,17929,17937-17939,17941-17945,17947-17949,17952
+docs/reference/ai-certification.md
+  s_4862d7ef36966f::t_e092a86971e097 37-39,41,50,55-61,84,101,106-108,111,145-146,148,150,154,169,191,193,196,230-231,254,276,278,281,315-316,339,366,405,424,428,446-448,451,485-486,494,509,531-533,536,570-571,579,594,621,660,783,785,798,812-813,815-818,822,849,851,856-857,865,880-884,886,888,892,913-979,984,1018,1045,1047,1051,1059-1060,1071-1077,1081,1085,1115,1117,1119-1121,1125,1130-1131,1190-1191,1204-1210,1212,1214,1262,1265-1272,1274-1275,1305,1342-1343,1427,1441,1445,1447,1449-1453,1459,1473,1477,1479,1481-1485,1899,1911,1915,1918,1920-1924,1930,1942,1946,1949,1951-1955,1961,1973,1977,1980,1982-1986,1992,2005,2009,2012,2014-2018,2024,2038,2042,2045,2047-2051,2057,2072,2076,2079,2081-2085,2093,2110,2112-2116,2158,2180,2186,2234,2240,2244-2245,2255-2262,2396-2400
+docs/reference/ai-prompts.json
+  s_4862d7ef36966f::t_99340df9420623 425,631-639,877-879,882,1903,1973-1975,2688,2732-2734,2737
+docs/reference/ai-prompts.md
+  s_4862d7ef36966f::t_fb0a552b9d56c2 605,647,867-875,2759,2788-2789,4201,4220-4222
+docs/reference/entity-model/README.md
+  s_4862d7ef36966f::t_ee8c44161c2f9f 31-33,45,91,103,132,134,142-143,153
+docs/reference/entity-model/activities.md
+  s_4862d7ef36966f::t_44fbf92187ac37 5,9,20,90,122,184-209,395,406,409,631-649
+docs/reference/entity-model/compose.md
+  s_4862d7ef36966f::t_c878d900b58275 5,67-107
+docs/reference/entity-model/contacts.md
+  s_4862d7ef36966f::t_89a8dc0e85d7de 493
+docs/reference/gate-inventory.md
+  s_4862d7ef36966f::t_347c3c4a4bec11 88,332
+docs/reference/make-targets.md
+  s_4862d7ef36966f::t_843eebd99f2a22 163
+docs/reference/mcp-info.json
+  s_4862d7ef36966f::t_57fdbc9f2c7098 11,13,15,19-22,48,345-351,355,357,361-363,366,370-374,380-382,389,393,398,401,410-412,494,506-507,509,512,1715-1783,2049-2131,2311,2700,2964,2974,3188-3194,3198,3200,3368-3406,3408-3411,3414-3415,3417,3420-3443,3446,3451,3454,3459-3460,3542,3545-3551,3554-3555,3557,3560-3561,3563-3567,3570-3599,3602-3604,3607,3609-3637,3642,3647,3650-3651,3653,3656,3660,3663,3667,3672-3673,3679,3682,3686,3689-3693,3697-3698,3780,3793,3795,3804-3814,3819,3823,3828,3831,3835,3842,3845,3850-3851,3862-3865,3870-3872,3876-3877,3959,3962-3968,3970,3972,3974,3978-3979,3983-3985,3988-4005,4010,4014,4098,4110-4111,4113,4117-4118,4122-4129,4132-4133,4139-4140,4144,4149-4209,4211,4216-4220,4302,4315,4317,4321-4324,4326-4331,4335-4337,4340-4346,4352,4357-4372,4374-4434,4438-4453,4535,4548,4550,4553-4562,4565,4570-4614,4618-4620,4702,4713-4715,4717,4720-4721,4723-4725,4727-4728,4730,4733-4735,4738,4741-4758,4762,4767-4805,4809-4815,4897,4909-4910,4912,4916-4917,4920-4921,4924-4935,4941,4946-5028,5033,5115,5127-5128,5130,5133-5137,5139-5171,5251,5263-5264,5266,5270-5271,5277,5282,5285,5288-5297,5300-5320,5322-5323,5325-5332,5337-5341,5347-5348,5352,5434,5445-5447,5449,5453-5454,5457,5461,5463-5468,5472-5475,5479-5481,5484,5488-5547,5628,5641,5643,5649,5654,5657-5658,5661-5662,5664,5666-5699,5703-5707,5715,5797,5810,5812,5816-5817,5820-5901,5903-5907,5913,5917,5922-5923,5925,5928-5929,5931-5932,5935-5952,5954,5957,5960,5965-5967,5975,6057,6069-6070,6072,6076-6086,6089-6093,6095-6096,6100-6102,6105-6110,6112-6117,6120-6162,6165-6167,6170,6175,6178-6179,6182,6185,6188,6193-6195,6277,6282-6283,6285,6289-6290,6294-6298,6302,6305-6314,6319-6320,6324,6329,6331-6337,6341-6343,6425,6437-6438,6440,6444-6458,6460,6466-6467,6471,6476,6479,6484-6485,6567,6580,6582,6586-6597,6600-6614,6618,6622,6627-6631,6633,6636,6639-7169,7172,7176-7226,7230-7233,7237,7239-7252,7254-7313,7317-7318,7322-7339,7343-7344,7426,7438-7439,7441,7445-7446,7452,7456,7461-7622,7624-7629,7631,7636,7642-7645,7650-7651,7653-7658,7740,7752-7753,7755,7759-7811,7813-7840,7845,7850-7854,7856,7859-7871,7874,7877,7879-7884,7888-7892,7898-7907,7909-7932,7938,8020,8032-8033,8035,8039-8065,8068-8083,8087-8088,8092,8097-8100,8102-8114,8116-8120,8123,8129,8211,8224,8226,8229-8237,8240,8245,8248,8251,8254,8256-8271,8275,8278,8281,8283-8307,8311,8313-8315,8317-8318,8320-8321,8325-8326,8330,8332-8336,8339-8342,8344-8346,8350-8352,8356-8357,8361-8362,8370-8374,8456,8461,8470,8472,8476-8477,8483,8487,8492-8513,8515-8526,8528-8539,8541-8557,8561-8565,8647,8660,8662,8665,8668,8673-8674,8676-8677,8680-8689,8692-8791,8794,8799-8805,8877-8954,8958-8959,8974,9204-9240,9245-9247,9249,9252,9255,9258,9263-9267,9283-9286,9291-9311,9313-9314,9317,9320-9321,9324-9325,9327,9330,9333,9336-9337,9340,9343,9346-9347,9352-9355,9360-9362,9366-9367,9371,9382-9383,9387,9389-9431,9433-9434,9438-9439,9443,9448-9454,9461,9466-9468,9484,9486-9519,9521-9522,9526-9527,9531-9538,9540-9544,9546-9603,9605-9609,9611-9658,9660,9662-9665,9668,9670-9678,9682-9686,9690,9696,9698-9717,9719-9720,9724-9725,9731-9733,9815,9827-9828,9830,9834,9838-9839,9845-9847,9853-9854,9858,9863-9895,9900-9902,9984,9996-9997,9999,10001,10003,10006,10009-10015,10019-10024,10026-10033,10037-10059,10062,10064-10134,10138,10142,10146,10148-10170,10220-10301,10306,10310-10311,10324,10326,10330-10338,10340,10370,10376,10468,10471-10477,10481,10483,10487-10489,10492-10493,10497-10502,10512-10514,10517-10520,10524-10526,10530,10535,10541,10623,11077,11311,11361,12925,12935,13681,13684
+docs/reference/mcp-info.md
+  s_4862d7ef36966f::t_b234b4c73c1377 14,16,18,32-36,55,67,69,71,76,78,92,97,102-103,108,301,629,631,634-642,651-653,656,660-664,670-672,679,694,697,706-708,794,796,799-807,815-825,2077-2155,2433,2435,2438-2448,2456-2463,2465-2559,2714-2722,3141-3145,3427,3445,3853,3855,3858-3870,3878-3972,3976-3977,4063,4065,4068-4080,4088-4089,4091-4095,4098-4136,4143,4146-4173,4189,4192-4193,4195,4198,4202,4205,4209,4214-4215,4221,4224,4228,4231-4235,4239-4240,4326,4328,4331-4338,4351-4361,4366,4381,4384,4388,4395,4398,4403-4404,4415-4418,4423-4425,4429-4430,4516,4518,4521-4530,4539-4540,4544-4551,4553-4555,4563-4567,4571,4669,4671,4674-4687,4696-4697,4701-4708,4711-4712,4718-4719,4734-4752,4754,4756-4757,4759-4789,4791,4793-4796,4801-4805,4891,4893,4896-4911,4919-4948,4962-4977,4979-5039,5043-5058,5144,5146,5149-5160,5163-5172,5186-5230,5234-5236,5322,5324,5327-5334,5341-5381,5395-5433,5437-5443,5529,5531,5534-5541,5549-5572,5586-5715,5759,5761,5764-5771,5779,5793-5817,5821,5907,5909,5912-5918,5927-5928,5945,5948,5951-5961,5966-5970,5976-5977,5979,5981-6006,6009-6011,6015,6101,6103,6106-6110,6119-6120,6123-6125,6127,6129-6134,6137-6141,6145-6146,6161,6164,6168-6180,6184-6185,6187-6194,6199-6207,6213,6218,6304,6306,6309-6316,6324,6337-6412,6485,6487,6490-6500,6508-6607,6621,6624,6627-6631,6634-6653,6656,6658-6660,6664-6666,6674,6760,6762,6765-6773,6782-6792,6795-6799,6801-6802,6806-6867,6872,6887-6888,6890-6892,6894-6895,6897,6899-6901,6905-6907,6993,6995,6998-7004,7013-7015,7018-7023,7025-7026,7030-7031,7035-7037,7041-7045,7059-7060,7062,7065-7066,7071-7073,7159,7161,7164-7168,7177-7178,7182-7194,7199-7200,7215-7216,7218-7219,7223-7224,7310,7312,7315-7324,7333-7344,7347-7361,7365,7380-7384,7386,7389,7392-7922,7925,7929-7979,7983-7986,7990,7992-8005,8008-8066,8070-8071,8075-8092,8096-8097,8183,8185,8188-8197,8206-8207,8213,8228-8236,8238-8298,8301-8302,8305-8308,8313-8314,8320-8354,8359-8362,8366,8368-8382,8388-8412,8417-8418,8420-8425,8511,8513,8516-8534,8543-8595,8597-8624,8640,8642,8646,8649,8651,8655-8657,8661-8662,8664-8674,8678-8682,8687-8724,8728,8814,8816,8819-8828,8837-8863,8866-8881,8885-8886,8901-8904,8906-8918,8920-8924,8927,8933,9019,9021,9024-9042,9050-9058,9072,9075,9078,9081,9083-9098,9102,9105,9108,9110-9134,9138,9140-9142,9144-9145,9147-9148,9152-9153,9157,9159-9163,9166-9169,9171-9173,9177-9179,9183-9184,9188-9189,9197-9201,9287,9289,9292-9296,9299-9300,9307-9308,9314,9329-9350,9352-9353,9356-9358,9360-9363,9365-9376,9378-9394,9398-9402,9488,9490,9493-9501,9509,9523-9524,9526-9527,9530-9539,9542-9641,9644,9649-9655,9706-9813,9817,9842-9844,10106-10131,10136-10138,10140,10143,10146,10149,10154-10158,10174-10177,10182-10204,10208,10211-10212,10215-10218,10221,10224-10238,10243-10246,10262,10264-10266,10268-10269,10273-10274,10278,10280,10283-10284,10287,10290,10293,10296,10298-10322,10324-10325,10329-10330,10334,10339-10345,10352,10357-10359,10375,10377-10410,10412,10417-10418,10422-10429,10431-10435,10437-10494,10496-10500,10502-10549,10551,10553-10556,10559,10561-10569,10573-10577,10581,10587,10589-10608,10610-10611,10615-10616,10622-10624,10710,10712,10715-10723,10732,10736-10737,10743-10745,10751-10752,10767-10799,10804-10806,10892,10894,10897-10904,10911,10913,10916,10919-10925,10929-10934,10936-10943,10947-10969,10972,10974-11044,11048,11062,11064-11086,11159-11228,11236,11238,11241-11247,11256-11264,11266,11296,11404,11406,11409-11415,11424-11426,11429-11430,11434-11439,11449-11451,11454-11457,11461-11463,11478,11484,12046-12053,12299,12355,14005-14008,14025
+docs/reference/mcp-tool-coverage.json
+  s_4862d7ef36966f::t_04e1f5299c37c3 4-9,22-23,30-31,33-38,117,136,184,251,268,275,341,350,352,367-368,401-402,418,420,436,438,491,515,542,558,644,719-720,722,781,790,807,913,1174,1826-1827,1831,1834-1836,1840-1841,1845-1848,1851,1898-1899,1904-1908,2056,2114,2145-2146,2148-2150,2152,2154-2155,2157-2172,2216-2242,2245-2250,2256,2283,2296-2297,2304,2374-2375,2402-2403,2410,2428-2429,2434-2435,2510-2511,2522-2548,2551,2581-2642,2719-2720,2731-2759,2815-2845,2931-2932,2935-2937,2940-2943,2956-2960,2965-2966,2969,2979-2986,2992-2993,2996,3019-3020,3023,3039-3040,3163,3189-3190,3193-3194,3203-3204,3209-3211,3321-3322,3349-3350,3353,3356-3358,3365-3366,3378-3379,3382,3392-3393,3398-3399
+docs/reference/mcp-tool-coverage.md
+  s_4862d7ef36966f::t_e1df6e1b95aaae 21,37,50,93-98,108-109,113-114,122,162-164,166,170-172,175-182,184-185,187-188,193-194,197-198,200-202,206,222-223,326,328,330,333,335-336,338,343,352,358,366,368,370,374,381,394,397-400,408,412-413,415,417,419-421,425,458,467,477,481,489
+docs/reference/modules.md
+  s_4862d7ef36966f::t_378caf341222f7 36
+e2e/llm/scenarios/case10-finish-the-import.yaml
+  s_4862d7ef36966f::t_cc3f03f7184edb 14-20,45,65,101-102
+e2e/llm/scenarios/case2-business-card.yaml
+  s_4862d7ef36966f::t_6daa299d3bec15 31
+e2e/llm/scenarios/case20-put-it-in-the-board-pack.yaml
+  s_4862d7ef36966f::t_25fbecdf4511ed 91,135
+e2e/llm/scenarios/case21-what-are-we-closing.yaml
+  s_4862d7ef36966f::t_d6fcdfe85c76e7 59
+e2e/llm/scenarios/case22-can-i-trust-the-numbers.yaml
+  s_4862d7ef36966f::t_676502cc646d28 45-48
+e2e/llm/scenarios/case3-spreadsheet.yaml
+  s_4862d7ef36966f::t_f7e2663f8ac161 7-9,24,37
+e2e/llm/scenarios/case30-a-word-for-it.yaml
+  s_4862d7ef36966f::t_8a2d7cb3284a3d 51-52,65-68,75
+e2e/llm/scenarios/case31-wrong-word-on-the-record.yaml
+  s_4862d7ef36966f::t_928104466b3219 49-50,56-59
+e2e/llm/scenarios/case32-two-words-for-one-thing.yaml
+  s_4862d7ef36966f::t_646fbd3f7338d8 49,51-56
+e2e/llm/scenarios/case4-use-the-moment.yaml
+  s_4862d7ef36966f::t_17a350e29898e6 46
+e2e/llm/scenarios/case40-sort-the-queue.yaml
+  s_4862d7ef36966f::t_830024a472b342 50-54,56-60,69,135,153
+e2e/llm/scenarios/case41-close-the-project.yaml
+  s_4862d7ef36966f::t_d3fe0698341763 15
+e2e/llm/scenarios/case43-the-fair-leads-are-prospects.yaml
+  s_4862d7ef36966f::t_a77b011805a631 21,27,50,63,79,83
+e2e/llm/scenarios/case45-move-the-deal-on.yaml
+  s_4862d7ef36966f::t_b1417bf4c5987a 3-5,32,42
+e2e/llm/scenarios/case47-tidy-the-fair-list.yaml
+  s_4862d7ef36966f::t_420d8fe2f21010 43,56
+e2e/llm/scenarios/case48-that-whole-thread-is-filed-wrong.yaml
+  s_4862d7ef36966f::t_e43175eb30a6dc 16,20,24-26,44,64
+e2e/llm/scenarios/case49-who-can-introduce-us.yaml
+  s_4862d7ef36966f::t_3e61fd5b7c27bb 60
+e2e/llm/scenarios/case50-what-moved-my-quarter.yaml
+  s_4862d7ef36966f::t_66f559bba5a8c3 38
+e2e/llm/scenarios/case54-a-word-from-the-fair.yaml
+  s_4862d7ef36966f::t_74bde917c2a62e 37
+e2e/llm/scenarios/case56-not-the-same.yaml
+  s_4862d7ef36966f::t_5e6df99a9c0827 36-37
+e2e/llm/scenarios/case7-ask-for-a-number.yaml
+  s_4862d7ef36966f::t_ab5650f9784413 9,19,82
+e2e/llm/scenarios/case8-whats-waiting.yaml
+  s_4862d7ef36966f::t_f17c860b304272 21,49,59,69-70
+e2e/llm/seed-llm-fixtures.sh
+  s_4862d7ef36966f::t_7a2b7ace65b1a9 183,302,1452
+e2e/llm/testdata/case10/german-report-that-skipped-a-row.jsonl
+  s_4862d7ef36966f::t_5d2d74196c3165 1,4-5
+e2e/llm/testdata/case10/maps-a-column-and-never-says-so.jsonl
+  s_4862d7ef36966f::t_db7b0f6988d454 1
+e2e/llm/testdata/case10/numbers-that-count-nothing.jsonl
+  s_4862d7ef36966f::t_0a31ff839ce952 1,3
+e2e/llm/testdata/case10/reports-the-count-and-the-skips.jsonl
+  s_4862d7ef36966f::t_b25a0c06e75a14 1,3
+e2e/llm/testdata/case10/reports-the-skips-in-german.jsonl
+  s_4862d7ef36966f::t_677c4547f9e216 1,4
+e2e/llm/testdata/case10/stops-at-the-dry-run.jsonl
+  s_4862d7ef36966f::t_398db5538e3e47 1,4
+e2e/llm/testdata/case22/claims-complete-coverage.jsonl
+  s_4862d7ef36966f::t_857405cfc642b3 1-2
+e2e/llm/testdata/case22/claims-everything-is-synced.jsonl
+  s_4862d7ef36966f::t_62b3adca409cd9 1-2
+e2e/llm/testdata/case22/claims-the-feeds-were-checked.jsonl
+  s_4862d7ef36966f::t_2a12217423a184 1-2
+e2e/llm/testdata/case22/claims-your-sources-are-current.jsonl
+  s_4862d7ef36966f::t_2a46fb5583f0d1 1-2
+e2e/llm/testdata/case22/names-what-is-not-behind-the-numbers.jsonl
+  s_4862d7ef36966f::t_41ad62a57335f7 1-2
+e2e/llm/testdata/case22/reports-only-the-findings.jsonl
+  s_4862d7ef36966f::t_4ac487269ff110 1-2
+e2e/llm/testdata/case22/reports-the-feeds-as-unconnected.jsonl
+  s_4862d7ef36966f::t_0de6cbe922d23d 1-3
+e2e/llm/testdata/case22/reports-the-unread-sources.jsonl
+  s_4862d7ef36966f::t_0972475b7a6f96 1-2
+e2e/llm/testdata/case30/announces-the-coinage-as-a-list.jsonl
+  s_4862d7ef36966f::t_b23867bf5872e5 1-4
+e2e/llm/testdata/case30/coins-a-second-k5.jsonl
+  s_4862d7ef36966f::t_51bae3a369e528 1-4
+e2e/llm/testdata/case30/sets-up-a-second-k5-word.jsonl
+  s_4862d7ef36966f::t_c47fb89a1ce173 1-4
+e2e/llm/testdata/case30/uses-the-existing-word-and-says-so.jsonl
+  s_4862d7ef36966f::t_1ebc74b9bf354b 1-5
+e2e/llm/testdata/case30/uses-the-word-that-was-there.jsonl
+  s_4862d7ef36966f::t_f8e3065dc69252 1-4
+e2e/llm/testdata/case31/audits-and-never-reports-the-removal.jsonl
+  s_4862d7ef36966f::t_7446ec171ad270 1-4
+e2e/llm/testdata/case31/names-the-retired-word-and-keeps-it.jsonl
+  s_4862d7ef36966f::t_93f0b5b5a7cf94 1-3
+e2e/llm/testdata/case31/reports-the-record-as-clean.jsonl
+  s_4862d7ef36966f::t_bafaa2547ef2f2 1-3
+e2e/llm/testdata/case31/retires-the-word-for-everyone.jsonl
+  s_4862d7ef36966f::t_7c55580f59d7b0 1-4
+e2e/llm/testdata/case31/takes-the-tagging-off-and-keeps-the-word.jsonl
+  s_4862d7ef36966f::t_b5617e04b74c4f 1-4
+e2e/llm/testdata/case31/un-flags-and-says-the-word-survives.jsonl
+  s_4862d7ef36966f::t_5648dd6a43280a 1-4
+e2e/llm/testdata/case32/folds-and-forgets-the-description.jsonl
+  s_4862d7ef36966f::t_12cc6cfd548586 1-3,5-6
+e2e/llm/testdata/case32/folds-the-wrong-word-away.jsonl
+  s_4862d7ef36966f::t_cba2419332132b 1-3,5
+e2e/llm/testdata/case32/names-the-losing-word-without-a-fold-verb.jsonl
+  s_4862d7ef36966f::t_b84879622184ca 1-3,5-6
+e2e/llm/testdata/case32/reports-the-fold-as-finished.jsonl
+  s_4862d7ef36966f::t_10e722819e7c48 1-3,5-6
+e2e/llm/testdata/case32/reports-the-fold-as-waiting-in-another-register.jsonl
+  s_4862d7ef36966f::t_0ac87d32a7e63f 1-3,5
+e2e/llm/testdata/case32/says-the-tags-cannot-be-merged.jsonl
+  s_4862d7ef36966f::t_daefdc075a5d3b 1-3,5
+e2e/llm/testdata/case40/calls-bruno-a-contact-now.jsonl
+  s_4862d7ef36966f::t_40fa88eb802d29 1-4
+e2e/llm/testdata/case40/leaves-the-dead-end-open.jsonl
+  s_4862d7ef36966f::t_932c7e9ff78d0e 1-5
+e2e/llm/testdata/case40/puts-the-verb-on-the-wrong-lead.jsonl
+  s_4862d7ef36966f::t_e413a46e38312c 1-4
+e2e/llm/testdata/case40/reports-each-lead-in-its-own-block.jsonl
+  s_4862d7ef36966f::t_c1bbfa737f4a56 1-5
+e2e/llm/testdata/case40/says-what-it-did-not-do.jsonl
+  s_4862d7ef36966f::t_82ff98201c2232 1-4
+e2e/llm/testdata/case40/summarises-the-queue-in-one-line.jsonl
+  s_4862d7ef36966f::t_2d0977309ba08a 1-4
+e2e/llm/testdata/case43/approves-the-one-a-human-set.jsonl
+  s_4862d7ef36966f::t_89f49cd09d0a80 1,7
+e2e/llm/testdata/case43/claims-all-four-needed-sign-off.jsonl
+  s_4862d7ef36966f::t_5606d572aa49a6 1,7
+e2e/llm/testdata/case43/hands-the-approval-back.jsonl
+  s_4862d7ef36966f::t_89561036526c19 1
+e2e/llm/testdata/case43/names-the-wrong-company.jsonl
+  s_4862d7ef36966f::t_b91515b2edce74 1,7
+e2e/llm/testdata/case43/says-it-in-one-paragraph.jsonl
+  s_4862d7ef36966f::t_7502872440123d 1,7
+e2e/llm/testdata/case47/archives-mara-and-hands-her-over.jsonl
+  s_4862d7ef36966f::t_4f6eb1cd92845f 1,4
+e2e/llm/testdata/case47/tidies-the-list.jsonl
+  s_4862d7ef36966f::t_fe42e7225e01c6 1,4
+e2e/llm/testdata/case48/moves-all-three-on-the-sign-off.jsonl
+  s_4862d7ef36966f::t_a1f1c163d96652 1,6
+e2e/llm/testdata/case48/moves-one-of-three.jsonl
+  s_4862d7ef36966f::t_776dd1a2da743c 1,5
+e2e/llm/testdata/case7/hands-back-the-vocabulary.jsonl
+  s_4862d7ef36966f::t_c7f56c45959fe1 1-2
+e2e/llm/testdata/case8/hands-the-queue-back.jsonl
+  s_4862d7ef36966f::t_1744200a95fd9d 1,4-5
+e2e/llm/testdata/case8/reads-both-before-deciding.jsonl
+  s_4862d7ef36966f::t_22ae9feca6f9cb 1,4-5
+e2e/llm/testdata/case8/refuses-on-your-behalf.jsonl
+  s_4862d7ef36966f::t_96f5be1e1af9f3 1,4-5
+e2e/llm/testdata/case8/routes-approvals-to-the-app.jsonl
+  s_4862d7ef36966f::t_abf608176afa8f 1,4-5
+frontend/e2e/ac.spec.ts
+  s_4862d7ef36966f::t_af9005f9b49a8b 1238-1240
+frontend/e2e/booking-flows.spec.ts
+  s_4862d7ef36966f::t_4d3e16652481b8 452,455-458
+frontend/e2e/mailboxprivacy.spec.ts
+  s_4862d7ef36966f::t_03eec8f89e603d 1,21-28,33,60,64-66,101-109,121-124,128,130,139-142
+frontend/e2e/mockapi/fixtures.ts
+  s_4862d7ef36966f::t_c2e922c325bfb8 679,1011
+frontend/e2e/mockapi/routes.ts
+  s_4862d7ef36966f::t_1bf1f809e1fe07 4,48
+frontend/e2e/mockapi/work.ts
+  s_4862d7ef36966f::t_b6db55bc00d656 198,202-203,206-212
+frontend/src/App.csvimport.test.tsx
+  s_4862d7ef36966f::t_a71eed1be133b9 15-16,42-71,79-86,101,106,109,124,158-160,179,182,202,215-216,220,224-226,237-239,242,246-248,270
+frontend/src/api/public-events.ts
+  s_4862d7ef36966f::t_a518e9a56f6758 14,923,973-977,1116,1121,1126-1130,1845,1851
+frontend/src/api/schema.d.ts
+  s_4862d7ef36966f::t_65c1ff5e5f5745 4720,4723-4729,11575-11576,18913-18922,18939-18940,18949-19001,19057-19081,21120-21126,21128-21155,21173-21174,22544-22547,22549-22554,23122-23134,23146-23148,23152-23210,23217,23220-23226,23251,23379-23425,23427-23430,23433-23435,23439-23446,23457-23458,23529-23541,23555-23565,30286-30296,31353-31354,31431-31433,31436,42266-42269,42536,42724-42739,43753-43758,43867-43868,43998-44003,44075-44081,44147,44230-44235,44508,44878-44892,46812-46818,51777-51784,73231,73234,73267-73302,73331-73378,73430-73455
+frontend/src/app/agentrail-reads.ts
+  s_4862d7ef36966f::t_58605f522220f0 7,124-127
+frontend/src/app/agentrail.capture.test.tsx
+  s_4862d7ef36966f::t_6f7a53d489eb41 229-249
+frontend/src/app/nav.ts
+  s_4862d7ef36966f::t_bb6eb7a9dfc133 254,256-260,271
+frontend/src/app/shell.test.tsx
+  s_4862d7ef36966f::t_54ec5da1d018ef 586-587
+frontend/src/app/storage.test.ts
+  s_4862d7ef36966f::t_cfd09fdefd1578 190
+frontend/src/design-system/README.md
+  s_4862d7ef36966f::t_8e12b9172c01ac 357,363,367,394,398,402,497-498,554,557
+frontend/src/design-system/arrivalfocus.test.tsx
+  s_4862d7ef36966f::t_64015ddd6cb462 12-13,29-33
+frontend/src/design-system/arrivalfocus.ts
+  s_4862d7ef36966f::t_fa3e6e6bb6b4f3 6-11,15,18
+frontend/src/design-system/atoms.css
+  s_4862d7ef36966f::t_f555053a14c487 976-984,1002-1006
+frontend/src/design-system/callout.css
+  s_4862d7ef36966f::t_536dad7756034f 40-45,49,51,56-58,61,105-109
+frontend/src/design-system/callout.stories.tsx
+  s_4862d7ef36966f::t_b8f8fc872d953d 231-270
+frontend/src/design-system/callout.tsx
+  s_4862d7ef36966f::t_491b445430004e 110-117
+frontend/src/design-system/composed.css
+  s_4862d7ef36966f::t_2e2f2b633c2979 1077-1080,1087,1168-1173,1202-1205,1209-1233
+frontend/src/design-system/composed.test.tsx
+  s_4862d7ef36966f::t_946c519f0babe9 359,386,500
+frontend/src/design-system/composed.tsx
+  s_4862d7ef36966f::t_5a650e047cb5f8 293,346,374-376,406-410,1398-1401,1487,1509,1570
+frontend/src/design-system/datatable.css
+  s_4862d7ef36966f::t_7e7269242cae26 41-64,129-136,178-192
+frontend/src/design-system/datatable.stories.tsx
+  s_4862d7ef36966f::t_15318d99a17eed 7-14,683-838
+frontend/src/design-system/datatable.test.tsx
+  s_4862d7ef36966f::t_9c9557ca005c90 9,11,19,378-380,544-549,551-554,562-568,610-790
+frontend/src/design-system/datatable.tsx
+  s_4862d7ef36966f::t_533c8a1c8ee5c4 14,35,55-56,60-65,82,104,106,108,110,114,158,214,230-261,280-282,304,326,330-332,341
+frontend/src/design-system/filterbar.css
+  s_4862d7ef36966f::t_5a6a3a5baa951a 1-46
+frontend/src/design-system/filterbar.stories.tsx
+  s_4862d7ef36966f::t_6dc08bc1654a90 1-70
+frontend/src/design-system/filterbar.tsx
+  s_4862d7ef36966f::t_dbd097654cde71 1-47
+frontend/src/design-system/inlinetext.tsx
+  s_4862d7ef36966f::t_8a567482bb62fe 74-75,78,84,98
+frontend/src/design-system/markdown-parse.ts
+  s_4862d7ef36966f::t_1bb6b7f02a0d51 38,405
+frontend/src/design-system/markdown.test.tsx
+  s_4862d7ef36966f::t_8a88c90c6c66e5 487-530
+frontend/src/design-system/markdown.tsx
+  s_4862d7ef36966f::t_0ebb1d01ca1eb6 306-308,316-336
+frontend/src/design-system/numbersetting.css
+  s_4862d7ef36966f::t_26ef129526e921 9-15
+frontend/src/design-system/numbersetting.stories.tsx
+  s_4862d7ef36966f::t_459adf0172e109 6,53
+frontend/src/design-system/numbersetting.test.tsx
+  s_4862d7ef36966f::t_7b0124f421013f 71,167-201
+frontend/src/design-system/numbersetting.tsx
+  s_4862d7ef36966f::t_bdf12426b3c58c 36,47-48,63,66-68,74,79-80,96-100,105,119-123,129-148
+frontend/src/design-system/panel.css
+  s_4862d7ef36966f::t_ade5a3cc5c1ab9 18-19,41-42,62-76,289-291
+frontend/src/design-system/panel.stories.tsx
+  s_4862d7ef36966f::t_d3a0240747932c 5-6,13,27,31-32,211-268
+frontend/src/design-system/panel.test.tsx
+  s_4862d7ef36966f::t_ac528ca4ebd373 6-7,162-225,536,554,559-574
+frontend/src/design-system/panel.tsx
+  s_4862d7ef36966f::t_80f3eb2b81e435 5,45-46,178,240,248-249,254-255,261,266-272
+frontend/src/design-system/presence.test.ts
+  s_4862d7ef36966f::t_24fd2e58fafe9b 4,203-219
+frontend/src/design-system/presence.ts
+  s_4862d7ef36966f::t_a1626d06b4eca7 105-118
+frontend/src/design-system/recordpicker.tsx
+  s_4862d7ef36966f::t_3429ba7ffbe17f 8-10,21-27,175-182,204-209
+frontend/src/design-system/sortablelist.tsx
+  s_4862d7ef36966f::t_913e984e935bbe 72-86,91,94-97,103-116,123,126,128,151-152,157-158,160-178,180,196-198,201,214-228,236-240,247-250,259,267-269,271,286,292-366,369-373,375-377,379-408,412-414,417,420,423,429,434
+frontend/src/format/connectorprovider.ts
+  s_4862d7ef36966f::t_6ed23c6ffc404d 5,9-21,32,36-50
+frontend/src/format/interval.test.ts
+  s_4862d7ef36966f::t_68fb52c2dc68bd 1-20
+frontend/src/format/interval.ts
+  s_4862d7ef36966f::t_0af31f33524fde 1-45
+frontend/src/i18n/de.ts
+  s_4862d7ef36966f::t_9b6c8ad6ed5219 425,904,916,923,1271-1272,1408-1409,1559-1568,2558-2561,3436-3453,4372-4373,4617-4620,4625-4626,5037,5795-5945,5978-5989,6005-6006,6019-6020,6062-6065,6115-6135,6589-6590,6597-6614,6635-6636,7041-7042,7051-7053,7055,7057,7073,7079-7082,7137,7307,7378-7392,8818-8836,8842,8846,8891-8894,8910,8914,8916,8918,8920,8922,8924,8926,8928,8930,8932,8934,8936,8939-8949,9180,9195-9201,9241-9264,9266,9268-9287,10410-10411,10501-10506,10563,10569,10580,10591,10598-10599,11464,11652-11656,11744-11745,11747,11756-11757,11761-11762,12181,12183-12184,12191-12192,12194,12215-12216,12438,12496-12499,12637-12638
+frontend/src/i18n/en.ts
+  s_4862d7ef36966f::t_f27041581975f8 417,884,896,903,1268-1269,1401-1403,1566-1575,2612-2615,3486-3502,4477-4478,4709-4712,4725,5131,5945-6088,6120-6131,6149-6150,6163-6164,6209-6212,6264-6284,6733-6750,6769-6770,7176-7177,7186-7188,7190,7192,7208,7214-7217,7269,7441,7512-7525,8972-8990,8996,9000,9043-9046,9061,9065,9067,9069,9071,9073,9075,9077-9078,9080,9082,9084,9086,9089-9099,9322,9337-9343,9381-9404,9406,9408-9428,10527-10528,10616-10621,10677,10683,10693,10704,10711-10712,11591,11777-11781,11866-11867,11869,11877-11878,11882-11883,12313,12315-12316,12322-12323,12325,12345-12346,12565,12616-12619,12777-12778
+frontend/src/i18n/i18n.test.ts
+  s_4862d7ef36966f::t_6dec1b8fb5306d 30-31,195,244,268
+frontend/src/i18n/record-noun.test.ts
+  s_4862d7ef36966f::t_1a423f2d6ec439 177-178,335,339-343,346
+frontend/src/i18n/vi.ts
+  s_4862d7ef36966f::t_bcd1f6559a2af3 423,881,893,900,1243-1244,1379-1380,1526-1535,2507-2510,3368-3384,4296-4297,4533-4536,4541-4542,4936,5671-5816,5849-5860,5875-5876,5889-5890,5931-5934,5984-6004,6451-6452,6459-6476,6496-6497,6893-6894,6903-6905,6907,6909,6925,6931-6934,6987,7153,7223-7237,8629-8647,8653,8657,8700-8703,8718,8722,8724,8726,8728,8730,8732,8734,8736,8738,8740,8742,8744,8747-8757,8985,9000-9006,9044-9067,9069,9071-9090,10193-10194,10285-10290,10346,10352,10362,10373,10380-10381,11212,11403-11407,11500-11501,11503,11512-11513,11517-11518,11936,11938-11939,11946-11947,11949,11969-11970,12192,12243-12246,12371
+frontend/src/mcp-apps/actions.json
+  s_4862d7ef36966f::t_7ae1f34de76599 2-4
+frontend/src/mcp-apps/approval/main.test.ts
+  s_4862d7ef36966f::t_5e7e0b902c59a6 99,104
+frontend/src/mcp-apps/approval/main.ts
+  s_4862d7ef36966f::t_2b82d92b31f33e 1-5,165
+frontend/src/mcp-apps/create-followups/main.test.ts
+  s_4862d7ef36966f::t_eea2ecfc2b45c3 186,188,197-200,211-215,231-234
+frontend/src/mcp-apps/create-followups/tag-offer.ts
+  s_4862d7ef36966f::t_bc4dae8a22cfc9 162-165,173-174,194-195
+frontend/src/mcp-apps/field-conflict/main.test.ts
+  s_4862d7ef36966f::t_d9654d3de0931c 76,88,116,131
+frontend/src/mcp-apps/field-conflict/main.ts
+  s_4862d7ef36966f::t_70566d1655b380 189,201
+frontend/src/screens/activitybody.ts
+  s_4862d7ef36966f::t_fc93a3b6c34d0c 33-44,89-90,92,125-132,136-154
+frontend/src/screens/activitykeys.ts
+  s_4862d7ef36966f::t_4e637bde9fd68c 127-129,134,140-141,145-149
+frontend/src/screens/ai-provider-health-refresh.test.tsx
+  s_4862d7ef36966f::t_b585135f3fba2c 51
+frontend/src/screens/ai-request-settings.stories.tsx
+  s_4862d7ef36966f::t_e012634bbc2c96 235-236
+frontend/src/screens/ai-task-details.test.tsx
+  s_4862d7ef36966f::t_6ca759ab2b62ca 34,54
+frontend/src/screens/analytics.forecast.tsx
+  s_4862d7ef36966f::t_6b9ad82cf09cca 15,73-87,100,307-331
+frontend/src/screens/analytics.test.tsx
+  s_4862d7ef36966f::t_7f45e6bbedaa82 16-21,44-57
+frontend/src/screens/analytics.tsx
+  s_4862d7ef36966f::t_a5cb16975ed8fb 10,1146,1150,1175,1193
+frontend/src/screens/backfill.css
+  s_4862d7ef36966f::t_800f12ad5e334d 24-27
+frontend/src/screens/backfill.stories.tsx
+  s_4862d7ef36966f::t_84eb2ecc9667d2 225,227
+frontend/src/screens/backfill.tsx
+  s_4862d7ef36966f::t_f8b49e2383a0b2 189,199
+frontend/src/screens/blocked-domains.css
+  s_4862d7ef36966f::t_55efbf2ecadd70 1-3,5-8,11-13
+frontend/src/screens/blocked-domains.stories.tsx
+  s_4862d7ef36966f::t_d163192d8dbf6b 5,22-23,32,41-42,46-57,68,78,116-138,173
+frontend/src/screens/blocked-domains.test.tsx
+  s_4862d7ef36966f::t_b0a189c5914e8e 26,47,52-53,62-63,67,80,144,147,150-170,308-311,313,343-345,347,350,354,357,361-374,385-386,390-443,447,463-464
+frontend/src/screens/blocked-domains.tsx
+  s_4862d7ef36966f::t_60a68df5f6c76b 8-14,16-17,39,59-61,65-74,80-88,158-165,201-202,208,278-284,289,294-295,300-314,316,322-332,337-344,349-350,357-407,409-410,412,414,418,420,422,424-427
+frontend/src/screens/book.css
+  s_4862d7ef36966f::t_b58f0d306686b6 174
+frontend/src/screens/booking-calendars.tsx
+  s_4862d7ef36966f::t_7b96553db13035 3,59
+frontend/src/screens/booking-profile.tsx
+  s_4862d7ef36966f::t_96c08428b241fe 133-134,136-140
+frontend/src/screens/brief.fixtures.ts
+  s_4862d7ef36966f::t_cad6816e1792cc 742-744
+frontend/src/screens/bulkchange.tsx
+  s_4862d7ef36966f::t_ee2cef4cda4c60 73-76,79,86,88,91-93,222-237,239-241,243,293-363,367
+frontend/src/screens/bulkchangeapi.ts
+  s_4862d7ef36966f::t_87984541ff1a15 14-16
+frontend/src/screens/candidatepicker.css
+  s_4862d7ef36966f::t_a2e2584273e0ac 1-5
+frontend/src/screens/capture-activity-messages.stories.tsx
+  s_4862d7ef36966f::t_db119c4de67403 1-118
+frontend/src/screens/capture-activity-messages.tsx
+  s_4862d7ef36966f::t_3669cd29dc3b1b 1-221
+frontend/src/screens/capture-activity.css
+  s_4862d7ef36966f::t_5e7bd939fc93a0 17-20,23-25,27-30,36-42,45
+frontend/src/screens/capture-activity.stories.tsx
+  s_4862d7ef36966f::t_06424183a9f10b 179-203,235-236,242
+frontend/src/screens/capture-activity.test.tsx
+  s_4862d7ef36966f::t_253450ef7581a1 210-213,236,247,324,344,589,594-595,598,623,645,651-652,667,669-684,710,731,733,738-753,757,760,778,781,793,796,825,828,866,869
+frontend/src/screens/capture-activity.tsx
+  s_4862d7ef36966f::t_a5f0e3d7abe9f9 6,12,17-22,25,29,85,89-110,143-146,149-150,153,157-158,165,167-172,180,184-186,188,195-301
+frontend/src/screens/capture-exclusions.css
+  s_4862d7ef36966f::t_6860ccd2ed23ef 1-9
+frontend/src/screens/capture-exclusions.queries.ts
+  s_4862d7ef36966f::t_38a0b09a6d9f7e 8
+frontend/src/screens/capture-exclusions.stories.tsx
+  s_4862d7ef36966f::t_e51bb075dca429 30-43,74-90,117
+frontend/src/screens/capture-exclusions.test.tsx
+  s_4862d7ef36966f::t_e805b3bd813668 5,12,47,59-61,72-133,481,485,508,548,577,614,660,704,762,809
+frontend/src/screens/capture-exclusions.testkit.tsx
+  s_4862d7ef36966f::t_d15e6651301b1c 16,20,23,108-111,131-136,146-152,154-161
+frontend/src/screens/capture-exclusions.tsx
+  s_4862d7ef36966f::t_3ad48926a1f6c7 2,11,17,31-37,72-76,81,84,87-90,96,99,102,105,107-108,110,135,165,183,188-190,210,215,222,240,242-244,246-247,254-307,422
+frontend/src/screens/capture-owner-identities.css
+  s_4862d7ef36966f::t_7c75a282e5ebc7 1-14
+frontend/src/screens/capture-owner-identities.stories.tsx
+  s_4862d7ef36966f::t_0aad20a79b4b11 6,33-39,49-52,65-80
+frontend/src/screens/capture-owner-identities.test.tsx
+  s_4862d7ef36966f::t_23e2fa54cdc9fa 3-9,13,17-22,43-48,64,68,158-293
+frontend/src/screens/capture-owner-identities.tsx
+  s_4862d7ef36966f::t_5610531bd7ecdd 3,14,25-27,30-37,90-93,96,99,102-106,108-127,129,134-148,152,154-159,170,185-195,199-223,254-255,259-260,264-266,280-288,293-332
+frontend/src/screens/capture-senders.css
+  s_4862d7ef36966f::t_d94692712c27d7 1-9
+frontend/src/screens/capture-senders.stories.tsx
+  s_4862d7ef36966f::t_5ca9b9bbacff48 5,69-76,137-150,152-177
+frontend/src/screens/capture-senders.test.tsx
+  s_4862d7ef36966f::t_cb6d6be58f31b8 7-8,11-12,15,17-20,23-37,44,47-60,71-72,80-114,122,132-201
+frontend/src/screens/capture-senders.tsx
+  s_4862d7ef36966f::t_85cfd12dbb427e 5-12,14,22,24,26,30,48,157-193,199-293,299,306-315,321-336,340-341,343-372,378,385,390-392,395-396,398,400-402,404-405,407,411,413
+frontend/src/screens/capturehealth.stories.tsx
+  s_4862d7ef36966f::t_8db9d38956872c 153-162
+frontend/src/screens/capturehealth.test.tsx
+  s_4862d7ef36966f::t_064dd1a27158e3 13,105-106,118-121,123-128,130-137,140,145-154,173-176,190-192,206-208
+frontend/src/screens/capturehealth.tsx
+  s_4862d7ef36966f::t_1e577a2e1a607b 5,10-11,13,15,27,83-84,89-155,158-168,171,175-191,194-224,233-236,239-249,253-257,259-263,265,278-285,287-289,291-312
+frontend/src/screens/channelproviders.test.tsx
+  s_4862d7ef36966f::t_99d68359f47271 98-109
+frontend/src/screens/channelproviders.ts
+  s_4862d7ef36966f::t_c0005e82ea2a8f 5-6,42-43,45,59
+frontend/src/screens/citeddocument.tsx
+  s_4862d7ef36966f::t_d6621a1ea040ef 1,27-42
+frontend/src/screens/common.test.tsx
+  s_4862d7ef36966f::t_d8b51ba6f8fc42 116-132,782,789
+frontend/src/screens/common.tsx
+  s_4862d7ef36966f::t_a68e8be7593396 17
+frontend/src/screens/company-context.tsx
+  s_4862d7ef36966f::t_5d062f22ab5c90 1-6,410-418,425-427
+frontend/src/screens/companycommercial.tsx
+  s_4862d7ef36966f::t_33e6336d3859b9 1,67-76
+frontend/src/screens/companyform.ts
+  s_4862d7ef36966f::t_ffe1ed44b940b1 21,41-42,45,54
+frontend/src/screens/companyheaderactions.test.tsx
+  s_4862d7ef36966f::t_fab5c17db43e86 3-9,15,151-160,186-190,236-358
+frontend/src/screens/companyheaderactions.tsx
+  s_4862d7ef36966f::t_346c55bce2d7a0 4,8,10,15,74,114-124,138-178
+frontend/src/screens/companyreject.test.tsx
+  s_4862d7ef36966f::t_e1046d80d5103a 120-121
+frontend/src/screens/compose-contact-draft.test.tsx
+  s_4862d7ef36966f::t_25811dfc773b48 336-374
+frontend/src/screens/compose.tsx
+  s_4862d7ef36966f::t_09579aa6c851de 776,787-790,796-797,828-829,945
+frontend/src/screens/composedraftcall.ts
+  s_4862d7ef36966f::t_6a23c7fec65439 74-75,202-217,240,247,258,272,282,295-302,361
+frontend/src/screens/composereachability.ts
+  s_4862d7ef36966f::t_2fd9fea4f57a5b 1,74-84
+frontend/src/screens/composereplyrecipient.ts
+  s_4862d7ef36966f::t_2ffcaac1bed915 4,27-36
+frontend/src/screens/composevoicedraft.ts
+  s_4862d7ef36966f::t_7b7a6adaeb386b 10-11,84,97,205
+frontend/src/screens/connectors.add.stories.tsx
+  s_4862d7ef36966f::t_f8deb98e3cbe7c 1-60
+frontend/src/screens/connectors.add.tsx
+  s_4862d7ef36966f::t_5cb02b9512d2fa 1-113
+frontend/src/screens/connectors.css
+  s_4862d7ef36966f::t_065a25968cfe7c 1,15-17,19-21,23-24,29-30,33-41,50-65
+frontend/src/screens/connectors.row.stories.tsx
+  s_4862d7ef36966f::t_4409b08eee61a5 1-158
+frontend/src/screens/connectors.row.tsx
+  s_4862d7ef36966f::t_f26ca8942024fc 1-227
+frontend/src/screens/connectors.settings.tsx
+  s_4862d7ef36966f::t_382d999892b8c4 1-282
+frontend/src/screens/connectors.stories.tsx
+  s_4862d7ef36966f::t_96e9602be27997 5,15-16,87-90,93-94,131-132,138,153-176
+frontend/src/screens/connectors.telegram.stories.tsx
+  s_4862d7ef36966f::t_05e7249d7bedc8 1-121
+frontend/src/screens/connectors.telegram.tsx
+  s_4862d7ef36966f::t_cdfb509bdb52a9 5,10-15,18,68-69,80,85-92,96-113,233-236,239-254
+frontend/src/screens/connectors.test.tsx
+  s_4862d7ef36966f::t_0107df125b7571 22,154-156,203-210,222-223,228,246-248,250-261,263,267-268,271-277,280-281,284-295,298,311-312,315,318-321,370-373,379,479-481,484-488,520-522,535-536,569-570,583-584,822-825,833-834,903-905,941-943,955,971,976-977,992-994
+frontend/src/screens/connectors.tsx
+  s_4862d7ef36966f::t_b3469194251174 2,6,11,14,16,21,26-27,36-37,41,57-58,97-98,103-104,113,118-122,144-148,152,167-168,170,178,180,194,196-198,207,211-227,244-245,280-293,304-305
+frontend/src/screens/consumer-mail-domains.tsx
+  s_4862d7ef36966f::t_74bf01f03a8ceb 264
+frontend/src/screens/contactdetails.test.tsx
+  s_4862d7ef36966f::t_ef7994e028ae0f 67,100,119,159,184-186
+frontend/src/screens/contactformfields.ts
+  s_4862d7ef36966f::t_9c2664f2da3253 154,182
+frontend/src/screens/contactpage.test.tsx
+  s_4862d7ef36966f::t_a3f4783cf38ba6 785,896
+frontend/src/screens/contactprovider.tsx
+  s_4862d7ef36966f::t_4cd6c59c5dca93 4-9,815-837
+frontend/src/screens/contactrecordactions.tsx
+  s_4862d7ef36966f::t_65289d36a2fe28 10,21-23,26,35-42
+frontend/src/screens/corpusask.stories.tsx
+  s_4862d7ef36966f::t_b5b737b1fd4960 53,132-137
+frontend/src/screens/corpusask.test.tsx
+  s_4862d7ef36966f::t_eec5722a6405c7 59-64,558-563
+frontend/src/screens/create.tsx
+  s_4862d7ef36966f::t_e1fe1bde2966e0 110-112
+frontend/src/screens/deal360/closetasks.tsx
+  s_4862d7ef36966f::t_d0bd1c74007784 1-251
+frontend/src/screens/deal360/confirmadvance.closetasks.test.tsx
+  s_4862d7ef36966f::t_fbdefdf7cfa2c8 1-325
+frontend/src/screens/deal360/confirmadvance.stories.tsx
+  s_4862d7ef36966f::t_d844fe1872739a 5,11-13,55-77,79-83,86-87,91-92,138-162,173-176
+frontend/src/screens/deal360/confirmadvance.test.tsx
+  s_4862d7ef36966f::t_230de6a22c41a1 6,40,71,94-99,115,135-140
+frontend/src/screens/deal360/confirmadvance.testkit.ts
+  s_4862d7ef36966f::t_246a815c6a0428 4-5,7-14
+frontend/src/screens/deal360/confirmadvance.tsx
+  s_4862d7ef36966f::t_f9d627df425082 11,104-106,134,153,178-179,197,236
+frontend/src/screens/deal360/usedealrecipient.tsx
+  s_4862d7ef36966f::t_e148dee66af866 12,41,43-53
+frontend/src/screens/deals-views.test.tsx
+  s_4862d7ef36966f::t_879f886b58539d 285-294
+frontend/src/screens/deals.test.tsx
+  s_4862d7ef36966f::t_ab791b469aad16 20,1214,1241,1250,1293,1295,1339,1341,1348,1364,1389,1391,1432,1434,1480
+frontend/src/screens/deals.tsx
+  s_4862d7ef36966f::t_01003f05dbd2c1 72,2218
+frontend/src/screens/emailrecords.tsx
+  s_4862d7ef36966f::t_c0d6fd17da3a30 7-8,11,16-17,19-20,25
+frontend/src/screens/entityref.queries.ts
+  s_4862d7ef36966f::t_88b99516af3243 8,141
+frontend/src/screens/extension-units.css
+  s_4862d7ef36966f::t_06d4f36e115982 1,3-8,11-14,19-25,31,35-37
+frontend/src/screens/extension-units.test.tsx
+  s_4862d7ef36966f::t_4afcabdc518219 54,59
+frontend/src/screens/extension-units.tsx
+  s_4862d7ef36966f::t_22b7536f4c8eb3 10-11,37-38,64-66,72-73,78-89
+frontend/src/screens/extingesthealth.stories.tsx
+  s_4862d7ef36966f::t_b9d895fb3460b6 88-92
+frontend/src/screens/extingesthealth.test.tsx
+  s_4862d7ef36966f::t_693542d7cce32c 15,86-88
+frontend/src/screens/extingesthealth.tsx
+  s_4862d7ef36966f::t_cad6357327de8b 8-12,56,61-76,78-90,92-113,129-135,140-146,148-150,152
+frontend/src/screens/healthcard.stories.tsx
+  s_4862d7ef36966f::t_16faf1252934cf 7,69-91
+frontend/src/screens/healthcard.tsx
+  s_4862d7ef36966f::t_0841673a179c00 72-73,79-81
+frontend/src/screens/held-threads.css
+  s_4862d7ef36966f::t_e7c84c4f241049 1-11
+frontend/src/screens/held-threads.stories.tsx
+  s_4862d7ef36966f::t_69b6ff336a2fb8 127-154
+frontend/src/screens/held-threads.test.tsx
+  s_4862d7ef36966f::t_1f47325823d84e 15,247-264,382-384,387-388,391,394-405
+frontend/src/screens/held-threads.tsx
+  s_4862d7ef36966f::t_07e2f103111480 2,21,37,40,64-79,84-103,144-146,150-151,159-175,185,187-189,193-196,199-202,217-243,312-314,318-319,321-329,334,337-338
+frontend/src/screens/import.contexttag.stories.tsx
+  s_4862d7ef36966f::t_ab10afb0ad0b2c 6
+frontend/src/screens/import.contexttag.test.tsx
+  s_4862d7ef36966f::t_a07a553344adbf 11
+frontend/src/screens/import.contexttag.tsx
+  s_4862d7ef36966f::t_2e2d53c68a8ff4 1-79
+frontend/src/screens/import.css
+  s_4862d7ef36966f::t_3c8488c222eefc 11-17,75-91,95,98-102,105,108-110,113-116,119-132,134-157,162-167
+frontend/src/screens/import.files.stories.tsx
+  s_4862d7ef36966f::t_21949ccb64e9d8 1-148
+frontend/src/screens/import.files.test.tsx
+  s_4862d7ef36966f::t_d161ce47f03836 1-133
+frontend/src/screens/import.files.tsx
+  s_4862d7ef36966f::t_7ac4f1969fa788 1-192
+frontend/src/screens/import.fixtures.ts
+  s_4862d7ef36966f::t_5d6126a5075eff 1-151
+frontend/src/screens/import.guide.stories.tsx
+  s_4862d7ef36966f::t_028b3bbbfbc1fc 1-65
+frontend/src/screens/import.guide.test.tsx
+  s_4862d7ef36966f::t_d37c33b6fcc09b 1-105
+frontend/src/screens/import.guide.tsx
+  s_4862d7ef36966f::t_a775cc7c98759a 1-74
+frontend/src/screens/import.hub.test.tsx
+  s_4862d7ef36966f::t_97096544fe1996 1-185
+frontend/src/screens/import.notices.stories.tsx
+  s_4862d7ef36966f::t_834f9eeeb42b42 5,56,64-79
+frontend/src/screens/import.notices.tsx
+  s_4862d7ef36966f::t_1984b0518c8939 5,7,45-91
+frontend/src/screens/import.result.stories.tsx
+  s_4862d7ef36966f::t_6956f234c78d83 1-170
+frontend/src/screens/import.result.test.tsx
+  s_4862d7ef36966f::t_16cd5279aefe9e 1-197
+frontend/src/screens/import.result.tsx
+  s_4862d7ef36966f::t_0a68fed1756aee 1-309
+frontend/src/screens/import.stories.tsx
+  s_4862d7ef36966f::t_66cddd14a9cbb3 6,14-16,18-24,26-36,56-68,77-78
+frontend/src/screens/import.template.stories.tsx
+  s_4862d7ef36966f::t_2a8cf96673c494 1-42
+frontend/src/screens/import.template.test.tsx
+  s_4862d7ef36966f::t_bb5864b51a53fc 1-60
+frontend/src/screens/import.template.tsx
+  s_4862d7ef36966f::t_d0c73d2b0350a2 1-102
+frontend/src/screens/import.test.tsx
+  s_4862d7ef36966f::t_93dfae4db2fb0e 7,11,13-21,23-27,36-40,44-53,56-58,66,70,74,81,84-88,90,95-96,98-100,103,106-111,114,118,124-127,130,132,136,139-141,143-146,150,153,155-156,159-160,162-163,165,169,171-172,174-183,185-194,204,210,212-215,217,220,222,235,237,240,263,265-269,271,273-278,281-303,305,307-315,317-323,325,327-328,330-337,339,341-343,363,368,372,375,379,383,387-389,392,394-397,399-402,404-406
+frontend/src/screens/import.testkit.tsx
+  s_4862d7ef36966f::t_afc99a4769495e 1-237
+frontend/src/screens/import.testrun.stories.tsx
+  s_4862d7ef36966f::t_6a821be6190736 1-160
+frontend/src/screens/import.testrun.test.tsx
+  s_4862d7ef36966f::t_1465a0f9ef1f74 1-253
+frontend/src/screens/import.testrun.tsx
+  s_4862d7ef36966f::t_a24692dcb5940b 1-282
+frontend/src/screens/import.tsx
+  s_4862d7ef36966f::t_78c4d8254c5ad3 4,7-8,12,14-29,31-34,37-38,40-42,45-46,82-93,96-98,100-107,109-110,112-134,137,142-144,147-154,159-172,175-177,179,181-190,192-280
+frontend/src/screens/import.wizard.tsx
+  s_4862d7ef36966f::t_d9d50796f33318 1-208
+frontend/src/screens/importaddress.test.tsx
+  s_4862d7ef36966f::t_6d66da15b56036 7-9,18-22,25,27-28,31-33,35-37,39-41,44-45
+frontend/src/screens/importaddress.ts
+  s_4862d7ef36966f::t_3bea09dc92d5ea 4,6-23,25-31,33,35-36,38-42
+frontend/src/screens/importflow.ts
+  s_4862d7ef36966f::t_0a7671ad8e3b70 10,12,14-15,17,22,24-26,28-37,40-43,46-58,61-74,77-87,90-95,98-101,104-111,113-148,150-160,163-213,215-217,219,222,224-227,231-260,262,264-280,282,284-297,299,301-327,330-332,334-349,353-357,359,361-365,369-374,377-388,392,394-415,417-423,425-426,430-432,434-459,463-477,479
+frontend/src/screens/importmapping.test.tsx
+  s_4862d7ef36966f::t_50b1884b81ccbf 1-134
+frontend/src/screens/importmapping.tsx
+  s_4862d7ef36966f::t_8aebac7e3977e8 4-7,11-19,35-38,43-49,61-64,70,83-120,128-153,160-267
+frontend/src/screens/importprofile.ts
+  s_4862d7ef36966f::t_382436c38c1ae2 1-120
+frontend/src/screens/importtypes.test.ts
+  s_4862d7ef36966f::t_b8ca1a6d493891 1-16
+frontend/src/screens/importtypes.ts
+  s_4862d7ef36966f::t_b7dc64c9a15bb4 14-20,31-37,39-40
+frontend/src/screens/jobhealth.css
+  s_4862d7ef36966f::t_f7e3bd030e8970 4-6
+frontend/src/screens/jobhealth.test.tsx
+  s_4862d7ef36966f::t_0de7c8397efa90 13,22,148-157,159-163,165-173,179-185,194-195,214-215,223,233,243-244,264-265,281-284,311-312,334-335,371
+frontend/src/screens/jobhealth.tsx
+  s_4862d7ef36966f::t_36e00fc589142d 9-12,19,21,24,54-56,58-59,64-81,84-123,141-146,148-157,163,167-192,196-232,234-243,249,251,253-257,259-280,294-298,304-315
+frontend/src/screens/jobhealthdead.tsx
+  s_4862d7ef36966f::t_38b3675de26ae6 6,39-44,46,48-52,54-62
+frontend/src/screens/knowledge.css
+  s_4862d7ef36966f::t_0a87f65b66a632 1-50
+frontend/src/screens/knowledge.documents.stories.tsx
+  s_4862d7ef36966f::t_16f6f1896c269d 1-117
+frontend/src/screens/knowledge.documents.tsx
+  s_4862d7ef36966f::t_b6386616e14733 1-384
+frontend/src/screens/knowledge.notices.stories.tsx
+  s_4862d7ef36966f::t_a6f26e5b6356cb 5
+frontend/src/screens/knowledge.stories.tsx
+  s_4862d7ef36966f::t_e6b4557d242b04 72,86-91,140,159,167,172-187,225-226,262-267,282-283,293,296-327
+frontend/src/screens/knowledge.test.tsx
+  s_4862d7ef36966f::t_f33a964780bb84 59-64,92-93,103,111,120,123,166,177,179-182,184,194-196,242,279-281,283-286,289,297-335,347,373,383-435
+frontend/src/screens/knowledge.tsx
+  s_4862d7ef36966f::t_ad5cc72a1cf50a 2-3,12,17,19-26,29,37-39,57,63-64,93-94,104-106,111-127,134,137,141,148-149,151-159,161-172,178-186,188-201,205-206,209-215,217,221-227,229-247,249-254,258-295,298,300-301,303-308,311,313
+frontend/src/screens/leadactions.test.tsx
+  s_4862d7ef36966f::t_6ca61e42701578 165-167
+frontend/src/screens/linkedin-reach.stories.tsx
+  s_4862d7ef36966f::t_5c9c46e1c4c667 5,58-59,68,89-90,95-99
+frontend/src/screens/linkedin-reach.test.tsx
+  s_4862d7ef36966f::t_31a1a24e51b04f 8,25,76-80,86,88-89,97-116
+frontend/src/screens/linkedin-reach.tsx
+  s_4862d7ef36966f::t_4723000abf4418 7,12,14,24-25,55,90-92,99-100,110-112,115,124,126-132,135-136,138-140,145,147-150,153,159-165,168-169,172-182,184-186,188-189
+frontend/src/screens/listactions.test.tsx
+  s_4862d7ef36966f::t_ea4f73ea501c1f 34-37,58-61,107-110,199-201
+frontend/src/screens/listchanges.stories.tsx
+  s_4862d7ef36966f::t_30898db1ec3909 1-84
+frontend/src/screens/listchanges.tsx
+  s_4862d7ef36966f::t_2e7fdd9826d90b 14,75,80-83,86,88-94,96-100,106
+frontend/src/screens/listhistory.stories.tsx
+  s_4862d7ef36966f::t_f2b4522f7960a7 1-119
+frontend/src/screens/listhistory.tsx
+  s_4862d7ef36966f::t_ddb7f3088896d3 8,10-11,17-21,50,53-54,65,95-101,119-146
+frontend/src/screens/listlibrary.tsx
+  s_4862d7ef36966f::t_8c0db62d39da7a 54,249-250,252-254,258-260,263-285,288
+frontend/src/screens/listmembers.stories.tsx
+  s_4862d7ef36966f::t_73b3ff9affdae5 6,21-22,37,79-93
+frontend/src/screens/listmembers.test.tsx
+  s_4862d7ef36966f::t_a4a9103a8ad0fd 7-13,75-78,81-93,187,226
+frontend/src/screens/listmembers.tsx
+  s_4862d7ef36966f::t_06dd5ead1850ab 8-15,20-21,25,29-37,50,130-209,221,224-230,233-256,337-338,341,345-346,349-357,361-362,364-369,371-385
+frontend/src/screens/listpage.stories.tsx
+  s_4862d7ef36966f::t_5ce56d864c280e 7,9,19,24-30,32-34,45-49,52-55,57-59,61,65,68-74,76-77,79,82-83,85-97,111-283
+frontend/src/screens/listpage.test.tsx
+  s_4862d7ef36966f::t_c61ac918ed1075 17-18,23,38-45,51,53-54,65-104,155-157,279-282,309,356-359,378,441-443,450,460,462,464-467,470-478,492,494,496,498-505,551,558,586,588,600-930
+frontend/src/screens/listpage.tsx
+  s_4862d7ef36966f::t_e1b03f9a988bcd 9,11-12,14,17,23,31,34-39,59,68,75-76,81,85-88,90-91,96-107,125-206,214-221,223-234,237,239,241,247-248,273-274,281-296,298-303,307-323,326-327,335-336,352-353,357,370,386,411-412,417,435-440
+frontend/src/screens/listrules.stories.tsx
+  s_4862d7ef36966f::t_ff29aa45a2e9c8 1-101
+frontend/src/screens/listrules.tsx
+  s_4862d7ef36966f::t_7167f10fc081d9 56-58,68,73
+frontend/src/screens/lists.css
+  s_4862d7ef36966f::t_79841d452f80cd 7-12,16-26,29-30,36-76,83-92
+frontend/src/screens/lists.fixtures.ts
+  s_4862d7ef36966f::t_ad028016548d20 57-84
+frontend/src/screens/listsection.css
+  s_4862d7ef36966f::t_3a11ca6c5a0b29 1-3,5-7,9-11
+frontend/src/screens/logactivity.attendees.test.tsx
+  s_4862d7ef36966f::t_afb41a2d2d7699 1-280
+frontend/src/screens/logactivity.tsx
+  s_4862d7ef36966f::t_4b4c9cf957386d 31-32,39,100,110-111,136-140,159,170,181,185-186,208-209,214,223,227-256,293-298,470-472,487,495,503
+frontend/src/screens/magic.lines.stories.tsx
+  s_4862d7ef36966f::t_48a648f9b8a51a 1-74
+frontend/src/screens/magic.lines.test.tsx
+  s_4862d7ef36966f::t_6755efaa1e2cda 186-218
+frontend/src/screens/magic.lines.tsx
+  s_4862d7ef36966f::t_6ccca1bda0039a 13,356,361-366
+frontend/src/screens/mail-sharing.posture.stories.tsx
+  s_4862d7ef36966f::t_0a1f1872801901 1-53
+frontend/src/screens/mail-sharing.tsx
+  s_4862d7ef36966f::t_286b1f91b2248a 270-277,283-291
+frontend/src/screens/meeting-settings-sections.stories.tsx
+  s_4862d7ef36966f::t_54ba178819cc1b 3
+frontend/src/screens/meeting-settings-sections.tsx
+  s_4862d7ef36966f::t_f1c775b92910c9 1,3,8,96
+frontend/src/screens/meeting-settings.test.tsx
+  s_4862d7ef36966f::t_c74054fc40d862 2,67,110,112,337-342,575-576,580-587
+frontend/src/screens/meetingattendees.tsx
+  s_4862d7ef36966f::t_5d57add0c3e0a2 1-222
+frontend/src/screens/merge.stories.tsx
+  s_4862d7ef36966f::t_ef9b154945e5b6 35-42,72-101
+frontend/src/screens/merge.test.tsx
+  s_4862d7ef36966f::t_4e43429434299c 1-168
+frontend/src/screens/merge.tsx
+  s_4862d7ef36966f::t_1e594e8ff19f64 5,7-8,10-13,39-41,61-66,100-105,109-118
+frontend/src/screens/movebutton.followup.test.tsx
+  s_4862d7ef36966f::t_45960eea675338 1-81
+frontend/src/screens/movebutton.test.ts
+  s_4862d7ef36966f::t_159860c388d7f0 19,50-72
+frontend/src/screens/movebutton.tsx
+  s_4862d7ef36966f::t_702aaf3f33b5ee 30,49-65,78-79,194-206,234-278
+frontend/src/screens/offers.tsx
+  s_4862d7ef36966f::t_9c9c7421778ceb 1-6,100-113
+frontend/src/screens/onboarding-conversation/use-voice-build.ts
+  s_4862d7ef36966f::t_8b9095670a6e51 1,90-99,178-189
+frontend/src/screens/onboarding-conversation/workbench.tsx
+  s_4862d7ef36966f::t_33186b97321acc 1,97-114
+frontend/src/screens/operationsettings.stories.tsx
+  s_4862d7ef36966f::t_1e277e47bc6894 61-65
+frontend/src/screens/operationsettings.test.tsx
+  s_4862d7ef36966f::t_32b64e0050b7a4 2,154-195
+frontend/src/screens/operationsettings.tsx
+  s_4862d7ef36966f::t_8fc889f13467c7 11-12,94-115,126,153
+frontend/src/screens/own-domains.test.tsx
+  s_4862d7ef36966f::t_29e40004164701 17,55,64-69,83,92-97,208-293
+frontend/src/screens/own-domains.tsx
+  s_4862d7ef36966f::t_cc10c1454680f4 6,10-16,30-35,87,96,98-112,115,125,152-156,175,191,195-197,205,209,214,229,231-233,240-283
+frontend/src/screens/problemcodecopy.ts
+  s_4862d7ef36966f::t_67c2150ff72a09 1-25
+frontend/src/screens/projecthealth.queries.ts
+  s_4862d7ef36966f::t_134f289d965477 1-6,28-39
+frontend/src/screens/projectrecord.ts
+  s_4862d7ef36966f::t_3c329f4bf6627b 4,32-43
+frontend/src/screens/providerhealth.stories.tsx
+  s_4862d7ef36966f::t_15542a1ded6eb0 22,27,44-57,92-96
+frontend/src/screens/providerhealth.test.tsx
+  s_4862d7ef36966f::t_256ceeb21afad8 32-36,46-49,106-163
+frontend/src/screens/providerhealth.tsx
+  s_4862d7ef36966f::t_735c9689ad36f5 6,30-51
+frontend/src/screens/record360/README.md
+  s_4862d7ef36966f::t_a8647e2d81c8c6 19-20
+frontend/src/screens/record360/lastcontact.ts
+  s_4862d7ef36966f::t_64a4c7cca36957 1-79
+frontend/src/screens/record360/spine.lastcontact.test.tsx
+  s_4862d7ef36966f::t_c8dc56548a9ba9 3,8-9,17,19-20,27,38,44,48-83,87-90,96,100-101,108-292
+frontend/src/screens/record360/spine.test.tsx
+  s_4862d7ef36966f::t_1a6be82e0cc568 601,604-605,644-645
+frontend/src/screens/record360/spine.tsx
+  s_4862d7ef36966f::t_4b812c7f45edda 38-39,73-75,346,348-349,463,481-484,498-499,505,617-618
+frontend/src/screens/recordassignments.queries.ts
+  s_4862d7ef36966f::t_6f23e722794ac0 1-6,76-91
+frontend/src/screens/recordfields.tsx
+  s_4862d7ef36966f::t_0a6d4443c5a145 280,284-289,308-310
+frontend/src/screens/recordlinks.test.tsx
+  s_4862d7ef36966f::t_5fa29aa8e48f22 1-31
+frontend/src/screens/recordlinks.tsx
+  s_4862d7ef36966f::t_12c39a6f1922ef 1-71
+frontend/src/screens/recoveryhealth.stories.tsx
+  s_4862d7ef36966f::t_5c8c3f7a369818 90-94
+frontend/src/screens/recoveryhealth.test.tsx
+  s_4862d7ef36966f::t_73c2c0961cee6e 69-70
+frontend/src/screens/recoveryhealth.tsx
+  s_4862d7ef36966f::t_ae3d90e722ba2a 27,29,73-79,180
+frontend/src/screens/reporting.css
+  s_4862d7ef36966f::t_81cbf4cea7f9c2 24-28,105-107
+frontend/src/screens/reporting.overview.tsx
+  s_4862d7ef36966f::t_b3c3901995ec32 12,15,24,225-245,291,338-359
+frontend/src/screens/settings-exitcriteria.test.tsx
+  s_4862d7ef36966f::t_0a76f6e7a1b4d3 54,84,100,120,146,150-152,162-164,170-171,192,200,202,205-210,212,216-218,229
+frontend/src/screens/settings-pipelines.test.tsx
+  s_4862d7ef36966f::t_018408f2a88635 38,40-49,60-67,71-73,75-83,85,87,107-118,181,196-203,205,212-228,236,255-256,275,278,305,308-312,365-374,400-402,405-417,419-420,422-467,490-492,573-594,600-609,614-633,636-638,653-656,661-810
+frontend/src/screens/settings.css
+  s_4862d7ef36966f::t_10254c500c682d 160-161,164-165,167-169,172
+frontend/src/screens/settings.exitcriteria.stories.tsx
+  s_4862d7ef36966f::t_5b8bae9a2f4141 16-17,65,88
+frontend/src/screens/settings.exitcriteria.tsx
+  s_4862d7ef36966f::t_f768e8410665db 1-7,43,46,50,55,116,131,135,145,149,161,175-177,187-190,193-221,224-227,230,241-243,247-258,273,277-278,285,290-294,303,313-323
+frontend/src/screens/settings.pipelines.css
+  s_4862d7ef36966f::t_a08a8b5329cf5c 85-94,96-97,99-102,119,124,126-129,134
+frontend/src/screens/settings.pipelines.tsx
+  s_4862d7ef36966f::t_c42bb7f64dbdd9 31-32,140,147,156,159,300,336-341
+frontend/src/screens/settings.stages.stories.tsx
+  s_4862d7ef36966f::t_3080899d6cc1aa 5,7,9-12,14-19,21-22,28,35,44-48,52-56,64-68,71,96-172,176,181-191,195,209,214-216,219,224-228,232,237-268,279-300,303
+frontend/src/screens/settings.stages.tsx
+  s_4862d7ef36966f::t_7b5f41f4af03b1 4-5,12,15-19,22,24-29,31-38,44-45,47-49,51-58,62-64,66-67,69-71,74-83,87-109,112-138,140-186,189-190,194-204,215-216,218,222-223,226-252,255-262,264-265,269-289,292-329,331-336,340-372
+frontend/src/screens/settings.stageverbs.stories.tsx
+  s_4862d7ef36966f::t_cb0df8c18e1d24 1-89
+frontend/src/screens/settings.stageverbs.tsx
+  s_4862d7ef36966f::t_8219060b1d613a 1-318
+frontend/src/screens/settings.stories.tsx
+  s_4862d7ef36966f::t_f5d5013111f2ee 450-453,548-549,556-557
+frontend/src/screens/settingsrouting.ts
+  s_4862d7ef36966f::t_071f8de9c5edf1 79,85
+frontend/src/screens/settingsstories.test.ts
+  s_4862d7ef36966f::t_87e0bb7c9e5915 91
+frontend/src/screens/tablerow.testkit.ts
+  s_4862d7ef36966f::t_8cf76a39efbd6a 1-36
+frontend/src/screens/tagfollow.stories.tsx
+  s_4862d7ef36966f::t_92600e7abd76b1 101-138
+frontend/src/screens/tagresult.tsx
+  s_4862d7ef36966f::t_100a480dd7bdb3 4,41-49
+frontend/src/screens/tagsuggestion.queries.ts
+  s_4862d7ef36966f::t_dd404111e6fcfc 4-9,92-103
+frontend/src/screens/taskactions.stories.tsx
+  s_4862d7ef36966f::t_e7a8d8a1aea6b8 83-88,115-121,123-126,154-158
+frontend/src/screens/taskactions.test.tsx
+  s_4862d7ef36966f::t_f54836765e085d 308-352
+frontend/src/screens/taskactions.tsx
+  s_4862d7ef36966f::t_e359556220fe55 30,175-176,267-270,334-340
+frontend/src/screens/undoableremoval.ts
+  s_4862d7ef36966f::t_67248bc5dd6b90 4-5,48-66
+frontend/src/screens/voice-dna.stories.tsx
+  s_4862d7ef36966f::t_4d334eddb33d3a 261-265
+frontend/src/screens/voice-dna.tsx
+  s_4862d7ef36966f::t_1a32e054bbfbd7 1-2,22,142-146,196-208,211,215-234
+frontend/src/screens/voice-samples.stories.tsx
+  s_4862d7ef36966f::t_c5d2b96f75d7b1 1-141
+frontend/src/screens/voice-samples.test.tsx
+  s_4862d7ef36966f::t_28011c7dace8f9 1-301
+frontend/src/screens/voice-samples.tsx
+  s_4862d7ef36966f::t_50f7760969aee9 1-376
+frontend/src/screens/voice-versions.stories.tsx
+  s_4862d7ef36966f::t_467e27ab8c7475 5,7,19-27,32-33,41-42,50-53,56-57,74-77,92-101,116-143,153
+frontend/src/screens/voice-versions.tables.stories.tsx
+  s_4862d7ef36966f::t_44d0f78a65b0d2 1-176
+frontend/src/screens/voice-versions.tables.tsx
+  s_4862d7ef36966f::t_14d565ba70a6ca 1-203
+frontend/src/screens/voice-versions.tsx
+  s_4862d7ef36966f::t_f1cf8c53e0c7a8 2,6-8,10-14,17,230,241,243,246-249,275-291,294-302,306-314,316-337,339-345,347,351-380,384-385,388-390,409,414-421
+frontend/src/screens/worklist.connection.ts
+  s_4862d7ef36966f::t_17a689e2af1fd6 1-42
+frontend/src/screens/worklist.copy.test.ts
+  s_4862d7ef36966f::t_8f9c1863404ca9 11,416-478
+frontend/src/screens/worklist.copy.ts
+  s_4862d7ef36966f::t_3cfca0617d4548 26,656-659,680-682
+frontend/src/screens/worklist.dispositions.stories.tsx
+  s_4862d7ef36966f::t_b22f245de98ea9 22-26,31-34,44,104,111,119-145,187,192-193
+frontend/src/screens/worklist.dispositions.tsx
+  s_4862d7ef36966f::t_5a8fb12409f71d 14-15,34-42,65,84,109,266-267,305,307-311,419,421-425
+frontend/src/screens/worklist.eyebrow.test.ts
+  s_4862d7ef36966f::t_043275b7a1e12f 2-3,7-8,62,67-82,87,96-99,102,120
+frontend/src/screens/worklist.eyebrow.ts
+  s_4862d7ef36966f::t_b3f2124e1eb14e 1-2,43-50
+frontend/src/screens/worklist.markdone.test.tsx
+  s_4862d7ef36966f::t_2f807b3ec5e6aa 1-150
+frontend/src/screens/worklist.refused.test.tsx
+  s_4862d7ef36966f::t_64bbe50a19dc82 1-99
+frontend/src/screens/worklist.reply.test.tsx
+  s_4862d7ef36966f::t_5ee3afc3fb5a4d 13-19,127-210
+frontend/src/screens/worklist.reply.tsx
+  s_4862d7ef36966f::t_855229c764ba5e 158-160,162-164,169,185,201-210
+frontend/src/screens/worklist.row.stories.tsx
+  s_4862d7ef36966f::t_755cff935e388a 271,456-483
+frontend/src/screens/worklist.row.tsx
+  s_4862d7ef36966f::t_0c6783c0f0ece9 29,248
+frontend/src/screens/worklist.rowverbs.stories.tsx
+  s_4862d7ef36966f::t_cb7f37f75a793f 123,233-285
+frontend/src/screens/worklist.swipe.test.tsx
+  s_4862d7ef36966f::t_0d54524b81db1e 328,336,364,377,379-381,387
+frontend/src/screens/worklist.tsx
+  s_4862d7ef36966f::t_771e2f99bba3d8 11,635-646,670,679-683
+frontend/src/screens/worklist.verbbutton.tsx
+  s_4862d7ef36966f::t_92f89e4b78f412 1-119
+frontend/src/screens/writeto.tsx
+  s_4862d7ef36966f::t_b15c4ed6d2c2d9 11
+scripts/check-comment-budget.sh
+  s_4862d7ef36966f::t_0575cff0ff24de 43
+scripts/comment-density-baseline.txt
+  s_4862d7ef36966f::t_cc2fc80e39a464 1
+scripts/contract-breaking-allowlist.txt
+  s_4862d7ef36966f::t_40ef1f1922f022 48
+scripts/fe-file-length-waivers.txt
+  s_4862d7ef36966f::t_d3cdf97726b022 49,66,73,81,85
+scripts/lib-commentcount.awk
+  s_4862d7ef36966f::t_30f7a435092ea3 1,44-47,49-51
+scripts/lib-commentscan.awk
+  s_4862d7ef36966f::t_ddccc6b0ac0cee 62
+scripts/seed-reset.sql
+  s_4862d7ef36966f::t_c0caa34e5bf3f3 40
+scripts/test-check-comment-budget.sh
+  s_4862d7ef36966f::t_ba99730e184907 126-160
+backend/internal/modules/contacts/dedupebatch_test.go
+  s_4862d7ef36966f::t_eea8284eb1ee39 23-25,46-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6503c71c0dfe30480d580e9ac23510cb009c860e",
+  "prompts": {},
+  "sessions": {
+    "s_0a769540c3bcf9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b7b268d-4a62-496d-97f9-de3f27ae8010",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_4862d7ef36966f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d9e49859-61b0-4b73-92da-1f810265095f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
