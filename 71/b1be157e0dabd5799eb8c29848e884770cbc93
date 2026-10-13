@@ -1,0 +1,22 @@
+backend/internal/modules/deals/stageprogressionpolicy_integration_test.go
+  s_ce6accd078c8fc::t_8303d7a913aeb6 47-52
+  s_ce6accd078c8fc::t_4e64df75598486 526-528,531-541
+  s_ce6accd078c8fc::t_2242dfd99d0509 45-46
+  s_ce6accd078c8fc::t_d87e4e1b3ba7f5 529-530
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "71b1be157e0dabd5799eb8c29848e884770cbc93",
+  "prompts": {},
+  "sessions": {
+    "s_ce6accd078c8fc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77889157-b265-43d9-8257-bd9789ea5d40",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
