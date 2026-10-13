@@ -1,0 +1,21 @@
+backend/gates/companyreaders_test.go
+  s_4862d7ef36966f::t_3f707d0715e763 163
+backend/internal/compose/integration/csvimportinfile_integration_test.go
+  s_4862d7ef36966f::t_205d7c9e09a7c0 330-333,343-346
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0b3aaa0afe1962e9fdf7aa1bf271679ab48ab1cf",
+  "prompts": {},
+  "sessions": {
+    "s_4862d7ef36966f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d9e49859-61b0-4b73-92da-1f810265095f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
