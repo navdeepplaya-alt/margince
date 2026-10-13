@@ -1,0 +1,23 @@
+backend/internal/compose/csvupdatekeys.go
+  s_4862d7ef36966f::t_b3f2cb4aace2d1 1-88
+backend/internal/compose/integration/csvimportinfile_integration_test.go
+  s_4862d7ef36966f::t_8537a7aa7deabc 319-359
+backend/internal/compose/csvpredict.go
+  s_4862d7ef36966f::t_d6a7064404b0ef 100-101,223-229
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "73f6cbf90ea6118dcbb14dfb63c5fef1098239c6",
+  "prompts": {},
+  "sessions": {
+    "s_4862d7ef36966f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d9e49859-61b0-4b73-92da-1f810265095f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
