@@ -1,0 +1,195 @@
+backend/gates/auditbeforeimage_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 151-155
+backend/internal/modules/capture/aliasdiscovery.go
+  s_0ce78016542ad8::t_109562a76bdc73 63-66,112-121
+  s_0ce78016542ad8::t_be283ffdbbb71f 122-123
+backend/internal/modules/capture/exclusionstore.go
+  s_0ce78016542ad8::t_109562a76bdc73 32,71-83,109-112,119,180-188
+backend/internal/modules/capture/heldthreadslist.go
+  s_0ce78016542ad8::t_109562a76bdc73 70-74,182-186
+backend/internal/modules/capture/registry_connections.go
+  s_0ce78016542ad8::t_109562a76bdc73 195-196,253
+docs/handbook/connecting-mail-and-calendars.md
+  s_0ce78016542ad8::t_109562a76bdc73 181
+backend/migrations/core/1791861561_a_withdrawn_address_can_be_put_back.up.sql
+  s_0ce78016542ad8::t_109562a76bdc73 1-43
+backend/internal/compose/integration/capture/capture_backfill_integration_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 255-257
+frontend/package.json
+  s_0ce78016542ad8::t_109562a76bdc73 22,56,59-60
+frontend/src/app/capture-chip.test.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 26
+frontend/src/design-system/datatable.css
+  s_0ce78016542ad8::t_109562a76bdc73 32-33,37,115-118,120-122,210,216-219
+backend/migrations/core/1791861561_a_withdrawn_address_can_be_put_back.down.sql
+  s_0ce78016542ad8::t_109562a76bdc73 1-4
+frontend/src/design-system/README.md
+  s_0ce78016542ad8::t_109562a76bdc73 499
+frontend/src/i18n/vi.ts
+  s_0ce78016542ad8::t_109562a76bdc73 6866,6896-6897,6907-6911,10293-10294,10296-10301,10310
+frontend/eslint.config.js
+  s_0ce78016542ad8::t_109562a76bdc73 1-36
+frontend/src/screens/capture-exclusions.stories.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 23,30,39,46
+backend/internal/compose/capturesenderfacts_integration_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 1-215
+docs/reference/entity-model/capture.md
+  s_0ce78016542ad8::t_109562a76bdc73 5-29,414-447
+  s_0ce78016542ad8::t_2bb7d7c38fa2cf 448
+frontend/src/screens/capture-exclusions.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 287-294
+docs/reference/make-targets.md
+  s_0ce78016542ad8::t_109562a76bdc73 213,218,269,272
+frontend/src/screens/capture-owner-identities.stories.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 5,12,42,47,99-138
+backend/internal/compose/stubs_gen.go
+  s_0ce78016542ad8::t_109562a76bdc73 806-809
+frontend/src/screens/capture-owner-identities.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 30-35,94-102,105,108,114,117,119,124,127,129-130,134-139,141,146,148-149,151-154,158,165-172,200-207,253,289,312
+  s_0ce78016542ad8::t_51089b57951d6d 29
+backend/internal/compose/handlers_captureexclusions.go
+  s_0ce78016542ad8::t_109562a76bdc73 63-68
+frontend/src/i18n/en.ts
+  s_0ce78016542ad8::t_109562a76bdc73 7149,7179-7180,7190-7194,10624-10625,10627-10632,10642
+frontend/src/screens/connectors.test.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 33,40,61,72,191-192,264-273,599-600,687-688
+frontend/src/screens/held-threads.stories.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 5,37-43,55-66,77-79,131-146,183-184,190,195-211
+frontend/src/screens/connectors.row.stories.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 22,39,48,59
+frontend/src/screens/capture-senders.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 24,210-212,217,230-263
+backend/internal/compose/handlers_capturesenders.go
+  s_0ce78016542ad8::t_109562a76bdc73 126-131,137-145,184-189
+backend/internal/compose/handlers_captureowneridentities.go
+  s_0ce78016542ad8::t_109562a76bdc73 7-9,62-68
+  s_0ce78016542ad8::t_fafe3252db72a0 69-70
+frontend/src/design-system/datatable.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 63,282-283,343
+backend/internal/compose/connectorwire.go
+  s_0ce78016542ad8::t_109562a76bdc73 36
+frontend/src/design-system/datatable.test.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 322-352,429-441
+  s_0ce78016542ad8::t_40f6d5d409a388 442
+frontend/src/screens/connectors.stories.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 31,57,68,81
+frontend/src/screens/capture-exclusions.testkit.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 35-48
+backend/internal/modules/capture/owneridentityrestore.go
+  s_0ce78016542ad8::t_109562a76bdc73 1-201
+docs/reference/entity-model/README.md
+  s_0ce78016542ad8::t_05ce7b02a05928 31-33
+  s_0ce78016542ad8::t_109562a76bdc73 42,99,165,186,199
+frontend/src/screens/capture-senders.test.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 11-12,21-23,26,43,54-56,62,66,72-77,219-260
+frontend/src/screens/held-threads.css
+  s_0ce78016542ad8::t_109562a76bdc73 12-50
+backend/migrations/testdata/head_catalog.txt
+  s_0ce78016542ad8::t_109562a76bdc73 1546-1553,1740-1758
+frontend/src/screens/held-threads.test.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 50-51,62-63,411-470
+frontend/src/screens/held-threads.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 2,19,162-178,181-186,362-408
+  s_0ce78016542ad8::t_92f7e67ea18dac 409-410
+backend/gates/tableownerregistry_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 290-308
+frontend/AGENTS.md
+  s_0ce78016542ad8::t_109562a76bdc73 22-26
+frontend/src/screens/undoableremoval.ts
+  s_0ce78016542ad8::t_109562a76bdc73 18-20,23-27,31-33,36-37,57
+backend/internal/modules/knowledge/handbook/capture.md
+  s_0ce78016542ad8::t_109562a76bdc73 290,305-307,312-313,335-336
+frontend/scripts/compiler-lint-waivers.txt
+  s_0ce78016542ad8::t_109562a76bdc73 1-133
+backend/internal/modules/capture/owneridentitystore.go
+  s_0ce78016542ad8::t_109562a76bdc73 203-205,212-215,217-220,229-235
+docs/handbook/capture.md
+  s_0ce78016542ad8::t_109562a76bdc73 290,305-307,312-313,335-336
+frontend/src/app/capture-progress.test.ts
+  s_0ce78016542ad8::t_109562a76bdc73 21
+backend/internal/compose/agentpolicy_gen.go
+  s_0ce78016542ad8::t_109562a76bdc73 568
+frontend/src/app/agentrail.test.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 41-42,44-46,67
+frontend/src/screens/connectors.row.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 13,69
+backend/internal/compose/heldthreadparties_integration_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 1-141
+backend/internal/compose/integration/capture/capture_owner_identity_restore_integration_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 1-212
+backend/gates/composerowscope_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 247-250
+backend/gates/writeshape_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 187
+backend/api/crm.yaml
+  s_0ce78016542ad8::t_109562a76bdc73 15082-15087,15095-15132,31110,31114-31119,31335-31348,31355-31367,31404,31429-31453,31923,31934-31938
+backend/internal/modules/capture/doc.go
+  s_0ce78016542ad8::t_109562a76bdc73 40-45
+frontend/src/design-system/datatable.stories.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 349-351,361,431-477
+  s_0ce78016542ad8::t_5a57aa5989d797 478
+frontend/src/screens/capture-senders.stories.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 33-36,44-47,55-56,64-67,75-76,84-85,94,109-112,121-122
+backend/internal/modules/knowledge/handbook/connecting-mail-and-calendars.md
+  s_0ce78016542ad8::t_109562a76bdc73 181
+backend/internal/compose/integration/captureowneridentities_http_integration_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 82-96
+frontend/src/i18n/de.ts
+  s_0ce78016542ad8::t_109562a76bdc73 7014,7044-7045,7055-7059,10509-10510,10512-10517,10527
+frontend/scripts/compiler-lint.ts
+  s_0ce78016542ad8::t_109562a76bdc73 1-101
+frontend/scripts/compiler-lint.test.ts
+  s_0ce78016542ad8::t_109562a76bdc73 1-71
+backend/gates/enumsync_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 102-126
+backend/gates/rowscopetables_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 73
+backend/internal/modules/capture/senderslist.go
+  s_0ce78016542ad8::t_109562a76bdc73 21,46-48,50-55,98-100,115-130,132,142,150-161,165-257
+docs/reference/entity-model/identity.md
+  s_0ce78016542ad8::t_109562a76bdc73 9
+frontend/src/screens/capture-owner-identities.test.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 169-171,173,175-189,191-195,197-205,207-238,241,244,254,261,263,271-272
+frontend/src/app/agentrail.capture.test.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 40
+frontend/e2e/mockapi/state.ts
+  s_0ce78016542ad8::t_109562a76bdc73 66,94,109,114-117,125,133-134
+Makefile
+  s_0ce78016542ad8::t_109562a76bdc73 69,322-325,497,638
+backend/internal/compose/integration/capture/gcal_connector_integration_test.go
+  s_0ce78016542ad8::t_109562a76bdc73 172-174
+sonar-project.properties
+  s_0ce78016542ad8::t_109562a76bdc73 298,314
+backend/internal/modules/capture/backfillpager.go
+  s_0ce78016542ad8::t_109562a76bdc73 85
+backend/internal/modules/capture/backfill.go
+  s_0ce78016542ad8::t_109562a76bdc73 60-79,160
+backend/internal/modules/capture/heldthreadparties.go
+  s_0ce78016542ad8::t_109562a76bdc73 1-153
+frontend/src/screens/capture-exclusions.test.tsx
+  s_0ce78016542ad8::t_109562a76bdc73 25,37-41
+docs/reference/modules.md
+  s_0ce78016542ad8::t_109562a76bdc73 47
+backend/internal/contracts/api_gen.go
+  s_0ce78016542ad8::t_b39b720fee13a8 26908-26912,27094-27099,27329-27336,27350-27356,27364-27366,35967-35975,36003-36012,68491-68493,71551-71556,83081-83112,111143-111145
+frontend/src/api/schema.d.ts
+  s_0ce78016542ad8::t_6c8ab6a14f56ff 9828-9833,9841-9873,21300-21305,21520-21530,21537-21547,21590-21594,21596-21616,22011-22015,61431-61465
+pnpm-lock.yaml
+  s_0ce78016542ad8::t_67b8e9c90da83d 232-234,241-246,429-434,645-674,684-703,732-740,1445-1447,1451-1453,1477-1513,1576-1580,1590-1592,1668-1670,1695-1698,1736-1738,1821-1856,1862-1873,1891-1896,1906-1918,1931-1934,1946-1949,1954-1965,1974-1981,1999-2006,2019-2021,2054-2056,2060-2062,2071-2077,2226-2229,2292-2294,2325-2328,2336-2343,2351-2358,2403-2406,2415-2418,2482-2489,2591-2596,2608-2611,2641-2643,2760-2764,2770-2773,2807-2819,2987-2998,3133-3162,3165-3180,3210-3217,3753-3754,3757-3758,3781-3832,3891-3894,3899-3905,3970-3977,3998-4003,4040-4041,4131-4197,4200-4209,4222-4225,4230-4246,4254-4257,4279-4282,4287-4296,4310-4313,4324-4329,4340-4341,4381-4382,4385-4386,4391-4399,4498-4501,4552-4553,4590-4598,4646-4653,4664-4667,4701-4702,4711-4714,4798-4803,4887-4890,4901-4904,4928-4931,5001-5004,5010-5011,5027-5034
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7ae618b756ffe1db1dd79783b14471d64d717624",
+  "prompts": {},
+  "sessions": {
+    "s_0ce78016542ad8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "804ebd52-31a8-4645-9227-a217823cfac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
