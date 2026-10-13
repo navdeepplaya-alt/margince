@@ -1,0 +1,45 @@
+backend/api/crm.yaml
+  s_3e6db3e6b349b1::t_dfe9078af76c67 12469-12471,24882,27482-27486
+backend/internal/compose/csvinjection_test.go
+  s_3e6db3e6b349b1::t_6705c25a2af0eb 54-59
+backend/internal/compose/exportbundle.go
+  s_3e6db3e6b349b1::t_2d86d508ba91b7 22,148-149,159,161
+backend/internal/compose/importproblems.go
+  s_3e6db3e6b349b1::t_9a9f48cc2bbaa7 20,76
+backend/internal/compose/integration/contactexport_integration_test.go
+  s_3e6db3e6b349b1::t_b61d5e3b0f19d0 129-131
+backend/internal/compose/integration/csvimportbyid_integration_test.go
+  s_3e6db3e6b349b1::t_96c09ab3713e2a 24,307-340
+backend/internal/compose/reportingexport.go
+  s_3e6db3e6b349b1::t_095be0c3a8d9d0 17,52
+backend/internal/modules/migration/csvframe.go
+  s_3e6db3e6b349b1::t_52fc82281e1978 17-18,26-39,42,46,51,56
+backend/internal/modules/migration/csvframe_test.go
+  s_3e6db3e6b349b1::t_d4c2f921bb4717 54-87
+backend/internal/modules/migration/csvprofile.go
+  s_3e6db3e6b349b1::t_afc207265699cf 104
+backend/internal/modules/migration/csvsource.go
+  s_3e6db3e6b349b1::t_a437bfa4cf2e19 280
+backend/internal/shared/kernel/formulacell/formulacell.go
+  s_3e6db3e6b349b1::t_769b4513cdc1f2 1-48
+backend/internal/shared/kernel/formulacell/formulacell_test.go
+  s_3e6db3e6b349b1::t_ca8f5cb7aaf6c9 1-53
+frontend/src/api/schema.d.ts
+  s_3e6db3e6b349b1::t_7877e3708fbe30 8026-8028,16980,18941-18945
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ee8b42faea8abb7c7877092d460c21f16ae64c9c",
+  "prompts": {},
+  "sessions": {
+    "s_3e6db3e6b349b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5edafda6-49e6-4886-baed-36b654011d49",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
