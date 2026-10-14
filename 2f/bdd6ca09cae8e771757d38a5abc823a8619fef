@@ -1,0 +1,25 @@
+backend/internal/modules/knowledge/handbook/settings.md
+  s_05d944734ad216::t_ec911162703c7f 119-120
+backend/internal/modules/knowledge/handbook/your-own-settings.md
+  s_05d944734ad216::t_e4cfae0ee3c5e8 58-66,80
+docs/handbook/settings.md
+  s_05d944734ad216::t_29930e9eba21e0 119-120
+docs/handbook/your-own-settings.md
+  s_05d944734ad216::t_3f9bcc9a3a8d6f 58-66,80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2fbdd6ca09cae8e771757d38a5abc823a8619fef",
+  "prompts": {},
+  "sessions": {
+    "s_05d944734ad216": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "35c18ba7-20bd-45b6-b5ba-74e804494860",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
