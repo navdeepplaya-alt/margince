@@ -1,0 +1,2051 @@
+backend/internal/compose/stageevidenceread.go
+  s_0ce78016542ad8::t_e026220216d23e 218-221
+frontend/src/screens/viewactions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/compose.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/introdecision.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/relationshiprows.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/connectors.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/booking-preview.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 18-23
+frontend/src/screens/worklist.receiptundo.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/settings-agenttools.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/savedviews.manage.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+backend/api/internal-events.yaml
+  s_0ce78016542ad8::t_e026220216d23e 285-320
+frontend/src/screens/reporting.overview.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2-6
+frontend/src/screens/companyraildetails.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/contracttermsfields.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/companyactions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/contactarchived.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/customfields.card.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+docs/reference/docs-prose-style.md
+  s_0ce78016542ad8::t_e026220216d23e 136
+frontend/src/screens/users-access.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+frontend/src/screens/autonomy-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/design-system/richtext-markdown.ts
+  s_0ce78016542ad8::t_e026220216d23e 253-257
+frontend/src/screens/reporting.chartcontext.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+backend/migrations/core/1791952788_the_logo_origin_checks_are_validated.down.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-3
+frontend/src/screens/leadcontactoffers.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 18
+frontend/src/screens/brief.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-14
+frontend/src/screens/import.testkit.tsx
+  s_0ce78016542ad8::t_e026220216d23e 113
+docs/reference/make-targets.md
+  s_0ce78016542ad8::t_e026220216d23e 52-53,227,322
+frontend/src/screens/leadband.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/webhooks.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/projecthealth.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/search.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/book.storykit.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2-7
+frontend/src/screens/ai-feature-table.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+backend/internal/compose/legalreviewseam.go
+  s_0ce78016542ad8::t_e026220216d23e 1-93
+frontend/src/screens/jobhealth.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/onboarding.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-12
+frontend/README.md
+  s_0ce78016542ad8::t_e026220216d23e 86-87
+frontend/vite.config.ts
+  s_0ce78016542ad8::t_e026220216d23e 66,91
+docs/reference/modules.md
+  s_0ce78016542ad8::t_e026220216d23e 33
+frontend/src/screens/onboarding-conversation/voice-scenes.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/analytics.company.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/design-system/timelinegroups.test.ts
+  s_0ce78016542ad8::t_e026220216d23e 1-291
+frontend/src/screens/magic.glance.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/legalreviews.fixtures.ts
+  s_0ce78016542ad8::t_e026220216d23e 1-165
+frontend/src/screens/movebutton.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/overnight-grant.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15
+frontend/src/screens/timelineactions.tsx
+  s_0ce78016542ad8::t_e026220216d23e 21
+frontend/src/screens/evidenceverdict.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/contactmemory.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/held-threads.tsx
+  s_0ce78016542ad8::t_e026220216d23e 17,21
+frontend/src/screens/worklist.tagsuggestion.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 19
+frontend/src/screens/contactnetwork/moments.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/contacttabs.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+backend/gates/tableownerregistry_test.go
+  s_0ce78016542ad8::t_e026220216d23e 161
+backend/internal/modules/deals/legalreview_rules_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-604
+frontend/src/screens/contactoverview.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/contacttabs.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 16
+frontend/src/screens/contactnetwork/edgedetail.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/deal360/dealroomtab.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12
+frontend/src/screens/import.template.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-12
+frontend/src/screens/contactemployers.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3-7
+frontend/src/screens/listchanges.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/composehead.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/products.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-10
+frontend/src/screens/emailaccesseditor.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/design-system/sourceemailpanel.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/filterpropose.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/leadmerged.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/onboarding-gate.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/auth.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-12
+frontend/src/screens/companymarks.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/users-memberverbs.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/recordaccesspanel.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/buyerroom.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/contactmeetings.waiting.tsx
+  s_0ce78016542ad8::t_e026220216d23e 23
+frontend/src/screens/filtersave.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/magic.records.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-13
+backend/migrations/core/1791952788_the_logo_origin_checks_are_validated.up.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-9
+frontend/src/screens/ai-request-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/bulktask.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/passport-revoke.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/embedreindex.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/privacy.deadline.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-8
+  s_0ce78016542ad8::t_c2547a8e61a234 4
+frontend/src/screens/connectors.row.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-13
+frontend/src/screens/reporting.targetdialog.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/companyrail.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-13
+frontend/src/screens/installation-settings.regional.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/booking-profile.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/companytodayverbs.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/taskactions.tsx
+  s_0ce78016542ad8::t_e026220216d23e 27,34
+backend/internal/modules/deals/deal_advance.go
+  s_0ce78016542ad8::t_e026220216d23e 187
+frontend/src/screens/bulkverbs.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/settings.exitcriteria.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/capture-activity.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/own-domains.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/design-system/timelinelist.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8,17
+frontend/src/screens/filterfoot.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/companytechnical.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/deal360/dealhistorytab.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12
+frontend/src/screens/ai-task-name.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/filtermatches.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/reviewtemplateeditor.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+docs/handbook/legal-review.md
+  s_0ce78016542ad8::t_e026220216d23e 1-65
+frontend/src/screens/reviewtemplates.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-14
+frontend/src/screens/savedviews.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+backend/gates/docsplainwords_test.go
+  s_0ce78016542ad8::t_e026220216d23e 246
+frontend/src/screens/companyheaderfacts.tsx
+  s_0ce78016542ad8::t_e026220216d23e 83
+frontend/src/screens/leads.stepper.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/companyrailprojects.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/ai-task-details.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+backend/internal/compose/csvwriters.go
+  s_0ce78016542ad8::t_e026220216d23e 232-234,487
+docs/how-to/import-a-company-spreadsheet.md
+  s_0ce78016542ad8::t_e026220216d23e 104-107
+frontend/src/screens/reporting.story-fixtures.ts
+  s_0ce78016542ad8::t_e026220216d23e 1
+backend/internal/modules/deals/legalreview_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-489
+backend/internal/modules/deals/legalreviewterms.go
+  s_0ce78016542ad8::t_e026220216d23e 1-187
+frontend/src/screens/filtervalue.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/import.guide.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/team-dialogs.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/deal360/deal360.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/composethread.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-15
+frontend/src/screens/leadpresentation.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/leadvocab.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-15
+frontend/src/screens/meetingbrief/drawer.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/composeconversation.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/backfillrunview.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/companydetails.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15-16
+frontend/src/screens/meetingbrief/header.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4
+frontend/src/screens/knowledge.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/scripts/compiler-lint-waivers.txt
+  s_0ce78016542ad8::t_e026220216d23e 104
+backend/internal/compose/integration/csvbundlelinks_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 17,19-21,325-359,366,383,416-461
+frontend/src/screens/relationships.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/capturehealth.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/brief.focus.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-14
+frontend/scripts/check-ds-spacing.sh
+  s_0ce78016542ad8::t_e026220216d23e 34
+frontend/src/screens/contacttransport.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14-18
+frontend/src/screens/recordlists.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 22-25
+  s_0ce78016542ad8::t_61364e268854fa 21
+frontend/src/screens/grantmatrix.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/dealroomaccess.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/app/embedreindexbanner.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5,10
+frontend/src/screens/voice-versions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+frontend/src/screens/restrictedrecords.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/composedraftband.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/onboarding-conversation/company-act.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/onboarding-connect-panels.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15
+frontend/src/screens/providerhealth.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10,23-25,28
+frontend/src/screens/sign-in-methods.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/introasks.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/confirmprivacy.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/onboarding-conversation/index.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+backend/internal/modules/deals/legalreviewpacket.go
+  s_0ce78016542ad8::t_e026220216d23e 1-224
+frontend/src/screens/rates.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/recordfields.tsx
+  s_0ce78016542ad8::t_e026220216d23e 22
+frontend/src/screens/tagpicker.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 19-23
+frontend/src/screens/taskactions.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/booking-common.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/contactprovider.harness.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-13
+frontend/src/screens/reporting.definitions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/recordlists.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/brief.readings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/onboarding-conversation/basis-act.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/import.testrun.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-15
+frontend/src/screens/analytics.questions.answer.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-13
+frontend/src/screens/privacy.requests.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-17
+frontend/src/screens/onboarding-conversation/connect-act.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15
+frontend/src/app/errorboundary.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/employmentedit.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+frontend/src/screens/composedraftcontext.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-11
+  s_0ce78016542ad8::t_c6791fa6686fb8 7
+frontend/src/design-system/recordtimeline.ts
+  s_0ce78016542ad8::t_e026220216d23e 9
+frontend/src/screens/filtermatches.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-14
+frontend/src/screens/jobhealthdead.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/worklist.meetingoutcome.tsx
+  s_0ce78016542ad8::t_e026220216d23e 43,46
+frontend/src/screens/roles-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+backend/internal/modules/identity/internal/policy/grants.go
+  s_0ce78016542ad8::t_e026220216d23e 295-298
+frontend/src/lib/activitykeys.ts
+  s_0ce78016542ad8::t_e026220216d23e 1-302
+frontend/src/screens/leadraillinks.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-14
+frontend/src/screens/voice-dna.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+frontend/src/screens/booking-review.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/consent.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+backend/internal/modules/migration/leasedrecords.go
+  s_0ce78016542ad8::t_e026220216d23e 45,54-55
+frontend/src/screens/history.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/license.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/brief.teamboard.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/filters.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+backend/migrations/schema_fitness_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 555
+frontend/src/screens/deals.tsx
+  s_0ce78016542ad8::t_e026220216d23e 69,73,117,152-153,167,2209-2214,2616,2816,3038-3040,3050,3101
+frontend/src/screens/meetingbrief/sections.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/design-system/contactlink.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/reporting.errors.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+backend/internal/modules/deals/doc.go
+  s_0ce78016542ad8::t_e026220216d23e 29-30
+frontend/src/lib/writeto.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-77
+frontend/src/app/pageaside.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+frontend/src/screens/auth-core.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/search.tsx
+  s_0ce78016542ad8::t_e026220216d23e 32,38
+backend/gates/maskedamountreaders_test.go
+  s_0ce78016542ad8::t_e026220216d23e 274-276
+frontend/src/screens/users-admin.testkit.tsx
+  s_0ce78016542ad8::t_e026220216d23e 171-178,181
+frontend/src/screens/voice-corpus-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/brief.rail.overnight.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-14
+frontend/src/screens/worklist.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11,14
+frontend/src/screens/dealmailaside.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/onboarding-conversation/company-act.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-14
+frontend/src/screens/contactboughtmarks.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-14
+frontend/src/screens/projectfiling.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/companyvatmark.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+backend/internal/contracts/internalevents_gen.go
+  s_0ce78016542ad8::t_e026220216d23e 167-181,254-264
+  s_0ce78016542ad8::t_573176cee26273 265
+backend/internal/modules/deals/handlers_products.go
+  s_0ce78016542ad8::t_e026220216d23e 43-48
+frontend/src/screens/users-invite-form.roles.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+frontend/src/screens/contractterms.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+config/margince.schema.json
+  s_0ce78016542ad8::t_e026220216d23e 141-147
+frontend/src/screens/licenseholder.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/working-hours.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/screens/consumer-mail-domains.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+docs/reference/rbac-matrix.md
+  s_0ce78016542ad8::t_e026220216d23e 97
+frontend/src/screens/boughtmarks.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4
+frontend/src/screens/settings-autonomytiers.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/leadheader.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 141-155
+frontend/src/screens/onboarding-company-form.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+backend/internal/compose/csvbinding.go
+  s_0ce78016542ad8::t_e026220216d23e 11-12,14,47-50,63-65,102-113
+  s_0ce78016542ad8::t_fe13ccb79c2592 114-115
+frontend/src/screens/booking-guest.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4
+frontend/src/screens/analytics.forecast.landing.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/companyfactspanel.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+backend/internal/modules/identity/internal/policy/policy.go
+  s_0ce78016542ad8::t_e026220216d23e 25
+backend/migrations/core/1791952787_a_logo_key_names_where_it_came_from.up.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-24
+frontend/src/screens/recordaccess.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15-16
+frontend/src/screens/analytics.attention.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/companycommercial.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/interactionchrome.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/companyevidence.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/installation-setup.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/settingsnav.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 16-17
+frontend/src/screens/documentextraction.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/companyfactrow.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/filterexport.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-13
+backend/internal/modules/migration/run_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 214,219,222,228,237
+frontend/src/screens/audit.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+docs/handbook/what-the-ai-does.md
+  s_0ce78016542ad8::t_e026220216d23e 115-117
+frontend/src/screens/connectors.contexttag.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 16
+frontend/src/design-system/README.md
+  s_0ce78016542ad8::t_e026220216d23e 264,368,440,519
+frontend/src/screens/companies.list.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/oauth-redirects.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/reporting.administration.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15-19
+frontend/src/screens/analytics.reporting.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/installation-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-14
+frontend/src/screens/tagspanel.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/tagspanel.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 25-27
+frontend/src/screens/contactleadaction.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/import.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-12
+frontend/src/design-system/onboarding-stage.tsx
+  s_0ce78016542ad8::t_e026220216d23e 17
+frontend/src/screens/onboarding-conversation/profile-digest-article.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/legalreviews.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-90
+backend/internal/modules/deals/offer.go
+  s_0ce78016542ad8::t_e026220216d23e 337-341,343-345
+frontend/src/screens/onboarding-backread.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 18
+frontend/src/screens/users-admin.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/dealroompage.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+backend/internal/modules/deals/store.go
+  s_0ce78016542ad8::t_e026220216d23e 68-69
+frontend/src/screens/contactfacts.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-57
+backend/internal/modules/assurance/resolve_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-180
+frontend/e2e/importedrecord.spec.ts
+  s_0ce78016542ad8::t_e026220216d23e 1-33
+frontend/src/screens/aiusage.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/acquisitionsources.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/design-system/recordtimeline.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14,27
+frontend/src/screens/import.files.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-15
+frontend/src/screens/operationsettings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-13
+frontend/src/App.tsx
+  s_0ce78016542ad8::t_e026220216d23e 63,225-231,477-479,481
+frontend/src/screens/legalreviews.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-256
+frontend/src/screens/contactdrawers.research.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 19-21
+frontend/src/screens/privacy.purposes.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/dealpipelineboard.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4,10-11
+frontend/src/screens/contactpage.tsx
+  s_0ce78016542ad8::t_e026220216d23e 18,25,55,57
+frontend/src/app/attention.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12
+frontend/src/design-system/activitytimeline.tsx
+  s_0ce78016542ad8::t_e026220216d23e 17
+frontend/src/screens/filterpage.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/contactdealrooms.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/dealfiles.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-15
+frontend/src/screens/contactsubtitle.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/onboarding-conversation/team-act.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12
+frontend/src/screens/bulktag.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/worklist.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4
+frontend/src/screens/reporting.save.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4
+frontend/src/screens/preferences.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+docs/explanation/frontend-architecture.md
+  s_0ce78016542ad8::t_e026220216d23e 78-79,360
+docs/reference/gate-inventory.md
+  s_0ce78016542ad8::t_e026220216d23e 79,164
+frontend/src/screens/booking-meeting.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 18-22
+frontend/src/design-system/transcriptread.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-414
+frontend/src/screens/deal360/dealcommittee.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/dealroomdocuments.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/deals.list.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/import.result.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-14
+frontend/src/screens/offerlinebilling.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+backend/internal/modules/deals/legalreview_terms_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-227
+frontend/src/screens/voice-samples.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+scripts/check-lint-modules.sh
+  s_0ce78016542ad8::t_e026220216d23e 8-9
+backend/migrations/custom/20261013213808_the_identity_origin_check_is_validated.up.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-5
+frontend/src/screens/capture-activity.tsx
+  s_0ce78016542ad8::t_e026220216d23e 28,33
+frontend/src/screens/settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-15
+frontend/src/screens/companydeepread.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/design-system/contactlink.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/contactpage.editverbs.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/listmembers.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 18-22
+backend/internal/compose/csvbinding_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-59
+frontend/src/screens/onboarding-conversation/way-onward.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/projectsections.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+backend/internal/modules/migration/undo_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 76
+frontend/src/screens/connectors-query.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/tagchips.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-13
+frontend/src/screens/historyentries.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/auth-core.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9
+frontend/src/screens/ai-provider-keys.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/design-system/contactlink.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/worklist.coaching.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/composeattachments.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/filterlistedit.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-16
+backend/internal/modules/deals/legalreviewread.go
+  s_0ce78016542ad8::t_e026220216d23e 1-373
+frontend/src/screens/contactleadaction.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/e2e/mockapi/records.ts
+  s_0ce78016542ad8::t_e026220216d23e 92-110,214-215,224
+  s_0ce78016542ad8::t_580a3b66756937 225
+backend/internal/compose/csvlinks.go
+  s_0ce78016542ad8::t_e026220216d23e 57-58,60
+backend/internal/modules/deals/handlers_legalreview.go
+  s_0ce78016542ad8::t_e026220216d23e 1-140
+frontend/src/screens/brief.teamplan.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/contactarchived.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+  s_0ce78016542ad8::t_d28e5e9ed2df26 6
+frontend/src/screens/brief.teamweekly.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+  s_0ce78016542ad8::t_f5bce042c25052 5
+frontend/src/screens/onboarding-conversation/review-deck.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/customfields.table.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-12
+  s_0ce78016542ad8::t_55e54e3ea93380 8
+backend/internal/modules/migration/csvrun.go
+  s_0ce78016542ad8::t_e026220216d23e 374,384
+backend/internal/modules/consent/reviewqueuepaging_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-120
+frontend/src/app/accountfoot.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8,69,71-73,77-86,93-95
+frontend/src/screens/billingcontactmodal.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/coverageexplorer.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/project360.tsx
+  s_0ce78016542ad8::t_e026220216d23e 19,21,23,36
+backend/internal/modules/knowledge/handbook/README.md
+  s_0ce78016542ad8::t_e026220216d23e 47,138-140
+frontend/src/screens/deal360/dealbrief.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+backend/migrations/custom/20261013213808_the_identity_origin_check_is_validated.down.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-6
+frontend/src/screens/meeting-settings-sections.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+frontend/src/screens/tagresult.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-16
+frontend/src/testing/story-utils.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-113
+frontend/src/screens/companydetails.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-9
+frontend/src/design-system/recordcard.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/telegram-connect-form.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/partners.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/onboarding-conversation/workbench.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/ai-provider-sheet.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/composedraftband.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11,15
+frontend/src/screens/offers.currencyfield.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/leadreadings.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/worklist.hidden.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/deal360/dealroomtab.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+backend/internal/modules/migration/engine_test.go
+  s_0ce78016542ad8::t_e026220216d23e 75,675
+frontend/src/screens/ai-price-sync.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/billingcontacts.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/onboarding-manual-interview.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/design-system/transcriptread.css
+  s_0ce78016542ad8::t_e026220216d23e 1-19
+frontend/src/screens/worklist.handled.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/dealdetails.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/tagfollow.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 28
+frontend/src/screens/deal360/outcomereview.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/brief.parts.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-11
+  s_0ce78016542ad8::t_e5578e682e4bfb 5
+frontend/src/screens/contactnetwork/decision.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/worklist.unread.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/worklist.pair.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+backend/internal/modules/privacy/legalreviewverbs_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-19
+frontend/src/screens/oauth-app.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/retentionpolicyform.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14-15
+backend/internal/modules/deals/legalreviewview.go
+  s_0ce78016542ad8::t_e026220216d23e 1-236
+frontend/src/screens/worklist.board.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/companyraildeals.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/analytics.delivery.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/releaseskew.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+frontend/src/screens/settings.passportuse.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/ai-terms.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/design-system/passportselect.tsx
+  s_0ce78016542ad8::t_e026220216d23e 35-37,41
+frontend/src/screens/legalreviews.queries.ts
+  s_0ce78016542ad8::t_e026220216d23e 1-163
+frontend/src/screens/telegram-connect-form.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 16
+frontend/src/screens/connectors.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 20
+frontend/src/screens/contactmeetings.tsx
+  s_0ce78016542ad8::t_e026220216d23e 25
+frontend/e2e/mockapi/routes.ts
+  s_0ce78016542ad8::t_e026220216d23e 103-108,135-140
+frontend/src/screens/magic.lines.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/extension-units.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9
+frontend/src/screens/contactcards.loops.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/worklist.readings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/partnercommissions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/import.contexttag.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-15
+frontend/src/screens/contactarchived.fixtures.ts
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/introdrawer.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/brief.plan.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-14
+frontend/src/screens/listhistory.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/buyerroomframe.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/design-system/richtext-markdown.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 102-110
+frontend/src/design-system/stylesheetnamespace.test.ts
+  s_0ce78016542ad8::t_e026220216d23e 53
+frontend/src/screens/reporting.comparison.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4-8
+backend/Makefile
+  s_0ce78016542ad8::t_e026220216d23e 807
+frontend/src/screens/automations.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-16
+frontend/src/screens/listrules.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9
+backend/internal/compose/integration/productpricerequired_http_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-50
+frontend/src/screens/deal360/dealactions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/analytics.share.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/companytriage.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/deal360/deallegaltab.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-248
+frontend/src/i18n/en.ts
+  s_0ce78016542ad8::t_e026220216d23e 826-827,1157-1158,13784-13866
+docs/handbook/the-pipeline.md
+  s_0ce78016542ad8::t_e026220216d23e 69
+frontend/src/screens/dealsuggestion.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-11
+  s_0ce78016542ad8::t_50ff1c11d6d085 7
+backend/internal/compose/csvlinks_test.go
+  s_0ce78016542ad8::t_e026220216d23e 22
+frontend/src/app/connectivitybanner.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/onboarding-live-panel.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/lib/release.ts
+  s_0ce78016542ad8::t_e026220216d23e 35-42
+frontend/src/screens/customfields.retire.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+frontend/src/screens/leadheader.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/contactpage.waitingdraft.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/i18n/i18n.test.ts
+  s_0ce78016542ad8::t_e026220216d23e 88-90
+frontend/src/screens/analytics.questions.builder.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-14
+backend/internal/modules/knowledge/handbook/legal-review.md
+  s_0ce78016542ad8::t_e026220216d23e 1-65
+frontend/src/screens/record360/reading.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/historyreversalrow.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-11
+backend/internal/modules/migration/identity.go
+  s_0ce78016542ad8::t_e026220216d23e 1-141
+frontend/src/screens/brief.queue.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-14
+  s_0ce78016542ad8::t_44d740677a0b5f 9
+backend/migrations/custom/20261013213807_an_identity_row_says_whether_its_run_created_the_record.up.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-10
+frontend/src/screens/dealroomaccess.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+docs/reference/configuration.md
+  s_0ce78016542ad8::t_e026220216d23e 42,56-60
+  s_0ce78016542ad8::t_66d6d11eb8fefc 61
+frontend/src/screens/company-context.onboarding.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+backend/internal/modules/identity/reset.go
+  s_0ce78016542ad8::t_e026220216d23e 100-101
+frontend/src/screens/worklist.receiptreview.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/settings.jurisdiction.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+backend/internal/modules/deals/reorder.go
+  s_0ce78016542ad8::t_e026220216d23e 271-273
+backend/internal/modules/deals/stages.go
+  s_0ce78016542ad8::t_e026220216d23e 295-299
+frontend/src/screens/settingssearch.ts
+  s_0ce78016542ad8::t_e026220216d23e 148-153,162,167
+backend/migrations/legalreview_down_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-77
+frontend/src/design-system/markdown-parse.ts
+  s_0ce78016542ad8::t_e026220216d23e 85
+frontend/src/screens/ai-provider-table.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+backend/internal/modules/deals/legalreview.go
+  s_0ce78016542ad8::t_e026220216d23e 1-400
+frontend/src/screens/ai-task-outcome.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/companymark.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/leadsources.ts
+  s_0ce78016542ad8::t_e026220216d23e 4-5,113-116,132-134
+frontend/src/screens/recordteamassign.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+backend/gates/emailpresentation_test.go
+  s_0ce78016542ad8::t_e026220216d23e 117
+frontend/src/screens/listlibrary.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/automations.instances.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-11
+  s_0ce78016542ad8::t_f4a62db302d389 7
+frontend/src/screens/brief.fixtures.ts
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/projectfiling.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/screens/settings.exitcriteria.tsx
+  s_0ce78016542ad8::t_e026220216d23e 24,160,224,256,326-332,345-348,359-362,369-373,376,381-384,391
+frontend/src/screens/assistant.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/contactactions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/onboarding-conversation/connect-dialog.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4
+frontend/src/screens/worklist.pane.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/dealroomconversation.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-14
+frontend/src/screens/employmentimport.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-10
+frontend/src/screens/merge.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/approvalrow.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/companycontacts/contacts.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/screens/ai-lane-state.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/design-system/provenance.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 77-82
+frontend/src/screens/deal360/dealactions.tsx
+  s_0ce78016542ad8::t_e026220216d23e 25,38,245
+frontend/src/screens/entityref.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/knowledge.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/technicalprofile.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+backend/internal/modules/identity/internal/policy/defaults.go
+  s_0ce78016542ad8::t_e026220216d23e 121-123,197,263-266,317,360,414
+frontend/src/screens/projecttabs.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/worklist.walknotice.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/reporting.summary.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+Makefile
+  s_0ce78016542ad8::t_e026220216d23e 150-153,156-158,163-165,167-169,172-174,912-913,928,1459,1463
+frontend/src/screens/contactfacts.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+backend/api/crm.yaml
+  s_0ce78016542ad8::t_e026220216d23e 4682-4899,18939-18941,18947,32798-33006,42758,42828,50021,50782,53817,53822-53827
+frontend/src/screens/analytics.forecast.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14-18
+frontend/src/screens/leadpresentation.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 103-116
+frontend/src/screens/companies.tsx
+  s_0ce78016542ad8::t_e026220216d23e 34,38-39,121
+frontend/src/screens/meeting-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+backend/internal/modules/identity/passportscope.go
+  s_0ce78016542ad8::t_e026220216d23e 10,32-33,35-36,49-50
+  s_0ce78016542ad8::t_7e6e840f4df67a 51
+backend/internal/shared/kernel/events/events_test.go
+  s_0ce78016542ad8::t_e026220216d23e 83-84
+frontend/src/screens/settings-audit.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/compose.reply.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3-7
+frontend/src/screens/ai-admin.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/contactcorrections.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/aicalls.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/app/account.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8,13
+frontend/src/screens/ai-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/contactconfirm.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/contactmeetings.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 27-30
+frontend/src/screens/composesend.ts
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/screens/filterhead.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/projectphase.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/record360/citations.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/app/pagemeta.ts
+  s_0ce78016542ad8::t_e026220216d23e 110-111
+frontend/src/screens/onboarding-conversation/profile-digest-lines.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/openemaildrawer.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-160
+backend/internal/compose/jobs_storedobject_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 309
+frontend/src/screens/company-context.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/filterlistedit.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/onboarding-conversation/company-act-candidates.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/taskquickactions.undo.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-13
+frontend/src/screens/leadsignals.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+CONTRIBUTING.md
+  s_0ce78016542ad8::t_e026220216d23e 74,78-81
+frontend/src/screens/contactpage.reads.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14-17
+  s_0ce78016542ad8::t_b58cf58a3da732 13
+frontend/src/screens/leadtags.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14
+backend/internal/modules/identity/oauth_refresh.go
+  s_0ce78016542ad8::t_e026220216d23e 318-320
+frontend/src/screens/import.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9,180-186,196,231-232
+frontend/src/screens/dealroomthreads.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/confirm.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/company-context.card.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/leads.qualify.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/listsharing.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/vcard-import.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/reporting.metricstable.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/settingshome.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/deal360/usedealcoverage.tsx
+  s_0ce78016542ad8::t_e026220216d23e 22
+frontend/src/screens/booking-meeting.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/partnerdeals.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/magic.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/contactemployersummary.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/offers.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-9
+frontend/src/screens/backfill.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+backend/internal/compose/integration/searchemployees_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 308-309
+frontend/src/screens/addtoshortlist.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/ai-tasks.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/companyreject.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/dealbulk.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/reporting.filters.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/dealsignals.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/listactions.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-16
+frontend/src/i18n/vi.ts
+  s_0ce78016542ad8::t_e026220216d23e 829-830,1154-1155,13377-13459
+frontend/src/screens/legalreviewsettings.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-62
+frontend/src/screens/automations.lists.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 19
+frontend/src/screens/worklist.row.compact.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/capture-activity-messages.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/confirmreceipts.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/design-system/sourceevidence.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/bulkwords.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+backend/internal/modules/deals/status.go
+  s_0ce78016542ad8::t_e026220216d23e 76-77,88-90,124,134-135,140
+frontend/src/screens/mail-sharing.posture.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/historyfields.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/lib/activityread.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-70
+frontend/src/screens/knowledge.documents.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/onboarding-conversation/connect-act.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/listquery.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-10
+  s_0ce78016542ad8::t_695db5aefad99c 6
+frontend/src/screens/record360/spine.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/installation-setup.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/counterparty-hold.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/settings-passports.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/users-invite-form.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/filterslibrary.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/magic.timeline.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/onboarding-conversation/company-act-deck-typing.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-13
+backend/internal/modules/migration/lease_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 45,61,64
+frontend/src/lib/openemail.ts
+  s_0ce78016542ad8::t_e026220216d23e 1-47
+frontend/src/screens/worklist.dispositions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/leadbulk.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/onboarding-connect-panels.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-10
+  s_0ce78016542ad8::t_3913688245383a 6
+frontend/src/screens/worklist.manager.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/deal360/dealcockpit.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/rate-remove.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+backend/internal/modules/migration/boundidentity_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-119
+backend/internal/modules/assurance/resolve.go
+  s_0ce78016542ad8::t_e026220216d23e 8,39-42,100-102,168-195
+  s_0ce78016542ad8::t_0ad031c5fa2a58 196-197
+backend/internal/modules/deals/stageevidenceread.go
+  s_0ce78016542ad8::t_e026220216d23e 97-103
+frontend/src/screens/booking-reschedule.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+frontend/src/screens/deal360/deallegaltab.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-63
+frontend/src/screens/worklist.plan.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+backend/internal/modules/consent/handlers_review.go
+  s_0ce78016542ad8::t_e026220216d23e 164-168,177-182,184
+frontend/src/screens/taskactions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-12
+frontend/src/screens/lists.queries.ts
+  s_0ce78016542ad8::t_e026220216d23e 16
+frontend/src/screens/lists.fixtures.ts
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/integrations-provider.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/users-invite-form.greeting.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12
+frontend/src/screens/dealpipelineboard.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14-18
+frontend/src/screens/contactnetwork/contactnetwork.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+frontend/src/screens/onboarding-conversation/decision-scene.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/addtoshortlist.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-16
+frontend/src/app/agentrail.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7,13
+frontend/src/screens/contactpage.testkit.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-14
+frontend/src/screens/onboarding-conversation/confirm-card.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/rate-catalogue-refresh.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-11
+  s_0ce78016542ad8::t_e848a392fd1434 7
+frontend/src/design-system/transcriptread.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-341
+frontend/src/screens/bulkchange.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/automations.datefield.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3-7
+frontend/src/screens/employmentheader.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 40
+frontend/src/screens/offerrecurring.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/brief.plan.contract.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/connectors.add.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/projectstakeholders.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-10
+  s_0ce78016542ad8::t_04f233f4cd1dd2 6
+frontend/src/screens/reporting.dates.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/worklist.domainquestion.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+docs/reference/entity-model/platform.md
+  s_0ce78016542ad8::t_e026220216d23e 14,36
+frontend/src/screens/capture-owner-identities.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 21-22
+frontend/src/screens/onboarding-conversation/basis-act.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/app/palette.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/backfill.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15
+frontend/biome.json
+  s_0ce78016542ad8::t_e026220216d23e 129-155
+frontend/src/screens/brief.teamweeklyagenda.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/design-system/timelinegroups.ts
+  s_0ce78016542ad8::t_e026220216d23e 1-204
+frontend/src/screens/reporting.export.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+backend/gates/dealreaders_test.go
+  s_0ce78016542ad8::t_e026220216d23e 76-80
+frontend/src/screens/audienceservice.ts
+  s_0ce78016542ad8::t_e026220216d23e 22
+frontend/src/screens/companydocuments.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+backend/internal/modules/consent/reviewaccess_test.go
+  s_0ce78016542ad8::t_e026220216d23e 35
+frontend/src/testing/story-utils.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-297
+frontend/src/screens/projectreadings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/recordcustomfields.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-10
+backend/internal/modules/deals/stageevidence.go
+  s_0ce78016542ad8::t_e026220216d23e 45-47,49-51
+frontend/src/screens/automations.form.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3-7
+frontend/src/screens/reporting.actions.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15-19
+docs/reference/entity-model/migration.md
+  s_0ce78016542ad8::t_e026220216d23e 9,17,27-29
+  s_0ce78016542ad8::t_7cbb62ee6a1420 30
+backend/migrations/core/1791956205_a_deal_can_ask_legal_to_review_it.up.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-136
+frontend/src/screens/meeting-settings.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-19
+frontend/src/screens/onboarding-conversation/profile-digest.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/contactnetwork/leadpanel.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/contactprovider.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+  s_0ce78016542ad8::t_ad2613e372eaac 7
+frontend/src/screens/signaturehtml.tsx
+  s_0ce78016542ad8::t_e026220216d23e 66-67
+docs/reference/entity-model/identity.md
+  s_0ce78016542ad8::t_e026220216d23e 9
+backend/internal/modules/migration/undo.go
+  s_0ce78016542ad8::t_e026220216d23e 301,347
+frontend/src/screens/contactcards.brief.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/contactrail.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/deal360/dealwatchcard.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/linkedin-import.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/leadhistory.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9
+frontend/src/app/queryclient.ts
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/design-system/sourceevidence.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/analytics.explain.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/worklist.tagsuggestion.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14
+backend/migrations/core/1791956206_the_legal_review_checks_are_validated.up.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-7
+backend/gates/datecolumncalendars_test.go
+  s_0ce78016542ad8::t_e026220216d23e 100
+frontend/src/screens/analytics.questions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-13
+frontend/src/screens/projecthealthmodal.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/onboarding-backread.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/design-system/clipboardcopy.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+backend/internal/modules/contacts/companylogoorigin_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-85
+frontend/src/screens/healthcard.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-16
+docs/reference/entity-model/README.md
+  s_0ce78016542ad8::t_e78053aa651e7c 31-33
+  s_0ce78016542ad8::t_e026220216d23e 42,46,110,165,256,301,313
+frontend/src/screens/contactdetails.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-15
+frontend/src/screens/privacy.caselink.notice.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+docs/how-to/add-an-extension.md
+  s_0ce78016542ad8::t_e026220216d23e 706-708
+frontend/src/app/navlevel.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/worklist.meetingoutcome.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/analytics.attention.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-17
+frontend/src/screens/contactcards.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/brief.feed.tsx
+  s_0ce78016542ad8::t_e026220216d23e 16
+backend/internal/shared/kernel/events/catalog.go
+  s_0ce78016542ad8::t_e026220216d23e 333-337
+  s_0ce78016542ad8::t_cdca45deb41815 332
+frontend/src/screens/oauthconsent.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+docker-bake.hcl
+  s_0ce78016542ad8::t_e026220216d23e 37-42,90
+frontend/src/screens/leads.list.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/onboarding-conversation/invite-act.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/deal360/confirmadvance.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/extension-access.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/ai-call-figures.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/briefcoverage.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/meetingbrief/view.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+frontend/src/screens/filtermoney.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12
+frontend/src/screens/offertemplates.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-10
+frontend/src/screens/companyprojects.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+backend/internal/modules/deals/legalreviewdecide.go
+  s_0ce78016542ad8::t_e026220216d23e 1-205
+frontend/src/screens/worklist.rowverbs.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-14
+frontend/src/screens/project360.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-14
+frontend/src/screens/worklist.queuebands.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/bulkchange.tsx
+  s_0ce78016542ad8::t_e026220216d23e 27
+frontend/src/screens/projects.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-12
+frontend/src/screens/capture-senders.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+backend/internal/compose/agentpolicy_gen.go
+  s_0ce78016542ad8::t_e026220216d23e 312,350-352,663,707-708,826
+frontend/src/screens/noticeexcuse.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/approvaldrawer.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/settings.pipelines.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/worklist.row.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+docs/explanation/company-record-page.md
+  s_0ce78016542ad8::t_e026220216d23e 550
+frontend/src/screens/reporting.executions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2-6
+scripts/backend-clock-drift.sh
+  s_0ce78016542ad8::t_e026220216d23e 10,60
+frontend/src/screens/adddocument.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/settings.stages.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 19
+frontend/src/screens/tagadmin.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14
+frontend/src/screens/worklist.header.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/companytoday.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/listmembers.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/tagresult.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/aiexport.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+frontend/src/screens/composethread.tsx
+  s_0ce78016542ad8::t_e026220216d23e 18
+frontend/src/screens/worklist.briefverbs.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/contactrecordactions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/onboarding-conversation/voice-act.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/screens/leads.tsx
+  s_0ce78016542ad8::t_e026220216d23e 38,70
+backend/gates/frontendimportnamespace_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-290
+frontend/src/screens/automations.delete.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+backend/internal/modules/deals/deal_create.go
+  s_0ce78016542ad8::t_e026220216d23e 274-276
+backend/internal/modules/knowledge/handbook/the-pipeline.md
+  s_0ce78016542ad8::t_e026220216d23e 69
+frontend/src/app/theme.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/design-system/provenance.tsx
+  s_0ce78016542ad8::t_e026220216d23e 20-24,34-37,61-63,118-119,127-137
+  s_0ce78016542ad8::t_759eeb8f054afe 138-139
+frontend/src/screens/filterbuilder.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/onboarding-conversation/connect-scene.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/app/topbar.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 17
+frontend/src/design-system/provenanceof.test.ts
+  s_0ce78016542ad8::t_e026220216d23e 189-264
+frontend/src/screens/contractform.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/meetingbrief/meetingbrief.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3-7
+backend/internal/modules/assurance/scan_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 100-101,469-474,496
+frontend/src/lib/recordtargets.ts
+  s_0ce78016542ad8::t_e026220216d23e 1-57
+backend/internal/compose/queryenums_gen.go
+  s_0ce78016542ad8::t_e026220216d23e 154-156
+frontend/src/screens/blocked-domains.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 24-26
+frontend/src/screens/passwordcard.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/analytics.forecast.review.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/logactivity.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/edit.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/companyfinance.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/buyerroomboard.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/ai-provider-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/design-system/querystates.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/leadhistory.tsx
+  s_0ce78016542ad8::t_e026220216d23e 20
+frontend/src/screens/contactprovider.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/brief.weekly.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-14
+docs/explanation/backend-onboarding.md
+  s_0ce78016542ad8::t_e026220216d23e 217
+frontend/src/screens/composesignoff.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/contactmaybedone.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-14
+frontend/src/screens/leadkeys.ts
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/settings.privacy.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/contractlifecycle.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-16
+backend/gates/maskedamountroots_test.go
+  s_0ce78016542ad8::t_e026220216d23e 120
+backend/migrations/core/1791956206_the_legal_review_checks_are_validated.down.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-25
+frontend/src/screens/scheduledsends.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/connected-agents.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/filtervalue.records.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/projectowner.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+backend/internal/compose/integration/csvbound_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-54
+Dockerfile
+  s_0ce78016542ad8::t_e026220216d23e 299-302,373
+frontend/src/screens/extingesthealth.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/companyreading.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/brief.decisions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-15
+frontend/src/screens/companies.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 32
+frontend/src/screens/mailsync.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+backend/internal/modules/deals/handlers.go
+  s_0ce78016542ad8::t_e026220216d23e 26,41-42
+frontend/src/screens/linkedin-reach.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+frontend/src/screens/record360/reading.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/analytics.cells.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/meetingbrief/plan.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+backend/internal/compose/signoff_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 100-101
+frontend/src/screens/recordteam.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/design-system/passportselect.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4,14-17,70-75
+  s_0ce78016542ad8::t_fe0998d74bda95 76
+frontend/src/screens/reporting.evidence.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/analytics.explain.drawer.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+backend/migrations/core/1791956205_a_deal_can_ask_legal_to_review_it.down.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-12
+frontend/src/screens/reporting.graphs.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/app/licensebanner.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6,11
+frontend/src/screens/compose.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-16
+frontend/src/screens/financeinvoices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/lib/activityread.ts
+  s_0ce78016542ad8::t_e026220216d23e 1-43
+backend/internal/modules/consent/reviewroute.go
+  s_0ce78016542ad8::t_e026220216d23e 33,303,310,316,321-333,336,340-349,351-368,377,387-408
+frontend/src/screens/projectreadings.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/aiusage-spend.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/contactroutes.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/analytics.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-19
+frontend/src/screens/onboarding-conversation/team-act.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/contractpaperchip.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/brief.changes.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+backend/internal/modules/capture/gmail/backfillpool.go
+  s_0ce78016542ad8::t_e026220216d23e 138-139
+frontend/src/screens/criterionkinds.ts
+  s_0ce78016542ad8::t_e026220216d23e 20
+frontend/src/app/economybanner.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5,10
+frontend/src/screens/listrules.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9
+backend/internal/platform/auth/rbac.go
+  s_0ce78016542ad8::t_e026220216d23e 330-334
+frontend/src/lib/router.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6,44,209
+frontend/src/screens/recordmark.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14
+frontend/src/screens/overnight-grant.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/company360.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 16
+frontend/src/screens/noticecases.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/deal360/dealhistorytab.tsx
+  s_0ce78016542ad8::t_e026220216d23e 20
+frontend/src/screens/deal360/dealbrief.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/meetingbrief/view.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/listexplain.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/app/shell.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 26,34
+backend/internal/compose/legalreviewseam_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-101
+frontend/src/screens/retention.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+backend/internal/modules/deals/settingsentry.go
+  s_0ce78016542ad8::t_e026220216d23e 13-15,82-107,110
+frontend/src/screens/leadtoday.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+scripts/check-contract-frontend-drift.sh
+  s_0ce78016542ad8::t_e026220216d23e 43-44
+frontend/src/screens/aicalls-table.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/notification-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/passportchip.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+backend/internal/modules/privacy/recordhistoryverbs.go
+  s_0ce78016542ad8::t_e026220216d23e 124-127
+frontend/src/screens/companycontacts/summary.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/screens/connectors.telegram.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/imap-connect-form.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15
+frontend/src/screens/noticeduty.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/companyheaderactions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/filterrelativedate.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-17
+frontend/src/screens/reporting.library.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+frontend/src/screens/tagfollow.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12
+frontend/src/screens/movebutton.tsx
+  s_0ce78016542ad8::t_e026220216d23e 27,32
+frontend/src/screens/automationdetail.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-10
+  s_0ce78016542ad8::t_dad9600a977c13 6
+frontend/src/app/agentrail-edgelight.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/legalreviewstatus.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-34
+frontend/src/screens/composerelink.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12,14,34
+frontend/src/screens/settings.pipelines.tsx
+  s_0ce78016542ad8::t_e026220216d23e 30,409-410
+frontend/src/screens/composeschedule.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+.claude/hooks/finish-review.sh
+  s_0ce78016542ad8::t_e026220216d23e 5,7-8
+frontend/src/screens/automations.instances.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 23-28
+frontend/src/screens/record360/brieftitle.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/settings.stageautomation.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14-15
+frontend/src/screens/connectors.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/contactpage.clarity.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14
+frontend/src/screens/contactresearch.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3-7
+frontend/src/screens/privacy.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 19-20
+frontend/src/screens/connect-posture.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/corpusask.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/legalreviewpack.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-313
+frontend/src/screens/onboarding-conversation/company-act-refusal.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 16-20
+frontend/src/screens/contactemploymentrow.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/mail-sharing.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/dealbulk.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12
+frontend/src/screens/recordfields.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/reporting.history.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14-18
+CHANGELOG.md
+  s_0ce78016542ad8::t_e026220216d23e 15-17
+frontend/src/screens/ai-routing.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/deal360/dealwatchcard.tsx
+  s_0ce78016542ad8::t_e026220216d23e 19
+frontend/src/screens/meetingbrief/coaching.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/connect-panels.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14
+frontend/src/screens/customfields.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/design-system/theme-toggle.css
+  s_0ce78016542ad8::t_e026220216d23e 1-38
+frontend/src/screens/recordchronology.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/reporting.charts.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/worklist.row.captions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/archive.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/book.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+frontend/src/screens/deal360/dealheaderfacts.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+backend/internal/modules/identity/passport_scopefault_test.go
+  s_0ce78016542ad8::t_e026220216d23e 14,70-100
+backend/internal/compose/agentbundle/agentcontract_gen.yaml
+  s_0ce78016542ad8::t_e026220216d23e 14717,14770
+frontend/src/screens/company-context.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/commissiondecide.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/privacy.corrections.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/i18n/de.ts
+  s_0ce78016542ad8::t_e026220216d23e 850-851,1182-1183,13681-13763
+frontend/src/screens/contactdrawers.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13
+frontend/src/screens/leads.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 29
+frontend/src/lib/activitykeys.test.ts
+  s_0ce78016542ad8::t_e026220216d23e 1-155
+frontend/src/screens/companyrailtags.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+backend/internal/platform/deployconfig/seeds.go
+  s_0ce78016542ad8::t_e026220216d23e 28-30
+frontend/src/screens/dealroomaccess.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/dealstatus.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-9
+frontend/src/screens/deals.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/design-system/keyedname.tsx
+  s_0ce78016542ad8::t_e026220216d23e 36
+frontend/src/screens/contactpage.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 36
+backend/internal/modules/deals/exitcriteria.go
+  s_0ce78016542ad8::t_e026220216d23e 25,130-134,209-217,271-275,359-374
+  s_0ce78016542ad8::t_d5e7223afbe9f6 375
+frontend/src/screens/record360/evidencesources.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/companycontracts.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-13
+frontend/src/screens/setupclaim.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4-8
+frontend/src/screens/booking-setup.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-15
+  s_0ce78016542ad8::t_745f424d7bdbf9 11
+frontend/src/screens/recordconversations.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/capture-exclusions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/users-rolecell.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/projectheaderfacts.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/design-system/transcriptread.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-110
+frontend/src/screens/addemploymentmodal.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/companylifecycle.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/deal360/deallegaltab.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-143
+frontend/src/screens/legalreviews.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-156
+frontend/src/screens/recoveryhealth.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+backend/internal/modules/knowledge/handbook/what-the-ai-does.md
+  s_0ce78016542ad8::t_e026220216d23e 115-117
+frontend/src/screens/record360/verdict.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/rate-manual.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/contactnetwork/relay.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/reporting.interactions.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 16-21
+frontend/src/screens/record360/threadfailed.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/capture-activity-drawer.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/worklist.suggestion.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/contactmeetings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-12
+frontend/src/screens/reporting.targethistory.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3-7
+backend/gates/shippingloopreachesthelane_test.go
+  s_0ce78016542ad8::t_e026220216d23e 8-11,14,16,19-30,33-42,44,46-75,77-103,106-109,113-115
+frontend/src/screens/linkedin-reach.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/openemaildrawer.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-86
+backend/migrations/custom/20261013213807_an_identity_row_says_whether_its_run_created_the_record.down.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-9
+frontend/src/screens/deal360/dealwatchcard.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/settings.stageverbs.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/listpage.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 20-26
+frontend/src/app/account.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 20-23,31-33,53,412-462
+  s_0ce78016542ad8::t_98d0d9690021d9 463
+frontend/src/screens/recordroles.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/unsubscribe.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+backend/gates/companyreaders_test.go
+  s_0ce78016542ad8::t_e026220216d23e 65
+frontend/src/screens/booking-invite.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+frontend/src/screens/preferencerow.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+docs/handbook/README.md
+  s_0ce78016542ad8::t_e026220216d23e 47,138-140
+backend/internal/modules/migration/undoupdates.go
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/companycontacts/introrequest.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+backend/gates/rowscopetables_test.go
+  s_0ce78016542ad8::t_e026220216d23e 531-535
+frontend/src/screens/contactfiles.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/privacy.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/reporting.targets.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3-7
+frontend/src/screens/integrations-provider.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/capture-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+backend/migrations/testdata/rbac_seeded_defaults.json
+  s_0ce78016542ad8::t_e026220216d23e 214-219,621-626,1028-1033,1435-1440,1842-1847,2249-2254
+frontend/src/screens/vertex-location.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/ai-binding-editor.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15-17
+frontend/src/screens/worklist.verdict.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/capture-owner-identities.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/contacts.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/onboarding-conversation/artifact.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+docs/reference/entity-model/contacts.md
+  s_0ce78016542ad8::t_e026220216d23e 74-75
+frontend/src/screens/relationships.tsx
+  s_0ce78016542ad8::t_e026220216d23e 20
+frontend/src/screens/forcedpassword.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/dealproject.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15
+frontend/src/screens/logactivity.tsx
+  s_0ce78016542ad8::t_e026220216d23e 24
+frontend/src/screens/worklist.exceptions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/capture-notice.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/recordcustomfields.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 16-19
+backend/internal/shared/kernel/events/entityless.go
+  s_0ce78016542ad8::t_e026220216d23e 55-59
+frontend/src/screens/contactbillingroles.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/confirmsubscription.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-12
+  s_0ce78016542ad8::t_0c05edf313d8b2 8
+frontend/src/screens/contacttabs.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/contactboughtattributes.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4
+frontend/src/screens/brief.feed.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/filterview.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+frontend/src/screens/dealproject.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/offers.currencyfield.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+frontend/src/screens/timelineactions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/contactprovider.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/reporting.schedule.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 4-8
+frontend/src/screens/composesaveddraft.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14-15
+frontend/src/screens/roles-detail.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/contactfacts.tsx
+  s_0ce78016542ad8::t_e026220216d23e 109
+frontend/src/screens/analytics.sharelist.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/voice-versions.tables.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/screens/blocked-domains-decision.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-9
+  s_0ce78016542ad8::t_fc55f985047e70 5
+frontend/src/screens/held-threads.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/leadreadings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/companyprofiletab.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12-13
+frontend/src/screens/reporting.forecast.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2-6
+frontend/src/screens/deals.stepper.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/audiencemembers.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+backend/internal/compose/csvtargetid.go
+  s_0ce78016542ad8::t_e026220216d23e 86-88,91-104
+  s_0ce78016542ad8::t_c44b437434df30 105
+frontend/src/screens/reporting.sdroutcomes.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 2
+backend/migrations/importrecordorigin_integration_test.go
+  s_0ce78016542ad8::t_e026220216d23e 1-117
+frontend/src/screens/capture-purge-dialog.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/outcomereview.queries.ts
+  s_0ce78016542ad8::t_e026220216d23e 4
+frontend/src/app/capture-chip.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/leadfillfromcontact.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+AGENTS.md
+  s_0ce78016542ad8::t_e026220216d23e 118,166-169,272,300-303
+frontend/src/app/notificationbell.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/screens/rate-refresh.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+frontend/src/screens/writetohost.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-62
+frontend/src/screens/installation-setup.ai-key.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/dealemail.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/booking-errors.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/companyrecent.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/dealpipelineboard.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12
+frontend/src/screens/writetohost.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-138
+frontend/src/screens/companyheaderfacts.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 201-223
+frontend/src/screens/agent-token-settings.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/companies.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/design-system/provenanceof.ts
+  s_0ce78016542ad8::t_e026220216d23e 41-43,45-50,143-188
+frontend/src/screens/companyheader.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-12
+frontend/src/screens/companyapprovals.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/filtereditor.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/client.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/contactdetails.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10-11
+frontend/src/screens/imap-connect-form.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/import.contexttag.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/import.hub.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 21-35,105,112-127
+frontend/src/screens/import.notices.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/contactpage.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-19
+frontend/src/screens/contactopening.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3
+backend/internal/modules/deals/stageremoval.go
+  s_0ce78016542ad8::t_e026220216d23e 138-144
+frontend/src/screens/companies.archived.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 14-16
+frontend/src/screens/settings.stagerules.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 13-14
+frontend/src/screens/share.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/filterresults.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/approvaleditor.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-12
+  s_0ce78016542ad8::t_35143b74e10bd8 8
+docker-compose.dev.yml
+  s_0ce78016542ad8::t_e026220216d23e 191
+frontend/src/screens/company/glance.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8-12
+docs/reference/entity-model/deals.md
+  s_0ce78016542ad8::t_e026220216d23e 5,75,363,385,572-629,916,936
+frontend/src/screens/integrations-provider-posture.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+backend/internal/compose/stubs_gen.go
+  s_0ce78016542ad8::t_e026220216d23e 1654-1661,2118-2140
+  s_0ce78016542ad8::t_bfe352b1b4b12d 2141
+frontend/src/design-system/theme-toggle.tsx
+  s_0ce78016542ad8::t_e026220216d23e 1-39
+frontend/src/screens/onboarding-conversation/voice-artifact.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/brief.plan.add.tsx
+  s_0ce78016542ad8::t_e026220216d23e 15
+frontend/src/screens/recordwritekeys.ts
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/leads.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-16
+frontend/src/screens/aiusage-decisions.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/brief.schedule.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+frontend/src/screens/bulkwords.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7-11
+backend/internal/modules/deals/legalreviewgate.go
+  s_0ce78016542ad8::t_e026220216d23e 1-253
+frontend/src/screens/company360.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-11
+frontend/src/screens/leads.columns.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 87-96
+frontend/src/screens/leads.disqualify.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/onboarding-conversation/invite-act.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/screens/thisdevice.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 8
+frontend/src/screens/record360/today.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/screens/listpage.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-10
+frontend/src/screens/settings-audit.detail.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/tagpicker.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 12
+backend/internal/compose/server.go
+  s_0ce78016542ad8::t_e026220216d23e 61-63
+frontend/src/screens/blocked-domains.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11-12
+frontend/src/screens/dealroomthread.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/contactmemory.tsx
+  s_0ce78016542ad8::t_e026220216d23e 10
+frontend/src/screens/tagadmin.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 28-29
+frontend/src/screens/bulkshortlist.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5-9
+backend/migrations/testdata/head_catalog.txt
+  s_0ce78016542ad8::t_e026220216d23e 1376,2322-2323,3699,4536-4541,4659,4664,5062-5093,6853,7414
+frontend/src/screens/companydossier.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/scripts/unroutedsession.test.ts
+  s_0ce78016542ad8::t_e026220216d23e 20
+frontend/src/screens/contacttoday.test.tsx
+  s_0ce78016542ad8::t_e026220216d23e 9-13
+frontend/src/screens/companygrowthfit.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+frontend/src/screens/offerlinerates.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6
+frontend/src/design-system/emailentry.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 11
+frontend/src/screens/record360/labels.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 7
+frontend/src/screens/deal360/outcomereviewmodal.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 5
+frontend/src/screens/reporting.report.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 3-7
+frontend/src/screens/scheduledsends.stories.tsx
+  s_0ce78016542ad8::t_e026220216d23e 6-10
+backend/migrations/core/1791952787_a_logo_key_names_where_it_came_from.down.sql
+  s_0ce78016542ad8::t_e026220216d23e 1-5
+backend/internal/compose/installation.go
+  s_0ce78016542ad8::t_e026220216d23e 321-325
+backend/internal/contracts/api_gen.go
+  s_0ce78016542ad8::t_fc018703fb8538 2370-2419,2501-2502,2523-2524,11251-11334,16039,16055-16056,16110-16112,16122-16123,21496-21513,28321-28324,33976-33980,34555-34561,38489-38677,44100-44105,52112-52121,54739-54750,57684-57686,57828-57833,69945-69950,70293-70310,73674-73685,74370-74405,84777-84789,94131-94194,98454-98654,113070-113075,113418-113435
+frontend/src/api/schema.d.ts
+  s_0ce78016542ad8::t_fb25b13bff06e1 3185-3360,12987-12989,22766-22959,31033,31105,36699,37135,39656-39660,50513-50733,65551-65561
+pnpm-lock.yaml
+  s_0ce78016542ad8::t_f5699ba61671cf 237,1514-1515,1520,3833
+scripts/clock-drift-host.sh
+  s_0ce78016542ad8::t_488f001029f7ee 91,97,116,123,134-136
+scripts/craft-pin.sh
+  s_0ce78016542ad8::t_2d5e84b46c057d 113
+scripts/craft-review.sh
+  s_0ce78016542ad8::t_822cf8de9febf2 4-5
+scripts/fe-file-length-waivers.txt
+  s_0ce78016542ad8::t_dfea51bc9f6fc6 28
+sonar-project.properties
+  s_0ce78016542ad8::t_e13da53e27dbcf 321,720-754
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4c084e80b14e12b44a4fef83c6cf86daa04bfbac",
+  "prompts": {},
+  "sessions": {
+    "s_0ce78016542ad8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "804ebd52-31a8-4645-9227-a217823cfac0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
