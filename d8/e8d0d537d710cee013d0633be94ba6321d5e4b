@@ -1,0 +1,27 @@
+frontend/src/i18n/de.ts
+  s_c9ebb7b3eb7d86::t_ffdd44f67f3b9d 10193,10196,10198
+frontend/src/i18n/en.ts
+  s_c9ebb7b3eb7d86::t_d66fe86e777b02 10305,10308,10310
+frontend/src/i18n/vi.ts
+  s_c9ebb7b3eb7d86::t_cf2d075e307b26 9972,9975,9977
+frontend/src/screens/sign-in-methods.stories.tsx
+  s_c9ebb7b3eb7d86::t_1aa5433dc96e95 175
+frontend/src/screens/sign-in-methods.test.tsx
+  s_c9ebb7b3eb7d86::t_199109b0473739 204,228,238,277
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d8e8d0d537d710cee013d0633be94ba6321d5e4b",
+  "prompts": {},
+  "sessions": {
+    "s_c9ebb7b3eb7d86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "103fbd25-d34c-4146-a838-2793b19808b8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
