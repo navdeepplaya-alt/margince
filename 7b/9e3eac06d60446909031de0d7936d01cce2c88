@@ -1,0 +1,26 @@
+backend/internal/modules/deals/deallinks.go
+  s_b2571b9d3b5f3f::t_865439b6a6594f 67-68
+  s_b2571b9d3b5f3f::t_27fd24de8d4820 66
+backend/internal/compose/integration/dealcompanyreassign_integration_test.go
+  s_b2571b9d3b5f3f::t_c24db6391bb3dc 280
+backend/gates/writeauthorityreach_test.go
+  s_b2571b9d3b5f3f::t_a5b109e3e87a67 71
+backend/internal/modules/contracts/dealcompanyseam_test.go
+  s_b2571b9d3b5f3f::t_c24db6391bb3dc 47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7b9e3eac06d60446909031de0d7936d01cce2c88",
+  "prompts": {},
+  "sessions": {
+    "s_b2571b9d3b5f3f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b76c213a-7b96-4c3d-a776-0d2a61bbfbf0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
