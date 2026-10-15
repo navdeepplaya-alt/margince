@@ -1,0 +1,21 @@
+docs/handbook/records.md
+  s_3ddb16d6b76a3b::t_72e2cabb92e307 392
+backend/internal/modules/knowledge/handbook/records.md
+  s_3ddb16d6b76a3b::t_596166fafacd3d 392
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "90d7a7119b2bf57e5ddad255133508d0ddaf2dc4",
+  "prompts": {},
+  "sessions": {
+    "s_3ddb16d6b76a3b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af51c10c-13b4-44f3-89a5-51afa5134278",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
