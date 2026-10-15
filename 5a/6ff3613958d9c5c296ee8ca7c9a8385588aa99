@@ -1,0 +1,455 @@
+backend/api/crm.yaml
+  s_45aa16da8111f4::t_f3a86b89149951 18332,18359,33684,33686,33696-33697,33709,33719-33720
+backend/gates/docsplainwords_test.go
+  s_45aa16da8111f4::t_6a3a5e0f11db19 245
+backend/gates/testdata/wallclockfixtures.txt
+  s_45aa16da8111f4::t_10870a7ac144b9 329
+backend/internal/compose/aicert/decisionrecord.go
+  s_45aa16da8111f4::t_0d85132f89b990 202-206
+backend/internal/compose/aicert/record_build_test.go
+  s_45aa16da8111f4::t_8ef99a3c345c8f 261-281
+backend/internal/compose/aicert/recordbuild.go
+  s_45aa16da8111f4::t_c5ee33c1ecf1c3 186-194
+backend/internal/compose/aicert/records/agent_loop/gemini_gemini-3.1-flash-lite_cloud_frontier.json
+  s_45aa16da8111f4::t_5eb287ae709183 6,9-10,12,26-29,33,35,38,43,46-47,49,57,60-61,63,71,74-75,77,85,88-89,91,99,102-103,105,113,116-117,119
+backend/internal/compose/costestimate/estimator.go
+  s_45aa16da8111f4::t_39ed4221fd1908 13,206-207,212,317-322,324-329,332,335-347,349
+backend/internal/compose/costestimate/estimator_test.go
+  s_45aa16da8111f4::t_89f3a82e756f58 211-244,362
+backend/internal/compose/queryenums_gen.go
+  s_45aa16da8111f4::t_fb95c642ba7e2b 19
+backend/internal/contracts/api_gen.go
+  s_45aa16da8111f4::t_36b099d408621a 20237,20250-20251,23847-23859,24081-24087,52153-52160,52202-52204,79375-79387
+backend/internal/modules/agents/runner/degrade.go
+  s_45aa16da8111f4::t_2a837c7680a26d 32-33,43
+backend/internal/modules/agents/runner/outputretry.go
+  s_45aa16da8111f4::t_9c8702e870a9c6 1-53
+backend/internal/modules/agents/runner/outputretry_test.go
+  s_45aa16da8111f4::t_4bfa6a256425f0 1-96
+backend/internal/modules/agents/runner/runner.go
+  s_45aa16da8111f4::t_76dc481f1724a1 256-260,267,282-283,294-295,299
+backend/internal/modules/agents/runner/window.go
+  s_45aa16da8111f4::t_6c23428b00d8c4 108-109,221
+backend/internal/modules/ai/answeredmodel.go
+  s_45aa16da8111f4::t_72e26c022311c5 1-75
+backend/internal/modules/ai/answeredmodel_integration_test.go
+  s_45aa16da8111f4::t_0734bf6fe61d20 1-261
+backend/internal/modules/ai/callfigures.go
+  s_45aa16da8111f4::t_81877725519af9 31-33,37,43,46-47,78-81,99,105,127-129,136,147,174-176,223-224,233-235,247
+backend/internal/modules/ai/callread.go
+  s_45aa16da8111f4::t_ae2bb744ba279b 159-160,162,165,172
+backend/internal/modules/ai/callstats.go
+  s_45aa16da8111f4::t_2c333ed6fcaba5 14-17,42-44,55-57,65-66,70,74,90
+backend/internal/modules/ai/callstore.go
+  s_45aa16da8111f4::t_205d42f74aba22 157
+backend/internal/modules/ai/handlers_calls.go
+  s_45aa16da8111f4::t_e3dd5309f75d07 33,190,217
+backend/internal/modules/ai/pricesync.go
+  s_45aa16da8111f4::t_76ec776cccd629 102-106
+backend/internal/modules/ai/pricesyncplan.go
+  s_45aa16da8111f4::t_1781b4101cf4fd 25-27,124-126,148-150,167-181
+backend/internal/modules/ai/pricesyncplan_test.go
+  s_45aa16da8111f4::t_e6a166ec1eadc6 221-233
+backend/internal/modules/ai/ratesource.go
+  s_45aa16da8111f4::t_c2fb31765a6a9b 31-33,46-63
+backend/internal/modules/ai/ratestore.go
+  s_45aa16da8111f4::t_74d210a77f637e 116,144
+backend/internal/modules/ai/runtransparency.go
+  s_45aa16da8111f4::t_b0f2db1a8ec416 86,121
+backend/internal/modules/knowledge/handbook/ai-providers.md
+  s_45aa16da8111f4::t_ac6a14291c7bd6 109-112,156-169
+backend/internal/modules/knowledge/handbook/capture.md
+  s_45aa16da8111f4::t_fe8b637b3a42c8 352
+backend/internal/modules/knowledge/handbook/documents-and-files.md
+  s_45aa16da8111f4::t_ff7ce5376a4a81 168,170,172,227-231
+backend/internal/modules/knowledge/handbook/retention-exports-and-deletion.md
+  s_45aa16da8111f4::t_9e8c0faafc691e 45,50,59,73,187,240,244
+backend/internal/modules/knowledge/handbook/settings.md
+  s_45aa16da8111f4::t_b3e8e05304bb2a 151,235-240,243
+backend/internal/modules/knowledge/handbook/who-can-see-an-email.md
+  s_45aa16da8111f4::t_3f6acc3f94e72e 149,151,159,247
+backend/internal/modules/knowledge/handbook/your-own-settings.md
+  s_45aa16da8111f4::t_5b9c37665cb6d8 242-245,267-269,271,278
+docs/README.md
+  s_45aa16da8111f4::t_9b2c6243644a7f 101
+docs/explanation/frontend-architecture.md
+  s_45aa16da8111f4::t_7a799cdb39595e 63,80-83,97,100,110-113
+docs/handbook/ai-providers.md
+  s_45aa16da8111f4::t_1420b011201599 109-112,156-169
+docs/handbook/capture.md
+  s_45aa16da8111f4::t_bf9d4c8aed9cd6 352
+docs/handbook/documents-and-files.md
+  s_45aa16da8111f4::t_39941802efa9de 168,170,172,227-231
+docs/handbook/retention-exports-and-deletion.md
+  s_45aa16da8111f4::t_7943c6bcc40f56 45,50,59,73,187,240,244
+docs/handbook/settings.md
+  s_45aa16da8111f4::t_558174242b3741 151,235-240,243
+docs/handbook/who-can-see-an-email.md
+  s_45aa16da8111f4::t_5e84881c2c1ee1 149,151,159,247
+docs/handbook/your-own-settings.md
+  s_45aa16da8111f4::t_5960660f43ce91 242-245,267-269,271,278
+docs/how-to/move-a-frontend-feature.md
+  s_45aa16da8111f4::t_3ffdc69dd8e0a4 1-100
+docs/reference/ai-certification.json
+  s_45aa16da8111f4::t_4422f3e8f14c9b 4,6,901,915-916,1759,1779-1780,7654,7663,7665-7668,7722-7724,7736-7738,10486,10488-10491,11171-11181,11209,11211,11213-11214,11216-11217,11219,11224,11601-11611,11639,11641,11643-11644,11646-11647,11649,11654
+docs/reference/ai-certification.md
+  s_45aa16da8111f4::t_b03fde650cf82b 50,56-57,170,174,221,255,259,306,948-949,1202,1204,1212,1217,1277-1278,1349,1532,1550,1567,1585
+extensions/de/frontend/i18n/de.json
+  s_45aa16da8111f4::t_30dc41dac27a20 1-3
+extensions/de/frontend/i18n/en.json
+  s_45aa16da8111f4::t_3255c40812cdf1 1-3
+extensions/de/frontend/i18n/vi.json
+  s_45aa16da8111f4::t_19d06a203689e6 1-3
+extensions/vn/frontend/i18n/de.json
+  s_45aa16da8111f4::t_79611d61856372 1-3
+extensions/vn/frontend/i18n/en.json
+  s_45aa16da8111f4::t_aadeecaf5529a6 1-3
+extensions/vn/frontend/i18n/vi.json
+  s_45aa16da8111f4::t_9cb2488180aaa7 1-3
+frontend/biome.json
+  s_45aa16da8111f4::t_8d946b6a28a161 118-119,149-150,180-181
+frontend/e2e/mailboxprivacy.spec.ts
+  s_45aa16da8111f4::t_44b18b6ab5cf98 101-113,127,150,157-159
+frontend/e2e/mockapi/capture.ts
+  s_45aa16da8111f4::t_d65652b47309df 5,40-52
+frontend/e2e/mockapi/routes.ts
+  s_45aa16da8111f4::t_764c2c11eee5ff 331-336
+frontend/scripts/ext-imports.test.ts
+  s_45aa16da8111f4::t_841bf0d11513a8 85-90,473-479,481-483
+frontend/scripts/lib/source-tree.test.ts
+  s_45aa16da8111f4::t_8ffb7e99e5dc2b 27,30,109-129
+frontend/scripts/lib/source-tree.ts
+  s_45aa16da8111f4::t_45fa75b9e2965b 20,122-142
+frontend/src/App.composed.test.tsx
+  s_45aa16da8111f4::t_89fca5ef4d6b30 63,81
+frontend/src/App.extscreen.test.tsx
+  s_45aa16da8111f4::t_47e1747dfc9b71 134
+frontend/src/App.tsx
+  s_45aa16da8111f4::t_5abebbebf625fb 38,399,425
+frontend/src/api/schema.d.ts
+  s_45aa16da8111f4::t_f31a4722ada348 23590,23616-23622,23658-23664,65407-65408,65438-65439
+frontend/src/app/pagemeta.ts
+  s_45aa16da8111f4::t_689e8e8b6bcec0 2,4,194,215
+frontend/src/app/topbar.test.tsx
+  s_45aa16da8111f4::t_37116035e1a2ab 291-292,295
+frontend/src/components/listquery.tsx
+  s_45aa16da8111f4::t_5a1cfac2cb02dc 732,755-756,1059
+frontend/src/design-system/README.md
+  s_45aa16da8111f4::t_ef53f9fd96232b 364,399,492,507,519-520
+frontend/src/design-system/atoms.css
+  s_45aa16da8111f4::t_8f7e58545c4524 40-43,46,49,1605,1608,1774-1776,1972-1974,1976-1977,1981-1982,2355
+frontend/src/design-system/atoms.test.tsx
+  s_45aa16da8111f4::t_564083cb07faac 8,23,264-354
+frontend/src/design-system/atoms.tsx
+  s_45aa16da8111f4::t_4c7665e43ecbb0 28,30,1252-1255,1291,1312-1313,1346,1349,1352-1353,1367,1370,1390,1428,1430
+frontend/src/design-system/conformance.test.ts
+  s_45aa16da8111f4::t_c32fcd9f2a9a9c 6,12-16,45-48
+frontend/src/design-system/corners.test.ts
+  s_45aa16da8111f4::t_127a181e8efe75 44,65-68
+frontend/src/design-system/datatable.css
+  s_45aa16da8111f4::t_88b73eef2a37d8 5,233-241
+frontend/src/design-system/dialogfocus.ts
+  s_45aa16da8111f4::t_afbad3946f0f3a 4-10,181-229
+frontend/src/design-system/iconaction.tsx
+  s_45aa16da8111f4::t_baebef9d822699 45,101-102,135
+frontend/src/design-system/listsurface.dials.ts
+  s_45aa16da8111f4::t_75a1230d561d99 127-147
+frontend/src/design-system/listsurface.tsx
+  s_45aa16da8111f4::t_39fd8a73b78889 22,26,64,98-102,170-194,197,201-221,1029,1045-1059
+frontend/src/design-system/listtable.css
+  s_45aa16da8111f4::t_a523be6950b7e2 1454-1497
+frontend/src/design-system/listtable.layout.ts
+  s_45aa16da8111f4::t_71d98f6c6e6954 364-391
+frontend/src/design-system/listtable.paging.ts
+  s_45aa16da8111f4::t_2e10f8b4927eac 18-25
+frontend/src/design-system/listtable.shortchrome.test.tsx
+  s_45aa16da8111f4::t_d1f82104f68792 1-122
+frontend/src/design-system/listtable.stories.tsx
+  s_45aa16da8111f4::t_d40eccbfdbce5c 104,115-117,151,523-526,533-534,538-579,581,588
+frontend/src/design-system/listtable.tsx
+  s_45aa16da8111f4::t_d872f0f18d3db5 17,31,35-40,255,382-386,496-510,518,567-576,581-598,600-615
+frontend/src/design-system/modal.tsx
+  s_45aa16da8111f4::t_978461c79aef90 8,174
+frontend/src/design-system/native-controls.test.ts
+  s_45aa16da8111f4::t_7e94b72fc194fc 62,68,295
+frontend/src/design-system/numbersetting.css
+  s_45aa16da8111f4::t_0d5b728cffd49a 16-19
+frontend/src/design-system/numbersetting.stories.tsx
+  s_45aa16da8111f4::t_f52ca5bd9a4ad3 6,65-98
+frontend/src/design-system/numbersetting.test.tsx
+  s_45aa16da8111f4::t_21eecd312e777e 44-70
+frontend/src/design-system/numbersetting.tsx
+  s_45aa16da8111f4::t_e8bad9f431bc07 4,39,52-53,67,103,114,129-133
+frontend/src/design-system/overflowmenu.stories.tsx
+  s_45aa16da8111f4::t_711cbde2aeb572 6-7,84-118
+frontend/src/design-system/panel.css
+  s_45aa16da8111f4::t_be29e422aaa9fc 141-145
+frontend/src/design-system/rowopen.stories.tsx
+  s_45aa16da8111f4::t_04c1120c91a4bb 22-24,47,86-97
+frontend/src/design-system/rowopen.tsx
+  s_45aa16da8111f4::t_c0c9ee34c2b7df 12,14-19,27
+frontend/src/design-system/statstrip.css
+  s_45aa16da8111f4::t_3f8664a7012168 121,186
+frontend/src/design-system/statstrip.stories.tsx
+  s_45aa16da8111f4::t_7720373c4a61a8 5,335-400
+frontend/src/format/rbacobjects.ts
+  s_45aa16da8111f4::t_ed9fdbc28c90cf 171-176
+frontend/src/i18n/de.ts
+  s_45aa16da8111f4::t_7df73e238ec684 2547,6623,6880,6898,7400,7500-7515,7519,7538,7736-7739,7744,7775,9283-9288,9335,9352-9354,9394-9395,9414,10025,10050,10442,10957,11162-11163,11266,11968,13507,13951-13955
+frontend/src/i18n/en.ts
+  s_45aa16da8111f4::t_1b9deb63adec7f 2596,6740,6987,7005,7504,7604-7618,7622,7639,7838-7841,7848,7879,9401-9406,9450,9467-9469,9508-9509,9528,10116,10141,10521,11024,11227-11228,11328,12031,13575,14015-14019
+frontend/src/i18n/vi.ts
+  s_45aa16da8111f4::t_50eab8e1a10cb8 2492,6460,6712,6730,7220,7320-7335,7339,7357,7550-7553,7560,7589,9056-9061,9104,9121-9123,9161-9162,9181,9775,9800,10187,10694,10895-10896,10996,11665,13177,13604-13608
+frontend/src/lib/extensions.test.ts
+  s_45aa16da8111f4::t_e4673b3d08c9de 202-203,206-208
+frontend/src/lib/extensions.ts
+  s_45aa16da8111f4::t_cac4ba4fd2dbc2 8,150,152,157,165
+frontend/src/screens/ai-call-figures.test.tsx
+  s_45aa16da8111f4::t_61ed4c13f424c5 17,43,83-89,148-163,208,221-240,242-251
+frontend/src/screens/ai-call-figures.tsx
+  s_45aa16da8111f4::t_9540869145dbf0 8,158-221,224,227,289,328,339
+frontend/src/screens/ai-feature-table.tsx
+  s_45aa16da8111f4::t_da9ed4efa95ba1 97
+frontend/src/screens/ai-provider-table.tsx
+  s_45aa16da8111f4::t_4fa1679def9cfa 120
+frontend/src/screens/ai-routing-lane.tsx
+  s_45aa16da8111f4::t_c7b205c76c61ca 15-19,271,313,323,400
+frontend/src/screens/ai-task-outcome.stories.tsx
+  s_45aa16da8111f4::t_142c52c798fb9a 36,47,72-96
+frontend/src/screens/ai-task-outcome.tsx
+  s_45aa16da8111f4::t_9969503b9656d0 9,123-133
+frontend/src/screens/aicalls.tsx
+  s_45aa16da8111f4::t_ca1e02aa6f439b 125,265
+frontend/src/screens/automations.tsx
+  s_45aa16da8111f4::t_826cad609cbc27 298
+frontend/src/screens/blocked-domains.stories.tsx
+  s_45aa16da8111f4::t_995c11193c7935 151-160
+frontend/src/screens/blocked-domains.tsx
+  s_45aa16da8111f4::t_c29635d392430c 17,188-191,194-196
+frontend/src/screens/brief.weekly.css
+  s_45aa16da8111f4::t_a3bc98863874fc 121-123
+frontend/src/screens/capture-activity-messages.tsx
+  s_45aa16da8111f4::t_756da3feb55c4a 133
+frontend/src/screens/capture-activity.stories.tsx
+  s_45aa16da8111f4::t_d38eeb3b816e9e 5,161-172
+frontend/src/screens/capture-activity.test.tsx
+  s_45aa16da8111f4::t_3a2e29473a211b 275,664
+frontend/src/screens/capture-activity.tsx
+  s_45aa16da8111f4::t_3c38ef5dbe1239 337
+frontend/src/screens/capture-exclusions.stories.tsx
+  s_45aa16da8111f4::t_8e5249e4eb77c3 5,131-134
+frontend/src/screens/capture-exclusions.test.tsx
+  s_45aa16da8111f4::t_bb90a3ab963da2 189-198
+frontend/src/screens/capture-exclusions.tsx
+  s_45aa16da8111f4::t_5326a9f49ad149 17,166,219-226,230-247,384-387,399-422
+frontend/src/screens/capture-owner-identities.stories.tsx
+  s_45aa16da8111f4::t_17b09faa75f2df 87-97
+frontend/src/screens/capture-owner-identities.test.tsx
+  s_45aa16da8111f4::t_193271ed187a62 142-151,153,155-160,175-185,191
+frontend/src/screens/capture-owner-identities.tsx
+  s_45aa16da8111f4::t_58561e0d66f22e 8,16,175-177,180-188,195-212,319-336
+frontend/src/screens/capture-senders.stories.tsx
+  s_45aa16da8111f4::t_9d60bb401028a5 5,7,14,16-17,133-134,138,144-159,161-165,167,169-172,174,176-186,207-210,217,219-225,230,235
+frontend/src/screens/capture-senders.test.tsx
+  s_45aa16da8111f4::t_2f7df29458c2d9 15,17,49-51,76-95,117-118,120,125,132,135,146,149,152,156,159,161-165,179,182,184-185,192,207-212,220,224-226,245,247,274,276,289,291
+frontend/src/screens/capture-senders.tsx
+  s_45aa16da8111f4::t_035060b19233cf 1-6,11,59-68,70,85,87,121,140,146-148,157-166,168,187,321-324,340-385
+frontend/src/screens/capture-settings.stories.tsx
+  s_45aa16da8111f4::t_6866bda5918ed7 11,13-14,19-28,41,44,46,70-74
+frontend/src/screens/capture-settings.test.tsx
+  s_45aa16da8111f4::t_4289b3835a73d5 8,15,17-18,31-40,58,180,182,218,223,240,257,265-268,283
+frontend/src/screens/capture-settings.tsx
+  s_45aa16da8111f4::t_a666a054a36c1f 5-6,13,39,108-110,116-117,119-120,122-156,158-176,179-185,190-192
+frontend/src/screens/connection-outcomes.stories.tsx
+  s_45aa16da8111f4::t_f4750014c21050 5-6,13,15-41,44-86,90,96-102,104,106-113,116-124,127-162,164-170
+frontend/src/screens/connection-outcomes.test.tsx
+  s_45aa16da8111f4::t_b535be2bd471c8 1-171
+frontend/src/screens/connection-outcomes.tsx
+  s_45aa16da8111f4::t_8e977c1967a742 1-262
+frontend/src/screens/connectors.add.test.tsx
+  s_45aa16da8111f4::t_dcfe1b09fa3ceb 1-109
+frontend/src/screens/connectors.add.tsx
+  s_45aa16da8111f4::t_ad86eaba14fada 47,51,62-68
+frontend/src/screens/connectors.notices.tsx
+  s_45aa16da8111f4::t_64f93949b92ae9 6,72-88
+frontend/src/screens/connectors.row.tsx
+  s_45aa16da8111f4::t_6ab3e01c3f01b1 122
+frontend/src/screens/connectors.stories.tsx
+  s_45aa16da8111f4::t_a8320ea4988f35 153,158-163
+frontend/src/screens/connectors.telegram.stories.tsx
+  s_45aa16da8111f4::t_ed4434eb283a5a 67,70-75,80-88
+frontend/src/screens/connectors.telegram.tsx
+  s_45aa16da8111f4::t_ae3429e77c5620 203-227,230-243
+frontend/src/screens/connectors.test.tsx
+  s_45aa16da8111f4::t_abf1b6570a6027 322,326-333
+frontend/src/screens/connectors.tsx
+  s_45aa16da8111f4::t_d40840d06ef594 2,8,118-127,133,136-137,141-143,146-148,153-154,156,158-176,186,237-261,270-271,300-307,311-316,318-319,325-337,339-343,347,358,387
+frontend/src/screens/consumer-mail-domains.stories.tsx
+  s_45aa16da8111f4::t_2cc5fb5525f17f 58-68
+frontend/src/screens/consumer-mail-domains.tsx
+  s_45aa16da8111f4::t_f25b026dd5337d 254-257,259-285
+frontend/src/screens/extension-access.css
+  s_45aa16da8111f4::t_befb3b6f4d0f80 5,75-77,79-80,83-86,89-101,104-108
+frontend/src/screens/extension-access.stories.tsx
+  s_45aa16da8111f4::t_37351687861b92 176-177,182-189
+frontend/src/screens/extension-access.test.tsx
+  s_45aa16da8111f4::t_cb126273cfde68 265-272,274-288,320,322-335,350,362,364,366-367,369,371,379,382-386,392,397,404,410,414,420,423,425,431,434,440,442,444-447,455,499,512-519,561,588,630,718-719,730,820,822,832-844,855,893,904,907,924,946,948,955,958,960
+frontend/src/screens/extension-access.tsx
+  s_45aa16da8111f4::t_1dd8dabb5c39ad 5-6,10-12,25,37-42,78-79,159-165,167-171,173-174,188-190,194-196,198-204,256,260,275,283,290,294,321-324,328,332-333,335-336,360-372,374-389,391-398,402-405,409-410,416,422-423,425-455,461,464,467-468
+frontend/src/screens/extension-units.test.tsx
+  s_45aa16da8111f4::t_c78a4c3f817ae9 57,64,67,69,72-73,100
+frontend/src/screens/extension-units.tsx
+  s_45aa16da8111f4::t_bc2071d1181602 87
+frontend/src/screens/extingesthealth.test.tsx
+  s_45aa16da8111f4::t_eacfd400c0d6b9 7,118-122
+frontend/src/screens/followupsettings.stories.tsx
+  s_45aa16da8111f4::t_78bb3f01899e3e 5,49-57
+frontend/src/screens/followupsettings.test.tsx
+  s_45aa16da8111f4::t_4ccd1371696865 108-114
+frontend/src/screens/grantmatrix.stories.tsx
+  s_45aa16da8111f4::t_8ff4783c97a58e 130-136
+frontend/src/screens/grantmatrix.tsx
+  s_45aa16da8111f4::t_b14ca65e9bb222 175
+frontend/src/screens/held-threads.stories.tsx
+  s_45aa16da8111f4::t_c1a193865c596d 5,7,14,117-120,124,130-142,144-145,148,150-151,155-164,168-180,194-196,221-226,234-235,238,240
+frontend/src/screens/held-threads.test.tsx
+  s_45aa16da8111f4::t_3aad072e618d68 8-14,22-23,75-76,149-163,182,186-194,208,216,230,236,246,264,277,284,304,321-324,333-337,339,341,354,362,384,397,413,427-429,436,444,454,504,508-510
+frontend/src/screens/held-threads.tsx
+  s_45aa16da8111f4::t_7a723f3bd07e22 6,50-51,57,59,61-64,79,84,210,235,237-238
+frontend/src/screens/imap-connect-form.tsx
+  s_45aa16da8111f4::t_414e9c03437f2f 129,134-135,355,360,365-371
+frontend/src/screens/integrations-provider-posture.tsx
+  s_45aa16da8111f4::t_6aad7797660413 82
+frontend/src/screens/integrations-provider.stories.tsx
+  s_45aa16da8111f4::t_16267fb513e33f 133-134,139-144
+frontend/src/screens/integrations-provider.test.tsx
+  s_45aa16da8111f4::t_bb4230cfe4fd35 58-60,233,467,479-485,572,668,708,717
+frontend/src/screens/integrations-provider.tsx
+  s_45aa16da8111f4::t_da24336c59cf16 23-27,47-48,76,78-80,85-86,92-105,113,127-137,149-150,155-186,698,772-774
+frontend/src/screens/knowledge.css
+  s_45aa16da8111f4::t_ec64f1e421fa31 4-5,7,10-12,14-15,17-19,21-23,25-26
+frontend/src/screens/knowledge.documents.tsx
+  s_45aa16da8111f4::t_e1a317730832d2 21,44,172-182,189,198-199,209-210,212-215,242,245,248-250,267-268,296,331-333,346,358-360,363
+frontend/src/screens/knowledge.stories.tsx
+  s_45aa16da8111f4::t_8d686b0cadded9 5,194,197,199,201-202,207-226,247,296-308
+frontend/src/screens/knowledge.test.tsx
+  s_45aa16da8111f4::t_7cb602f06e3b52 165,167,170-176,178,203,222-258,280,286-291,325,328-332,335,340-341,509,521-526,539-549,551-552
+frontend/src/screens/knowledge.tsx
+  s_45aa16da8111f4::t_662d962c24f278 5,13-16,117,124-130,134,141-146,148-154,156-158,162-163,167,175-176,181-214,221,228-247,249-250,258,260-267,275-279,281-297,299-308,310-353
+frontend/src/screens/leadvocab.stories.tsx
+  s_45aa16da8111f4::t_e38158a016d147 135-142
+frontend/src/screens/leadvocab.test.tsx
+  s_45aa16da8111f4::t_fb74713abfd842 679-683
+frontend/src/screens/leadvocab.tsx
+  s_45aa16da8111f4::t_504f099038e922 79
+frontend/src/screens/linkedin-reach.stories.tsx
+  s_45aa16da8111f4::t_03b6a0f94999e1 5,12,14-15,22-25,29,35-49,51-52,54,75,77-78,85-89,92,106-112,118,127
+frontend/src/screens/linkedin-reach.test.tsx
+  s_45aa16da8111f4::t_6f8967b9c9e239 14,49-53,57-59,68,72-76,80,114,129-146
+frontend/src/screens/linkedin-reach.tsx
+  s_45aa16da8111f4::t_212abd7e6f84fd 11,23,37,59,80-81,84,86-89
+frontend/src/screens/listsection.css
+  s_45aa16da8111f4::t_a31d91c4aec846 35-43
+frontend/src/screens/mail-sharing.stories.tsx
+  s_45aa16da8111f4::t_2f153389609bdc 5,14-17,20-28,31-35,48-49,51,53,62-73
+frontend/src/screens/mail-sharing.test.tsx
+  s_45aa16da8111f4::t_8b41b965ac3c49 12,39,56,60,67,168-171,174-204
+frontend/src/screens/mail-sharing.tsx
+  s_45aa16da8111f4::t_9c6b81ed33afbd 1,6-8,15-20,84-85,124-125,127-128,179,197,204-218,246-252,274
+frontend/src/screens/noticecases.stories.tsx
+  s_45aa16da8111f4::t_870571c0e43c83 182-195
+frontend/src/screens/noticecases.tsx
+  s_45aa16da8111f4::t_25dff02669ec94 19,92-93,96-98,124-125
+frontend/src/screens/offertemplates.stories.tsx
+  s_45aa16da8111f4::t_2f24a02effe88e 2,89,92,106,108-115,152-156,159-164
+frontend/src/screens/offertemplates.tsx
+  s_45aa16da8111f4::t_f00dd31fe8e1c1 215-232,250
+frontend/src/screens/overnight-grant.stories.tsx
+  s_45aa16da8111f4::t_6ff51dde6ac795 6,87,101-141
+frontend/src/screens/overnight-grant.test.tsx
+  s_45aa16da8111f4::t_f582ea7387be39 190-192,205-224,226
+frontend/src/screens/overnight-grant.tsx
+  s_45aa16da8111f4::t_49948e2791c1a2 10,208-210,242,252
+frontend/src/screens/own-domains.stories.tsx
+  s_45aa16da8111f4::t_1cb1420839f179 81-86,122-125
+frontend/src/screens/own-domains.test.tsx
+  s_45aa16da8111f4::t_b73a7f9bf6014d 134-139,176-179
+frontend/src/screens/own-domains.tsx
+  s_45aa16da8111f4::t_f19ac2610da489 13,168-173,175-176,220-224,310-323
+frontend/src/screens/privacy.corrections.stories.tsx
+  s_45aa16da8111f4::t_66530f2e08387b 14,75,81-92,94,96-97,100,116-118,138,208-210
+frontend/src/screens/privacy.corrections.tsx
+  s_45aa16da8111f4::t_d6ffc0007350ed 24,36-39,53-66,96,98,101-105,107,136
+frontend/src/screens/privacy.css
+  s_45aa16da8111f4::t_119950c294aaa1 3
+frontend/src/screens/privacy.deadline.test.tsx
+  s_45aa16da8111f4::t_0566f621bdc024 18,93
+frontend/src/screens/privacy.purposes.stories.tsx
+  s_45aa16da8111f4::t_cc0775c263dc15 5,78-87
+frontend/src/screens/privacy.purposes.tsx
+  s_45aa16da8111f4::t_eb2c44796eb569 21,187,194-200
+frontend/src/screens/privacy.requests.test.tsx
+  s_45aa16da8111f4::t_98bb647c83d41f 23,120
+frontend/src/screens/privacy.stories.tsx
+  s_45aa16da8111f4::t_8ccfd80413d93a 20,143,162,164-165,168,176-183
+frontend/src/screens/privacy.test.tsx
+  s_45aa16da8111f4::t_2fa99af1e32a42 21,101,338,362,391,406,422,439,462,474,489,511,532,569,601,640,696,741,773,789,802,812,857,904,954,991,1029,1071,1112,1158
+frontend/src/screens/privacy.tsx
+  s_45aa16da8111f4::t_fbd72665e07a0c 9,13-14,28,104,336,390-396,411-413,419,422-423,425-426,467
+frontend/src/screens/products.stories.tsx
+  s_45aa16da8111f4::t_2a08a2df9a3b31 2,90,93,112-126,158-162,165,167-172,202-207
+frontend/src/screens/products.test.tsx
+  s_45aa16da8111f4::t_85873f346b787f 124-154
+frontend/src/screens/products.tsx
+  s_45aa16da8111f4::t_38126f82db543c 17,175-176,178,180-186,311-318,369-386,405,428-431
+frontend/src/screens/restrictedrecords.stories.tsx
+  s_45aa16da8111f4::t_8d6a5d4693f6a1 13,15-16,49,55-62,64-66,69,78-79,84-101,178-180,193,201
+frontend/src/screens/restrictedrecords.test.tsx
+  s_45aa16da8111f4::t_d1106df6f672a7 18,20-21,91-96,126-133,280,282,284-293,295-296,300-301,310,312-336,338-359
+frontend/src/screens/restrictedrecords.tsx
+  s_45aa16da8111f4::t_f76d81bcf96787 2,16,27-28,34-35,70-71,75,81,86-87,95-99,109,117,123,126,129-130,136-141,146-161,180-215,227,231-236,340,342,345-349,352,363,369
+frontend/src/screens/retention.css
+  s_45aa16da8111f4::t_d70d50f56249d3 1-2
+frontend/src/screens/retention.stories.tsx
+  s_45aa16da8111f4::t_de1db6c08187b2 139-140
+frontend/src/screens/retention.test.tsx
+  s_45aa16da8111f4::t_0b929456781034 152,175-177,182-183,519-539,572
+frontend/src/screens/retention.tsx
+  s_45aa16da8111f4::t_feb805ed890542 22,377,515,521-527,539
+frontend/src/screens/settings-imports.test.ts
+  s_45aa16da8111f4::t_970da875c97af5 11,44-47,50-51
+frontend/src/screens/settings-integrations.test.tsx
+  s_45aa16da8111f4::t_792ee0dc3427e0 93,102-104,125
+frontend/src/screens/settings.privacy.stories.tsx
+  s_45aa16da8111f4::t_286e362fa56fcb 14,150-158,161,164,167-169,171-174,179-193
+frontend/src/screens/settings.privacy.test.tsx
+  s_45aa16da8111f4::t_db4f67dac2837e 1-206
+frontend/src/screens/settings.privacy.tsx
+  s_45aa16da8111f4::t_449326de01f582 4-9,11-12,14-18,21-22,28,33-118
+frontend/src/screens/settings.tsx
+  s_45aa16da8111f4::t_c3437d4b58d66f 39,42,241-242,325-326,330
+frontend/src/screens/webhooks.stories.tsx
+  s_45aa16da8111f4::t_dd4f446e7ed4c3 195-201
+frontend/src/screens/webhooks.tsx
+  s_45aa16da8111f4::t_b74d608d7be9d9 871,908-909,924
+frontend/src/testing/reachfixture.ts
+  s_45aa16da8111f4::t_7c1d63226866f1 1-15
+scripts/fe-file-length-waivers.txt
+  s_45aa16da8111f4::t_7f2a0c6f560a98 17-19,21,24,26-27,29-30,33,36-38,41-42,44,46,49-51,55,58-59,63,67-70,72,75,81-87,93,95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5a6ff3613958d9c5c296ee8ca7c9a8385588aa99",
+  "prompts": {},
+  "sessions": {
+    "s_45aa16da8111f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b66263c-5a43-452f-8624-833bced98e94",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
