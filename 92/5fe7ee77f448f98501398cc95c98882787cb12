@@ -1,0 +1,19 @@
+frontend/src/screens/confinement.tsx
+  s_45aa16da8111f4::t_ea4f1e76019831 29-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "925fe7ee77f448f98501398cc95c98882787cb12",
+  "prompts": {},
+  "sessions": {
+    "s_45aa16da8111f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b66263c-5a43-452f-8624-833bced98e94",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
