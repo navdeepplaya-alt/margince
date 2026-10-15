@@ -1,0 +1,19 @@
+backend/gates/companyreaders_test.go
+  s_f2e7bea2cca118::t_3ee6566155e09e 165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9f4f11f4d9c8f232ce14271349a3ab684668df98",
+  "prompts": {},
+  "sessions": {
+    "s_f2e7bea2cca118": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "87c1b377-7206-4dd2-94ba-87b0fd6e6b70",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
