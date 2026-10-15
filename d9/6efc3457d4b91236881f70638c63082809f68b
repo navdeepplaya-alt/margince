@@ -1,0 +1,135 @@
+backend/internal/modules/webhooks/deliveryclaim.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-50
+backend/internal/modules/webhooks/preview.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-66
+docs/reference/entity-model/webhooks.md
+  s_3ddb16d6b76a3b::t_d86658636deeb0 9,15-16,56,61-63
+backend/internal/compose/integration/webhooks/webhooks_integration_test.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 108,130
+backend/internal/compose/integration/webhooks/webhookclaim_integration_test.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-110
+backend/internal/modules/webhooks/client.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 33-35,44-47
+backend/migrations/core/1792037673_a_webhook_carries_its_own_headers_and_body.down.sql
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-8
+frontend/src/i18n/en.ts
+  s_3ddb16d6b76a3b::t_d86658636deeb0 11298-11786
+frontend/src/i18n/de.ts
+  s_3ddb16d6b76a3b::t_d86658636deeb0 11233-11760
+docs/reference/entity-model/README.md
+  s_3ddb16d6b76a3b::t_7a823ba7d6a5f4 32
+  s_3ddb16d6b76a3b::t_d86658636deeb0 425-426
+backend/internal/modules/webhooks/mapping.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 18-29,33-63
+  s_3ddb16d6b76a3b::t_b5094ebd0f2170 64
+frontend/src/screens/webhookeventpicker.tsx
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-307
+backend/internal/modules/webhooks/customheaders_test.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-118
+backend/internal/contracts/publicevents_gen.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 3348-3486
+backend/api/crm.yaml
+  s_3ddb16d6b76a3b::t_d86658636deeb0 13022-13047,13071,13073,13166-13169,13179-13180,29862,29872-29882,29888-29926,29955-29967,29971-29973,29982-29994
+backend/internal/modules/webhooks/deliveryenqueue.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-115
+backend/tools/gen-payloads/gen_test.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 62,84,99,125,161,171,182-226
+frontend/src/screens/webhookdrawer.test.tsx
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-418
+backend/tools/gen-payloads/main.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 57,78,120-125
+  s_3ddb16d6b76a3b::t_c3b94307d190cc 126
+frontend/src/i18n/i18n.test.ts
+  s_3ddb16d6b76a3b::t_d86658636deeb0 20-25
+frontend/src/screens/webhookevents.test.ts
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-29
+frontend/src/screens/webhookpresets.ts
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-75
+frontend/src/screens/webhookdrawer.stories.tsx
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-137
+backend/internal/modules/webhooks/handlers.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 61-70,109-120,129-143
+  s_3ddb16d6b76a3b::t_8590167ef94485 144-145
+backend/internal/modules/webhooks/subscriptionbody_test.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-91
+frontend/src/screens/webhooks.css
+  s_3ddb16d6b76a3b::t_d86658636deeb0 66-73
+backend/internal/modules/webhooks/unit_test.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 213,218-219
+frontend/src/screens/webhookevents.ts
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-262
+backend/internal/modules/webhooks/subscriptionbody.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-96
+backend/migrations/testdata/head_catalog.txt
+  s_3ddb16d6b76a3b::t_d86658636deeb0 7724-7725,7750-7751,7753
+frontend/src/screens/webhooks.tsx
+  s_3ddb16d6b76a3b::t_d86658636deeb0 32,42,56-57,592,594,608,610-674,684-700,708,710-715,836-837,839
+frontend/src/screens/webhooks.test.tsx
+  s_3ddb16d6b76a3b::t_d86658636deeb0 334,338-340,354
+frontend/src/screens/webhooktemplate.tsx
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-247
+frontend/src/i18n/vi.ts
+  s_3ddb16d6b76a3b::t_d86658636deeb0 10969-11484
+backend/internal/modules/webhooks/customheaders.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-163
+backend/internal/compose/stubs_gen.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 3274-3277
+backend/internal/modules/webhooks/bodytemplate.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-338
+frontend/src/screens/webhookheaders.tsx
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-168
+backend/tools/gen-payloads/samples.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-114
+backend/migrations/core/1792037673_a_webhook_carries_its_own_headers_and_body.up.sql
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-28
+backend/internal/modules/webhooks/delivery.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 109,126,129-136,245-254,260,338-339,345,388-401
+frontend/src/screens/settingsstories.test.ts
+  s_3ddb16d6b76a3b::t_d86658636deeb0 84
+frontend/src/screens/webhookdrawer.tsx
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-331
+docs/explanation/outbound-webhooks.md
+  s_3ddb16d6b76a3b::t_d86658636deeb0 10-13,71-72,223-225,258-302,338-340,349-351,353-355,485-489,522-534
+backend/tools/gen-payloads/config.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 24-26,38
+backend/.go-arch-lint.yml
+  s_3ddb16d6b76a3b::t_d86658636deeb0 250-251
+frontend/src/screens/webhookdrawer.css
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-306
+backend/internal/modules/webhooks/deliverystore.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 189,192,201-212,227-230,241,250,260-266,268-280,282-285,294,298-299,304-305,308,349-351,358-360,367-369,382-385,395,401-407,409-420,423,426,428
+frontend/src/screens/webhookpreview.ts
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-65
+backend/internal/modules/webhooks/store.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 78-82,92-99,105,158-162,181-188,206-208,210,217-218,282-287,294-295,306-307,315-317,320-324,326-330,341-347,350-353,357,360-366
+docs/how-to/register-a-webhook.md
+  s_3ddb16d6b76a3b::t_d86658636deeb0 108-138
+backend/internal/compose/integration/webhooks/webhookcustomshape_integration_test.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-305
+backend/internal/modules/webhooks/bodytemplate_test.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 1-159
+backend/internal/compose/agentpolicy_gen.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 810
+backend/internal/modules/webhooks/cipher.go
+  s_3ddb16d6b76a3b::t_d86658636deeb0 59-63,68,75-77,87
+backend/internal/contracts/api_gen.go
+  s_3ddb16d6b76a3b::t_2ec00360ac0f75 18532-18552,34066-34074,48915,48917-48926,49344-49376,49406-49415,58992-58994,71991-71993,72000,76965-76970,76983,111853-111872,115444-115446
+frontend/src/api/schema.d.ts
+  s_3ddb16d6b76a3b::t_26efb2838c581d 8371-8392,8412-8413,8472-8477,20343-20347,20360-20386,20401-20405,20407,20412-20416,60742-60768,60957-60958
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d96efc3457d4b91236881f70638c63082809f68b",
+  "prompts": {},
+  "sessions": {
+    "s_3ddb16d6b76a3b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af51c10c-13b4-44f3-89a5-51afa5134278",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
