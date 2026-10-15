@@ -1,0 +1,19 @@
+backend/gates/contactreaders_test.go
+  s_3ddb16d6b76a3b::t_c41c6e2655159e 70-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5c23b20b615990a01d24fb4cb9a1b619f5a2135e",
+  "prompts": {},
+  "sessions": {
+    "s_3ddb16d6b76a3b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af51c10c-13b4-44f3-89a5-51afa5134278",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
