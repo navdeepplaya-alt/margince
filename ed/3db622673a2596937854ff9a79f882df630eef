@@ -1,0 +1,34 @@
+backend/internal/compose/tagsuggestpass.go
+  s_de1318c6b9e349::t_753f8d8764b3fd 197
+backend/internal/modules/collections/taginterest.go
+  s_de1318c6b9e349::t_2a86d002e6f349 85-86
+  s_de1318c6b9e349::t_753f8d8764b3fd 59-66,84,96-102,107
+frontend/src/i18n/vi.ts
+  s_de1318c6b9e349::t_541970872832ed 2907,2909
+frontend/src/i18n/de.ts
+  s_de1318c6b9e349::t_52d41bc075431d 2963,2965
+docs/handbook/records.md
+  s_de1318c6b9e349::t_541970872832ed 388
+backend/internal/compose/tagsuggest_integration_test.go
+  s_de1318c6b9e349::t_2a86d002e6f349 525-526,528,532-539,549
+frontend/src/i18n/en.ts
+  s_de1318c6b9e349::t_52d41bc075431d 3023,3025
+backend/internal/modules/knowledge/handbook/records.md
+  s_de1318c6b9e349::t_541970872832ed 388
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ed3db622673a2596937854ff9a79f882df630eef",
+  "prompts": {},
+  "sessions": {
+    "s_de1318c6b9e349": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8d9a3641-2908-46e0-aa6e-f58a57823e52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
