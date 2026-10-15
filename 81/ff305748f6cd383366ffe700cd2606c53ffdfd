@@ -1,0 +1,2040 @@
+backend/internal/modules/identity/installationpatch_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 32,35-36,39-41,97-99
+frontend/src/screens/filterbuilder.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7
+backend/internal/compose/attentionopsseam.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 112
+frontend/src/screens/recordedit.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 3
+backend/internal/compose/company.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 28,107-108
+frontend/src/app/pagemeta.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1
+frontend/src/screens/listhistory.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 21
+backend/internal/compose/capturepromote_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 85-90,103
+  s_de1318c6b9e349::t_30be762a10b9d2 83-84
+backend/internal/modules/approvals/volumerelease.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 23,42,89-93
+backend/internal/compose/provider.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 64-65
+backend/internal/platform/auth/admit.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 63,66-71,268-269,271-275,277-279,281,290
+docs/reference/entity-model/identity.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+frontend/src/lib/leadkeys.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-312
+frontend/src/screens/filtervalue.records.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+backend/internal/modules/identity/passport_usage_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-75
+frontend/src/components/bulktask.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-99
+frontend/src/components/repeatablerowsfield.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-214
+frontend/src/screens/vcard-import.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+frontend/src/screens/deal360/confirmadvance.closetasks.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 18
+extensions/de/documents/de/mitarbeiterinformation.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1,6-7,12,22,24,28,48,52-53,60-61,64-70,81,84
+docs/explanation/custom-fields.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 146-148,150
+backend/internal/modules/approvals/volumerelease_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 55,80,111,120
+frontend/src/screens/worklist.donequeries.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-77
+backend/internal/compose/csvgrants_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 38,45,48-49
+frontend/src/screens/leadsignals.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,19
+backend/internal/modules/approvals/failureack_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-216
+frontend/src/screens/vcard-import.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8
+backend/internal/compose/agentpolicy_gen.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 80-82,90,109,132,137,144,157-159,162,174-175,178,183,196,262,264,303,307-311,320,382-384,394-395,403-404,427-428,471-472,487-488,490,508,511,548,652-653,655,664-665,674-675,732,734,745,788,799,809,814,849,865
+backend/internal/modules/migration/progresswindow_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-44
+frontend/src/screens/contactdetails.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 2
+frontend/src/screens/filtermatches.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10-11
+backend/internal/compose/integration/dealmovesetaside_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-103
+frontend/src/app/shell.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12
+frontend/src/screens/savedviews.queries.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13
+frontend/src/screens/filterfoot.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-9
+frontend/src/screens/roles-detail.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-213
+backend/internal/compose/company360/momentfingerprint_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-41
+backend/internal/compose/createrecordvisibility_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-65
+frontend/src/components/bulkshortlist.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-47
+frontend/src/app/nav.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 135
+backend/internal/shared/kernel/values/companyname.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-32
+backend/internal/modules/agents/summarycopy_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 203,242
+frontend/src/screens/recordreferences.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+frontend/src/app/palettesearch.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 140-141
+scripts/check-test-budget.sh
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-75
+frontend/src/screens/tagspanel.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8,17-22,26
+docs/reference/agent-tools.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-9,27-28,32,85,95,137,177-180,188-206
+  s_de1318c6b9e349::t_a05b5920079794 207
+frontend/e2e/unsaved.spec.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 2,24,31-32,34-40,48,50-51,64,81-82,88
+frontend/src/screens/share.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15-19
+  s_de1318c6b9e349::t_5ec0338008101c 14
+frontend/src/screens/customfields.labels.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+frontend/src/screens/deal360/dealhistorytab.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 22
+backend/internal/compose/csvimportwire.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 390,491
+frontend/src/screens/projectowner.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-12
+docs/reference/agent-tool-budget.json
+  s_de1318c6b9e349::t_a3a89e670ea2b4 34,36,123-125
+  s_de1318c6b9e349::t_6d22785da62402 126
+frontend/src/screens/agentusage.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-239
+frontend/src/screens/import.testrun.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16-17,27,29-34,90,107,111-116,118,125,145,174,186-190,219,222,308-310
+backend/internal/modules/migration/progress_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-176
+backend/internal/modules/agents/command_createpatch_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 24-28,30,34,37-38,57,181,186-187,189-190
+frontend/src/screens/extension-access.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17,496
+frontend/src/screens/import.contexttag.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7
+backend/internal/modules/identity/settingsagentallowances.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-48
+frontend/src/screens/companydetails.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 3-6
+frontend/src/screens/savedviews.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+backend/internal/compose/agentpolicyrecordtype_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-8,12-16,18,20,23-30,32-38,40-41,46-67
+  s_de1318c6b9e349::t_7646fff8a01034 68
+frontend/src/lib/agentusage.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-37
+backend/internal/compose/attention/worklist.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 157-159,254-263,294-295,316,322-326
+frontend/src/screens/projecttabs.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/design-system/datatable.detail.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-213
+frontend/src/screens/worklist.row.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 23-25,31,220-222,224,508-510
+  s_de1318c6b9e349::t_a86fe267ad5f30 22,511
+frontend/src/screens/listmembers.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,16-23
+backend/internal/modules/consent/marketingquestion_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-69
+frontend/src/screens/reporting.report.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 2,104-129
+  s_de1318c6b9e349::t_a25bf13ea27ec7 130-131
+frontend/src/screens/projectsections.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+frontend/src/screens/filterfoot.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14-15
+docs/reference/mcp-info.json
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13,15,19,21-22,2721,5732-5737,5741-5743,5769-5774,5778-5780,5883-5885
+frontend/src/screens/company-context.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-2
+frontend/src/design-system/panel.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 164-165,182,184
+frontend/src/screens/settings-passports.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15,622-687
+  s_de1318c6b9e349::t_b71a0a86b53307 688
+frontend/src/screens/leadmerged.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1
+frontend/src/screens/worklist.markdone.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 40,42,50-55,71,107-110,119-147
+  s_de1318c6b9e349::t_38c7021606e458 148-149
+docs/explanation/ci-pipeline.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 219-221,240-243,283-286,364
+frontend/README.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 86-87,101-102
+backend/internal/modules/identity/passport_list_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 194-196
+backend/gates/checklegsplit_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-125
+frontend/src/screens/company360.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 40,50-54,1337-1338,1344,1387-1397,1404,1414,1467,1473
+docs/reference/entity-model/approvals.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9,14,27
+backend/internal/compose/deepreadtransport.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 255-257
+frontend/scripts/lib/german-catalogs.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20-37
+frontend/src/screens/worklist.briefverbs.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 77-79,93,460-543
+backend/internal/modules/agents/volumerelease.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 111,134
+frontend/src/screens/webhooks.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14-20
+  s_de1318c6b9e349::t_beef4863fbf580 13
+backend/internal/compose/integration/installationname_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-296
+backend/internal/modules/identity/handlers_agentusage_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-81
+frontend/src/design-system/recordview.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 100-101
+frontend/src/screens/companydetails.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-8,52-53,55-58,61-65,72,86-113
+  s_de1318c6b9e349::t_c28b6682dbcba8 114
+frontend/src/screens/companytodayverbs.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16-21,187-206
+backend/internal/modules/contacts/company_profile_field_write.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20,187-210
+frontend/src/screens/partners.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10-18
+frontend/src/screens/importwizard.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-328
+frontend/src/screens/import.reason.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-87
+frontend/src/components/pageaside.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-231
+backend/internal/compose/bulkchange_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 196
+frontend/e2e/leads.spec.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 64
+frontend/src/format/now.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,117-132
+  s_de1318c6b9e349::t_10bc222eaffdc6 133
+frontend/src/components/create.doublesubmit.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-93
+frontend/src/screens/companyraillists.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7
+frontend/src/screens/grantmatrix.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 29-44
+docs/reference/agent-tool-budget.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 26
+backend/internal/compose/csvreasons.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-52
+backend/internal/compose/agentbundle/agentcontract_gen.yaml
+  s_de1318c6b9e349::t_a3a89e670ea2b4 629-637,652,8144,8148-8151,8221-8222,8280-8332,8763-8766,8858-8862,8943-8947,9054,9086-9124,9132-9135,12125-12132,14678-14683
+docs/handbook/contracts-and-invoices.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 121
+backend/internal/modules/migration/reasoncode.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-104
+backend/internal/platform/agentvolume/counter_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 37,55,70,85,107
+frontend/src/screens/contactpage.clarity.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12
+frontend/src/screens/listchanges.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13
+backend/internal/modules/identity/settingsentry_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9-10,47,51,53,58,61
+frontend/src/screens/settings-imports.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 48-50,59
+frontend/src/screens/companyheaderfacts.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+docs/explanation/outbound-webhooks.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 83-85
+backend/gates/updateguard_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 256
+frontend/src/components/edit.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-71
+frontend/e2e/mockapi/session.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4,6,103
+frontend/src/screens/reporting.report.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 142-150,291
+frontend/src/lib/filterdata.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-248
+backend/internal/platform/mailcopy/catalognotices.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 36-38
+backend/internal/compose/integration/relationship_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 469-471,475-484,494-509,511-512,515,519
+frontend/src/i18n/vi.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 2281,2441-2442,2618-2624,3758-3759,4541-4543,5665,5757-5764,5845-5871,5912-6025,8692,9502-9567,9573,9750-9756,9758,9766-9772,9799,10056,10059,10062,10539-10598,12368-12369,12623,12757-12759,13719-13722
+frontend/src/screens/activitydrawer.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-228
+frontend/src/screens/library.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5-7
+frontend/src/screens/rates.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 205,207-209,453-454
+frontend/src/screens/installation-settings.regional.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8,24
+backend/internal/compose/csvreasoncodes_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-275
+frontend/src/screens/dealdials.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/screens/historyentries.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 18
+frontend/src/screens/partnerdeals.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+frontend/src/screens/recordlists.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20,30-36
+frontend/src/screens/recordlists.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17-23
+frontend/src/testing/lists.fixtures.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-268
+backend/internal/compose/integration/harness.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 152-155
+backend/internal/modules/agents/meetingplanresult_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17-20
+backend/internal/modules/approvals/redeem.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 120,134-147,179-180
+frontend/src/screens/filterpage.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-9
+backend/internal/modules/capture/health.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 63-64,97
+frontend/src/screens/contacttoday.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,12,128,194,198-200
+backend/internal/compose/integration/approval_targetarms_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-9,11-13,21-22,28,48,69-70,75-78,80,85-86,88-89,91,93-94,106-107,109,111-112,114-116,133-140,176-177,209-212,215,217-220,222-225,227-236
+frontend/src/screens/importwizard.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-286
+backend/internal/compose/serverassembly.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 79-80,337-340
+frontend/src/lib/lists.queries.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-358
+frontend/src/screens/deal360/closetasks.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 18,23-30
+frontend/src/screens/record360/README.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 18-19
+frontend/src/screens/settings.stages.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 236,238-239
+backend/migrations/core/1791987509_a_failed_approval_can_be_acknowledged.down.sql
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-5
+frontend/src/screens/dealproject.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9-10
+frontend/src/screens/filtervalue.money.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15
+frontend/src/design-system/disclosure.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-570
+backend/internal/compose/agentsummary.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 151-153,185-187,202-205
+frontend/src/screens/record360/index.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 37
+frontend/src/screens/recordlinks.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13
+backend/internal/compose/attention/rendersilence.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 70-73
+backend/internal/platform/agentvolume/meter_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 42,58,60,94,105,108,125-126,138,140,144,155,174,177,180,183,189-191,195,197,211,213-214,226-227,229,250,263,275,278,281-282,292,302-303,315-316,328-330,333,336,369,372,391-403
+  s_de1318c6b9e349::t_b3bd0088c0818c 404
+frontend/src/components/bulkchange.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-546
+frontend/src/screens/import.files.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 67
+frontend/src/screens/privacy.corrections.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13
+backend/internal/platform/agentvolume/release.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12,17-18,27-29,39-42,49-54,56,73-74
+frontend/src/components/entityref.queries.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-148
+frontend/src/screens/automations.lists.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 19
+scripts/check-test-budget.test.sh
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-76
+docs/explanation/self-hosting.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 52
+backend/internal/modules/identity/passport_usage.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-60
+frontend/src/screens/import.progress.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-185
+frontend/src/screens/worklist.reasons.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 316-367
+backend/internal/modules/agents/volume_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 162,174-175,205-206,248-250,257-258,313,325-347
+  s_de1318c6b9e349::t_4705b1b485f818 348
+backend/internal/platform/agentvolume/window_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-88
+frontend/src/screens/worklist.copy.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 36,169-171
+frontend/src/screens/filterreference.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 21-25
+backend/internal/compose/csvimportlist.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 27-31
+frontend/src/components/customfields.form.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-389
+frontend/src/screens/search.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 367-430
+backend/internal/compose/queryenums_gen.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 145-147,151,153
+  s_de1318c6b9e349::t_7617e140602623 152
+backend/gates/migrationrenames_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 81-83,85-97,114
+backend/migrations/core/1791994619_the_installation_carries_its_companys_name.down.sql
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-3
+backend/internal/modules/contacts/company_update.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 167-171
+frontend/src/screens/filtersave.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7
+frontend/src/screens/filterslibrary.reads.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12-13
+docs/reference/configuration.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 56-59
+frontend/src/screens/project360.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/design-system/filechip.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 53
+frontend/src/screens/filterresults.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11
+frontend/src/screens/contactleadaction.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11
+frontend/src/screens/installationcompany.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-35
+frontend/src/design-system/panel.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 741-860
+backend/gates/contactvocabulary_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 216,233
+frontend/src/screens/import.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 18-25
+frontend/src/screens/importdraft.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-241
+backend/internal/compose/csvdisposition_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 89,94-96,104
+frontend/src/screens/backfill.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 561-562
+frontend/src/screens/filtereditor.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-8
+backend/internal/compose/attention/feed.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 142-143,145-146
+backend/internal/compose/agenttierfloor.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 53-57,59-60,71,102,104,122-125
+frontend/src/screens/company-context.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7,12,32,34,36,43-44,46-50,132-133,183,474-476,479-482,487,506,534-536,669
+frontend/src/screens/worklist.plancoverage.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 73
+frontend/src/app/searchkinds.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 159-161,195-215,219-220,237-238
+  s_de1318c6b9e349::t_bb3855a980555c 239
+frontend/src/design-system/settingrow.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6,279-301
+  s_de1318c6b9e349::t_36151b4169bc91 302
+backend/internal/compose/csvimportteststop_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 135,139-150
+  s_de1318c6b9e349::t_b1c4d1935c254c 151-152
+frontend/src/screens/deal360/dealfilterchips.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1
+backend/internal/modules/identity/installationsettings.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16,20,62-64,105-106,145-146,165-172,233-236,246,349-354,381-383,387-389,406-426
+  s_de1318c6b9e349::t_485cc9f03ffe44 427-428
+frontend/src/screens/customfields.table.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14,23
+backend/internal/modules/knowledge/handbook/approvals.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 44-49
+frontend/src/screens/extension-access.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13,17
+frontend/src/lib/recordwritekeys.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-129
+frontend/src/screens/savedviews.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/components/create.dedupe.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-70
+frontend/src/design-system/disclosure.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-11,13,17-18,21,29-43,73-287
+frontend/src/format/rbacobjects.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-52
+frontend/src/screens/backfillrunview.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10-12,353,357-363
+frontend/src/screens/dealbulk.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+frontend/src/lib/tagfilter.wire.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-37
+frontend/src/components/bulkchange.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-434
+frontend/src/components/customfields.form.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-364
+frontend/src/screens/taskactions.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10
+Makefile
+  s_de1318c6b9e349::t_a3a89e670ea2b4 25,69,286,719,721,1274-1284
+  s_de1318c6b9e349::t_fc07a624c87d4b 1285
+backend/internal/platform/agentvolume/counter.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20-21,34-35,37-40,42,44,74,80-82,108
+frontend/src/screens/leadsources.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7
+frontend/src/screens/filters.testkit.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+backend/internal/compose/attention/rank.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 134-137,259
+frontend/src/i18n/address-register.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5-10
+frontend/src/design-system/README.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 398,400-403,405,440,495,502,564,566-567,574,760
+frontend/src/screens/record360/setaside.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-65
+frontend/src/screens/filterslibrary.rows.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13,20-22
+frontend/src/screens/agentusage.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-90
+backend/pkg/extension/crm/crm_gen.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 450-452
+backend/internal/compose/agentcommandunrunnable_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 169-173,302
+frontend/src/components/listquery.excludes.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-155
+frontend/src/components/create.offered.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-129
+docs/handbook/agents-and-passports.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 126,159-161,194-200,234-237,328-358
+docs/handbook/documents-and-files.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16,25,34,75-77
+extensions/de/documents/de/betriebsvereinbarung-vorlage.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6,23-24,35,50,53,57-61,65-66,77,93
+backend/internal/compose/attention/donecensus_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-195
+frontend/src/screens/listlibrary.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13-20
+backend/gates/outboundidentityusers_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 95-98,117
+backend/internal/compose/csvauthor.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 68,71,73
+backend/internal/modules/contacts/companysiteread.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 154-156
+backend/internal/modules/migration/report.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 25-28,31-40,65,146-149,156
+frontend/src/screens/users-invite-form.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9-13
+backend/internal/platform/agentvolume/reserve.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 36,38,42-44,47-48,57-58
+frontend/src/screens/filterrelativedate.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11,13-14
+frontend/src/screens/filterslibrary.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7,14-20
+frontend/src/screens/settings-agents.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 40-46,95-124
+frontend/src/screens/import.result.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17,43,160,195
+frontend/src/app/searchkinds.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,8,12,34-35,57-96,112-114,117
+frontend/src/lib/leadkeys.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-106
+frontend/src/lib/segmentpredicate.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-386
+frontend/src/screens/customfields.card.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5-8,16-18
+backend/internal/compose/contact360/momentpromise.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 95,142-149
+  s_de1318c6b9e349::t_52baf8be76dce8 150-151
+backend/internal/modules/agents/tools_resolve.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20-23
+frontend/src/screens/addtoshortlist.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7
+frontend/src/screens/listpage.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20,37-45
+backend/internal/modules/migration/csvsource.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13,55,225-226,266,272,280
+backend/internal/shared/kernel/events/catalog.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 275-277
+backend/internal/compose/toolroutes_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 148-150
+backend/internal/compose/agentcost.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7,9-12,75-76,78-80,83,85,95,104-108,110,116-117,122,126,128,143-144
+frontend/src/screens/importflow.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 28-30
+frontend/src/screens/tagadmin.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 25
+backend/internal/compose/agentcommand.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 72-73,75,93-105,116-126,128-130
+frontend/src/screens/addtoshortlist.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 19-20
+backend/internal/compose/dealstatus/movefingerprint_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-45
+frontend/src/screens/companyform.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 21-22
+frontend/src/components/listquery.tabsearch.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-146
+frontend/src/screens/composeanchor.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8
+backend/internal/compose/weekly/weeklymailcoverage_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 125
+frontend/src/screens/roles-drawer.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-179
+backend/internal/modules/agents/command.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 357-360,362-365,377-380,385-386,392-393
+backend/internal/modules/migration/progress.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-162
+frontend/src/components/bulkchange.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-204
+frontend/src/screens/companyrail.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4,6,122-132,135,137-142,144,148-158,160-161,237
+frontend/src/screens/filterslibrary.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20-21
+backend/internal/compose/briefs/briefrank_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 354-357
+backend/internal/shared/kernel/events/events_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 189-192
+backend/internal/modules/migration/lease.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 67-68,130-132,210-213,226-231,233,241
+backend/internal/platform/agentvolume/meter_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 49-52,54,58,62,66,70,83,86,90,99,105,109,112,122,124,127,133,142-145,147,150,153,158,163,180,183,186,190,194,199-201,204,207,213,217-218,220-221,231,241,257,262,272,282,289-382
+backend/internal/compose/importproblems_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11,21,32-44,47
+  s_de1318c6b9e349::t_52da086c0dd406 45-46,48
+backend/internal/platform/mailcopy/catalog.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 125,161,184,194,205,231
+backend/internal/platform/agentvolume/release_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11,26,43,46,63,89,107,122,125,129,133-152,154
+  s_de1318c6b9e349::t_2daee1f3bcc56a 153
+frontend/src/design-system/progressbar.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-27
+frontend/src/lib/historyfieldlabels.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-230
+frontend/src/screens/tagchips.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+backend/internal/platform/agentvolume/window.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-68
+backend/internal/modules/contacts/captureprivacy_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 120-121
+frontend/src/lib/filterdata.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-194
+frontend/src/screens/listhistory.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7,15-21
+frontend/src/screens/recordchronology.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13
+frontend/src/screens/worklist.pane.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17
+backend/internal/modules/identity/installationagentallowances.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-161
+backend/internal/compose/csvimportreport.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 69-70,73,77,81,86-95,97,101,103,107,109,146,159,167,181-182,184-187,189,191
+backend/internal/compose/csvcells.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16,32-38,60,85,112,115,118,120,132,147,149,152-153,159,161,163,169,179,181,185,190,192,196,198,207,209,211,223,225,227,230-231,234,236,238,268-269,280-281,293,303,307-308,314-315
+docs/handbook/approvals.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 44-49
+frontend/src/app/topbar.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9,11
+frontend/src/design-system/atoms.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20,30,52-86,89-108,1590-1591,1629,1658-1663,1671-1672,1674,1680-1686,1688-1689
+frontend/src/screens/leads.disqualify.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10
+frontend/src/design-system/activitytimeline.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 40-48
+backend/internal/modules/agents/tools_query_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 440-444,467
+frontend/src/screens/companycontacts/summary.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7
+backend/internal/compose/company360/moment.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 29,33,62,74-76,80,86-109,130-134,208,233,326-329,338
+backend/internal/compose/company360/momentsetaside.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-88
+backend/internal/compose/contact360/momentdismissal.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 60-75,114-140,143
+  s_de1318c6b9e349::t_550482bdcbd316 141-142
+frontend/src/screens/leads.form.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8
+backend/gates/declinedwrite_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 57
+docs/reference/ui-copy-style-vi.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 45,382-383
+backend/internal/compose/csvtags.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 54,157
+backend/internal/compose/contact360/momentfingerprint_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-36
+frontend/src/screens/customfields.retire.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15
+backend/migrations/installationnamefromanchor_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-195
+frontend/src/screens/projectheaderfacts.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 25
+frontend/src/components/customfields.form.render.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-171
+frontend/src/screens/create.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 22-32
+frontend/biome.json
+  s_de1318c6b9e349::t_a3a89e670ea2b4 119-120,123,148-149,152-179
+frontend/src/screens/filtervalue.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7
+backend/internal/compose/stubs_gen.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 206-209,506-509,1106-1109,1382-1385,1678-1685,1918,3266,3350-3356
+  s_de1318c6b9e349::t_d04eff0910d1c9 3357
+frontend/src/screens/filtersave.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14-15
+backend/internal/compose/attentionlanesseam.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 126
+frontend/src/main.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+frontend/src/screens/brief.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+docs/reference/glossary.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17,99-100,104
+backend/internal/modules/contacts/anchorcompany.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 317-319,385-386,409,442
+frontend/src/screens/filterexport.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 25,27
+backend/internal/compose/integration/e2e_agent_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 120,159-162,167,171-174,178-179,193,198-200,204,249-250,254-255
+backend/internal/modules/agents/toolcopy_records.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 55-56
+backend/internal/compose/agentcommandoperand_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-9,44-45,129-130,132,203-205
+frontend/src/screens/companyfactspanel.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 18,84,90-91,148,170,184,190,212,244,247-252,283,352,355-356
+frontend/src/components/edit.prefill.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-140
+frontend/src/lib/tagfilter.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-57
+frontend/src/screens/contractform.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4-6
+frontend/src/screens/contacttoday.setaside.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-134
+frontend/src/screens/projects.create.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5-6
+backend/internal/modules/agents/commandaction.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-8
+frontend/src/components/create.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-213
+frontend/src/screens/evidenceverdict.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11,154,157-163,177
+backend/internal/compose/mcpedge.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 204-211,220,223
+frontend/src/screens/companymark.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-3,7,10-11,14,16,20-22,29-47,50-53,56-62,65-67,70-99,104-112
+frontend/src/screens/roles-settings.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15,56,63,111-112,131-133,135,168-177,201,207,210-213,265,275-296,298,300-334,362-366,384-387,402,405,422,424,449,452,454-455,465-468,470-471,482-513,518-525,527,537,547,549,556-560,575,601,604,608,613,618,622-626,662-664,668,673,678,692,697
+frontend/src/design-system/pagezones.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 156-160
+backend/internal/modules/activities/worklistdone_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-222
+backend/migrations/testdata/head_catalog.txt
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1056,1080,3492-3502,8064-8073
+frontend/src/design-system/panelseams.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-521
+frontend/src/screens/roles-settings.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15-16,104-105,109-111,114,117-121,141,149-151,154,157-161,163,187-222,230,252-259,263
+extensions/de/documents/de/einwilligung-email-erfassung.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-9,23,30,35-37,39
+frontend/src/screens/contacts.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4-18,27
+frontend/src/screens/listsharing.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-9,14
+frontend/src/screens/filterslibrary.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 58
+scripts/lib-laneorder.sh
+  s_de1318c6b9e349::t_a3a89e670ea2b4 3-4,78-126
+  s_de1318c6b9e349::t_446644a7619732 127
+frontend/src/screens/adddocument.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 465,488-493,532,668,695
+frontend/src/screens/importdraft.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-62
+extensions/de/documents/de/empfangsbestaetigung.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1,4,9-10,14,29
+frontend/src/screens/recordcustomfields.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-14
+frontend/src/screens/companyfactspanel.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 100,137,166,193,214-238,248-255
+frontend/src/screens/leadtags.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13-14
+frontend/src/components/create.dialog.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-54
+frontend/src/screens/capture-owner-identities.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 39-40
+backend/gates/auditbeforeimage_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 119-120
+frontend/src/screens/repeatablerowsfield.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7
+backend/internal/modules/agents/envelope.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 160-162,217,269-271,283,285-288,290-291
+frontend/e2e/mockapi/routes.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13,216-220,311
+backend/internal/modules/migration/session.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 46,48-52
+frontend/src/screens/companyprofiletab.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 141,166
+frontend/src/screens/filterpropose.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16
+frontend/src/screens/brief.teamplan.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/screens/historyedge.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 3
+frontend/src/screens/leads.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-9,98
+frontend/src/screens/listpage.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20-28,52
+frontend/src/screens/worklist.failedapproval.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-229
+frontend/e2e/searchactivity.spec.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-27
+frontend/src/screens/listmembercolumns.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9,19-21
+frontend/src/screens/tagfollow.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9-14,23
+frontend/src/design-system/chipfill.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 286
+backend/internal/modules/agents/tools_query.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17-20,193-196
+frontend/src/design-system/datatable.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9-15,252,259-260,262-263,265-268,509,513,576-711
+  s_de1318c6b9e349::t_1978a12b670e98 712
+frontend/src/screens/worklist.briefverbs.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12,198,203,214-248
+frontend/src/screens/companyraildetails.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10,18,97,111-112,165,234
+frontend/src/lib/historyfieldlabels.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-190
+frontend/src/screens/settingssignaturerow.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+backend/internal/modules/contacts/companynamepromotion.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 434,439,441,448-449
+frontend/src/screens/consumer-mail-domains.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12
+frontend/src/screens/companycontracts.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/screens/leadraillinks.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20
+backend/internal/modules/migration/engine.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 77-79,104-105,107,174,366
+frontend/src/screens/meetingattendees.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12-16
+frontend/src/screens/library.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11-13
+frontend/src/lib/tagfilter.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-111
+frontend/src/screens/companyheader.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+backend/internal/modules/knowledge/handbook/settings.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 105,201
+backend/api/public-events.yaml
+  s_de1318c6b9e349::t_a3a89e670ea2b4 160,2521-2525,4169-4189
+  s_de1318c6b9e349::t_df57de98a807d7 4190-4191
+backend/api/crm.yaml
+  s_de1318c6b9e349::t_a3a89e670ea2b4 2007-2034,2896-2900,2916,3835-3837,3881-3901,4649,4695,7030,12649-12650,12667-12668,12689-12690,12702-12703,12724-12725,12980-12981,12984-12985,13025-13026,13030,13325,13422,13460,13481,14368-14369,16211-16270,17790-17816,18720-18770,19792,19827,19830-19831,19837-19838,19875,19968,19975-19976,20025,20029-20030,20036-20037,20049,20069,20077-20078,20082-20083,20099,21179-21180,21235,21268,22793,22821,22849,22861,22882,22917,22959,22988,23211,23383,23485,23507,23536,23598,23625,23674,23689,23714,23835,23857,23883,23895,23921,23938,23964,23982,24455,26539-26587,28002-28006,28009,28323-28324,28741-28745,29554,29560,29916,29920-29923,30021-30022,30056-30063,30174-30185,31612-31666,34184-34188,34355-34359,34445-34449,34610,34643-34683,34692-34695,38717-38724,40108-40115,43967-43976,44412-44423,52264,52270-52273,52491,56496-56566,58415-58421,60008-60013,60039-60050,60498-60499
+backend/tools/gen-agentpolicy/main.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 49,223
+frontend/src/components/entityref.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-70
+backend/internal/modules/identity/passportlastused_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-108
+frontend/src/screens/recordlist.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+scripts/integration-test-timing.txt
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-1038
+frontend/src/components/entityref.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-381
+frontend/src/components/ownerdials.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-195
+docs/handbook/what-margince-is.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 94,115
+frontend/src/components/pageaside.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-104
+backend/internal/compose/agentvolumemetrics.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 38
+backend/internal/compose/integration/agentcommandtarget_patch_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-62
+frontend/src/screens/filterview.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10,16-17,20
+frontend/src/components/bulktask.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-60
+scripts/comment-density-baseline.txt
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1
+docs/handbook/settings.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 105,201
+frontend/src/screens/company-context.card.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,14-15,31-32,95,98,100,104-115,117,122,128,135,156-201
+frontend/src/screens/customfields.card.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-12
+frontend/src/lib/customfields.logic.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-75
+backend/internal/modules/migration/report_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-9,109
+backend/internal/compose/agentallowances.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-37
+backend/internal/modules/agents/recordnouns.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 31,41
+backend/internal/modules/agents/tools_resolve_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 245-248,257,266-267
+frontend/src/design-system/progressbar.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-50
+frontend/src/screens/boarddeal.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11
+backend/internal/compose/company360/handlers.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 228-238
+frontend/src/lib/customfields.logic.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-134
+backend/internal/modules/consent/marketingquestion.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 65-68
+backend/internal/compose/csvlinks_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8,81-82,133,165,169
+frontend/src/screens/connectors.contexttag.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8
+docs/reference/entity-model/deals.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 75
+backend/internal/compose/attention/renderaccountability.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 22-24,30-33
+frontend/src/screens/brief.rail.overnight.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+backend/internal/platform/agentvolume/policy.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-182
+frontend/src/screens/listrules.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12
+frontend/src/screens/roles-detail.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4-5,8,10-15,29,33-46,48-50,52,55-56,68-111,113-120,124-125,132,140,148-150,153-155,191,200-208,212,216,218,226,235-245,249-250,256,270,274-275,277-282,285-289,291
+frontend/src/screens/listexplain.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16,21-24
+backend/internal/modules/agents/tasks_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 559-560,564,579-586,808-827
+frontend/src/components/create.multiselect.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-31
+frontend/src/components/listquery.leave.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-144
+frontend/src/screens/automations.lists.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15
+backend/migrations/pendingreadstepupsclose_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-71
+backend/internal/modules/contacts/anchorguard.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 24-26
+scripts/test-laneorder.sh
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17-18,175-248
+  s_de1318c6b9e349::t_d2d775b3447f26 249
+backend/internal/modules/knowledge/handbook/what-margince-is.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 94,115
+docs/reference/entity-model/migration.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 52,58,67
+frontend/src/screens/noticeduty.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15
+frontend/src/lib/segmentpredicate.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-391
+frontend/src/screens/deal360/dealcommercialfields.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 2
+frontend/src/screens/brief.teamweeklyattention.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+backend/gates/writeshape_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 97
+frontend/src/screens/filterproposal.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 19
+frontend/src/components/bulkverbs.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-78
+frontend/e2e/ac.spec.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6,245,252,321,324,989,993-995,1062,1066-1068,1164-1170,1249,1275,1292,1324,1326
+backend/internal/compose/attention/renderhealthlanes.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 50-54
+docs/reference/mcp-tool-coverage.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 334
+frontend/src/screens/filters.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/format/zone-by-purpose.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 265
+frontend/src/App.csvimport.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 21-22,39,46,48-60,66,68-79,98-101,104,106,144,167,176-180,182-183,185
+frontend/src/screens/roles-settings.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5-6,18,26,36,40-44,59-63,66,69-73,76,81,98,106-107,112-118,127,131-156,191,197,215,227,233,245,269
+frontend/src/screens/filterproposal.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17-29
+frontend/src/screens/recordlist.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 3-9
+backend/internal/compose/agentbundle/SKILL.md.tmpl
+  s_de1318c6b9e349::t_a3a89e670ea2b4 54
+frontend/src/app/ai-activity-lines.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1,8,469,478-479,482,484,486
+docs/handbook/your-day.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 79-84,300-302
+  s_de1318c6b9e349::t_0afa52630f5229 303
+backend/internal/compose/attentiondoneseam.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-54
+backend/internal/modules/approvals/failurerace_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-134
+backend/internal/modules/activities/worklistpin.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 234
+backend/internal/modules/activities/activityread.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 317-319
+frontend/src/components/unsaved.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-246
+frontend/src/app/palette.enter.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 120-133
+backend/internal/modules/contacts/anchorname.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-103
+backend/internal/modules/knowledge/handbook/analytics.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6,16
+backend/internal/shared/kernel/values/companyname_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-26
+frontend/e2e/mockapi/fixtures.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 581-602,945
+frontend/src/screens/companies.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-20,58,154,1373
+frontend/src/components/repeatablerowsfield.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-6
+frontend/src/screens/contractcustomseed.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13-17
+frontend/src/screens/leadbulk.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,13
+frontend/src/screens/followupsettings.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-48
+frontend/src/screens/companysetaside.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-57
+frontend/src/screens/factview.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 201-202,206-208,218,223
+backend/internal/compose/dealstatus/moves.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 113-117,126
+backend/internal/compose/serverinventory.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 422-424,426-429
+frontend/src/screens/leadreadings.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,13
+backend/internal/platform/agentvolume/usage.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-159
+backend/gates/historyfieldlabels_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13,56
+extensions/openchannel/frontend/i18n/de.json
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4,7,13,15-18,20-23,25,32,56,59,62-63,66,68
+frontend/src/screens/settings.exitcriteria.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11-12
+frontend/src/screens/contact360.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 357-358
+frontend/src/screens/filterlistedit.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10,17-23,26-33
+frontend/src/screens/deals-views.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16
+frontend/src/design-system/progressbar.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-35
+backend/internal/modules/agents/tools_context_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 130-133,148,150-151,155-157,211-212
+backend/internal/platform/agentvolume/proposal.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20,47-49,61-64,71,75-77,113-124,139,145-153
+backend/internal/compose/csvtargetid.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 34-36,41-42,48-49,56-57,61-62,64-66,69,71-72,80,82,86,88
+frontend/src/screens/deal360/dealheaderfacts.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14
+frontend/src/screens/onboarding-gate.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 141
+backend/internal/modules/contacts/resolvecreate.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 57-60
+frontend/src/components/listquery.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-1278
+frontend/src/screens/filterlistedit.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12-13
+frontend/src/design-system/fieldgrid.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 31-35
+backend/internal/modules/agents/tasks.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 86-87
+frontend/src/screens/companytoday.setaside.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-132
+frontend/src/screens/filtersave.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15,18
+frontend/src/design-system/panel.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 110-112,122-124,131,220-248,272-273,312-313
+frontend/src/screens/search.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 34,37,75-82,86-87,90,160,162,166,175,179,207,220,224,254,264,268,317,331-332,349,360-361,364-367,371-373,377-378
+docs/handbook/capture.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 89-100
+frontend/src/screens/company/glance.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10-11
+frontend/src/screens/import.files.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12-13,16,156-161,163-167
+backend/internal/modules/agents/tools_dupereport.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 176-178
+frontend/src/screens/edit.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13-15
+backend/internal/modules/agents/commandnested_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 23-26
+backend/internal/modules/agents/tools_intents.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 276,279
+frontend/src/screens/deal360/dealbrief.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 2
+frontend/src/screens/leadheader.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12-17
+frontend/src/components/recordfields.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-489
+frontend/src/screens/addtoshortlist.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13-17
+  s_de1318c6b9e349::t_27f84738bf812f 12
+frontend/src/screens/magic.records.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 24
+backend/internal/modules/identity/passport_list.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 18,27-35,49,88-89,93-96,131,137-138,141,143,159-174
+frontend/src/design-system/atoms.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1177-1178
+frontend/src/screens/savedviews.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10
+backend/internal/modules/knowledge/handbook/agents-and-passports.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 126,159-161,194-200,234-237,328-358
+frontend/src/components/roster.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-210
+backend/internal/compose/integration/csvimportsavedmapping_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-56
+backend/internal/modules/migration/reasonenglish_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-43
+backend/internal/compose/integration/slippingroute_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 93,164-165
+backend/internal/compose/momentsetaside_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-109
+backend/internal/compose/agentgate.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 121,124-127,129-130,132-134,143-147,274
+frontend/src/screens/brief.schedule.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+backend/internal/modules/activities/doc.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14
+frontend/src/lib/agentusage.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-32
+frontend/src/design-system/progressbar.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-37
+backend/internal/compose/agentsplit.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 29-30,172-173,238
+frontend/src/screens/analytics.questions.draft.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10
+frontend/src/screens/worklist.manager.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17-21
+backend/internal/compose/onboarding_siteread_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 278-296,312,327-328
+  s_de1318c6b9e349::t_41b02c699f1b06 329
+frontend/src/screens/publiclocale.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 33-35,44-46,56-58,66-68
+backend/internal/modules/knowledge/handbook/compliance.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16,30
+frontend/src/screens/filtermatches.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20-27
+frontend/src/screens/listrules.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+frontend/src/screens/filters.testkit.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15,18-19,21
+backend/internal/compose/integration/company360/company360_momentsetaside_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-85
+frontend/src/screens/deals.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 24-51,106,1736-1739
+frontend/src/screens/settings.stages.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 269-300
+frontend/src/screens/contactmaybedone.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1,9,36,39-41,75,85-88,91-92,96-113,118,120
+frontend/src/screens/held-threads.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/screens/settings.pipelines.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17-18
+backend/gates/listenvelope_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-12,49-50,55-56
+frontend/src/screens/employmentimport.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15
+backend/internal/modules/identity/passport.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 465-477,491-494
+frontend/src/screens/filterexport.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+backend/internal/modules/agents/anchorrename.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-58
+frontend/src/components/ownerdials.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-152
+frontend/src/screens/worklist.acknowledge.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-154
+backend/internal/compose/idempotency.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 144-145,157-158
+docs/reference/gate-inventory.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 219,427
+frontend/src/screens/brief.weekly.learnings.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+frontend/src/i18n/copy-style-de.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-13,27,34-35,37,80,87-88,102,111-114,119,121,126-151,155,183-197,219-238,300-310,317
+frontend/src/i18n/de.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 33,36,41,52,55,74,83-84,88-89,91,98,118,122,131,137,140,142,150,154-156,198,242,244-246,250,252,254,263-264,285,287,289,298,306,309,311,313,321,327,333,339,341,343,345,367,369,373,377,379,400,404,407,412,418,421,431,435-436,442,449-450,464,469,497,500,502,510-511,520,526,535,545-546,560,570,576,579,594,600,605,608,612,622,629,641,646-647,649,672,676,678,686-690,692,695,700,718,723,730,735,740-741,743,751,766-767,771-772,775,777-778,785,818,820,868,875-876,889,898,901,921,928,936,938,942,952,960,968,977,988,994,996,1000,1006,1014,1016,1020,1041,1065,1076,1095,1099,1125,1137,1139,1141,1143,1151,1153,1158,1163,1172,1246-1247,1263,1271,1275,1277,1319,1323,1336,1375,1377,1390,1392,1397,1399,1404,1406-1408,1414,1434,1473,1475,1477,1480,1485,1525,1549-1550,1552,1554,1556,1558,1560,1566,1570,1572,1574,1576,1578,1595,1604-1605,1610,1616,1618,1620,1626-1627,1668,1691,1734,1736,1741,1744,1747-1748,1750,1756,1760,1768,1772,1886-1887,1921,1933,1935,1937,1955,1966,1993,2003,2006,2027,2051,2055,2067,2070,2072-2073,2078,2080,2108-2109,2113,2118,2142,2156,2224,2236,2242,2252,2274,2280,2310-2311,2319,2325,2331,2343,2345,2356,2360,2362,2382,2387,2396,2398-2399,2401,2408-2409,2442,2447-2448,2477-2478,2491-2493,2496,2498,2533,2537,2593,2611,2667,2676-2682,2711,2757,2760,2763,2767,2777,2796,2798,2839,2844,2857,2866,2880,2885,2894,2897,2903,2905,2907,2911-2912,2917,2933,2942,2944,2947,2949,2951,2953-2954,2969,2971,2974,2991,3011,3067,3069,3078,3101,3132,3134,3147,3162,3164,3180,3186,3191,3244,3246,3255,3261,3269,3304,3306,3313,3319,3331,3338,3344,3367,3391,3418,3436,3458,3468,3474,3477,3479-3481,3499,3508,3521,3525,3531,3533,3536,3539,3550,3561,3565,3590,3592,3605,3611,3634,3639,3664,3670,3688,3690,3693-3694,3699-3700,3788,3790,3803,3811-3812,3828,3834-3835,3875,3907,3909,3944,3947,3962,3971,4054,4061,4088,4098,4102,4104,4139,4144,4159,4162,4198-4199,4229,4237,4295,4299,4301,4304-4306,4310-4311,4313,4337,4354,4356,4365,4368-4369,4381,4394,4418,4434,4436,4461,4488,4520,4528,4530,4532,4541,4569,4584,4587,4598,4607,4609,4621,4633-4635,4643,4660,4672,4683,4695,4697,4701,4703,4710,4712,4718,4721,4749,4753,4805,4807,4811,4814,4824,4835,4842,4855,4880,4882,4884,4886,4888,4890,4917,4935,4939,4949,4951,4953,4959,4973,4990,4996,5002,5006,5008,5010,5025,5027,5030,5034,5036,5039,5041,5046,5058-5059,5076-5077,5083,5101,5105-5106,5114-5115,5124-5125,5127,5177,5185,5232,5239,5262,5276,5306,5314,5320,5325,5329,5366-5367,5369,5373,5391,5413,5415,5417,5423,5425,5427-5428,5439,5450,5454,5469,5475,5477-5478,5483,5494,5501,5509,5527,5539,5554,5560,5564,5566,5570-5571,5586-5587,5589-5590,5592-5595,5597,5599-5600,5602-5606,5609,5612-5613,5617,5620-5622,5624,5627,5630-5631,5633,5635,5637,5639-5642,5644,5647,5649,5651,5653,5656,5658-5659,5661,5664,5667-5668,5670,5672-5677,5679-5680,5682,5684,5686-5688,5690-5691,5693,5695-5697,5700,5703-5704,5708,5712-5714,5717,5720-5722,5725,5728,5757-5759,5795,5797,5804,5806,5847,5859,5870,5898-5905,5907,5909,5911,5914-5915,5917,5923,5925,5927,5965-5966,5971,5973,5975,5985,5987,5992-6018,6021,6023,6025,6027,6038,6048,6060-6178,6182,6189,6191,6203,6216,6218,6251,6257-6258,6260-6261,6266,6271,6288,6298-6299,6309,6312,6331,6336,6350,6352,6354,6356-6357,6383,6385,6387,6389-6390,6392,6394,6406-6407,6412,6415,6417,6419,6436,6444-6447,6463,6478,6521,6525,6527,6537,6547,6549,6554,6557,6559,6586,6588,6593,6598,6600-6602,6604,6607-6609,6614,6619,6621,6630-6631,6637,6640,6642,6649,6667,6669,6672-6673,6675,6677-6680,6682-6684,6686,6698,6701,6704,6708,6730-6731,6733,6735,6737,6747,6766,6778,6785,6789,6793-6794,6802,6804,6810,6816,6826,6828,6831,6834,6848-6849,6862,6888,6890,6905,6914,6943,6948,6950,7005-7006,7012,7014,7016,7042,7085,7104,7202,7220,7227-7228,7235,7252,7255,7264,7271,7276,7309,7318,7322,7330,7345,7347,7365,7367,7369-7370,7383-7384,7386,7402,7411,7421,7425,7427-7428,7439,7449,7454,7466,7469,7471,7502,7512,7522,7524,7526,7528,7532,7545,7547,7554,7556,7593,7623,7628,7638,7643,7655,7661,7708,7712,7714,7716,7718,7729,7738,7749-7750,7753,7756,7758,7760,7774,7776,7785,7787,7791,7797,7799,7803-7804,7806,7811,7813,7826,7834,7836,7843,7845,7847,7849,7852,7864,7870-7873,7875,7877,7879,7887,7901,7903,7908,7917,7929,7936,7949,7964,7973,7975,7997,8003,8005,8007,8009,8012,8014,8016,8018-8019,8026,8030,8032,8034,8036,8055,8059,8073,8082,8088,8090-8091,8093-8096,8098,8108,8111,8114,8124,8129,8136,8139,8144,8146,8148-8151,8155,8158,8161-8162,8172-8173,8178,8180,8182,8184,8212,8221,8225,8237,8242,8257,8259,8280,8295,8326,8328,8332,8335,8339,8345,8347,8355-8357,8361,8365,8378,8390,8395,8414,8419,8431,8433,8436,8438,8440,8448,8451-8452,8456,8458,8461,8471,8495,8500,8507,8514,8528,8552,8556,8569,8571,8574,8581,8588,8606,8608,8612,8614,8616,8618,8626,8628,8634,8636,8641,8648,8650,8652,8655,8659,8668,8670,8675,8677,8679,8681,8684-8685,8687,8695,8713,8728,8738,8750,8774,8870,8899,8905,8921,8954,8961,8976,8978-8979,8995,9002,9009,9018,9025,9027,9033,9043,9059,9066,9083-9084,9091,9098-9099,9101,9128,9137,9153,9167,9174,9176,9182-9183,9200-9201,9203,9205-9206,9213,9215,9232,9234-9235,9238-9240,9244,9250,9252,9254,9262,9264,9266,9268,9270-9273,9282,9289,9292,9300,9302-9304,9311-9313,9315,9323,9325,9327,9329,9331-9333,9335,9337,9341,9345-9347,9349,9351,9353,9355,9357,9359,9365,9369,9371,9373,9375,9377,9381,9388,9393,9400,9408,9419,9422,9429,9442,9448,9450,9452,9459-9460,9490,9507,9518,9522,9528,9559,9561,9567,9582,9591,9600,9623-9624,9634,9669,9674,9676,9679,9692,9694,9699,9716-9718,9737-9738,9740,9742-9807,9812-9813,9818,9820,9822,9849,9852,9857,9864,9903,9929,9936,9951,9953,9961-9962,9973,9978,9990-9996,9998,10000,10006-10013,10024,10026,10028,10036,10041-10042,10044,10046,10051-10052,10068,10074,10112,10117,10131,10142,10167,10175,10180,10183,10224-10225,10243,10258-10259,10268,10274,10302,10304,10307,10310,10323,10325,10332-10333,10343,10356,10359,10361,10363,10368-10369,10371,10382,10385,10390,10399,10402,10411,10427,10438,10451,10472,10477,10479,10482,10503,10505,10514,10522,10524,10526,10532,10534,10538,10540,10542,10557,10559,10572,10574,10576,10580,10583,10587,10589,10596,10600,10603,10606,10623,10625,10630,10635,10641,10645,10655-10656,10661,10671,10679,10685-10686,10694,10739,10743,10749,10752,10755,10765,10768,10770-10771,10773,10776,10778,10781,10783,10785,10787,10799-10861,10878,10889,10892,10895,10902,10906,10929,10931,10945,10953,10955,10963,10966,10968,10982,10985,10989,10991-10994,10998,11000,11002,11004,11022,11024,11029,11032,11035,11039-11040,11052,11065,11090,11093,11097,11100,11124,11134,11157,11165,11176,11180,11193,11197,11206,11214-11215,11268,11275,11335,11353,11362,11378,11401,11404,11424-11426,11443,11455,11480,11530-11531,11608,11610,11612,11624,11650,11669,11678-11679,11681,11698,11716,11734,11736,11738,11741,11743,11756,11760,11767,11771,11776,11778,11784,11786,11788,11795,11799,11803,11817,11824,11834,11836,11842,11870,11912,11914,11916,11918,11930,11932,11947,12050,12052,12061,12073,12075,12105-12106,12110,12116,12130-12131,12133,12137,12139,12143,12152,12154,12157,12159,12169-12170,12241,12262,12265,12271,12311-12313,12319,12322,12341,12363,12389,12406,12431,12436,12465,12499,12501,12520,12529,12533,12544,12557,12584,12611,12613-12614,12616,12618,12620-12621,12643,12652,12661-12662,12667,12669,12671,12695,12698,12708,12714,12720,12735,12761-12762,12771,12786-12787,12802,12816,12819,12826,12828,12838,12840,12842,12856-12857,12883-12884,12909-12910,12919,12921,12923,12941,12951-12952,12981,12989,12991,12993,12996,13000,13012,13025,13034,13046,13050-13051,13053,13055,13059,13063,13065,13067-13070,13072,13074,13082,13084,13088,13090,13092-13093,13095,13100,13102,13150,13157,13178,13184,13208,13210,13219,13223,13232,13244,13254,13258,13263,13265,13272,13279,13281,13298,13321,13332,13341,13381,13396,13401,13442,13444,13446,13474-13475,13477,13479,13486,13501,13508,13516-13517,13519,13532,13561,13577,13593-13597,13605,13608-13609,13611,13616-13618,13620,13640,13645,13651,13661,13682-13686,13688,13690,13692,13694,13698,13704,13712,13714,13725-13727,13745,13747,13766-13767,13782,13798,13804,13806,13811,13821,13834,13870-13871,13884,13886,13888,13890,13892,13894,13897,13900,13902,13908-13909,13926,13929,13934,13936,13939-13940,13948,13959-13960,13972,13975,13978-13979,13981,13989,13993,13995,13999,14004,14006,14008,14010,14016,14022,14070-14073,14082,14093
+  s_de1318c6b9e349::t_4fac39b40d89c0 2981
+frontend/src/design-system/panel.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 246-248,257-261,263-271
+backend/internal/modules/identity/tokenlockorder_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 145-159,164,169-173,175-180,189-192,195
+frontend/scripts/compiler-lint-waivers.txt
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16-20
+docs/reference/ci-jobs.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11-12,17,28
+frontend/src/design-system/emailtext.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 2,26-33
+  s_de1318c6b9e349::t_f23ef4e1e9d1c7 34
+frontend/src/screens/brief.changes.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+frontend/src/screens/filterclause.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16-19,29-32
+  s_de1318c6b9e349::t_fd3d169af3f1e6 15
+frontend/src/screens/import.notices.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 15,47-48
+frontend/src/screens/importrun.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-84
+frontend/src/screens/installation-settings.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13,32,82-83,87
+backend/internal/compose/attention/done_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-205
+backend/internal/modules/activities/doneshape.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-103
+frontend/src/screens/evidenceverdict.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 58,223
+docs/reference/entity-model/README.md
+  s_de1318c6b9e349::t_6595d77c2c9ae5 31-33
+  s_de1318c6b9e349::t_a3a89e670ea2b4 42,46,91,103,165-166,256,261,439
+frontend/src/components/create.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-5
+frontend/src/screens/team-dialogs.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+frontend/src/screens/analytics.forecast.review.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+backend/internal/compose/integration/csvimportcontact_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 391
+backend/internal/platform/agentvolume/policy_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-225
+frontend/src/design-system/cardzones.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-9,74,211
+backend/internal/compose/attention/sourceactioncensus_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 92-97,304
+frontend/src/screens/analytics.explain.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+backend/internal/compose/agentcommandoperand.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-10
+backend/internal/modules/identity/handlers_passports.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 69-70,89-90,93-98,120-125
+docs/reference/mcp-info.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 18,20,35-36,39,76,3149-3151,6339-6344,6348-6350,6376-6381,6385-6387,6490-6492
+backend/internal/compose/handlers_installation_settings.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13,25-30,202-207,213-215,241,287-292
+  s_de1318c6b9e349::t_dcb5b14573e795 293
+backend/internal/compose/serveroptions.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 305
+backend/migrations/core/1791977856_a_reader_can_set_a_deal_move_aside.up.sql
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-25
+frontend/src/screens/meeting-settings.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/screens/listmembers.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16-17,34-35
+backend/internal/compose/installationname_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-47
+frontend/src/screens/projecttabs.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+frontend/src/components/recordfields.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-323
+frontend/src/design-system/trust.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-2,5-6,184-185,210,223,225,250-259
+  s_de1318c6b9e349::t_c64ab1426dd870 260
+backend/internal/compose/attention/donewrite_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-84
+frontend/src/screens/ai-admin.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8
+frontend/src/screens/contactformfields.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/screens/richfields.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-11
+frontend/src/screens/worklist.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 3
+backend/internal/compose/captureemaillessnamesake_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-185
+frontend/src/components/recordfields.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-72
+backend/internal/compose/company_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 33,143,203,262,310,390,472,508,588
+frontend/src/screens/import.wizard.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,19,28,46-48,118-129,196-199,204,206-214
+backend/internal/compose/integration/agentvolumeladder_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-10,12-16,99-105,107-108,111-115,125-126,131,142-147,154,156,161-183
+  s_de1318c6b9e349::t_7515b64876d0dd 184-185
+backend/internal/modules/agents/recordlessreplay_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 23,76,159-175
+  s_de1318c6b9e349::t_928bbd3eda86a5 176
+backend/internal/modules/identity/installationagentallowances_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-51
+backend/internal/compose/meetingbrief/seats.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 19,23-24,26-27,29
+frontend/src/screens/importtypes.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+backend/internal/compose/serverattentionforwards.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 72-81
+frontend/src/lib/recordlistkeys.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-16
+frontend/src/screens/contactfiles.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 219,260
+frontend/src/screens/products.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4-12
+frontend/src/screens/companyraildetails.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 438-461
+frontend/src/components/create.idempotency.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-77
+frontend/src/screens/connected-agents.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 26,330-332,340-347,397
+backend/internal/compose/company360/dismissal.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 114-146,188-192
+backend/internal/modules/migration/csvrun.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 197-210,214,223-228,274-275,291-292
+frontend/src/screens/contactrecordactions.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12
+frontend/src/screens/import.hub.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20,70-72,77-83,89-91,93-94,96-123,232
+frontend/src/screens/relationshiprows.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16,28
+backend/gates/frontendfilterfieldlabels_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 30
+backend/internal/compose/agentcost_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 33,53,59,61-65,73,85,88,96,98
+backend/internal/compose/attention/healthlanes.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 51-52
+frontend/src/screens/projects.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-17
+frontend/src/screens/filtervalue.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13-19
+frontend/src/screens/listpage.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,23-30
+frontend/src/screens/grantmatrix.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 48,68-106
+  s_de1318c6b9e349::t_9a86545ec10d56 107
+frontend/src/screens/companymark.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 122-158,176-177,180,185,221-231,234,236-245,250,253-254,256,258-318,346
+frontend/src/screens/agentusage.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-146
+backend/internal/compose/agentgateauto.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 81,85
+backend/internal/compose/attention/lanessilence.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 54-56
+frontend/src/screens/contactarchived.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12
+backend/internal/modules/activities/disposition.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 268,274-281,298-303,319,336-346,354-355,400,406,441,457-458
+  s_de1318c6b9e349::t_d936e3704e8420 459
+backend/internal/modules/contacts/dedupe_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 95-96
+backend/internal/modules/approvals/volumerelease_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12,25,35-36,66,76-78,82-83,95,102-105,132,148,170,184,243-260
+  s_de1318c6b9e349::t_71f6d3362c499e 261
+frontend/src/screens/dealstatus.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7,26,404-405,424-428,431-433,437-464
+  s_de1318c6b9e349::t_22a6b91627a8b2 465
+frontend/src/screens/brief.plan.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+frontend/src/screens/searchpanels.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-54
+frontend/src/screens/dealstatus.setaside.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-94
+backend/internal/modules/migration/testrun.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16,94-113
+backend/internal/modules/knowledge/handbook/contracts-and-invoices.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 121
+frontend/src/screens/capture-exclusions.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 34-37
+backend/internal/compose/integration/installation_settings_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 101-102,109,111,113-114,122-123,134-135,240-241,243,246,421-422
+backend/internal/modules/identity/handlers_agentusage.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-87
+frontend/src/screens/leads.contactoffers.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10-11
+frontend/src/components/listquery.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-179
+frontend/src/screens/companycontacts/contacts.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11-17
+frontend/src/screens/filterlistedit.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-12
+frontend/src/components/assigneepicker.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-77
+backend/internal/modules/agents/summarycopy.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 32-33,55,144,154,171,194,196
+frontend/src/screens/backfill.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 213
+backend/gates/worklistreasonkinds_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 22-24,32,48-117
+  s_de1318c6b9e349::t_9c515b6fa06837 118
+frontend/src/screens/listlibrary.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 38-42
+backend/internal/compose/onboardingsitereadtransport.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 24,108-109
+frontend/src/screens/settings-audit.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+scripts/refresh-integration-test-timing.sh
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-52
+frontend/src/screens/roles-settings.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1,3-28,34-88
+  s_de1318c6b9e349::t_3353890539fa94 89
+frontend/src/app/rail.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 171,173,199
+frontend/src/design-system/trust.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 3,178-194
+frontend/src/screens/filterbuilder.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11,19-20
+backend/internal/modules/agents/commandnested.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 23-25,39,42
+scripts/fe-file-length-waivers.txt
+  s_de1318c6b9e349::t_a3a89e670ea2b4 32,34-36,46-48,52,55,78-80,96
+backend/internal/modules/identity/settingsentry.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 58-59,66-67,201
+frontend/src/screens/companyfactrow.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 94
+frontend/src/screens/logactivity.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+backend/internal/platform/agentvolume/doc.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5-6,8-13,15-18,20-22,24-28,30-32
+frontend/src/app/filterstrail.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+frontend/src/screens/installationcompany.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7,9-13,54-69
+  s_de1318c6b9e349::t_05a72107410f56 70-71
+backend/internal/compose/attention/lanes.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 256
+frontend/src/components/listquery.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-1319
+frontend/src/i18n/record-noun.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 164-167,351
+frontend/src/screens/companycontextfacts.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-122
+frontend/src/components/edit.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-378
+frontend/src/screens/capture-senders.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+backend/gates/rbacgate_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 72-73
+frontend/src/screens/relationships.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9
+frontend/src/components/listquery.address.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-146
+frontend/src/screens/worklist.row.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 101
+backend/internal/compose/agentcommand_createpatch_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 59-61,64-65,67,69-70,127-128,130-131,133,136-139
+frontend/src/screens/roles-drawer.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-158
+backend/internal/modules/approvals/decisioneffect.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 61-62,82,110,114,119,123,153-159,166-170,173-174,187-204
+  s_de1318c6b9e349::t_6706085d650657 205-206
+backend/gates/companyreaders_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 149,164
+frontend/src/screens/installation-settings.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 134,144,162-165,168-184,267-268,270,297,301,320-322,328,334,350-351,397-401,407-409,412,417
+frontend/e2e/mockapi/insight.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17-31,72-78
+backend/gates/tableownerregistry_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 214,548-549
+backend/internal/compose/server.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 120-123,325-326,333
+backend/internal/modules/knowledge/handbook/your-day.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 79-84,300-302
+  s_de1318c6b9e349::t_bef9cc5c70b573 303
+backend/internal/platform/mailcopy/catalogweekly.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 44
+backend/internal/compose/integration/agentcommandoperand_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16-17,97-98,102-103,105-106,108-109,111-115,138-140,146-147
+frontend/src/screens/customfields.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 36-39
+backend/internal/modules/agents/volume.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 92,94-96,98-99,103,216-217,219-223,234-235,246
+frontend/src/lib/recordwritekeys.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-87
+frontend/src/screens/filtereditor.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14-15
+frontend/src/screens/ai-task-sheet.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8
+backend/internal/compose/connectors_imap.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 150-152
+backend/internal/compose/csvcorefields_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 23
+frontend/src/screens/agentallowances.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-350
+backend/internal/platform/agentvolume/meter.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 39,45-51,77-78,94-95,119,148-150,200-203,210-211,227-245,265-267,285,287,290,292-293,306,308,310,312-315,325-326,328,330,332-333,335,337,339-340
+frontend/src/screens/analytics.questions.vocab.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16
+frontend/src/screens/companyfactrow.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 52,59,109,130,142,148,176
+frontend/src/screens/importmapping.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13,21,200-201,241,252,254
+frontend/src/format/now.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 55-62
+frontend/src/screens/settings-passports.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12,15-17,27,110-134
+frontend/src/screens/companyhealthreason.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 35
+backend/tools/gen-agentpolicy/vocabulary.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 184
+backend/internal/compose/csvimportprogresswire.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-139
+frontend/src/screens/listsharing.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-11
+  s_de1318c6b9e349::t_e572b29c4c82c2 6
+backend/internal/compose/csvowners.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 96-97
+frontend/src/screens/company-context.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 19,468-472,474-476,490-492,536-579,718-723,726-729,749,751-753,755-757,798-802,815,820-938
+backend/internal/compose/agentgate_pin_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 205,212
+frontend/src/design-system/decisioncard.content.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,186-196
+backend/internal/platform/httperr/emptylists.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-55
+backend/internal/compose/integration/agentaccess/oauth_surface_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 48-59,63-64,66,97-100,104-109
+frontend/src/components/bulkverbs.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-214
+docs/how-to/run-import-jobs.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 105-137
+frontend/src/screens/partnercommissions.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+frontend/src/components/create.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-854
+frontend/src/design-system/stylesheetnamespace.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 37,43,50-53
+backend/internal/modules/identity/agentusage_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-70
+frontend/src/screens/settingsstories.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 91
+backend/internal/modules/agents/meetingplanresult.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 105-107
+backend/internal/compose/agentidempotency.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 110-111
+frontend/src/app/queryclient.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8
+backend/internal/modules/migration/engine_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 71,336,385,565,581
+frontend/src/components/bulkwords.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-268
+frontend/src/screens/importrun.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 50-52,56-58,60,62-64,66-68,72-74,86-87,104-105,119,128-131
+frontend/src/screens/import.result.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14,22,95,112-116,239-243
+backend/internal/modules/search/store.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 215
+backend/internal/compose/attentionseam.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 133,137-139,146-150,264
+frontend/src/screens/noticecases.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7
+backend/internal/modules/agents/tools_context.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16-19,190-192
+frontend/src/screens/deal360/dealbrief.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7
+frontend/src/screens/filterview.reload.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7
+frontend/src/design-system/composed.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 24,616,714
+frontend/src/screens/settings-passports.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 28,30,35,60-61,71-86,108-110,117-128,151-153,161-164,223
+backend/migrations/schema_fitness_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 216
+backend/internal/compose/csvwriters.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 115-116,182,191,195,202,214-215,228,267-270,312,320,325,328,410,413,429,446,449
+backend/internal/compose/csvimportsavedmappingwire_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-20
+extensions/de/documents/de/verarbeitungsverzeichnis-und-dsfa.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6,15-16,18,31,35,38,63-64,69,73
+frontend/src/screens/filterresults.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+backend/internal/compose/attention/failedlane_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 123-157
+docs/reference/mcp-protocol.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 94-96,98-100,107-115
+  s_de1318c6b9e349::t_9587a30087bcdf 116
+backend/internal/modules/activities/worklistdone.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-242
+backend/internal/modules/knowledge/handbook/documents-and-files.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16,25,34,75-77
+frontend/src/format/rbacobjects.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-173
+frontend/src/screens/historyfields.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 26
+backend/internal/compose/attention/batches.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 21-22,340,345-347,366-368
+frontend/src/screens/companycontextfacts.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-38
+frontend/src/screens/companytoday.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6,33-34,286
+frontend/src/screens/companyactions.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+frontend/src/screens/grantmatrix.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7,52-53,64-70,85,95,125-147,152-203
+  s_de1318c6b9e349::t_2007b7e892b825 204-205
+frontend/src/screens/integrations-provider.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 33
+frontend/src/app/nav.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 93
+backend/internal/compose/csvbinding_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 32-33,35-36,38-39,41-42,44
+docs/reference/make-targets.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 54,73,147,172-173,287
+frontend/src/screens/historyreversalrow.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+frontend/src/screens/listrules.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9-10
+frontend/src/screens/recordlists.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 26-29,31
+docs/reference/mcp-tool-coverage.json
+  s_de1318c6b9e349::t_a3a89e670ea2b4 2293-2294,2297-2298,2301-2305,2311-2312,2317-2319,2325-2326,2329-2332,2335,2341-2342,2347-2349
+backend/internal/compose/csvcells_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 45-48,79
+backend/internal/compose/csvpredict.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 83-85,91,97-98,104,107,132,135,138,142,145,149,152,156,159,162,164,174,177,181,184,187,189
+docs/reference/modules.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 31,36,61
+frontend/src/components/createrows.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-81
+backend/internal/compose/attention/feedoptions.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 171-177
+frontend/src/app/topbar.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16
+frontend/src/screens/agentallowances.fixtures.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-34
+frontend/src/screens/filterview.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-8
+frontend/src/screens/rates.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 57-58,110-111,160-164,167-194
+frontend/src/components/bulktag.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-57
+backend/internal/modules/knowledge/handbook/capture.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 89-100
+frontend/src/design-system/datatable.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9,13-14,140-146,172,174,176-180,200-205,222,233-267
+  s_de1318c6b9e349::t_373901a880f535 268
+docs/handbook/analytics.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6,16
+frontend/src/lib/aicaches.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1,4,18-21,42-43,69-74,80,97
+backend/internal/modules/identity/agentusage.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-90
+frontend/src/screens/entityref.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13
+backend/cmd/api/main.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 136
+frontend/src/screens/users-admin.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20
+backend/migrations/core/1791987453_a_reader_can_mark_any_worklist_row_done.down.sql
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-3
+backend/gates/uniquenessclaimsdetector_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 115
+frontend/src/screens/analytics.questions.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7
+frontend/src/screens/worklist.bulkdone.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4,6-8,72-80,319-388,390
+  s_de1318c6b9e349::t_073d53fb16c9ce 389,391
+frontend/src/screens/audiencemembers.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16
+frontend/src/screens/companymark.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10-11,22-23,29-38,44-51,55,61,64-65,71-77,79,81,84-121,124,132-144,146-160,163-174
+frontend/src/screens/roles-detail.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,12-14,25,28-64,67,70-71,73,75,77,79-84,87-111
+scripts/test-integration-parallel.sh
+  s_de1318c6b9e349::t_a3a89e670ea2b4 33,154-174,180-189,221,249,410-414,502,595-598,831
+backend/internal/modules/search/employerarm_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 25,39,41-42
+docs/reference/ui-copy-style-de.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-12,25-28,30-32,69-78,88-89,92-94,108,111,113-115,118,125-145,162-172,174,203-211,219-221,225,227-228,230-252,275,279,288,294-297,299-300,303,307,314-332,367-368,377,389-400
+frontend/src/screens/contractcustomfields.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14-18
+frontend/src/screens/filtersentence.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9-10
+backend/internal/compose/agentallowances_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-41
+backend/internal/modules/agents/commandaction_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7,28-29
+backend/internal/compose/integration/loggedcolleague_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 19,21,25,27,136-225,227-228
+  s_de1318c6b9e349::t_726bab89d880f9 226
+backend/internal/compose/integration/reportevidence_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 301-303
+backend/internal/modules/consent/suppress.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 86-90
+frontend/src/screens/listexplain.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12-19
+backend/internal/modules/approvals/inbox.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 72-73,80,88,345
+backend/internal/compose/integration/csvimportbyid_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 230
+backend/internal/compose/csvcontactwriter.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 48,63
+frontend/src/screens/leads.list.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-17,29
+backend/internal/compose/dealstatus/move.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 30,67-75,286-289
+frontend/src/App.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 25,243,245,489
+frontend/src/screens/leads.qualify.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,15
+frontend/src/design-system/settingrow.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 250-294,304-315
+  s_de1318c6b9e349::t_33a2d4dff23b09 316
+frontend/src/components/recordfieldvalues.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-171
+frontend/src/screens/contacttabs.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 27
+backend/internal/compose/csvlinks.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 41,86,88-89,170,178,238
+backend/internal/compose/attention/briefdedupe_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13-14,83-136
+  s_de1318c6b9e349::t_fe36cbbc808e26 137
+frontend/src/screens/own-domains.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 35-36
+backend/migrations/core/1791987509_a_failed_approval_can_be_acknowledged.up.sql
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-11
+frontend/src/screens/companyrail.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,176-192
+  s_de1318c6b9e349::t_2c0a94dabbc028 193
+frontend/src/screens/contactfacts.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+frontend/src/screens/filterpropose.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-8
+frontend/src/screens/importmapping.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14,66,68-69,87
+frontend/src/design-system/trust.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 60
+frontend/src/screens/listactions.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 21-27
+frontend/src/screens/customfields.retire.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13
+frontend/src/screens/filtermatches.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7-8
+frontend/src/screens/knowledge.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17,252
+backend/internal/compose/worklistdone_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-113
+frontend/src/screens/agentallowances.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-476
+frontend/src/screens/companygrowthfit.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 99,107
+backend/migrations/core/1791987600_pending_read_step_ups_close.down.sql
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-3
+backend/internal/compose/agentallowancesource.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-67
+frontend/src/components/bulkwords.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-92
+backend/internal/compose/installationname.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-25
+frontend/src/screens/signaturetemplatecard.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-62
+frontend/src/screens/contactpage.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7
+backend/internal/compose/integration/csvimportjobs_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 203-206
+backend/gates/composerowscope_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 793,879
+docs/explanation/frontend-architecture.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 59-60,80-81,94-98,142,409
+frontend/src/i18n/en.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1137,2383,2544-2545,2735-2741,3874-3875,4725-4727,5937,6030-6037,6119-6145,6183-6297,9035,9839-9904,9910,10084-10090,10094,10102-10108,10134,10387,10390,10393,10874-10932,12744-12745,12996,13142-13144,14126-14129
+frontend/src/screens/listchanges.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6-7
+frontend/src/screens/employmentpages.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4
+frontend/src/lib/tags.queries.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-158
+backend/internal/compose/agentallowances_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-278
+frontend/src/screens/leadhistory.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 22
+frontend/src/screens/tagpicker.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6,15-16
+docs/reference/entity-model/activities.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,1023-1047
+  s_de1318c6b9e349::t_8bc54edfd06722 1048
+frontend/src/i18n/copy-style-vi.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 97
+backend/internal/platform/auth/volume.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13-14,61-62,78,80,84-85,88-89,134-140
+frontend/src/screens/companymark.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,11-12,14,16-21,55-58,68-70,73-75,80,82,90,96,98,106,109-137,165-171,177-183,186-222,227,229,233,238,240,244,247-259,261-262,266-289,291-294,296,298-301,311-314,330,335,339,342
+backend/gates/summarytiermarks_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 67-71
+frontend/src/screens/tagpicker.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 19
+backend/internal/compose/approvalsummarycopy.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 145,148,158-159
+frontend/e2e/booking-flows.spec.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 367
+frontend/src/screens/filtervalue.records.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16
+frontend/src/screens/worklist.donequeries.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-66
+backend/internal/platform/agentvolume/proposal_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10,23,25,27,39,79,92-93,97,107,114,118-119,127,140,187,204-239
+frontend/src/screens/importreason.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-67
+backend/internal/compose/dealstatus/service.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 178
+frontend/src/design-system/panelhead.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 20,438-468
+  s_de1318c6b9e349::t_623df79f2a048c 469-470
+frontend/src/screens/worklist.reasoncensus.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10-12,56-61,69-84
+  s_de1318c6b9e349::t_f12d52bd2c2c88 85
+backend/Makefile
+  s_de1318c6b9e349::t_a3a89e670ea2b4 114,141-149,155-156,166-167
+  s_de1318c6b9e349::t_38d02a5704a244 168
+backend/migrations/core/1791977856_a_reader_can_set_a_deal_move_aside.down.sql
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-5
+frontend/src/screens/recordaccess.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 32
+frontend/src/screens/factview.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 219-221
+frontend/src/screens/filterresults.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 25-26
+backend/internal/compose/integration/agentcommandtarget_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8,10-12
+backend/internal/modules/activities/colleagueseats.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-57
+frontend/src/screens/signaturetemplatecard.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11,56-57,71,97-109
+scripts/test-budget-waivers.txt
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-8
+backend/internal/modules/agents/taskexecute.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 185-186,192-200,202-204,207-210,283-285
+frontend/src/screens/voice-dna.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+frontend/src/api/public-events.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14,1126,1792-1801,1855
+frontend/src/components/recordfieldvalues.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-52
+backend/internal/modules/approvals/handlers.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 179-191
+backend/internal/modules/agents/idempotency_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14,245-246,277-278
+frontend/src/screens/import.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 21,30,193-195,197,208-213,251-258,282-301,310-311
+backend/internal/platform/auth/admitvolume_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 58-62,71-72,142-145,156,166,190,210,239,247-250,257,282-286,293-294,308
+frontend/e2e/projects.spec.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 46,178
+extensions/de/documents.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 31
+frontend/src/design-system/datatable.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 68,70,74,76-79,97-102,114,235-238,241-244
+frontend/src/app/notificationbell.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 658
+frontend/src/screens/companyreading.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+backend/internal/modules/contacts/contact.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 181
+frontend/src/screens/followupsettings.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6,12,61-62,68
+frontend/src/testing/screenfiles.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 9-11
+frontend/src/screens/leadpresentation.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 27-29
+frontend/src/design-system/datatable.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 620
+backend/internal/compose/agentsummary_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 63-64
+backend/internal/modules/search/employerarm.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 32-38,45,78-80,93-94,96,98-100,104,106-163
+backend/internal/modules/migration/reasoncatalog.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-415
+frontend/src/screens/agentallowances.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-82
+frontend/src/screens/filtersentence.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 23,30
+frontend/src/screens/onboarding-conversation/use-company-confirm.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-9,156
+frontend/src/screens/dealsuggestion.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13
+frontend/src/screens/dealcompanymarks.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 89
+backend/internal/compose/integration/agentcallceiling_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-270
+backend/internal/modules/contacts/anchorname_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-44
+frontend/src/design-system/disclosure.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-260
+backend/internal/compose/integration/searchnameandemployer_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-181
+frontend/src/screens/filterpropose.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 31-33
+backend/internal/modules/identity/handlers.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 143-145
+frontend/src/screens/project360.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-13
+backend/internal/modules/agents/volumerelease_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 60-63,65-66,68,71,83,86,140,142,157-158,161,177-178,181,196,199,203,206,220,222,226,229,244,271
+backend/migrations/core/1791994619_the_installation_carries_its_companys_name.up.sql
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-33
+frontend/src/screens/offertemplates.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 4-12
+backend/gates/uniquenessclaims_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 88,98-107,112,115,121-122
+backend/internal/compose/attention/classify.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 19,69-74,150,272,305-312
+  s_de1318c6b9e349::t_b1a6004908386c 313
+frontend/src/design-system/emailtext.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 3,19-22,24
+frontend/src/screens/settings.stageverbs.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12-13
+backend/gates/moduleaudits_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 93
+frontend/src/screens/evidenceverdict.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 117,145,170,195,213,242,275,305,331,364,384,397,415
+backend/internal/compose/agenttierfloor_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 45,122,205-207,209-210,212-221,223-225,228-231
+frontend/src/screens/companies.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16
+frontend/src/screens/filterbuilder.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 23,33-35
+backend/migrations/core/1791987453_a_reader_can_mark_any_worklist_row_done.up.sql
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-31
+frontend/src/screens/filterpage.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12,17-18
+frontend/src/screens/installation-settings.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,21,325-326,328-329
+frontend/src/screens/companycontextfacts.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-254
+frontend/src/screens/filterpage.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10
+frontend/src/screens/tagadmin.queries.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 10
+backend/internal/compose/integration/approvalqueue_mcp_integration_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 445-446
+docs/reference/entity-model/compose.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5,589-614
+  s_de1318c6b9e349::t_fd7abf612f344c 615
+backend/internal/modules/migration/undo_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 46,49-52,55-57
+frontend/src/screens/worklist.swipe.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 387-389
+backend/internal/modules/agents/tools_list.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 24-25
+frontend/e2e/mailboxprivacy.spec.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 114-116,140-142
+frontend/src/screens/ai-binding-editor.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7
+frontend/src/screens/claim-list-key-coverage.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 32-35
+frontend/src/screens/claimrecord.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+backend/internal/compose/csvimportreportwire.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 114-115,119-121,216,276-283,343-351,364,366-369,412-413
+backend/internal/modules/migration/undo.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 69-70,110-111,130-133,136,138,140,142
+frontend/src/app/testing/recordshell.testkit.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 2,4-6
+frontend/src/screens/analytics.questions.builder.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 14
+frontend/src/screens/filtermoney.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 19-23
+frontend/src/lib/undoableremoval.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-73
+frontend/src/screens/worklist.bulkdone.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5-8,11,14,18,20-23,31-32,41-47,129-167,181,185-187,193,205-218
+backend/gates/docsplainwords_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 246,252
+frontend/src/screens/users-access.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5-9
+frontend/src/screens/projects.form.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 5
+backend/internal/compose/csvgrants.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 36,51,53,56,62,68,74,76-77,80,82-83,102-103,125,189,191-193
+backend/gates/gatecensus_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 57
+backend/internal/compose/attention/handlers.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7,222-249
+backend/gates/marketingquestion_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 24-25
+backend/internal/platform/agentvolume/usage_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-37
+frontend/src/screens/worklist.dispositions.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 24,107,141-177,191,200,428,432-436
+frontend/src/screens/import.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 59,61-66,100,103
+.github/workflows/ci.yml
+  s_de1318c6b9e349::t_a3a89e670ea2b4 455-466,488-539,1205-1209,1211,1213-1216,1255,1357
+docs/how-to/add-an-rbac-object.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 155-163,176-177,210-211
+backend/migrations/core/1791987600_pending_read_step_ups_close.up.sql
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-12
+backend/gates/patterncache_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-26
+docs/handbook/compliance.md
+  s_de1318c6b9e349::t_a3a89e670ea2b4 16,30
+backend/internal/compose/dealstatus/movedismissal.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-233
+frontend/src/screens/filterview.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11
+frontend/src/screens/companyfactspanel.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 126
+backend/internal/modules/agents/idempotency.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 85,333,337-338,348-349,373-386,389-392
+backend/internal/compose/attention/done.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-207
+frontend/src/screens/listmembers.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 26-32
+frontend/src/screens/listsettings.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12
+frontend/src/app/queryclient.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8
+frontend/src/screens/leadband.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 12
+backend/internal/modules/contacts/store.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 82-84
+backend/internal/modules/approvals/failureack.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-130
+frontend/src/design-system/emailtext.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 25-34,36-42,45-46
+backend/internal/compose/csvemployer.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 67-69,84,92,94,100,102-103,218-222,229,238-242,249,256,262,265,267,323,330,336-337,339-340,342,345-346
+backend/cmd/api/boot.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 338-344
+backend/internal/compose/attention/briefdedupe.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 101-103,116-121,123
+backend/internal/compose/importproblems.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 21,25-33,40,59-60,63-80,92,94,99
+backend/internal/compose/approvalsummarycopyagent.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 37,44-45,53,57,61,67,70,77-80,129-132
+frontend/src/components/pageaside.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-239
+frontend/src/screens/filterdraft.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 13-17
+  s_de1318c6b9e349::t_4be42abf3be553 12
+frontend/src/components/bulkchangeapi.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-77
+frontend/src/screens/search.activitypanel.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-204
+frontend/src/screens/import.testkit.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 40,58,152-167,169,176-179,193-201,204,213-224,229,243-252
+frontend/src/screens/savedviews.manage.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 17
+backend/internal/modules/migration/reasoncode_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-95
+frontend/src/components/unsaved.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-259
+frontend/src/screens/import.testrun.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 11,22,75,78-86,93,122,141,168,241,248,251-254,269,323,327,329-342,344-345,353-355,366,477,479,490
+frontend/src/components/bulktag.stories.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-42
+backend/internal/modules/agents/anchorrename_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-62
+frontend/src/screens/settings-audit.test.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 6
+frontend/src/design-system/fold.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-162
+scripts/contract-breaking-allowlist.txt
+  s_de1318c6b9e349::t_a3a89e670ea2b4 49
+frontend/src/screens/privacy.requests.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 8-14
+frontend/src/screens/settings.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 24-25,170-171,176,301-303,305-306
+backend/internal/modules/migration/walk.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 147
+frontend/src/components/create.keepunsubmitted.test.ts
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-53
+backend/internal/modules/webhooks/handlers.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 56
+frontend/src/components/listquery.css
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-8
+frontend/src/screens/import.progress.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-244
+backend/internal/compose/agentcommandnested_test.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 194-195
+backend/internal/contracts/publicevents_gen.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 491,636-637,1001,1054-1062,2647-2652,3183
+backend/internal/modules/agents/testdata/outputshapes.json
+  s_de1318c6b9e349::t_a3a89e670ea2b4 7668-7673,7677-7679,7706-7711,7715-7717,7820-7822,8981-8986,9050-9055,9059-9061,9088-9093,9097-9099,9202-9204
+frontend/src/components/bulkshortlist.tsx
+  s_de1318c6b9e349::t_a3a89e670ea2b4 1-55
+backend/internal/modules/agents/registry.go
+  s_de1318c6b9e349::t_a3a89e670ea2b4 274-277,343
+backend/internal/contracts/api_gen.go
+  s_de1318c6b9e349::t_bb5b5a831d25fd 640-660,10468-10665,10684-10734,19150-19167,19668,19742-19743,21673-21690,21712-21732,22854-22856,23133-23184,23239-23251,23402-23456,26185-26189,30742-30747,34898-34903,35165-35169,37219-37221,37236-37238,37242-37244,37268-37270,37274-37282,37284-37294,37336-37341,37344-37350,37358-37360,37384-37386,37444-37446,37478-37499,37688-37690,37750-37752,37756-37758,37873-37882,37959-37961,41835-41840,48217-48222,48226-48234,48308-48311,50502-50507,50574-50580,50590-50592,50714-50719,50911-50913,51296,51305,52325-52330,53422-53427,53944-53952,54645-54650,54892-54893,54906-54908,54951-54959,57955-57957,58294-58296,58801-58806,69475-69477,69700-69702,70150-70152,70357-70359,70420,70423,70429,70432,70579-70584,70761,71772,71833-71838,72142-72147,72592-72597,73492-73497,73906-73911,74032,74038,74050,74056,74350-74361,74712,76734,76858-76869,78834-78853,82184-82215,88418-88465,91106-91166,94979-95058,96884-96896,97177-97192,97194,111575,112303-112342,112855-112857,113080-113082,113530-113532,113737-113739,113959-113964,115213-115218
+frontend/src/api/schema.d.ts
+  s_de1318c6b9e349::t_9782ebe4c9da00 1169-1176,1767-1773,2512-2514,2518-2523,8335-8336,8369,9262-9263,10711-10768,12055-12078,12768-12803,13646,13648-13649,13680,13729,13732-13733,13764,13771-13772,18208-18241,19321-19325,19874-19878,20366-20370,20462,20492-20497,20617-20629,21616-21667,24061-24065,24220-24224,24303-24307,24436,24486-24538,24546-24549,27665-27668,28629-28635,32106-32107,32417-32420,38243,38246,38473,42202-42229,42231-42264,43879-43885,45371-45376,45401-45403,45406-45413,45747,45750,46296,48274-48303,49337,50108-50135,60581,63675-63726,64981-65011,65783-65826,66730,66892,66948,68017,68057,73643-73699,74983,75243-75246
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "81ff305748f6cd383366ffe700cd2606c53ffdfd",
+  "prompts": {},
+  "sessions": {
+    "s_de1318c6b9e349": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8d9a3641-2908-46e0-aa6e-f58a57823e52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
