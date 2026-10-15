@@ -1,0 +1,19 @@
+scripts/comment-density-baseline.txt
+  s_de1318c6b9e349::t_59d336d44d5eae 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5a491d567dc940f4b5a3849f23ebbffd27630785",
+  "prompts": {},
+  "sessions": {
+    "s_de1318c6b9e349": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8d9a3641-2908-46e0-aa6e-f58a57823e52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
