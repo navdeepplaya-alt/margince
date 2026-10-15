@@ -1,0 +1,19 @@
+frontend/src/screens/settings.tsx
+  s_c9ebb7b3eb7d86::t_bd6c206e97e277 672-675
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a82cd64bae10e54d89ef4d5a77c2794b086b9dbb",
+  "prompts": {},
+  "sessions": {
+    "s_c9ebb7b3eb7d86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "103fbd25-d34c-4146-a838-2793b19808b8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
