@@ -1,0 +1,49 @@
+frontend/src/App.tsx
+  s_b2571b9d3b5f3f::t_4f5b926c60c493 57,825,837-843
+frontend/src/design-system/clipboardcopy.tsx
+  s_45aa16da8111f4::t_97cfd7f679053a 4,117-123,127
+frontend/src/i18n/de.ts
+  s_45aa16da8111f4::t_42c8c25d5ed5e6 10549
+frontend/src/lib/session.ts
+  s_45aa16da8111f4::t_b28e89643de74a 171-172,177
+frontend/src/screens/confinement.tsx
+  s_45aa16da8111f4::t_505bca34a5156e 1-67
+frontend/src/screens/forcedmfa.test.tsx
+  s_b2571b9d3b5f3f::t_33519724f007dc 77-81
+frontend/src/screens/mfasetup.tsx
+  s_45aa16da8111f4::t_e6f81f03aea6ec 5,9,75,81,87,113,116,126,168-171
+frontend/src/screens/settingscatalog.ts
+  s_45aa16da8111f4::t_4ce2645c93e998 357-358
+frontend/src/screens/sign-in-methods.stories.tsx
+  s_45aa16da8111f4::t_7ccf8d0eb26f9e 154
+frontend/src/screens/sign-in-methods.test.tsx
+  s_45aa16da8111f4::t_295ae2e455af49 180-181,222
+scripts/fe-file-length-waivers.txt
+  s_45aa16da8111f4::t_a821143ba146df 18
+frontend/src/App.test.tsx
+  s_45aa16da8111f4::t_1327e91393755b 2-6,294-306,832-956
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3a0b05aebb6b44cfac8a6ef79ad53d00854b1e46",
+  "prompts": {},
+  "sessions": {
+    "s_45aa16da8111f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b66263c-5a43-452f-8624-833bced98e94",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    },
+    "s_b2571b9d3b5f3f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b76c213a-7b96-4c3d-a776-0d2a61bbfbf0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
