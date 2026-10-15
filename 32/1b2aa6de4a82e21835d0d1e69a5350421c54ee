@@ -1,0 +1,19 @@
+scripts/test-budget-waivers.txt
+  s_f2e7bea2cca118::t_beada3b26ed60f 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "321b2aa6de4a82e21835d0d1e69a5350421c54ee",
+  "prompts": {},
+  "sessions": {
+    "s_f2e7bea2cca118": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "87c1b377-7206-4dd2-94ba-87b0fd6e6b70",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
