@@ -1,0 +1,25 @@
+backend/internal/compose/csvpredictinfile.go
+  s_c199c93dee6b3a::t_2ad2da18260d48 120-121,146,148
+backend/internal/compose/integration/csvimportinfile_integration_test.go
+  s_c199c93dee6b3a::t_d794922da99775 553-567
+backend/internal/modules/contacts/dedupebatch.go
+  s_c199c93dee6b3a::t_428f9b92500ed0 22-24,26-27,29-31,45-50,52-65,71,190-192,198,201-216,219-221,246-247
+backend/internal/modules/contacts/dedupebatch_test.go
+  s_c199c93dee6b3a::t_c57c44ed63469a 10,41,52-75,78-79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "02e95f627429d52a3cf25889ca43b286c5575a70",
+  "prompts": {},
+  "sessions": {
+    "s_c199c93dee6b3a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b03a13a3-2e3d-4667-a8a4-3735730f4274",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nav <navdeep.playa@gradion.com>"
+    }
+  }
+}
